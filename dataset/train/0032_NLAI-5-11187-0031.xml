@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:45.182+03:30</Created>
+        <LastChange>2026-06-21T21:50:32.439+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0032_NLAI-5-11187-0031.jpg" imageWidth="587" imageHeight="1071">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782066032501" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782064889309_1436" />
+                <RegionRefIndexed index="1" regionRef="region_1782064970165_1447" />
+                <RegionRefIndexed index="2" regionRef="region_1782065076596_1458" />
+                <RegionRefIndexed index="3" regionRef="region_1782065286970_1469" />
+                <RegionRefIndexed index="4" regionRef="region_1782065559004_1484" />
+                <RegionRefIndexed index="5" regionRef="region_1782065783580_1511" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782064889309_1436" custom="readingOrder {index:0;}">
+            <Coords points="294,289 485,289 485,385 294,385" />
+            <TextLine id="line_1782064893981_1439" custom="readingOrder {index:0;}">
+                <Coords points="294,289 484,289 484,337 294,337" /><Baseline points="294,319 484,319" />
+                <TextEquiv>
+                    <Unicode>خلوص الود من العهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782064931373_1443" custom="readingOrder {index:1;}">
+                <Coords points="293,336 486,336 486,385 293,385" /><Baseline points="293,366 486,366" />
+                <TextEquiv>
+                    <Unicode>خالص بودن دوستی از حسن عهداست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خلوص الود من العهد
+خالص بودن دوستی از حسن عهداست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782064970165_1447" custom="readingOrder {index:1;}">
+            <Coords points="220,385 551,385 551,506 220,506" />
+            <TextLine id="line_1782064981135_1450" custom="readingOrder {index:0;}">
+                <Coords points="220,384 551,384 551,449 220,449" /><Baseline points="220,424 551,424" />
+                <TextEquiv>
+                    <Unicode>خیمه دوستی از آن برپاست که زعهدش کنند محکم میخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782065031137_1454" custom="readingOrder {index:1;}">
+                <Coords points="220,448 552,448 552,507 220,507" /><Baseline points="220,485 552,485" />
+                <TextEquiv>
+                    <Unicode>خواهی ار دوستی بود خالص از نکوعهدیش قوی کن بیخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خیمه دوستی از آن برپاست که زعهدش کنند محکم میخ
+خواهی ار دوستی بود خالص از نکوعهدیش قوی کن بیخ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782065076596_1458" custom="readingOrder {index:2;}">
+            <Coords points="292,506 483,506 483,617 292,617" />
+            <TextLine id="line_1782065081392_1461" custom="readingOrder {index:0;}">
+                <Coords points="293,507 481,507 481,565 293,565" /><Baseline points="293,543 481,543" />
+                <TextEquiv>
+                    <Unicode>خابت صفقه من باع الدین بالدنیا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782065205733_1465" custom="readingOrder {index:1;}">
+                <Coords points="292,563 483,563 484,615 293,615" /><Baseline points="292,595 484,595" />
+                <TextEquiv>
+                    <Unicode>زیاد شد سرمایه آن که فروخت دین را بدنیا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خابت صفقه من باع الدین بالدنیا
+زیاد شد سرمایه آن که فروخت دین را بدنیا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782065286970_1469" custom="readingOrder {index:3;}">
+            <Coords points="221,614 552,618 553,740 221,735" />
+            <TextLine id="line_1782065309268_1473" custom="readingOrder {index:0;}">
+                <Coords points="220,614 553,614 553,681 220,681" /><Baseline points="220,656 553,656" />
+                <TextEquiv>
+                    <Unicode>خواجه دنیا بدین کزید مگر بوده در بیت طالعش مریخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782065405386_1477" custom="readingOrder {index:1;}">
+                <Coords points="220,680 553,680 553,739 222,736" /><Baseline points="220,717 553,717" />
+                <TextEquiv>
+                    <Unicode>خوردش دوست غم زبهر زیان خندوش دشمن از ره تو بیخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خواجه دنیا بدین کزید مگر بوده در بیت طالعش مریخ
+خوردش دوست غم زبهر زیان خندوش دشمن از ره تو بیخ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782065559004_1484" custom="readingOrder {index:4;}">
+            <Coords points="291,738 481,738 482,842 292,842" />
+            <TextLine id="line_1782065574397_1487" custom="readingOrder {index:0;}">
+                <Coords points="293,738 482,739 480,790 291,789" /><Baseline points="291,770 482,770" />
+                <TextEquiv>
+                    <Unicode>خیر الماس ماانفق فی سبیل الله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782065679093_1499" custom="readingOrder {index:1;}">
+                <Coords points="291,790 482,790 482,841 291,841" /><Baseline points="291,822 482,822" />
+                <TextEquiv>
+                    <Unicode>بهترین مال آن است که انفاق شود در راه خدا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خیر الماس ماانفق فی سبیل الله
+بهترین مال آن است که انفاق شود در راه خدا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782065783580_1511" custom="readingOrder {index:5;}">
+            <Coords points="222,843 557,843 557,955 222,955" />
+            <TextLine id="line_1782065795878_1514" custom="readingOrder {index:0;}">
+                <Coords points="223,843 556,843 556,903 223,903" /><Baseline points="223,880 556,880" />
+                <TextEquiv>
+                    <Unicode>خوبی مال اندر انفاق است در ره حق شنو زمن پاسخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782065853974_1518" custom="readingOrder {index:1;}">
+                <Coords points="222,902 557,902 557,955 222,955" /><Baseline points="222,935 557,935" />
+                <TextEquiv>
+                    <Unicode>خیر کن مال کز ندم آخر نگزی لب زخود نخود خراشی رخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خوبی مال اندر انفاق است در ره حق شنو زمن پاسخ
+خیر کن مال کز ندم آخر نگزی لب زخود نخود خراشی رخ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

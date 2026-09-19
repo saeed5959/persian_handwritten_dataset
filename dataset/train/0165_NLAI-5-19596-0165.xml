@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T11:45:55.375+03:30</Created>
+        <LastChange>2026-06-25T15:41:02.916+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0165_NLAI-5-19596-0165.jpg" imageWidth="1519" imageHeight="2740">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782389462965" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782388900719_1196" />
+                <RegionRefIndexed index="1" regionRef="region_1782388889215_1193" />
+                <RegionRefIndexed index="2" regionRef="region_1782389397547_1302" />
+                <RegionRefIndexed index="3" regionRef="region_1782389277231_1272" />
+                <RegionRefIndexed index="4" regionRef="region_1782388278523_1122" />
+                <RegionRefIndexed index="5" regionRef="region_1782389341387_1287" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782388900719_1196" custom="readingOrder {index:0;}">
+            <Coords points="411,432 873,432 873,1951 411,1951" />
+            <TextLine id="line_1782388904467_1199" custom="readingOrder {index:0;}">
+                <Coords points="434,440 880,440 880,573 434,573" /><Baseline points="434,522 880,522" />
+                <Baseline points="460,502 857,505" />
+                <TextEquiv>
+                    <Unicode>کسی سر بر کند کش سر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389111131_1242" custom="readingOrder {index:1;}">
+                <Coords points="418,1389 866,1389 866,1559 418,1559" /><Baseline points="418,1494 866,1494" />
+                <Baseline points="442,1487 855,1495" />
+                <TextEquiv>
+                    <Unicode>چنین زیبنده افسر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389141444_1248" custom="readingOrder {index:2;}">
+                <Coords points="421,1565 866,1565 866,1697 421,1697" /><Baseline points="421,1647 866,1647" />
+                <Baseline points="430,1625 852,1617" />
+                <TextEquiv>
+                    <Unicode>که کل تا هفته دیگر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کسی سر بر کند کش سر نباشد
+چنین زیبنده افسر نباشد
+که کل تا هفته دیگر نباشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782388889215_1193" custom="readingOrder {index:1;}">
+            <Coords points="422,463 883,463 883,1966 422,1966" />
+            <TextLine id="line_1782388961631_1206" custom="readingOrder {index:0;}">
+                <Coords points="430,572 876,572 876,695 430,695" /><Baseline points="430,648 876,648" />
+                <Baseline points="480,634 847,630" />
+                <TextEquiv>
+                    <Unicode>که علم عشق درد قبر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782388981771_1212" custom="readingOrder {index:1;}">
+                <Coords points="423,692 866,692 866,828 423,828" /><Baseline points="423,776 866,776" />
+                <Baseline points="441,771 859,775" />
+                <TextEquiv>
+                    <Unicode>که دایم در صدف گوهر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389000291_1218" custom="readingOrder {index:2;}">
+                <Coords points="440,869 880,869 880,987 440,987" /><Baseline points="440,942 880,942" />
+                <Baseline points="457,925 854,913" />
+                <TextEquiv>
+                    <Unicode>که حسنش بسته زیور نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389031972_1224" custom="readingOrder {index:3;}">
+                <Coords points="453,1005 882,1005 882,1103 453,1103" /><Baseline points="453,1066 882,1066" />
+                <Baseline points="470,1037 853,1040" />
+                <TextEquiv>
+                    <Unicode>شرابی خور که در کوثر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389055979_1230" custom="readingOrder {index:4;}">
+                <Coords points="433,1119 880,1119 880,1231 433,1231" /><Baseline points="433,1188 880,1188" />
+                <Baseline points="452,1172 863,1182" />
+                <TextEquiv>
+                    <Unicode>که در بت خانه ی آذر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389080251_1236" custom="readingOrder {index:5;}">
+                <Coords points="443,1244 869,1244 869,1399 443,1399" /><Baseline points="443,1340 869,1340" />
+                <Baseline points="447,1329 863,1338" />
+                <TextEquiv>
+                    <Unicode>اگر چه یادش از چاکر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389184799_1256" custom="readingOrder {index:6;}">
+                <Coords points="425,1720 870,1720 870,1820 425,1820" /><Baseline points="425,1782 870,1782" />
+                <Baseline points="460,1762 851,1751" />
+                <TextEquiv>
+                    <Unicode>که با او هیچ دردسر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389231736_1266" custom="readingOrder {index:7;}">
+                <Coords points="432,1820 878,1820 878,1960 432,1960" /><Baseline points="432,1907 878,1907" />
+                <Baseline points="446,1908 864,1880" />
+                <TextEquiv>
+                    <Unicode>ببخشا برکسی کش زر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که علم عشق درد قبر نباشد
+که دایم در صدف گوهر نباشد
+که حسنش بسته زیور نباشد
+شرابی خور که در کوثر نباشد
+که در بت خانه ی آذر نباشد
+اگر چه یادش از چاکر نباشد
+که با او هیچ دردسر نباشد
+ببخشا برکسی کش زر نباشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782389397547_1302" custom="readingOrder {index:2;}">
+            <Coords points="433,2242 882,2242 882,2510 433,2510" />
+            <TextLine id="line_1782389400879_1305" custom="readingOrder {index:0;}">
+                <Coords points="429,2249 876,2249 876,2383 429,2383" /><Baseline points="429,2332 876,2332" />
+                <Baseline points="451,2314 858,2321" />
+                <TextEquiv>
+                    <Unicode>گر خرمنی بسوزد و چندین عجب نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389432476_1311" custom="readingOrder {index:1;}">
+                <Coords points="434,2389 877,2389 877,2512 434,2512" /><Baseline points="434,2465 877,2465" />
+                <Baseline points="455,2453 847,2458" />
+                <TextEquiv>
+                    <Unicode>بر شاخسار عمرش برک طرب نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گر خرمنی بسوزد و چندین عجب نباشد
+بر شاخسار عمرش برک طرب نباشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782389277231_1272" custom="readingOrder {index:3;}">
+            <Coords points="755,1958 1195,1958 1195,2246 755,2246" />
+            <TextLine id="line_1782389280516_1275" custom="readingOrder {index:0;}">
+                <Coords points="771,1969 1176,1969 1176,2099 771,2099" /><Baseline points="771,2050 1176,2050" />
+                <Baseline points="782,2040 1143,2033" />
+                <TextEquiv>
+                    <Unicode>کسی گیرد خطا بر نظم حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389309747_1281" custom="readingOrder {index:1;}">
+                <Coords points="760,2113 1173,2113 1173,2234 760,2234" /><Baseline points="760,2188 1173,2188" />
+                <Baseline points="783,2169 1129,2171" />
+                <TextEquiv>
+                    <Unicode>که هیچش لطف در گوهر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کسی گیرد خطا بر نظم حافظ
+که هیچش لطف در گوهر نباشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782388278523_1122" custom="readingOrder {index:4;}">
+            <Coords points="944,430 1413,430 1413,1940 944,1940" />
+            <TextLine id="line_1782388284763_1125" custom="readingOrder {index:0;}">
+                <Coords points="944,425 1384,425 1384,562 944,562" /><Baseline points="944,510 1384,510" />
+                <Baseline points="964,502 1396,505" />
+                <TextEquiv>
+                    <Unicode>عجب راهیست راه عشق کانجا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782388324047_1131" custom="readingOrder {index:1;}">
+                <Coords points="961,571 1398,571 1398,691 961,691" /><Baseline points="961,645 1398,645" />
+                <Baseline points="974,638 1379,622" />
+                <TextEquiv>
+                    <Unicode>بشو اوراق اگر همدرس مایی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782388345083_1137" custom="readingOrder {index:2;}">
+                <Coords points="945,694 1401,694 1401,828 945,828" /><Baseline points="945,777 1401,777" />
+                <Baseline points="949,754 1373,767" />
+                <TextEquiv>
+                    <Unicode>زمان خوش دلی دریاب دریاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782388382439_1143" custom="readingOrder {index:3;}">
+                <Coords points="955,839 1389,839 1389,979 955,979" /><Baseline points="955,926 1389,926" />
+                <Baseline points="954,908 1370,902" />
+                <TextEquiv>
+                    <Unicode>زمن منپوش دل در شاهدی بند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782388484380_1149" custom="readingOrder {index:4;}">
+                <Coords points="943,990 1398,990 1398,1108 943,1108" /><Baseline points="943,1063 1398,1063" />
+                <Baseline points="967,1043 1375,1048" />
+                <TextEquiv>
+                    <Unicode>سپا ای شیخ و از خمخانه ما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782388514576_1157" custom="readingOrder {index:5;}">
+                <Coords points="967,1128 1389,1128 1389,1229 967,1229" /><Baseline points="967,1191 1389,1191" />
+                <Baseline points="987,1200 1380,1202" />
+                <TextEquiv>
+                    <Unicode>نبا میزد بتی سیمین ثنم هست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782388660731_1163" custom="readingOrder {index:6;}">
+                <Coords points="945,1250 1397,1250 1397,1375 945,1375" /><Baseline points="945,1328 1397,1328" />
+                <Baseline points="971,1335 1375,1322" />
+                <TextEquiv>
+                    <Unicode>من جان بنده سلطان اوییم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782388700943_1169" custom="readingOrder {index:7;}">
+                <Coords points="952,1410 1394,1410 1394,1543 952,1543" /><Baseline points="952,1492 1394,1492" />
+                <Baseline points="964,1458 1372,1480" />
+                <TextEquiv>
+                    <Unicode>بتاج عالم آرایش که خورشید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782388722015_1175" custom="readingOrder {index:8;}">
+                <Coords points="961,1553 1400,1553 1400,1681 961,1681" /><Baseline points="961,1632 1400,1632" />
+                <Baseline points="971,1595 1384,1591" />
+                <TextEquiv>
+                    <Unicode>غنیمت دان و می خور در گلستان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782388742811_1181" custom="readingOrder {index:9;}">
+                <Coords points="961,1688 1401,1688 1401,1822 961,1822" /><Baseline points="961,1771 1401,1771" />
+                <Baseline points="968,1767 1369,1750" />
+                <TextEquiv>
+                    <Unicode>شراب بیخمارم بخش یا رب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782388853124_1187" custom="readingOrder {index:10;}">
+                <Coords points="960,1835 1385,1835 1385,1947 960,1947" /><Baseline points="960,1904 1385,1904" />
+                <Baseline points="973,1899 1374,1904" />
+                <TextEquiv>
+                    <Unicode>ایا پر لعل کرده جام زرین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>عجب راهیست راه عشق کانجا
+بشو اوراق اگر همدرس مایی
+زمان خوش دلی دریاب دریاب
+زمن منپوش دل در شاهدی بند
+سپا ای شیخ و از خمخانه ما
+نبا میزد بتی سیمین ثنم هست
+من جان بنده سلطان اوییم
+بتاج عالم آرایش که خورشید
+غنیمت دان و می خور در گلستان
+شراب بیخمارم بخش یا رب
+ایا پر لعل کرده جام زرین</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782389341387_1287" custom="readingOrder {index:5;}">
+            <Coords points="960,2251 1411,2251 1411,2498 960,2498" />
+            <TextLine id="line_1782389344592_1290" custom="readingOrder {index:0;}">
+                <Coords points="964,2264 1399,2264 1399,2395 964,2395" /><Baseline points="964,2345 1399,2345" />
+                <Baseline points="962,2302 1374,2331" />
+                <TextEquiv>
+                    <Unicode>در هر هوا که جز برق اندر طلب نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389367775_1296" custom="readingOrder {index:1;}">
+                <Coords points="957,2392 1415,2392 1415,2503 957,2503" /><Baseline points="957,2461 1415,2461" />
+                <Baseline points="974,2439 1385,2453" />
+                <TextEquiv>
+                    <Unicode>مرغی که با غم دل شد الفتش حاصل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>در هر هوا که جز برق اندر طلب نباشد
+مرغی که با غم دل شد الفتش حاصل</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

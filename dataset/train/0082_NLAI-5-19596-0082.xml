@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:29.536+03:30</Created>
+        <LastChange>2026-06-19T19:52:13.707+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0082_NLAI-5-19596-0082.jpg" imageWidth="1543" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781886133754" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781885405810_262" />
+                <RegionRefIndexed index="1" regionRef="region_1781885455286_274" />
+                <RegionRefIndexed index="2" regionRef="region_1781885519442_289" />
+                <RegionRefIndexed index="3" regionRef="region_1781885859398_328" />
+                <RegionRefIndexed index="4" regionRef="region_1781885928246_343" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781885405810_262" custom="readingOrder {index:0;}">
+            <Coords points="123,538 1096,538 1096,707 123,707" />
+            <TextLine id="line_1781885411371_265" custom="readingOrder {index:0;}">
+                <Coords points="150,558 1083,558 1083,707 150,707" /><Baseline points="150,650 1083,650" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781885419771_268" custom="readingOrder {index:1;}">
+                <Coords points="163,580 1081,586 1081,636 163,630" /><Baseline points="163,615 1081,615" />
+                <Baseline points="163,625 1081,631" />
+                <TextEquiv>
+                    <Unicode>از زبان سوسن آزاده ام آمد به گوش کاندر این دیر کهن کار سبکباران خوش است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>از زبان سوسن آزاده ام آمد به گوش کاندر این دیر کهن کار سبکباران خوش است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781885455286_274" custom="readingOrder {index:1;}">
+            <Coords points="313,707 866,707 866,964 313,964" />
+            <TextLine id="line_1781885460071_277" custom="readingOrder {index:0;}">
+                <Coords points="317,716 857,716 857,821 317,821" /><Baseline points="317,781 857,781" />
+                <Baseline points="344,893 786,910" />
+                <TextEquiv>
+                    <Unicode>حافظا ترک جهان گفتن طریق خوشدلیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781885493046_283" custom="readingOrder {index:1;}">
+                <Coords points="322,843 868,843 868,964 322,964" /><Baseline points="322,918 868,918" />
+                <Baseline points="152,1044 1087,1071" />
+                <TextEquiv>
+                    <Unicode>تا نپنداری که احوال جهان داران خوش است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظا ترک جهان گفتن طریق خوشدلیست
+تا نپنداری که احوال جهان داران خوش است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781885519442_289" custom="readingOrder {index:2;}">
+            <Coords points="116,959 1091,959 1091,1834 116,1834" />
+            <TextLine id="line_1781885526059_292" custom="readingOrder {index:0;}">
+                <Coords points="131,981 1085,981 1085,1133 131,1133" /><Baseline points="131,1075 1085,1075" />
+                <Baseline points="147,1207 1073,1211" />
+                <TextEquiv>
+                    <Unicode>در این زمانه رفیقی که خالی از خلل است صراحی می ناب و سفینه غزل است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781885691251_298" custom="readingOrder {index:1;}">
+                <Coords points="129,1155 1100,1155 1100,1254 129,1254" /><Baseline points="129,1216 1100,1216" />
+                <Baseline points="138,1345 1087,1354" />
+                <TextEquiv>
+                    <Unicode>جریده رو که گذرگاه عافیت تنگ است پیاله گیر که عمر عزیز بی بدل است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781885720814_304" custom="readingOrder {index:2;}">
+                <Coords points="118,1294 1091,1294 1091,1396 118,1396" /><Baseline points="118,1357 1091,1357" />
+                <Baseline points="136,1477 1076,1486" />
+                <TextEquiv>
+                    <Unicode>نه من ز بی عملی در جهان ملولم و بس ملالت علما هم ز علم بی عمل است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781885762331_310" custom="readingOrder {index:3;}">
+                <Coords points="114,1410 1098,1410 1098,1555 114,1555" /><Baseline points="114,1500 1098,1500" />
+                <Baseline points="128,1632 1079,1645" />
+                <TextEquiv>
+                    <Unicode>به چشم عقل در این رهگذار پرآشوب جهان و کار جهان بی ثبات و بی محل است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781885793487_316" custom="readingOrder {index:4;}">
+                <Coords points="106,1563 1108,1563 1108,1717 106,1717" /><Baseline points="106,1658 1108,1658" />
+                <Baseline points="146,1761 1052,1790" />
+                <TextEquiv>
+                    <Unicode>بگیر طره مه چهره ای و قصه مخوان که سعد و نحس ز تاثیر زهره و زحل است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781885821839_322" custom="readingOrder {index:5;}">
+                <Coords points="124,1732 1093,1732 1093,1831 124,1831" /><Baseline points="124,1793 1093,1793" />
+                <Baseline points="363,1921 848,1933" />
+                <TextEquiv>
+                    <Unicode>دلم امید فراوان به وصل روی تو داشت ولی اجل به ره عمر رهزن امل است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>در این زمانه رفیقی که خالی از خلل است صراحی می ناب و سفینه غزل است
+جریده رو که گذرگاه عافیت تنگ است پیاله گیر که عمر عزیز بی بدل است
+نه من ز بی عملی در جهان ملولم و بس ملالت علما هم ز علم بی عمل است
+به چشم عقل در این رهگذار پرآشوب جهان و کار جهان بی ثبات و بی محل است
+بگیر طره مه چهره ای و قصه مخوان که سعد و نحس ز تاثیر زهره و زحل است
+دلم امید فراوان به وصل روی تو داشت ولی اجل به ره عمر رهزن امل است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781885859398_328" custom="readingOrder {index:3;}">
+            <Coords points="322,1850 867,1850 867,2115 322,2115" />
+            <TextLine id="line_1781885869744_331" custom="readingOrder {index:0;}">
+                <Coords points="318,1860 860,1860 860,2013 318,2013" /><Baseline points="318,1955 860,1955" />
+                <Baseline points="366,2051 774,2067" />
+                <TextEquiv>
+                    <Unicode>به هیچ دور نخواهند یافت هشیارش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781885903419_337" custom="readingOrder {index:1;}">
+                <Coords points="331,2019 844,2019 844,2125 331,2125" /><Baseline points="331,2085 844,2085" />
+                <Baseline points="158,2184 1079,2229" />
+                <TextEquiv>
+                    <Unicode>چنین که حافظ ما مست باده ازل است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>به هیچ دور نخواهند یافت هشیارش
+چنین که حافظ ما مست باده ازل است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781885928246_343" custom="readingOrder {index:4;}">
+            <Coords points="123,2140 1127,2140 1127,2688 123,2688" />
+            <TextLine id="line_1781885932979_346" custom="readingOrder {index:0;}">
+                <Coords points="136,2133 1114,2133 1114,2274 136,2274" /><Baseline points="136,2220 1114,2220" />
+                <Baseline points="152,2337 1079,2360" />
+                <TextEquiv>
+                    <Unicode>خم زلف تو دام کفر و دین است ز کارستان او یک شمه این است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886035847_352" custom="readingOrder {index:1;}">
+                <Coords points="139,2293 1105,2293 1105,2423 139,2423" /><Baseline points="139,2374 1105,2374" />
+                <Baseline points="155,2478 1076,2503" />
+                <TextEquiv>
+                    <Unicode>جمالت معجز حسن است لیکن حدیث غمزه ات سحر مبین است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886065603_358" custom="readingOrder {index:2;}">
+                <Coords points="126,2446 1092,2446 1092,2551 126,2551" /><Baseline points="126,2511 1092,2511" />
+                <Baseline points="139,2608 1089,2631" />
+                <TextEquiv>
+                    <Unicode>ز چشم شوخ تو جان کی توان برد که دایم با کمان اندر کمین است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886092311_364" custom="readingOrder {index:3;}">
+                <Coords points="139,2567 1124,2567 1124,2707 139,2707" /><Baseline points="139,2654 1124,2654" />
+                <TextEquiv>
+                    <Unicode>عجب علمیست علم هییت عشق که چرخ هشتمش هفتم زمین است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خم زلف تو دام کفر و دین است ز کارستان او یک شمه این است
+جمالت معجز حسن است لیکن حدیث غمزه ات سحر مبین است
+ز چشم شوخ تو جان کی توان برد که دایم با کمان اندر کمین است
+عجب علمیست علم هییت عشق که چرخ هشتمش هفتم زمین است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:16.363+03:30</Created>
+        <LastChange>2026-06-18T17:50:54.834+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0011_NLAI-5-19596-0011.jpg" imageWidth="1543" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781792454875" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781782339784_1549" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781782339784_1549" custom="readingOrder {index:0;}">
+            <Coords points="456,557 1474,569 1474,2761 456,2749" />
+            <TextLine id="line_1781782368804_1558" custom="readingOrder {index:0;}">
+                <Coords points="513,595 1475,595 1475,739 513,739" /><Baseline points="513,684 1475,684" />
+                <Baseline points="530,652 1453,680" />
+                <TextEquiv>
+                    <Unicode>و موافق و مخالف بطنازی و رعنایی درآویخته و در مجلس خواص و عوام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782545883_1564" custom="readingOrder {index:1;}">
+                <Coords points="513,740 1471,740 1471,877 513,877" /><Baseline points="513,825 1471,825" />
+                <Baseline points="530,801 1455,810" />
+                <TextEquiv>
+                    <Unicode>و خلوت خاض پادشاه و گدا و عالم و عامی بزمها ساخته و در هر مقامی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782560383_1575" custom="readingOrder {index:2;}">
+                <Coords points="512,890 959,890 959,1015 512,1015" /><Baseline points="512,968 959,968" />
+                <Baseline points="530,950 944,960" />
+                <TextEquiv>
+                    <Unicode>حافظ خلوت نشین و دوش بمیخانه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782570702_1581" custom="readingOrder {index:3;}">
+                <Coords points="1057,903 1477,903 1477,1024 1057,1024" /><Baseline points="1057,978 1477,978" />
+                <Baseline points="1073,967 1458,969" />
+                <TextEquiv>
+                    <Unicode>شعبها و شورها انگیخته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782579673_1587" custom="readingOrder {index:4;}">
+                <Coords points="519,1030 994,1030 994,1153 519,1153" /><Baseline points="519,1106 994,1106" />
+                <Baseline points="537,1085 970,1087" />
+                <TextEquiv>
+                    <Unicode>چون از شایبه شبهت و غایله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782588712_1593" custom="readingOrder {index:5;}">
+                <Coords points="1044,1041 1464,1041 1464,1162 1044,1162" /><Baseline points="1044,1116 1464,1116" />
+                <Baseline points="1059,1103 1460,1107" />
+                <TextEquiv>
+                    <Unicode>از سر پیمان برفت با سر پیمانه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782598902_1599" custom="readingOrder {index:6;}">
+                <Coords points="513,1166 1475,1166 1475,1295 513,1295" /><Baseline points="513,1246 1475,1246" />
+                <Baseline points="524,1227 1458,1243" />
+                <TextEquiv>
+                    <Unicode>مصون و محروس بودند و دست تصرف بیگانه بدامن عصمتشان نرسیده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782607132_1605" custom="readingOrder {index:7;}">
+                <Coords points="504,1308 1462,1308 1462,1446 504,1446" /><Baseline points="504,1394 1462,1394" />
+                <Baseline points="521,1378 1451,1383" />
+                <TextEquiv>
+                    <Unicode>و گوشه چادر عفتشان بسرانگشت خیانت کسی فرو نکشند و رخساره احوالشان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782619766_1611" custom="readingOrder {index:8;}">
+                <Coords points="501,1468 1464,1468 1464,1602 501,1602" /><Baseline points="501,1551 1464,1551" />
+                <Baseline points="506,1532 1455,1542" />
+                <TextEquiv>
+                    <Unicode>از خجلت عار و ضجرت طعن در صورت عفت و حرز عصمت محفوظ ماند چنانکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782684192_1648" custom="readingOrder {index:9;}">
+                <Coords points="497,1625 945,1625 945,1726 497,1726" /><Baseline points="497,1688 945,1688" />
+                <Baseline points="517,1682 915,1678" />
+                <TextEquiv>
+                    <Unicode>گر من آلوده دامنم چه عجب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782674532_1642" custom="readingOrder {index:10;}">
+                <Coords points="1175,1626 1466,1626 1466,1726 1175,1726" /><Baseline points="1175,1688 1466,1688" />
+                <Baseline points="1190,1676 1453,1678" />
+                <TextEquiv>
+                    <Unicode>گفته اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782711893_1655" custom="readingOrder {index:11;}">
+                <Coords points="495,1752 974,1752 974,1868 495,1868" /><Baseline points="495,1824 974,1824" />
+                <Baseline points="501,1812 967,1825" />
+                <TextEquiv>
+                    <Unicode>بنابرین غزل های جهانگیرش دراوانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782724666_1665" custom="readingOrder {index:12;}">
+                <Coords points="1013,1766 1455,1766 1455,1886 1013,1886" /><Baseline points="1013,1840 1455,1840" />
+                <Baseline points="1033,1823 1440,1823" />
+                <TextEquiv>
+                    <Unicode>همه عالم گواه عصمت او است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782750952_1677" custom="readingOrder {index:13;}">
+                <Coords points="493,1893 1455,1893 1455,2033 493,2033" /><Baseline points="493,1980 1455,1980" />
+                <Baseline points="510,1962 1440,1980" />
+                <TextEquiv>
+                    <Unicode>مدتی باقصای قالم ترکستان و هندوستان رسیده و قوافل سخنهای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782761094_1683" custom="readingOrder {index:14;}">
+                <Coords points="486,2050 1449,2050 1449,2179 486,2179" /><Baseline points="486,2130 1449,2130" />
+                <Baseline points="497,2107 1438,2116" />
+                <TextEquiv>
+                    <Unicode>دلپذیرش در اقل زمان به اطراف و اکناف عراقین و آذربایجان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782770551_1689" custom="readingOrder {index:15;}">
+                <Coords points="482,2195 1455,2195 1455,2316 482,2316" /><Baseline points="482,2270 1455,2270" />
+                <Baseline points="490,2248 1438,2265" />
+                <TextEquiv>
+                    <Unicode>کشیده قد هب الریح و ذب المسیح بل صار مسیر الآمال و سیرالجبال و سماع صوفیان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782780021_1695" custom="readingOrder {index:16;}">
+                <Coords points="480,2325 1435,2325 1435,2469 480,2469" /><Baseline points="480,2414 1435,2414" />
+                <Baseline points="486,2399 1423,2401" />
+                <TextEquiv>
+                    <Unicode>بی غزل شورانگیز گرم نشدی و بزم پادشاهان پی نقل سخن ذوق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782789361_1701" custom="readingOrder {index:17;}">
+                <Coords points="484,2478 1455,2478 1455,2613 484,2613" /><Baseline points="484,2562 1455,2562" />
+                <Baseline points="504,2546 1429,2559" />
+                <TextEquiv>
+                    <Unicode>آمیزش زیب نیافتی بلکه های و هوی مشتاقان و ممستان بی ولوله سوق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781782800631_1707" custom="readingOrder {index:18;}">
+                <Coords points="486,2624 1451,2624 1451,2732 486,2732" /><Baseline points="486,2691 1451,2691" />
+                <Baseline points="499,2657 1436,2688" />
+                <TextEquiv>
+                    <Unicode>او نبودی و سرود و درود و می ترسان بی غلغله عشق و ذوق او رونق نگرفتی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و موافق و مخالف بطنازی و رعنایی درآویخته و در مجلس خواص و عوام
+و خلوت خاض پادشاه و گدا و عالم و عامی بزمها ساخته و در هر مقامی
+حافظ خلوت نشین و دوش بمیخانه شد
+شعبها و شورها انگیخته
+چون از شایبه شبهت و غایله
+از سر پیمان برفت با سر پیمانه شد
+مصون و محروس بودند و دست تصرف بیگانه بدامن عصمتشان نرسیده
+و گوشه چادر عفتشان بسرانگشت خیانت کسی فرو نکشند و رخساره احوالشان
+از خجلت عار و ضجرت طعن در صورت عفت و حرز عصمت محفوظ ماند چنانکه
+گر من آلوده دامنم چه عجب
+گفته اند
+بنابرین غزل های جهانگیرش دراوانی
+همه عالم گواه عصمت او است
+مدتی باقصای قالم ترکستان و هندوستان رسیده و قوافل سخنهای
+دلپذیرش در اقل زمان به اطراف و اکناف عراقین و آذربایجان
+کشیده قد هب الریح و ذب المسیح بل صار مسیر الآمال و سیرالجبال و سماع صوفیان
+بی غزل شورانگیز گرم نشدی و بزم پادشاهان پی نقل سخن ذوق
+آمیزش زیب نیافتی بلکه های و هوی مشتاقان و ممستان بی ولوله سوق
+او نبودی و سرود و درود و می ترسان بی غلغله عشق و ذوق او رونق نگرفتی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

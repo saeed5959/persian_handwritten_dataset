@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:15.980+03:30</Created>
+        <LastChange>2026-06-24T23:43:12.806+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0112_NLAI-5-15801-0112.jpg" imageWidth="1091" imageHeight="1793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782331992822" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782320647495_9" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782320647495_9" custom="readingOrder {index:0;}">
+            <Coords points="59,171 941,171 941,1771 59,1771" />
+            <TextLine id="line_1782320651037_12" custom="readingOrder {index:0;}">
+                <Coords points="65,202 899,202 899,303 65,303" /><Baseline points="65,265 899,265" />
+                <Baseline points="68,251 878,265" />
+                <TextEquiv>
+                    <Unicode>نیز عموم و خصوص مطلق است زیرا که هر جا ضرویه است البته ضرورت در وقت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782320653181_15" custom="readingOrder {index:1;}">
+                <Coords points="68,318 907,318 907,434 68,434" /><Baseline points="68,390 907,390" />
+                <Baseline points="88,372 876,369" />
+                <TextEquiv>
+                    <Unicode>وصف هست اما عکس نیست زیرا که کل قمر منحسف مظلم بطریق مشزوطه در اوقات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782320655329_18" custom="readingOrder {index:2;}">
+                <Coords points="70,452 921,452 921,541 70,541" /><Baseline points="70,507 921,507" />
+                <Baseline points="83,490 883,490" />
+                <TextEquiv>
+                    <Unicode>وصف صادق است اما ضروریه صادق نیست و هم چنین عرفیه مادام الوصف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782320658840_21" custom="readingOrder {index:3;}">
+                <Coords points="70,545 903,545 903,677 70,677" /><Baseline points="70,627 903,627" />
+                <Baseline points="78,616 894,616" />
+                <TextEquiv>
+                    <Unicode>صادق است در این مثال و دایمه صادق نیست اما هر جا دایمه صادق است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782320661218_24" custom="readingOrder {index:4;}">
+                <Coords points="59,677 901,677 901,799 59,799" /><Baseline points="59,753 901,753" />
+                <Baseline points="66,740 880,744" />
+                <TextEquiv>
+                    <Unicode>عرفیه عامه باین معنی صادق است و نسبت میانه دایمه و وقتیه مطلقه و منتشره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782320662868_27" custom="readingOrder {index:5;}">
+                <Coords points="68,804 912,804 912,908 68,908" /><Baseline points="68,868 912,868" />
+                <Baseline points="76,860 892,860" />
+                <TextEquiv>
+                    <Unicode>مطلقه عموم من وجه است ماده افتراق دایمه کل فلک متحرک زیرا که حرکت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782320665428_30" custom="readingOrder {index:6;}">
+                <Coords points="70,917 899,917 899,1018 70,1018" /><Baseline points="70,980 899,980" />
+                <Baseline points="80,966 890,980" />
+                <TextEquiv>
+                    <Unicode>هیچوقت ضروری نیست از برای فلک و در نیمقام سخنی هست که در خور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782320667740_33" custom="readingOrder {index:7;}">
+                <Coords points="56,1020 907,1020 907,1158 56,1158" /><Baseline points="56,1106 907,1106" />
+                <Baseline points="66,1090 894,1105" />
+                <TextEquiv>
+                    <Unicode>فهم مبتدی نیست و ماده افتراق و قیتین مطلقتین کل قمر منخسف بالضروره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782320669467_36" custom="readingOrder {index:8;}">
+                <Coords points="72,1162 914,1162 914,1274 72,1274" /><Baseline points="72,1231 914,1231" />
+                <Baseline points="78,1219 900,1221" />
+                <TextEquiv>
+                    <Unicode>وقت الحیلوله یا وقتا ما و ماده اجتماع کل انسان حیوان و نسبت میانه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782320671828_39" custom="readingOrder {index:9;}">
+                <Coords points="72,1281 912,1281 912,1405 72,1405" /><Baseline points="72,1358 912,1358" />
+                <Baseline points="88,1343 898,1347" />
+                <TextEquiv>
+                    <Unicode>مطلقتین با مشروطه عامه و عرفیه عامه نیز عموم من وجه است ماده اجتماع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782320674123_42" custom="readingOrder {index:10;}">
+                <Coords points="74,1421 910,1421 910,1517 74,1517" /><Baseline points="74,1481 910,1481" />
+                <Baseline points="88,1467 900,1463" />
+                <TextEquiv>
+                    <Unicode>کل انسان حیوان ماده افتراق عامتین کل کاتب متحرک الاصابع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782320676031_45" custom="readingOrder {index:11;}">
+                <Coords points="79,1523 921,1523 921,1626 79,1626" /><Baseline points="79,1587 921,1587" />
+                <Baseline points="96,1581 913,1575" />
+                <TextEquiv>
+                    <Unicode>بالضروره لا بالد وام مادام کاتبا زیرا که تجرکت اصابع بشرط کتاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782320678207_48" custom="readingOrder {index:12;}">
+                <Coords points="130,1662 281,1662 281,1764 130,1764" /><Baseline points="130,1725 281,1725" />
+                <Baseline points="157,1723 264,1724" />
+                <TextEquiv>
+                    <Unicode>ضروری است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>نیز عموم و خصوص مطلق است زیرا که هر جا ضرویه است البته ضرورت در وقت
+وصف هست اما عکس نیست زیرا که کل قمر منحسف مظلم بطریق مشزوطه در اوقات
+وصف صادق است اما ضروریه صادق نیست و هم چنین عرفیه مادام الوصف
+صادق است در این مثال و دایمه صادق نیست اما هر جا دایمه صادق است
+عرفیه عامه باین معنی صادق است و نسبت میانه دایمه و وقتیه مطلقه و منتشره
+مطلقه عموم من وجه است ماده افتراق دایمه کل فلک متحرک زیرا که حرکت
+هیچوقت ضروری نیست از برای فلک و در نیمقام سخنی هست که در خور
+فهم مبتدی نیست و ماده افتراق و قیتین مطلقتین کل قمر منخسف بالضروره
+وقت الحیلوله یا وقتا ما و ماده اجتماع کل انسان حیوان و نسبت میانه
+مطلقتین با مشروطه عامه و عرفیه عامه نیز عموم من وجه است ماده اجتماع
+کل انسان حیوان ماده افتراق عامتین کل کاتب متحرک الاصابع
+بالضروره لا بالد وام مادام کاتبا زیرا که تجرکت اصابع بشرط کتاب
+ضروری است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

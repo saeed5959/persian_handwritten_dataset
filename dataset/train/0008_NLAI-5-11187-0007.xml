@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:42.385+03:30</Created>
+        <LastChange>2026-06-21T17:56:32.761+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0008_NLAI-5-11187-0007.jpg" imageWidth="587" imageHeight="1071">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782051992854" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782044926058_202" />
+                <RegionRefIndexed index="1" regionRef="region_1782045497612_252" />
+                <RegionRefIndexed index="2" regionRef="region_1782045662921_269" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782044926058_202" custom="readingOrder {index:0;}">
+            <Coords points="204,281 546,281 545,732 205,732" />
+            <TextLine id="line_1782044946949_206" custom="readingOrder {index:0;}">
+                <Coords points="205,280 548,280 548,335 205,335" /><Baseline points="205,314 548,314" />
+                <TextEquiv>
+                    <Unicode>لایق منصب ولیعهدی عدل در عهد اوست مستحکم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782045018403_210" custom="readingOrder {index:1;}">
+                <Coords points="204,335 547,335 547,386 204,386" /><Baseline points="204,367 547,367" />
+                <TextEquiv>
+                    <Unicode>واجبست این دعا بخور وبزرگ ور مه سال و روز و شب همه دم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782045071609_214" custom="readingOrder {index:2;}">
+                <Coords points="204,385 547,385 547,445 204,445" /><Baseline points="204,422 547,422" />
+                <TextEquiv>
+                    <Unicode>از خدا مسیلت کنند چنین که بود همچو آفتاب علم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782045140758_226" custom="readingOrder {index:3;}">
+                <Coords points="204,444 545,444 545,499 204,499" /><Baseline points="204,478 545,478" />
+                <TextEquiv>
+                    <Unicode>منفک از فرق او چو فرهما نشود سایه اش عالم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782045185276_230" custom="readingOrder {index:4;}">
+                <Coords points="207,499 547,499 545,555 205,555" /><Baseline points="205,534 547,534" />
+                <TextEquiv>
+                    <Unicode>نایب الدوله خدیو جهان باو در هند و روم و ترک وعجم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782045235091_234" custom="readingOrder {index:5;}">
+                <Coords points="207,557 548,557 548,614 207,614" /><Baseline points="207,592 548,592" />
+                <TextEquiv>
+                    <Unicode>ثمر عافیت هزاران سال خور و از نخل زندگی بی غم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782045281690_238" custom="readingOrder {index:6;}">
+                <Coords points="207,614 544,614 544,676 207,676" /><Baseline points="207,652 544,652" />
+                <TextEquiv>
+                    <Unicode>وز بلا حافظش همان که بود حافظ خلق از بلا وسقم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782045349585_242" custom="readingOrder {index:7;}">
+                <Coords points="206,675 547,675 549,733 209,731" /><Baseline points="206,711 549,711" />
+                <TextEquiv>
+                    <Unicode>روز او عیدبا وشب چوروز تاکه روز و شب آید از پی هم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>لایق منصب ولیعهدی عدل در عهد اوست مستحکم
+واجبست این دعا بخور وبزرگ ور مه سال و روز و شب همه دم
+از خدا مسیلت کنند چنین که بود همچو آفتاب علم
+منفک از فرق او چو فرهما نشود سایه اش عالم
+نایب الدوله خدیو جهان باو در هند و روم و ترک وعجم
+ثمر عافیت هزاران سال خور و از نخل زندگی بی غم
+وز بلا حافظش همان که بود حافظ خلق از بلا وسقم
+روز او عیدبا وشب چوروز تاکه روز و شب آید از پی هم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782045497612_252" custom="readingOrder {index:1;}">
+            <Coords points="270,729 487,729 487,844 270,844" />
+            <TextLine id="line_1782045502566_255" custom="readingOrder {index:0;}">
+                <Coords points="270,734 485,734 485,786 270,786" /><Baseline points="270,766 485,766" />
+                <TextEquiv>
+                    <Unicode>قطعه که از حروف حشو قطعه دیباچه برمی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782045617481_265" custom="readingOrder {index:1;}">
+                <Coords points="269,787 487,787 487,845 269,845" /><Baseline points="269,823 487,823" />
+                <TextEquiv>
+                    <Unicode>خیزد و با تعمیه تاریخ شرح کتاب است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>قطعه که از حروف حشو قطعه دیباچه برمی
+خیزد و با تعمیه تاریخ شرح کتاب است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782045662921_269" custom="readingOrder {index:2;}">
+            <Coords points="210,841 544,843 548,944 210,944" />
+            <TextLine id="line_1782045670593_272" custom="readingOrder {index:0;}">
+                <Coords points="210,843 546,843 546,898 210,898" /><Baseline points="210,877 546,877" />
+                <TextEquiv>
+                    <Unicode>شرح نثر آلالال را چو زعقل خواست تاریخ کاظم مهجور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782045726835_276" custom="readingOrder {index:1;}">
+                <Coords points="210,896 548,898 548,948 210,946" /><Baseline points="210,928 548,928" />
+                <TextEquiv>
+                    <Unicode>گفت بی قفل و باب پیر خرد هست گنجی ز لولو منثور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شرح نثر آلالال را چو زعقل خواست تاریخ کاظم مهجور
+گفت بی قفل و باب پیر خرد هست گنجی ز لولو منثور</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

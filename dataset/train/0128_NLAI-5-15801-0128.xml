@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.243+03:30</Created>
+        <LastChange>2026-06-26T17:26:48.733+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0128_NLAI-5-15801-0128.jpg" imageWidth="1091" imageHeight="1793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782482208747" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782331225509_807" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782331225509_807" custom="readingOrder {index:0;}">
+            <Coords points="53,187 961,187 961,1664 53,1664" />
+            <TextLine id="line_1782331229526_810" custom="readingOrder {index:0;}">
+                <Coords points="90,239 933,239 933,321 90,321" /><Baseline points="90,290 933,290" />
+                <Baseline points="100,286 929,282" />
+                <TextEquiv>
+                    <Unicode>اگر قضیه محصوره باشد متحقق میشود تناقض مثل زید کاتب فی هذا الوقت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331231289_813" custom="readingOrder {index:1;}">
+                <Coords points="108,347 927,347 927,426 108,426" /><Baseline points="108,396 927,396" />
+                <Baseline points="118,390 915,392" />
+                <TextEquiv>
+                    <Unicode>فی هذا المکان و زید لیس بکاتب فی هذا الوقت فی هذا المکان و ظاهر شد از شزط</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331232885_816" custom="readingOrder {index:2;}">
+                <Coords points="118,479 939,479 939,577 118,577" /><Baseline points="118,540 939,540" />
+                <Baseline points="167,524 896,526" />
+                <TextEquiv>
+                    <Unicode>اختلاف در کیف و کم که نقیض موجبه کلیه سالبه جزییه است و نقیض سالبه کلیه موجوده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331234439_819" custom="readingOrder {index:3;}">
+                <Coords points="90,587 931,587 931,674 90,674" /><Baseline points="90,641 931,641" />
+                <Baseline points="110,632 913,640" />
+                <TextEquiv>
+                    <Unicode>موجبه جزییه است و در تمیفام بحث وارد میاید باینطریق که هر گاه فرض کنیم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331235858_822" custom="readingOrder {index:4;}">
+                <Coords points="77,680 969,680 969,790 77,790" /><Baseline points="77,748 969,748" />
+                <Baseline points="100,745 915,762" />
+                <TextEquiv>
+                    <Unicode>که در خانه یا شهری مثلا جمعی باشند که مارا علم بهمرسد که یکی ازانجمله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331237432_825" custom="readingOrder {index:5;}">
+                <Coords points="65,821 957,821 957,918 65,918" /><Baseline points="65,881 957,881" />
+                <Baseline points="167,877 906,879" />
+                <TextEquiv>
+                    <Unicode>کافر است و باقی مسلمان اما بخصوص معلوم نباشد که کافر کدام است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331238932_828" custom="readingOrder {index:6;}">
+                <Coords points="77,934 939,934 939,1054 77,1054" /><Baseline points="77,1008 939,1008" />
+                <Baseline points="108,989 911,1005" />
+                <TextEquiv>
+                    <Unicode>در این صورت صادق است که لا شیی من الساک فی هذاالبلد بمتبقین الکفر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331240709_831" custom="readingOrder {index:7;}">
+                <Coords points="104,1050 953,1050 953,1188 104,1188" /><Baseline points="104,1136 953,1136" />
+                <Baseline points="112,1137 919,1133" />
+                <TextEquiv>
+                    <Unicode>زیرا هر یک هر یک احتمال قوی دارد که کافر نباشد پس یقین بکفر هیچیک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331242355_834" custom="readingOrder {index:8;}">
+                <Coords points="82,1186 929,1186 929,1310 82,1310" /><Baseline points="82,1263 929,1263" />
+                <Baseline points="110,1259 923,1259" />
+                <TextEquiv>
+                    <Unicode>از برای ما حاصل نیست و همچنین صادق است که بعض الساکن فی هذا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331243973_837" custom="readingOrder {index:9;}">
+                <Coords points="73,1316 959,1316 959,1432 73,1432" /><Baseline points="73,1388 959,1388" />
+                <Baseline points="104,1373 917,1377" />
+                <TextEquiv>
+                    <Unicode>البلد متیقن الکفر زیرا که فرض این است که کفر یکی نزد ما معلوم است پس لازم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331246541_840" custom="readingOrder {index:10;}">
+                <Coords points="88,1414 939,1414 939,1552 88,1552" /><Baseline points="88,1500 939,1500" />
+                <Baseline points="102,1489 917,1489" />
+                <TextEquiv>
+                    <Unicode>امد اجتماع نقیضین و جواب ازین شبهه چنین گفته میشود که ایندو قضیه نقیض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331248422_843" custom="readingOrder {index:11;}">
+                <Coords points="82,1548 933,1548 933,1654 82,1654" /><Baseline points="82,1614 933,1614" />
+                <Baseline points="96,1607 931,1619" />
+                <TextEquiv>
+                    <Unicode>یکدیگر نیستند زیرا که درین دو قضیه حقیقه اتحاد موضوع محقق نیست زیرا که شرط</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اگر قضیه محصوره باشد متحقق میشود تناقض مثل زید کاتب فی هذا الوقت
+فی هذا المکان و زید لیس بکاتب فی هذا الوقت فی هذا المکان و ظاهر شد از شزط
+اختلاف در کیف و کم که نقیض موجبه کلیه سالبه جزییه است و نقیض سالبه کلیه موجوده
+موجبه جزییه است و در تمیفام بحث وارد میاید باینطریق که هر گاه فرض کنیم
+که در خانه یا شهری مثلا جمعی باشند که مارا علم بهمرسد که یکی ازانجمله
+کافر است و باقی مسلمان اما بخصوص معلوم نباشد که کافر کدام است
+در این صورت صادق است که لا شیی من الساک فی هذاالبلد بمتبقین الکفر
+زیرا هر یک هر یک احتمال قوی دارد که کافر نباشد پس یقین بکفر هیچیک
+از برای ما حاصل نیست و همچنین صادق است که بعض الساکن فی هذا
+البلد متیقن الکفر زیرا که فرض این است که کفر یکی نزد ما معلوم است پس لازم
+امد اجتماع نقیضین و جواب ازین شبهه چنین گفته میشود که ایندو قضیه نقیض
+یکدیگر نیستند زیرا که درین دو قضیه حقیقه اتحاد موضوع محقق نیست زیرا که شرط</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

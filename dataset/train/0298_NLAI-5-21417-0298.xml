@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-16T21:33:27.451+03:30</Created>
+        <LastChange>2013-01-01T01:13:10.052+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0298_NLAI-5-21417-0298.jpg" imageWidth="1303" imageHeight="1825">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1356990190115" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1356989632663_937" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1356989632663_937" custom="readingOrder {index:0;}">
+            <Coords points="100,247 1009,247 1009,1639 100,1639" />
+            <TextLine id="line_1356989642132_940" custom="readingOrder {index:0;}">
+                <Coords points="107,250 998,250 998,426 107,426" /><Baseline points="107,359 998,359" />
+                <Baseline points="114,340 945,344" />
+                <TextEquiv>
+                    <Unicode>ظا فی طلب فی ظللت استعملا و قرن فی افررن و اقرن نقلا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356989748041_946" custom="readingOrder {index:1;}">
+                <Coords points="153,487 891,487 891,669 153,669" /><Baseline points="153,600 891,600" />
+                <Baseline points="157,580 873,580" />
+                <TextEquiv>
+                    <Unicode>اول شلس محرلین فی کلمته اوغم لا ضعف لمثلی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356989830409_952" custom="readingOrder {index:2;}">
+                <Coords points="136,755 934,755 934,891 136,891" /><Baseline points="136,839 934,839" />
+                <Baseline points="146,820 912,816" />
+                <TextEquiv>
+                    <Unicode>و دلل و کلل و بعبب و لا کجلس و لا کاخصص بی یاعلی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356989913152_958" custom="readingOrder {index:3;}">
+                <Coords points="125,991 912,991 912,1124 125,1124" /><Baseline points="125,1073 912,1073" />
+                <Baseline points="143,1059 880,1056" />
+                <TextEquiv>
+                    <Unicode>ولا کهیلل و شد فی الل و نحوه فک نتصل قعبل یاعلی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356990012883_964" custom="readingOrder {index:4;}">
+                <Coords points="161,1224 948,1224 948,1374 161,1374" /><Baseline points="161,1317 948,1317" />
+                <Baseline points="182,1296 934,1278" />
+                <TextEquiv>
+                    <Unicode>وچسی فکاک و او غم دون خدا لذاک نجه تجلی وا شنر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356990119368_971" custom="readingOrder {index:5;}">
+                <Coords points="161,1446 952,1446 952,1629 161,1629" /><Baseline points="161,1559 952,1559" />
+                <Baseline points="157,1536 894,1528" />
+                <TextEquiv>
+                    <Unicode>و با تامین اسدی قد پفضرفی علی تا لتبنن العبر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ظا فی طلب فی ظللت استعملا و قرن فی افررن و اقرن نقلا
+اول شلس محرلین فی کلمته اوغم لا ضعف لمثلی
+و دلل و کلل و بعبب و لا کجلس و لا کاخصص بی یاعلی
+ولا کهیلل و شد فی الل و نحوه فک نتصل قعبل یاعلی
+وچسی فکاک و او غم دون خدا لذاک نجه تجلی وا شنر
+و با تامین اسدی قد پفضرفی علی تا لتبنن العبر</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

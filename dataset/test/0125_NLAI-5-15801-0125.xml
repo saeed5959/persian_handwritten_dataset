@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.178+03:30</Created>
+        <LastChange>2026-06-26T16:57:33.296+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0125_NLAI-5-15801-0125.jpg" imageWidth="1091" imageHeight="1761">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782480453309" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782330972056_567" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782330972056_567" custom="readingOrder {index:0;}">
+            <Coords points="96,146 990,146 990,1682 96,1682" />
+            <TextLine id="line_1782330975166_570" custom="readingOrder {index:0;}">
+                <Coords points="116,197 945,197 945,302 116,302" /><Baseline points="116,262 945,262" />
+                <Baseline points="149,252 933,260" />
+                <TextEquiv>
+                    <Unicode>اما میانه سالبه این دو و تا و سالبه منفصله حقیقیه عموم و خصوص من وجه است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330976901_573" custom="readingOrder {index:1;}">
+                <Coords points="124,306 945,306 945,434 124,434" /><Baseline points="124,385 945,385" />
+                <Baseline points="143,367 939,376" />
+                <TextEquiv>
+                    <Unicode>زیرا که همچنانکه سالبه منفصله حقیقیه با موجبه این دو تا با موجبه منفصله حقیقیه نیز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330979085_576" custom="readingOrder {index:2;}">
+                <Coords points="108,437 957,437 957,558 108,558" /><Baseline points="108,512 957,512" />
+                <Baseline points="124,485 935,514" />
+                <TextEquiv>
+                    <Unicode>جمع میشود زیرا که سلب تنافی در صدق تنها صادق است در وقتی که تنافی در</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330981623_579" custom="readingOrder {index:3;}">
+                <Coords points="120,520 939,520 939,666 120,666" /><Baseline points="120,611 939,611" />
+                <Baseline points="130,603 923,619" />
+                <TextEquiv>
+                    <Unicode>صدق و کذب هر باشد و هم چنین سلب تنافی در کذب فقط پس ماده اجتماع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330983549_582" custom="readingOrder {index:4;}">
+                <Coords points="108,674 943,674 943,796 108,796" /><Baseline points="108,750 943,750" />
+                <Baseline points="126,735 935,749" />
+                <TextEquiv>
+                    <Unicode>هر سه سالبه جاییست که تنافی در اصل نباشد و ماده افتراق سالبه مانعه الجمع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330985581_585" custom="readingOrder {index:5;}">
+                <Coords points="102,792 935,792 935,916 102,916" /><Baseline points="102,869 935,869" />
+                <Baseline points="122,869 923,883" />
+                <TextEquiv>
+                    <Unicode>و مانعه الخلو موجبه منفصله حقیقیه است و نسبت میاه سالبه مانعه الجمع و سالبه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330987667_588" custom="readingOrder {index:6;}">
+                <Coords points="118,896 943,896 943,1034 118,1034" /><Baseline points="118,982 943,982" />
+                <Baseline points="122,981 935,995" />
+                <TextEquiv>
+                    <Unicode>مانعه الخلو نیز عموم من وجه است ماده اجتماع انچه مذکور شد و ماده افتراق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330989062_591" custom="readingOrder {index:7;}">
+                <Coords points="98,1034 947,1034 947,1174 98,1174" /><Baseline points="98,1121 947,1121" />
+                <Baseline points="114,1105 917,1125" />
+                <TextEquiv>
+                    <Unicode>هر یک موجبه قوله زیرا که در موجبه مانعه الجمع سالبه مانعه الخلو حق است و در موجبه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330991188_594" custom="readingOrder {index:8;}">
+                <Coords points="108,1168 939,1168 939,1280 108,1280" /><Baseline points="108,1237 939,1237" />
+                <Baseline points="124,1241 915,1245" />
+                <TextEquiv>
+                    <Unicode>مانعه الخلو سالبه مانعه الجمع حق است دیگر بدانک وجه تسمیه این قضایا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330993321_597" custom="readingOrder {index:9;}">
+                <Coords points="106,1270 937,1270 937,1414 106,1414" /><Baseline points="106,1359 937,1359" />
+                <Baseline points="116,1335 908,1369" />
+                <TextEquiv>
+                    <Unicode>باعتبار موجبه اینها است مثلا چون در موجبه متصبه لزومیه حکم باتصال با علاقه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330995320_600" custom="readingOrder {index:10;}">
+                <Coords points="112,1379 937,1379 937,1528 112,1528" /><Baseline points="112,1471 937,1471" />
+                <Baseline points="145,1446 913,1483" />
+                <TextEquiv>
+                    <Unicode>است انرا متصله زومیه نام کرده اند اگر چه سالبه اش حکم سلب التصال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330997372_603" custom="readingOrder {index:11;}">
+                <Coords points="102,1515 941,1515 941,1641 102,1641" /><Baseline points="102,1593 941,1593" />
+                <Baseline points="108,1584 915,1605" />
+                <TextEquiv>
+                    <Unicode>است و چون در موجبه منفصله حقیقیه حکم بتنافی در صدوق و کذب است آنرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اما میانه سالبه این دو و تا و سالبه منفصله حقیقیه عموم و خصوص من وجه است
+زیرا که همچنانکه سالبه منفصله حقیقیه با موجبه این دو تا با موجبه منفصله حقیقیه نیز
+جمع میشود زیرا که سلب تنافی در صدق تنها صادق است در وقتی که تنافی در
+صدق و کذب هر باشد و هم چنین سلب تنافی در کذب فقط پس ماده اجتماع
+هر سه سالبه جاییست که تنافی در اصل نباشد و ماده افتراق سالبه مانعه الجمع
+و مانعه الخلو موجبه منفصله حقیقیه است و نسبت میاه سالبه مانعه الجمع و سالبه
+مانعه الخلو نیز عموم من وجه است ماده اجتماع انچه مذکور شد و ماده افتراق
+هر یک موجبه قوله زیرا که در موجبه مانعه الجمع سالبه مانعه الخلو حق است و در موجبه
+مانعه الخلو سالبه مانعه الجمع حق است دیگر بدانک وجه تسمیه این قضایا
+باعتبار موجبه اینها است مثلا چون در موجبه متصبه لزومیه حکم باتصال با علاقه
+است انرا متصله زومیه نام کرده اند اگر چه سالبه اش حکم سلب التصال
+است و چون در موجبه منفصله حقیقیه حکم بتنافی در صدوق و کذب است آنرا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T20:01:58.416+04:30</Created>
+        <LastChange>2026-06-21T17:27:20.099+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0132_NLAI-5-15801-0132.jpg" imageWidth="1090" imageHeight="1795">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782046640101" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782044441828_385" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782044441828_385" custom="readingOrder {index:0;}">
+            <Coords points="69,152 962,152 962,1745 69,1745" />
+            <TextLine id="line_1782044495173_388" custom="readingOrder {index:0;}">
+                <Coords points="78,165 922,165 922,296 78,296" /><Baseline points="78,246 922,246" />
+                <Baseline points="914,248 92,247" />
+                <TextEquiv>
+                    <Unicode>امکان در جمع اوقات مثلا بعض کل قمر منخسف بالضروره وقت الحیلوله بعض القمر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044853160_394" custom="readingOrder {index:1;}">
+                <Coords points="79,302 925,302 925,406 79,406" /><Baseline points="79,366 925,366" />
+                <Baseline points="918,354 84,364" />
+                <TextEquiv>
+                    <Unicode>لیس بمنخسف بالامکان وقت الحیلوله و نقیض کل انسان لیس بمتنفس بالضروره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044970427_402" custom="readingOrder {index:2;}">
+                <Coords points="80,420 920,420 920,521 80,521" /><Baseline points="80,483 920,483" />
+                <Baseline points="912,478 272,494 91,486" />
+                <TextEquiv>
+                    <Unicode>وقتا ما بعض الانسان لیس بمتنفس بالامکان نه شی من الاوقات بنابر این</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782045079133_408" custom="readingOrder {index:3;}">
+                <Coords points="79,536 918,536 918,645 79,645" /><Baseline points="79,604 918,604" />
+                <Baseline points="909,597 367,615 94,605" />
+                <TextEquiv>
+                    <Unicode>مع بطهور واگذاشته است ذکر نقیض این دو قضیه را وله انما یکون برفع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782045782851_434" custom="readingOrder {index:4;}">
+                <Coords points="84,663 920,663 920,769 84,769" /><Baseline points="84,729 920,729" />
+                <Baseline points="909,728 91,737" />
+                <TextEquiv>
+                    <Unicode>احد جزییه لا علی التعیین اه بدانکه مرکب موجود میشود که همه اجزایش موجود شود پس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782045864482_440" custom="readingOrder {index:5;}">
+                <Coords points="84,787 923,787 923,906 84,906" /><Baseline points="84,861 923,861" />
+                <Baseline points="912,844 388,854 111,867" />
+                <TextEquiv>
+                    <Unicode>خواه همه اجزا مرکب معدوم شود و خواه یکی از آن معدوم شود لازم دارد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046032669_460" custom="readingOrder {index:6;}">
+                <Coords points="86,918 921,918 921,1025 86,1025" /><Baseline points="86,984 921,984" />
+                <Baseline points="911,972 101,985" />
+                <TextEquiv>
+                    <Unicode>معدوم شدن مرکب را و لهذا گفته اند که رفع مرکب رفع احد اجزا است لا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046166481_469" custom="readingOrder {index:7;}">
+                <Coords points="90,1045 924,1045 924,1158 90,1158" /><Baseline points="90,1115 924,1115" />
+                <Baseline points="912,1087 100,1115" />
+                <TextEquiv>
+                    <Unicode>علی التعیین بسبیل منع خلو زیرا که نمی توان گفت که رفع مرکب بخصوص رفع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046288107_480" custom="readingOrder {index:8;}">
+                <Coords points="93,1168 936,1168 936,1274 93,1274" /><Baseline points="93,1234 936,1234" />
+                <Baseline points="913,1213 105,1233" />
+                <TextEquiv>
+                    <Unicode>یکی دون دیگری و الا میبایست که از معدوم شدن دیگری برطرف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046376341_489" custom="readingOrder {index:9;}">
+                <Coords points="95,1292 930,1292 930,1395 95,1395" /><Baseline points="95,1356 930,1356" />
+                <Baseline points="917,1334 116,1349" />
+                <TextEquiv>
+                    <Unicode>نشود و حال آنکه معلوم شدن هر یک مستلزم رفع مرکب است و شاید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046413795_497" custom="readingOrder {index:10;}">
+                <Coords points="100,1411 925,1411 925,1502 100,1502" /><Baseline points="100,1467 925,1467" />
+                <Baseline points="914,1454 118,1466" />
+                <TextEquiv>
+                    <Unicode>گفت که برفع احد اجزااست لا علی التعیین بسبیل مانعه الخلو باین معنی که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046505441_503" custom="readingOrder {index:11;}">
+                <Coords points="100,1513 932,1513 932,1625 100,1625" /><Baseline points="100,1582 932,1582" />
+                <Baseline points="924,1582 118,1585" />
+                <TextEquiv>
+                    <Unicode>هر گاه رفع همه اجزا برطرف میشود و گاه برفع یکی از اجزا و اگر هیچکدام از اجزا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046577993_510" custom="readingOrder {index:12;}">
+                <Coords points="179,1660 285,1660 285,1742 179,1742" /><Baseline points="179,1711 285,1711" />
+                <Baseline points="273,1686 211,1727 214,1686 188,1730" />
+                <TextEquiv>
+                    <Unicode>معدوم نشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>امکان در جمع اوقات مثلا بعض کل قمر منخسف بالضروره وقت الحیلوله بعض القمر
+لیس بمنخسف بالامکان وقت الحیلوله و نقیض کل انسان لیس بمتنفس بالضروره
+وقتا ما بعض الانسان لیس بمتنفس بالامکان نه شی من الاوقات بنابر این
+مع بطهور واگذاشته است ذکر نقیض این دو قضیه را وله انما یکون برفع
+احد جزییه لا علی التعیین اه بدانکه مرکب موجود میشود که همه اجزایش موجود شود پس
+خواه همه اجزا مرکب معدوم شود و خواه یکی از آن معدوم شود لازم دارد
+معدوم شدن مرکب را و لهذا گفته اند که رفع مرکب رفع احد اجزا است لا
+علی التعیین بسبیل منع خلو زیرا که نمی توان گفت که رفع مرکب بخصوص رفع
+یکی دون دیگری و الا میبایست که از معدوم شدن دیگری برطرف
+نشود و حال آنکه معلوم شدن هر یک مستلزم رفع مرکب است و شاید
+گفت که برفع احد اجزااست لا علی التعیین بسبیل مانعه الخلو باین معنی که
+هر گاه رفع همه اجزا برطرف میشود و گاه برفع یکی از اجزا و اگر هیچکدام از اجزا
+معدوم نشود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

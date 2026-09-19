@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:44.994+03:30</Created>
+        <LastChange>2026-06-21T21:07:53.702+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0030_NLAI-5-11187-0029.jpg" imageWidth="587" imageHeight="1071">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782063473749" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782062026531_1173" />
+                <RegionRefIndexed index="1" regionRef="region_1782062301100_1203" />
+                <RegionRefIndexed index="2" regionRef="region_1782062456501_1214" />
+                <RegionRefIndexed index="3" regionRef="region_1782062741174_1246" />
+                <RegionRefIndexed index="4" regionRef="region_1782062929925_1261" />
+                <RegionRefIndexed index="5" regionRef="region_1782063094156_1272" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782062026531_1173" custom="readingOrder {index:0;}">
+            <Coords points="291,281 487,281 487,379 291,379" />
+            <TextLine id="line_1782062040375_1176" custom="readingOrder {index:0;}">
+                <Coords points="292,281 489,281 489,321 292,321" /><Baseline points="292,306 489,306" />
+                <TextEquiv>
+                    <Unicode>حرم الوفاعلی من لا اصل له</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782062099352_1180" custom="readingOrder {index:1;}">
+                <Coords points="291,321 488,321 489,378 292,378" /><Baseline points="291,356 489,356" />
+                <TextEquiv>
+                    <Unicode>حرام است وفا برانکس که اصل نباشد او را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حرم الوفاعلی من لا اصل له
+حرام است وفا برانکس که اصل نباشد او را</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782062301100_1203" custom="readingOrder {index:1;}">
+            <Coords points="222,379 559,379 559,503 222,503" />
+            <TextLine id="line_1782062308475_1206" custom="readingOrder {index:0;}">
+                <Coords points="222,378 557,378 557,447 222,447" /><Baseline points="222,421 557,421" />
+                <TextEquiv>
+                    <Unicode>حرا آراسته بعهد و وفاست آنکه را اصل هست پاک و صحیح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782062390968_1210" custom="readingOrder {index:1;}">
+                <Coords points="221,447 558,447 558,501 221,501" /><Baseline points="221,480 558,480" />
+                <TextEquiv>
+                    <Unicode>حال بد اصل از وفا عاری است هست برآن وفا حرام صریح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حرا آراسته بعهد و وفاست آنکه را اصل هست پاک و صحیح
+حال بد اصل از وفا عاری است هست برآن وفا حرام صریح</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782062456501_1214" custom="readingOrder {index:2;}">
+            <Coords points="291,500 488,500 488,611 291,611" />
+            <TextLine id="line_1782062467080_1217" custom="readingOrder {index:0;}">
+                <Coords points="292,502 488,502 488,557 292,557" /><Baseline points="292,536 488,536" />
+                <TextEquiv>
+                    <Unicode>حرقه الاولاد محرقه الاکباد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782062517978_1221" custom="readingOrder {index:1;}">
+                <Coords points="293,558 488,558 486,608 291,608" /><Baseline points="291,589 488,589" />
+                <TextEquiv>
+                    <Unicode>سوزش اولاد سوزاننده جگرهای والدین است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حرقه الاولاد محرقه الاکباد
+سوزش اولاد سوزاننده جگرهای والدین است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782062741174_1246" custom="readingOrder {index:3;}">
+            <Coords points="225,608 555,608 555,732 225,732" />
+            <TextLine id="line_1782062752034_1249" custom="readingOrder {index:0;}">
+                <Coords points="225,610 556,611 555,672 224,671" /><Baseline points="224,648 556,648" />
+                <TextEquiv>
+                    <Unicode>حصه از جگر چو فرزند است والدین راز رویشان تفریح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782062850057_1256" custom="readingOrder {index:1;}">
+                <Coords points="225,672 557,672 559,731 227,731" /><Baseline points="225,709 559,709" />
+                <TextEquiv>
+                    <Unicode>حرقت و سوزشان مر ایشان را برجگرها چو محرقه است قریح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حصه از جگر چو فرزند است والدین راز رویشان تفریح
+حرقت و سوزشان مر ایشان را برجگرها چو محرقه است قریح</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782062929925_1261" custom="readingOrder {index:4;}">
+            <Coords points="292,730 488,730 488,837 292,837" />
+            <TextLine id="line_1782062936535_1264" custom="readingOrder {index:0;}">
+                <Coords points="291,730 488,730 488,784 291,784" /><Baseline points="291,763 488,763" />
+                <TextEquiv>
+                    <Unicode>حلیه الرجال الادب و حیله النسا الذهب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782063010444_1268" custom="readingOrder {index:1;}">
+                <Coords points="292,783 489,783 490,836 293,836" /><Baseline points="292,816 490,816" />
+                <TextEquiv>
+                    <Unicode>زیور مردان ادب است و زیور زنان دهنبست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حلیه الرجال الادب و حیله النسا الذهب
+زیور مردان ادب است و زیور زنان دهنبست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782063094156_1272" custom="readingOrder {index:5;}">
+            <Coords points="225,836 559,836 559,945 225,945" />
+            <TextLine id="line_1782063102765_1275" custom="readingOrder {index:0;}">
+                <Coords points="225,836 561,836 561,902 225,902" /><Baseline points="225,877 561,877" />
+                <TextEquiv>
+                    <Unicode>حلی وزیوری که مردم را است زینت تن بآن همیشه صلاح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782063191196_1279" custom="readingOrder {index:1;}">
+                <Coords points="225,901 560,901 560,946 225,946" /><Baseline points="225,929 560,929" />
+                <TextEquiv>
+                    <Unicode>حیله مرد جز ادب نبود لیک زن راز زر علی است صباح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حلی وزیوری که مردم را است زینت تن بآن همیشه صلاح
+حیله مرد جز ادب نبود لیک زن راز زر علی است صباح</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

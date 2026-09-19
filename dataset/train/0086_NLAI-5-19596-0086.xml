@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:30.114+03:30</Created>
+        <LastChange>2026-06-19T20:46:46.536+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0086_NLAI-5-19596-0086.jpg" imageWidth="1561" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781889406574" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781888416313_711" />
+                <RegionRefIndexed index="1" regionRef="region_1781888452349_723" />
+                <RegionRefIndexed index="2" regionRef="region_1781888511257_738" />
+                <RegionRefIndexed index="3" regionRef="region_1781889224829_799" />
+                <RegionRefIndexed index="4" regionRef="region_1781889303041_814" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781888416313_711" custom="readingOrder {index:0;}">
+            <Coords points="67,515 1086,515 1086,653 67,653" />
+            <TextLine id="line_1781888421233_714" custom="readingOrder {index:0;}">
+                <Coords points="92,529 1075,529 1075,640 92,640" /><Baseline points="92,598 1075,598" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781888427785_717" custom="readingOrder {index:1;}">
+                <Coords points="134,540 1038,556 1037,606 133,590" /><Baseline points="133,581 1038,581" />
+                <Baseline points="133,585 1037,601" />
+                <TextEquiv>
+                    <Unicode>می بیاور که ننازد به گل باغ جهان هر که غارتگری باد خزانی دانست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>می بیاور که ننازد به گل باغ جهان هر که غارتگری باد خزانی دانست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781888452349_723" custom="readingOrder {index:1;}">
+            <Coords points="302,656 879,656 879,902 302,902" />
+            <TextLine id="line_1781888457253_726" custom="readingOrder {index:0;}">
+                <Coords points="327,669 842,669 842,771 327,771" /><Baseline points="327,732 842,732" />
+                <Baseline points="379,726 822,710" />
+                <TextEquiv>
+                    <Unicode>حافظ این گوهر منظوم که از طبع انگیخت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781888486365_733" custom="readingOrder {index:1;}">
+                <Coords points="341,821 822,821 822,897 341,897" /><Baseline points="341,868 822,868" />
+                <Baseline points="117,983 1057,1020" />
+                <TextEquiv>
+                    <Unicode>ز اثر تربیت آصف ثانی دانست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ این گوهر منظوم که از طبع انگیخت
+ز اثر تربیت آصف ثانی دانست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781888511257_738" custom="readingOrder {index:2;}">
+            <Coords points="89,900 1073,900 1073,2216 89,2216" />
+            <TextLine id="line_1781888515604_741" custom="readingOrder {index:0;}">
+                <Coords points="105,926 1104,926 1104,1058 105,1058" /><Baseline points="105,1008 1104,1008" />
+                <Baseline points="98,1149 1054,1151" />
+                <TextEquiv>
+                    <Unicode>به کوی میکده هر سالکی که ره دانست دری دگر زدن اندیشه تبه دانست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781888651177_749" custom="readingOrder {index:1;}">
+                <Coords points="98,1072 1067,1072 1067,1199 98,1199" /><Baseline points="98,1151 1067,1151" />
+                <Baseline points="110,1279 1049,1301" />
+                <TextEquiv>
+                    <Unicode>زمانه افسر رندی نداد جز به کسی که سرفرازی عالم در این کله دانست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781888714550_755" custom="readingOrder {index:2;}">
+                <Coords points="94,1230 1062,1230 1062,1359 94,1359" /><Baseline points="94,1310 1062,1310" />
+                <Baseline points="121,1418 1062,1447" />
+                <TextEquiv>
+                    <Unicode>بر آستانه میخانه هر که یافت رهی ز فیض جام می اسرار خانقه دانست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781888735373_761" custom="readingOrder {index:3;}">
+                <Coords points="85,1373 1078,1373 1078,1487 85,1487" /><Baseline points="85,1444 1078,1444" />
+                <Baseline points="108,1593 1065,1595" />
+                <TextEquiv>
+                    <Unicode>هر آن که راز دو عالم ز خط ساغر خواند رموز جام جم از نقش خاک ره دانست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781888761073_767" custom="readingOrder {index:4;}">
+                <Coords points="78,1499 1096,1499 1096,1653 78,1653" /><Baseline points="78,1594 1096,1594" />
+                <Baseline points="103,1721 1067,1738" />
+                <TextEquiv>
+                    <Unicode>دلم ز نرگس ساقی امان نخواست به جان چرا که شیوه آن ترک دل سیه دانست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781888788969_773" custom="readingOrder {index:5;}">
+                <Coords points="72,1678 1069,1678 1069,1772 72,1772" /><Baseline points="72,1736 1069,1736" />
+                <Baseline points="105,1875 1060,1879" />
+                <TextEquiv>
+                    <Unicode>ورای طاعت دیوانگان ز ما مطلب که شیخ مذهب ما عاقلی گنه دانست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781888832569_781" custom="readingOrder {index:6;}">
+                <Coords points="70,1792 1085,1792 1085,1931 70,1931" /><Baseline points="70,1878 1085,1878" />
+                <Baseline points="117,1995 1074,2016" />
+                <TextEquiv>
+                    <Unicode>ز جور کوکب طالع سحرگهان چشمم چنان گریست که ناهید دید و مه دانست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889054397_787" custom="readingOrder {index:7;}">
+                <Coords points="80,1949 1074,1949 1074,2065 80,2065" /><Baseline points="80,2021 1074,2021" />
+                <Baseline points="103,2148 1060,2154" />
+                <TextEquiv>
+                    <Unicode>خوش آن نظر که لب جام ورودی ساقی هلال یک شبه ماه چاره اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889180505_793" custom="readingOrder {index:8;}">
+                <Coords points="81,2081 1069,2081 1069,2221 81,2221" /><Baseline points="81,2168 1069,2168" />
+                <Baseline points="363,2286 837,2309" />
+                <TextEquiv>
+                    <Unicode>بلندمرتبه شاهی که نه رواق سپهر نمونه ای ز خم طاق بارگه دانست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>به کوی میکده هر سالکی که ره دانست دری دگر زدن اندیشه تبه دانست
+زمانه افسر رندی نداد جز به کسی که سرفرازی عالم در این کله دانست
+بر آستانه میخانه هر که یافت رهی ز فیض جام می اسرار خانقه دانست
+هر آن که راز دو عالم ز خط ساغر خواند رموز جام جم از نقش خاک ره دانست
+دلم ز نرگس ساقی امان نخواست به جان چرا که شیوه آن ترک دل سیه دانست
+ورای طاعت دیوانگان ز ما مطلب که شیخ مذهب ما عاقلی گنه دانست
+ز جور کوکب طالع سحرگهان چشمم چنان گریست که ناهید دید و مه دانست
+خوش آن نظر که لب جام ورودی ساقی هلال یک شبه ماه چاره اوست
+بلندمرتبه شاهی که نه رواق سپهر نمونه ای ز خم طاق بارگه دانست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781889224829_799" custom="readingOrder {index:3;}">
+            <Coords points="294,2230 858,2230 858,2496 294,2496" />
+            <TextLine id="line_1781889228889_802" custom="readingOrder {index:0;}">
+                <Coords points="325,2255 840,2255 840,2364 325,2364" /><Baseline points="325,2323 840,2323" />
+                <Baseline points="395,2440 795,2452" />
+                <TextEquiv>
+                    <Unicode>حدیث حافظ و ساغر که می زند پنهان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889247966_808" custom="readingOrder {index:1;}">
+                <Coords points="330,2380 837,2380 837,2496 330,2496" /><Baseline points="330,2452 837,2452" />
+                <Baseline points="110,2546 1075,2595" />
+                <TextEquiv>
+                    <Unicode>چه جای محبت است شخص پادشه رواست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حدیث حافظ و ساغر که می زند پنهان
+چه جای محبت است شخص پادشه رواست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781889303041_814" custom="readingOrder {index:4;}">
+            <Coords points="79,2499 1084,2499 1084,2631 79,2631" />
+            <TextLine id="line_1781889393402_822" custom="readingOrder {index:0;}">
+                <Coords points="97,2535 1066,2535 1066,2622 97,2622" /><Baseline points="97,2589 1066,2589" />
+                <TextEquiv>
+                    <Unicode>اگر به لطف بخوانی مزید الطاف است وگر به قهر برانی درون ما صاف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اگر به لطف بخوانی مزید الطاف است وگر به قهر برانی درون ما صاف است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

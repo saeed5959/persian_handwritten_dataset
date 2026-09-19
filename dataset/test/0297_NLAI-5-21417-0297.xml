@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-16T21:33:27.411+03:30</Created>
+        <LastChange>2013-01-01T01:25:32.582+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0297_NLAI-5-21417-0297.jpg" imageWidth="1266" imageHeight="1834">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1356990932645" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1356990248334_983" />
+                <RegionRefIndexed index="1" regionRef="region_1356990241595_980" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1356990248334_983" custom="readingOrder {index:0;}">
+            <Coords points="304,265 1217,265 1217,1636 304,1636" />
+            <TextLine id="line_1356990257397_986" custom="readingOrder {index:0;}">
+                <Coords points="307,261 1213,261 1213,440 307,440" /><Baseline points="307,372 1213,372" />
+                <Baseline points="311,351 1199,344" />
+                <TextEquiv>
+                    <Unicode>کذاک زووجهین حاالفطول من ذی الواولا جمع او فردیعن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356990332309_992" custom="readingOrder {index:1;}">
+                <Coords points="350,494 1131,494 1131,673 350,673" /><Baseline points="350,605 1131,605" />
+                <Baseline points="372,583 1098,583" />
+                <TextEquiv>
+                    <Unicode>و شاع نخویتم فی نوم و نخونیام شذ ود هنمی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356990415800_998" custom="readingOrder {index:2;}">
+                <Coords points="368,730 1120,730 1120,923 368,923" /><Baseline points="368,850 1120,850" />
+                <Baseline points="375,820 1088,820" />
+                <TextEquiv>
+                    <Unicode>دواللیی قابا فی افعتال ابد لا و شد فی ذاللهر نخوا مکلا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356990538604_1004" custom="readingOrder {index:3;}">
+                <Coords points="357,988 1109,988 1109,1117 357,1117" /><Baseline points="357,1068 1109,1068" />
+                <Baseline points="375,1059 1084,1052" />
+                <TextEquiv>
+                    <Unicode>طاتا افعال رداثر مطبق فی اذل وازد واو کروا لانفی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356990652281_1011" custom="readingOrder {index:4;}">
+                <Coords points="354,1231 1127,1231 1127,1382 354,1382" /><Baseline points="354,1325 1127,1325" />
+                <Baseline points="379,1310 1113,1306" />
+                <TextEquiv>
+                    <Unicode>فااصرا و مضارع من کوعدا اخدف و فی کعده و داس اظرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356990783259_1026" custom="readingOrder {index:5;}">
+                <Coords points="390,1468 1127,1468 1127,1625 390,1625" /><Baseline points="390,1565 1127,1565" />
+                <Baseline points="411,1564 1095,1568" />
+                <TextEquiv>
+                    <Unicode>و حذف همرا فعل تمرد فی مضارع و نتسی مصتف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کذاک زووجهین حاالفطول من ذی الواولا جمع او فردیعن
+و شاع نخویتم فی نوم و نخونیام شذ ود هنمی
+دواللیی قابا فی افعتال ابد لا و شد فی ذاللهر نخوا مکلا
+طاتا افعال رداثر مطبق فی اذل وازد واو کروا لانفی
+فااصرا و مضارع من کوعدا اخدف و فی کعده و داس اظرد
+و حذف همرا فعل تمرد فی مضارع و نتسی مصتف</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1356990241595_980" custom="readingOrder {index:1;}">
+            <Coords points="336,290" />
+        </TextRegion>
+    </Page>
+</PcGts>

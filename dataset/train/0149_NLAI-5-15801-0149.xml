@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T10:21:15.731+04:30</Created>
+        <LastChange>2026-06-25T10:32:07.568+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0149_NLAI-5-15801-0149.jpg" imageWidth="1117" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782367327569" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782366710710_2163" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782366710710_2163" custom="readingOrder {index:0;}">
+            <Coords points="125,1645 1018,1645 1018,148 125,148" />
+            <TextLine id="line_1782366727285_2169" custom="readingOrder {index:0;}">
+                <Coords points="179,160 1006,160 1006,287 179,287" /><Baseline points="179,239 1006,239" />
+                <Baseline points="995,238 197,222" />
+                <TextEquiv>
+                    <Unicode>صادق نباشد لادوام در بعض نقیضش یعنی کل ساکن لا ماش بالدوام صادق خواهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366763069_2175" custom="readingOrder {index:1;}">
+                <Coords points="181,293 1005,293 1005,396 181,396" /><Baseline points="181,357 1005,357" />
+                <Baseline points="996,358 196,346" />
+                <TextEquiv>
+                    <Unicode>بود و این منعکس میشود بعکس نقیض کل ماش لاساکن بالدوام و این با جز ثانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366799411_2181" custom="readingOrder {index:2;}">
+                <Coords points="164,401 999,401 999,529 164,529" /><Baseline points="164,480 999,480" />
+                <Baseline points="984,489 180,474" />
+                <TextEquiv>
+                    <Unicode>اصل منافات دارد و بلا دوام در کل منعکس نمیشود زیرا که در همین ماده کاذب است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366866270_2187" custom="readingOrder {index:3;}">
+                <Coords points="152,518 987,518 987,657 152,657" /><Baseline points="152,604 987,604" />
+                <Baseline points="979,615 169,584" />
+                <TextEquiv>
+                    <Unicode>بواسطه آنکه اگر لادوام کلی باشد چنین میشود که لا شیی من الساکن بلا ماش بالفعل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366913490_2194" custom="readingOrder {index:4;}">
+                <Coords points="141,647 983,647 983,775 141,775" /><Baseline points="141,726 983,726" />
+                <Baseline points="969,729 156,706" />
+                <TextEquiv>
+                    <Unicode>و این لازم دارد کل ساکن ماش بالفعل را و حال آنکه کاذب است زیرا که بعضی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366977996_2202" custom="readingOrder {index:5;}">
+                <Coords points="148,766 986,766 986,891 148,891" /><Baseline points="148,844 986,844" />
+                <Baseline points="974,858 176,828" />
+                <TextEquiv>
+                    <Unicode>از افراد ساکن هرگز ماشی نیست مثل زمین پس چنانکه در سالبه عکس مستوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367021746_2208" custom="readingOrder {index:6;}">
+                <Coords points="139,886 993,886 993,1019 139,1019" /><Baseline points="139,968 993,968" />
+                <Baseline points="974,968 159,960" />
+                <TextEquiv>
+                    <Unicode>عکس لادوام در کل صادق نیست در موجبه عکس نقیض هم صادق نیست و منعکس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367062414_2214" custom="readingOrder {index:7;}">
+                <Coords points="145,1021 984,1021 984,1138 145,1138" /><Baseline points="145,1094 984,1094" />
+                <Baseline points="960,1104 164,1079" />
+                <TextEquiv>
+                    <Unicode>نمیشود هیچیک از ان قضیه باقی زیرا که در ماده کل قمر لا منخسف بالضروره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367113139_2220" custom="readingOrder {index:8;}">
+                <Coords points="128,1126 971,1126 971,1266 128,1266" /><Baseline points="128,1213 971,1213" />
+                <Baseline points="959,1228 145,1185" />
+                <TextEquiv>
+                    <Unicode>وقت التربیع لادایما وقتیه که اخص از همه است صادق است و عکس نقیضش یعنی عکسش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367188122_2226" custom="readingOrder {index:9;}">
+                <Coords points="123,1252 971,1252 971,1385 123,1385" /><Baseline points="123,1334 971,1334" />
+                <Baseline points="957,1344 157,1305" />
+                <TextEquiv>
+                    <Unicode>بعض المنخسف القمر بالامکان صادق نیست زیرا که ثبوت قمر از برای منخسف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367233180_2234" custom="readingOrder {index:10;}">
+                <Coords points="144,1369 964,1369 964,1498 144,1498" /><Baseline points="144,1449 964,1449" />
+                <Baseline points="953,1459 158,1433" />
+                <TextEquiv>
+                    <Unicode>ضروریست پس در این ماده آن قضایا صادق اند بواسطه آنکه صدق وقتیه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367283815_2242" custom="readingOrder {index:11;}">
+                <Coords points="138,1497 979,1497 979,1621 138,1621" /><Baseline points="138,1574 979,1574" />
+                <Baseline points="950,1583 154,1555" />
+                <TextEquiv>
+                    <Unicode>که اخص است لازم دارد صدق انهارا و هیچ قضیه در عکس نقیض صحیح نیست زیرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>صادق نباشد لادوام در بعض نقیضش یعنی کل ساکن لا ماش بالدوام صادق خواهد
+بود و این منعکس میشود بعکس نقیض کل ماش لاساکن بالدوام و این با جز ثانی
+اصل منافات دارد و بلا دوام در کل منعکس نمیشود زیرا که در همین ماده کاذب است
+بواسطه آنکه اگر لادوام کلی باشد چنین میشود که لا شیی من الساکن بلا ماش بالفعل
+و این لازم دارد کل ساکن ماش بالفعل را و حال آنکه کاذب است زیرا که بعضی
+از افراد ساکن هرگز ماشی نیست مثل زمین پس چنانکه در سالبه عکس مستوی
+عکس لادوام در کل صادق نیست در موجبه عکس نقیض هم صادق نیست و منعکس
+نمیشود هیچیک از ان قضیه باقی زیرا که در ماده کل قمر لا منخسف بالضروره
+وقت التربیع لادایما وقتیه که اخص از همه است صادق است و عکس نقیضش یعنی عکسش
+بعض المنخسف القمر بالامکان صادق نیست زیرا که ثبوت قمر از برای منخسف
+ضروریست پس در این ماده آن قضایا صادق اند بواسطه آنکه صدق وقتیه
+که اخص است لازم دارد صدق انهارا و هیچ قضیه در عکس نقیض صحیح نیست زیرا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

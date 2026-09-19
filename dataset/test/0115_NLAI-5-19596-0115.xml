@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T19:59:33.685+03:30</Created>
+        <LastChange>2026-06-28T21:40:08.636+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0115_NLAI-5-19596-0115.jpg" imageWidth="1543" imageHeight="2740">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782670208668" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782669116622_3127" />
+                <RegionRefIndexed index="1" regionRef="region_1782669555435_3207" />
+                <RegionRefIndexed index="2" regionRef="region_1782670099499_3301" />
+                <RegionRefIndexed index="3" regionRef="region_1782669159165_3136" />
+                <RegionRefIndexed index="4" regionRef="region_1782669850886_3265" />
+                <RegionRefIndexed index="5" regionRef="region_1782669073650_3113" />
+                <RegionRefIndexed index="6" regionRef="region_1782669258077_3162" />
+                <RegionRefIndexed index="7" regionRef="region_1782669969960_3280" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782669116622_3127" custom="readingOrder {index:0;}">
+            <Coords points="459,410 943,410 943,618 459,618" />
+            <TextLine id="line_1782669122824_3130" custom="readingOrder {index:0;}">
+                <Coords points="474,426 921,426 921,612 474,612" /><Baseline points="474,541 921,541" />
+                <Baseline points="501,499 912,547" />
+                <TextEquiv>
+                    <Unicode>تا همه مغبچگان زلف دوتا بگشایند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تا همه مغبچگان زلف دوتا بگشایند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782669555435_3207" custom="readingOrder {index:1;}">
+            <Coords points="410,847 905,847 905,1859 410,1859" />
+            <TextLine id="line_1782669568135_3210" custom="readingOrder {index:0;}">
+                <Coords points="470,867 911,867 911,1014 470,1014" /><Baseline points="470,958 911,958" />
+                <Baseline points="493,933 901,942" />
+                <TextEquiv>
+                    <Unicode>مشتاقم از برای خدا یک شکر بخند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669603743_3216" custom="readingOrder {index:1;}">
+                <Coords points="464,1019 907,1019 907,1152 464,1152" /><Baseline points="464,1101 907,1101" />
+                <Baseline points="478,1082 893,1097" />
+                <TextEquiv>
+                    <Unicode>ای پسته کیستی تو خدا را به خود مخند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669645722_3222" custom="readingOrder {index:2;}">
+                <Coords points="465,1154 895,1154 895,1293 465,1293" /><Baseline points="465,1240 895,1240" />
+                <Baseline points="476,1214 882,1249" />
+                <TextEquiv>
+                    <Unicode>دل در وفای صحبت رود کسان مبند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669679764_3228" custom="readingOrder {index:3;}">
+                <Coords points="465,1308 901,1308 901,1445 465,1445" /><Baseline points="465,1393 901,1393" />
+                <Baseline points="487,1376 884,1379" />
+                <TextEquiv>
+                    <Unicode>ما نیستیم معتقد مرد خودپسند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669717968_3234" custom="readingOrder {index:4;}">
+                <Coords points="455,1449 890,1449 890,1587 455,1587" /><Baseline points="455,1535 890,1535" />
+                <Baseline points="466,1506 882,1535" />
+                <TextEquiv>
+                    <Unicode>زین قصه بگذرم که سخن می شود بلند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669747753_3240" custom="readingOrder {index:5;}">
+                <Coords points="451,1593 882,1593 882,1707 451,1707" /><Baseline points="451,1664 882,1664" />
+                <Baseline points="464,1643 875,1650" />
+                <TextEquiv>
+                    <Unicode>آن را که دل نگشت گرفتار این کمند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669777725_3246" custom="readingOrder {index:6;}">
+                <Coords points="438,1712 882,1712 882,1860 438,1860" /><Baseline points="438,1804 882,1804" />
+                <Baseline points="447,1779 870,1808" />
+                <TextEquiv>
+                    <Unicode>تا جان خود بر آتش رویش کنم سپند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مشتاقم از برای خدا یک شکر بخند
+ای پسته کیستی تو خدا را به خود مخند
+دل در وفای صحبت رود کسان مبند
+ما نیستیم معتقد مرد خودپسند
+زین قصه بگذرم که سخن می شود بلند
+آن را که دل نگشت گرفتار این کمند
+تا جان خود بر آتش رویش کنم سپند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782670099499_3301" custom="readingOrder {index:2;}">
+            <Coords points="407,2121 872,2121 872,2588 407,2588" />
+            <TextLine id="line_1782670111294_3304" custom="readingOrder {index:0;}">
+                <Coords points="413,2141 877,2141 877,2286 413,2286" /><Baseline points="413,2231 877,2231" />
+                <Baseline points="425,2207 859,2233" />
+                <TextEquiv>
+                    <Unicode>که به بالای چمان از بن و بیخم برکند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782670144195_3310" custom="readingOrder {index:1;}">
+                <Coords points="420,2292 861,2292 861,2418 420,2418" /><Baseline points="420,2370 861,2370" />
+                <Baseline points="432,2340 843,2354" />
+                <TextEquiv>
+                    <Unicode>که به رقص آوردم آتش رویت چو سپند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782670182400_3316" custom="readingOrder {index:2;}">
+                <Coords points="423,2424 853,2424 853,2560 423,2560" /><Baseline points="423,2508 853,2508" />
+                <Baseline points="431,2482 833,2489" />
+                <TextEquiv>
+                    <Unicode>مگر آن روی که مالند در آن سم سمند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که به بالای چمان از بن و بیخم برکند
+که به رقص آوردم آتش رویت چو سپند
+مگر آن روی که مالند در آن سم سمند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782669159165_3136" custom="readingOrder {index:3;}">
+            <Coords points="678,606 1196,606 1196,874 678,874" />
+            <TextLine id="line_1782669167929_3139" custom="readingOrder {index:0;}">
+                <Coords points="683,622 1191,622 1191,749 683,749" /><Baseline points="683,701 1191,701" />
+                <Baseline points="690,678 1178,692" />
+                <TextEquiv>
+                    <Unicode>حافظ این خرقه که داری تو ببینی فردا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669202259_3145" custom="readingOrder {index:1;}">
+                <Coords points="680,756 1183,756 1183,868 680,868" /><Baseline points="680,825 1183,825" />
+                <Baseline points="691,821 1152,821" />
+                <TextEquiv>
+                    <Unicode>که چه زنار ز زیرش به دغا بگشایند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ این خرقه که داری تو ببینی فردا
+که چه زنار ز زیرش به دغا بگشایند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782669850886_3265" custom="readingOrder {index:4;}">
+            <Coords points="655,1862 1142,1862 1142,2145 655,2145" />
+            <TextLine id="line_1782669857353_3268" custom="readingOrder {index:0;}">
+                <Coords points="670,1866 1141,1866 1141,2003 670,2003" /><Baseline points="670,1951 1141,1951" />
+                <Baseline points="692,1937 1134,1955" />
+                <TextEquiv>
+                    <Unicode>حافظ چو ترک صحبت خوبان نمی کنی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669931752_3274" custom="readingOrder {index:1;}">
+                <Coords points="667,2008 1106,2008 1106,2144 667,2144" /><Baseline points="667,2092 1106,2092" />
+                <Baseline points="679,2077 1089,2090" />
+                <TextEquiv>
+                    <Unicode>دانی کجاست جای تو خوارزم یا خجند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ چو ترک صحبت خوبان نمی کنی
+دانی کجاست جای تو خوارزم یا خجند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782669073650_3113" custom="readingOrder {index:5;}">
+            <Coords points="1003,462 1453,462 1453,632 1003,632" />
+            <TextLine id="line_1782669089269_3121" custom="readingOrder {index:0;}">
+                <Coords points="1010,481 1440,481 1440,619 1010,619" /><Baseline points="1010,567 1440,567" />
+                <Baseline points="1021,558 1425,565" />
+                <TextEquiv>
+                    <Unicode>گیسوی چنگ ببرید به مرگ می ناب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گیسوی چنگ ببرید به مرگ می ناب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782669258077_3162" custom="readingOrder {index:6;}">
+            <Coords points="961,873 1416,873 1416,1884 961,1884" />
+            <TextLine id="line_1782669270027_3165" custom="readingOrder {index:0;}">
+                <Coords points="987,895 1419,895 1419,1031 987,1031" /><Baseline points="987,979 1419,979" />
+                <Baseline points="998,955 1414,983" />
+                <TextEquiv>
+                    <Unicode>ای پسته تو خنده زده بر حدیث قند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669345145_3171" custom="readingOrder {index:1;}">
+                <Coords points="987,1053 1417,1053 1417,1180 987,1180" /><Baseline points="987,1132 1417,1132" />
+                <Baseline points="997,1117 1403,1127" />
+                <TextEquiv>
+                    <Unicode>جایی که یار ما به شکرخنده دم زند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669381657_3177" custom="readingOrder {index:2;}">
+                <Coords points="983,1184 1411,1184 1411,1314 983,1314" /><Baseline points="983,1265 1411,1265" />
+                <Baseline points="989,1241 1403,1264" />
+                <TextEquiv>
+                    <Unicode>خواهی که برنخیزدت از دیده رود خون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669410385_3183" custom="readingOrder {index:3;}">
+                <Coords points="972,1324 1418,1324 1418,1455 972,1455" /><Baseline points="972,1405 1418,1405" />
+                <Baseline points="982,1390 1405,1396" />
+                <TextEquiv>
+                    <Unicode>گر طنز می نمایی و گر طعنه می زنی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669459973_3189" custom="readingOrder {index:4;}">
+                <Coords points="967,1469 1407,1469 1407,1607 967,1607" /><Baseline points="967,1555 1407,1555" />
+                <Baseline points="973,1537 1393,1548" />
+                <TextEquiv>
+                    <Unicode>طوبی ز قامت تو نیارد که دم زند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669485928_3195" custom="readingOrder {index:5;}">
+                <Coords points="965,1616 1395,1616 1395,1724 965,1724" /><Baseline points="965,1683 1395,1683" />
+                <Baseline points="972,1669 1380,1671" />
+                <TextEquiv>
+                    <Unicode>ز آشفتگی حال من آگاه کی شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782669515709_3201" custom="readingOrder {index:6;}">
+                <Coords points="961,1729 1399,1729 1399,1883 961,1883" /><Baseline points="961,1824 1399,1824" />
+                <Baseline points="976,1802 1380,1831" />
+                <TextEquiv>
+                    <Unicode>بازار شوق گرم شد آن سروقد کجاست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ای پسته تو خنده زده بر حدیث قند
+جایی که یار ما به شکرخنده دم زند
+خواهی که برنخیزدت از دیده رود خون
+گر طنز می نمایی و گر طعنه می زنی
+طوبی ز قامت تو نیارد که دم زند
+ز آشفتگی حال من آگاه کی شود
+بازار شوق گرم شد آن سروقد کجاست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782669969960_3280" custom="readingOrder {index:7;}">
+            <Coords points="947,2138 1386,2138 1386,2620 947,2620" />
+            <TextLine id="line_1782669980973_3283" custom="readingOrder {index:0;}">
+                <Coords points="953,2181 1379,2181 1379,2324 953,2324" /><Baseline points="953,2270 1379,2270" />
+                <Baseline points="962,2240 1364,2272" />
+                <TextEquiv>
+                    <Unicode>بعد از این دست من و دامن آن سرو بلند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782670041336_3289" custom="readingOrder {index:1;}">
+                <Coords points="951,2329 1364,2329 1364,2455 951,2455" /><Baseline points="951,2407 1364,2407" />
+                <Baseline points="957,2382 1357,2399" />
+                <TextEquiv>
+                    <Unicode>حاجت مطرب و می نیست تو برقع بگشا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782670069246_3295" custom="readingOrder {index:2;}">
+                <Coords points="953,2459 1372,2459 1372,2604 953,2604" /><Baseline points="953,2549 1372,2549" />
+                <Baseline points="959,2512 1356,2527" />
+                <TextEquiv>
+                    <Unicode>هیچ رویی نشود آینه حجله بخت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بعد از این دست من و دامن آن سرو بلند
+حاجت مطرب و می نیست تو برقع بگشا
+هیچ رویی نشود آینه حجله بخت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

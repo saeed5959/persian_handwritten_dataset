@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:30.015-07:00</Created>
+        <LastChange>2026-06-20T09:59:34.643-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0057_NLAI-5-15801-0057.jpg" imageWidth="1090" imageHeight="1789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781974774721" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781972662655_45" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781972662655_45" custom="readingOrder {index:0;}">
+            <Coords points="119,1648 986,1648 986,176 119,176" />
+            <TextLine id="line_1781972683529_48" custom="readingOrder {index:0;}">
+                <Coords points="156,182 976,182 976,279 156,279" /><Baseline points="156,242 976,242" />
+                <Baseline points="966,253 168,243" />
+                <TextEquiv>
+                    <Unicode>ذاتی ان است که لاحق شود لذاته مثل ادراک امور غریبه از برای انسان یا لاحق شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781972692372_51" custom="readingOrder {index:1;}">
+                <Coords points="158,298 976,298 976,400 158,400" /><Baseline points="158,361 976,361" />
+                <Baseline points="964,366 168,357" />
+                <TextEquiv>
+                    <Unicode>بواسطه امر مساوی مثل تعجب که لاحق انسان میشود بواسطه انکه حیوان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781972701294_54" custom="readingOrder {index:2;}">
+                <Coords points="158,402 971,402 971,547 158,547" /><Baseline points="158,492 971,492" />
+                <Baseline points="962,504 185,485" />
+                <TextEquiv>
+                    <Unicode>ادراک امور غریبه یا لاحق میشود و بواسطه امر اعم از شی که جز انشی باشد مثل حرکت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781972710465_57" custom="readingOrder {index:3;}">
+                <Coords points="156,528 987,528 987,661 156,661" /><Baseline points="156,610 987,610" />
+                <Baseline points="961,620 168,604" />
+                <TextEquiv>
+                    <Unicode>که حق انسان باشد بواسطه انکه حیوان است و اعراض غریبه را نیز بر سه قسم کرده اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781972972440_151" custom="readingOrder {index:4;}">
+                <Coords points="161,648 983,648 983,771 161,771" /><Baseline points="161,724 983,724" />
+                <Baseline points="963,728 186,730" />
+                <TextEquiv>
+                    <Unicode>یکی انکه بواسطه امر اعمیکه خارج است ارزشی لاحق میشود و مثل حرکت که لاحق ناطق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781972981143_154" custom="readingOrder {index:5;}">
+                <Coords points="147,759 971,759 971,893 147,893" /><Baseline points="147,842 971,842" />
+                <Baseline points="961,854 169,856" />
+                <TextEquiv>
+                    <Unicode>میشود بواسطه حیوان و دیگر انکه لاحق میشود بواسطه امر مباین مثل حرارت که لاحق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781972990799_157" custom="readingOrder {index:6;}">
+                <Coords points="146,902 981,902 981,1018 146,1018" /><Baseline points="146,974 981,974" />
+                <Baseline points="960,990 155,963" />
+                <TextEquiv>
+                    <Unicode>آب میشود بواسطه اتش و باعتقاد قدما و طایفه از متاخرین مثل شارح مطالع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973005596_160" custom="readingOrder {index:7;}">
+                <Coords points="141,1001 970,1001 970,1162 141,1162" /><Baseline points="141,1101 970,1101" />
+                <Baseline points="962,1108 149,1095" />
+                <TextEquiv>
+                    <Unicode>و تابعانش انچه بواسطه جز اعم عارض میشود داخل در عرض ذاتی نیست و محقق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973015501_163" custom="readingOrder {index:8;}">
+                <Coords points="336,1148 975,1148 975,1266 336,1266" /><Baseline points="336,1221 975,1221" />
+                <Baseline points="967,1230 345,1222" />
+                <TextEquiv>
+                    <Unicode>طوسی در اساس الاقتباس تصریح بان فرموده و چنین گفته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973023626_166" custom="readingOrder {index:9;}">
+                <Coords points="136,1255 755,1255 755,1409 136,1409" /><Baseline points="136,1350 755,1350" />
+                <Baseline points="746,1342 143,1335" />
+                <TextEquiv>
+                    <Unicode>موضوع العلم باشد و عارض بواسطه جز اعم در حقیقت از اثار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973033813_169" custom="readingOrder {index:10;}">
+                <Coords points="140,1368 965,1368 965,1525 140,1525" /><Baseline points="140,1465 965,1465" />
+                <Baseline points="958,1467 154,1457" />
+                <TextEquiv>
+                    <Unicode>و احوال موضوع العلم نیست و بلکه از احوال و احکام آن امر اعم است و چونطریقه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973043954_172" custom="readingOrder {index:11;}">
+                <Coords points="129,1503 965,1503 965,1625 129,1625" /><Baseline points="129,1579 965,1579" />
+                <Baseline points="959,1591 176,1575" />
+                <TextEquiv>
+                    <Unicode>شارح مطالعرا محشی صواب دانسته لهذا عرض ذاتی را بر مهنجی تفسیر کرد که شامل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ذاتی ان است که لاحق شود لذاته مثل ادراک امور غریبه از برای انسان یا لاحق شود
+بواسطه امر مساوی مثل تعجب که لاحق انسان میشود بواسطه انکه حیوان است
+ادراک امور غریبه یا لاحق میشود و بواسطه امر اعم از شی که جز انشی باشد مثل حرکت
+که حق انسان باشد بواسطه انکه حیوان است و اعراض غریبه را نیز بر سه قسم کرده اند
+یکی انکه بواسطه امر اعمیکه خارج است ارزشی لاحق میشود و مثل حرکت که لاحق ناطق
+میشود بواسطه حیوان و دیگر انکه لاحق میشود بواسطه امر مباین مثل حرارت که لاحق
+آب میشود بواسطه اتش و باعتقاد قدما و طایفه از متاخرین مثل شارح مطالع
+و تابعانش انچه بواسطه جز اعم عارض میشود داخل در عرض ذاتی نیست و محقق
+طوسی در اساس الاقتباس تصریح بان فرموده و چنین گفته
+موضوع العلم باشد و عارض بواسطه جز اعم در حقیقت از اثار
+و احوال موضوع العلم نیست و بلکه از احوال و احکام آن امر اعم است و چونطریقه
+شارح مطالعرا محشی صواب دانسته لهذا عرض ذاتی را بر مهنجی تفسیر کرد که شامل</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

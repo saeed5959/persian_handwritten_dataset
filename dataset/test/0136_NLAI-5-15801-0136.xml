@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T18:27:49.208+04:30</Created>
+        <LastChange>2026-06-21T19:30:03.512+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0136_NLAI-5-15801-0136.jpg" imageWidth="1089" imageHeight="1794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782054003518" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782050314500_847" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782050314500_847" custom="readingOrder {index:0;}">
+            <Coords points="67,167 945,167 945,1777 67,1777" />
+            <TextLine id="line_1782050343190_851" custom="readingOrder {index:0;}">
+                <Coords points="72,174 909,174 909,311 72,311" /><Baseline points="72,259 909,259" />
+                <Baseline points="894,269 91,270" />
+                <TextEquiv>
+                    <Unicode>و دیگری آنکه بموجبه جزییه منعکس نمیشود و قول مص یعنی لجوازعموم المحمول دلیل منعکس نشدن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050476438_857" custom="readingOrder {index:1;}">
+                <Coords points="78,317 909,317 909,426 78,426" /><Baseline points="78,385 909,385" />
+                <Baseline points="899,380 98,386" />
+                <TextEquiv>
+                    <Unicode>بموجبه کلیه است و محشی بیان منعکس شدن بموجبه جزییه را در کلام مصنف نیافته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050557877_863" custom="readingOrder {index:2;}">
+                <Coords points="82,436 916,436 916,554 82,554" /><Baseline points="82,509 916,509" />
+                <Baseline points="905,510 87,505" />
+                <TextEquiv>
+                    <Unicode>است حکم کرده است به بدایتش تا مستلزم عذری باشد از قبل مص و نتوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050608741_869" custom="readingOrder {index:3;}">
+                <Coords points="104,570 930,570 930,675 104,675" /><Baseline points="104,635 930,635" />
+                <Baseline points="909,625 112,634" />
+                <TextEquiv>
+                    <Unicode>گفت که والا لزم سلب الشی عن نفسه دلیل انعکاس سالبه کلیه است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050668770_875" custom="readingOrder {index:4;}">
+                <Coords points="98,686 912,686 912,802 98,802" /><Baseline points="98,758 912,758" />
+                <Baseline points="902,750 103,750" />
+                <TextEquiv>
+                    <Unicode>و هم دلیل انعکاس موجبه که مص در یکجا ذکر کرده است تفاوتی نیست در سلب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050716928_881" custom="readingOrder {index:5;}">
+                <Coords points="96,808 918,808 918,923 96,923" /><Baseline points="96,879 918,879" />
+                <Baseline points="911,864 362,886 112,868" />
+                <TextEquiv>
+                    <Unicode>شییی از نفس لازم آمدن میانه سالبه کلیه و موجبه مثلا گوییم اگر کل حیوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050790300_887" custom="readingOrder {index:6;}">
+                <Coords points="102,933 916,933 916,1052 102,1052" /><Baseline points="102,1007 916,1007" />
+                <Baseline points="908,996 111,1007" />
+                <TextEquiv>
+                    <Unicode>انسان باشد بعض الحیوان انسان در عکس حق نباشد نقیضش که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050828610_893" custom="readingOrder {index:7;}">
+                <Coords points="95,1068 918,1068 918,1171 95,1171" /><Baseline points="95,1132 918,1132" />
+                <Baseline points="908,1116 102,1137" />
+                <TextEquiv>
+                    <Unicode>لا شی من الانسان بحیوان باشد حق خواهد بود و این نقیض را نیز چون باصل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050895500_901" custom="readingOrder {index:8;}">
+                <Coords points="99,1183 930,1183 930,1300 99,1300" /><Baseline points="99,1256 930,1256" />
+                <Baseline points="922,1232 124,1260" />
+                <TextEquiv>
+                    <Unicode>ضم شود سلب شییی از نفس لازم می آید و در کتب منطق بهمین طریق نیز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053777617_908" custom="readingOrder {index:9;}">
+                <Coords points="98,1305 929,1305 929,1427 98,1427" /><Baseline points="98,1381 929,1381" />
+                <Baseline points="918,1364 108,1388" />
+                <TextEquiv>
+                    <Unicode>بیان کرده اند انعکاس موجبه را وله وقس علیه الحال فی الشرطیات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053832544_918" custom="readingOrder {index:10;}">
+                <Coords points="99,1433 937,1433 937,1524 99,1524" /><Baseline points="99,1489 937,1489" />
+                <Baseline points="923,1486 107,1487" />
+                <TextEquiv>
+                    <Unicode>آه مراد شرطیه متصله است زیرا که اعتبارعکس را در منفصله نکرده اند بواسطه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053913664_924" custom="readingOrder {index:11;}">
+                <Coords points="94,1534 937,1534 937,1667 94,1667" /><Baseline points="94,1616 937,1616" />
+                <Baseline points="927,1600 103,1612" />
+                <TextEquiv>
+                    <Unicode>آنکه در منفصله حکم بتنافی دو قضیه است پس بمجرد تبدیل طرفین مفهوم نمیشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و دیگری آنکه بموجبه جزییه منعکس نمیشود و قول مص یعنی لجوازعموم المحمول دلیل منعکس نشدن
+بموجبه کلیه است و محشی بیان منعکس شدن بموجبه جزییه را در کلام مصنف نیافته
+است حکم کرده است به بدایتش تا مستلزم عذری باشد از قبل مص و نتوان
+گفت که والا لزم سلب الشی عن نفسه دلیل انعکاس سالبه کلیه است
+و هم دلیل انعکاس موجبه که مص در یکجا ذکر کرده است تفاوتی نیست در سلب
+شییی از نفس لازم آمدن میانه سالبه کلیه و موجبه مثلا گوییم اگر کل حیوان
+انسان باشد بعض الحیوان انسان در عکس حق نباشد نقیضش که
+لا شی من الانسان بحیوان باشد حق خواهد بود و این نقیض را نیز چون باصل
+ضم شود سلب شییی از نفس لازم می آید و در کتب منطق بهمین طریق نیز
+بیان کرده اند انعکاس موجبه را وله وقس علیه الحال فی الشرطیات
+آه مراد شرطیه متصله است زیرا که اعتبارعکس را در منفصله نکرده اند بواسطه
+آنکه در منفصله حکم بتنافی دو قضیه است پس بمجرد تبدیل طرفین مفهوم نمیشود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

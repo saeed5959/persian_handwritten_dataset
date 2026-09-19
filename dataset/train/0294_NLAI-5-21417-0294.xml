@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-16T21:33:27.314+03:30</Created>
+        <LastChange>2013-01-01T02:04:10.294+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0294_NLAI-5-21417-0294.jpg" imageWidth="1316" imageHeight="1825">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1356993250372" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1356992750984_1217" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1356992750984_1217" custom="readingOrder {index:0;}">
+            <Coords points="161,308 1040,308 1040,1657 161,1657" />
+            <TextLine id="line_1356992759174_1220" custom="readingOrder {index:0;}">
+                <Coords points="165,304 1028,304 1028,499 165,499" /><Baseline points="165,425 1028,425" />
+                <Baseline points="185,404 957,408" />
+                <TextEquiv>
+                    <Unicode>ان لیکن السباتق من واوویا والتصلاو من عروض عربا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356992862243_1227" custom="readingOrder {index:1;}">
+                <Coords points="181,523 1005,523 1005,702 181,702" /><Baseline points="181,634 1005,634" />
+                <Baseline points="201,579 969,618" />
+                <TextEquiv>
+                    <Unicode>فیا الوادا قلبن مدعنما و شد معطی غیر ما قدر سما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356992976825_1233" custom="readingOrder {index:2;}">
+                <Coords points="193,750 973,750 973,917 193,917" /><Baseline points="193,854 973,854" />
+                <Baseline points="221,829 961,837" />
+                <TextEquiv>
+                    <Unicode>من واوا ویا اتجریک صا الفاابدل بفد قح متصل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356993049225_1239" custom="readingOrder {index:3;}">
+                <Coords points="213,996 937,996 937,1179 213,1179" /><Baseline points="213,1109 937,1109" />
+                <Baseline points="189,1060 913,1096" />
+                <TextEquiv>
+                    <Unicode>ان حرک التالی و ان بکن کف اعلال غرااللام و هی لا تکف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356993128504_1245" custom="readingOrder {index:4;}">
+                <Coords points="205,1247 937,1247 937,1394 205,1394" /><Baseline points="205,1338 937,1338" />
+                <Baseline points="205,1314 929,1314" />
+                <TextEquiv>
+                    <Unicode>اعلابها ساکن غرالیف اوما التشد فهاقدا لف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356993198299_1252" custom="readingOrder {index:5;}">
+                <Coords points="233,1474 925,1474 925,1613 233,1613" /><Baseline points="233,1560 925,1560" />
+                <Baseline points="245,1549 901,1553" />
+                <TextEquiv>
+                    <Unicode>و صح عن فعل و فعلا داافعل کاغید وا حو لا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ان لیکن السباتق من واوویا والتصلاو من عروض عربا
+فیا الوادا قلبن مدعنما و شد معطی غیر ما قدر سما
+من واوا ویا اتجریک صا الفاابدل بفد قح متصل
+ان حرک التالی و ان بکن کف اعلال غرااللام و هی لا تکف
+اعلابها ساکن غرالیف اوما التشد فهاقدا لف
+و صح عن فعل و فعلا داافعل کاغید وا حو لا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

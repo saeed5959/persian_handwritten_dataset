@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.057+03:30</Created>
+        <LastChange>2026-06-26T16:00:00.843+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0118_NLAI-5-15801-0118.jpg" imageWidth="1091" imageHeight="1793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782477000855" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782330198427_647" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782330198427_647" custom="readingOrder {index:0;}">
+            <Coords points="75,149 982,149 982,1787 75,1787" />
+            <TextLine id="line_1782330206800_655" custom="readingOrder {index:0;}">
+                <Coords points="86,204 928,204 928,315 86,315" /><Baseline points="86,273 928,273" />
+                <Baseline points="102,277 909,283" />
+                <TextEquiv>
+                    <Unicode>و هرگاه مقید سازند بلا دوام وصفی این معنی دارد که نسبت تحرک اصابع دایمی نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330208698_658" custom="readingOrder {index:1;}">
+                <Coords points="88,328 915,328 915,435 88,435" /><Baseline points="88,394 915,394" />
+                <Baseline points="114,389 909,387" />
+                <TextEquiv>
+                    <Unicode>پس حقیقه حکم است بفعلیت خلاف ان نسبت در حین وصف دیکر بدانکه همچنانکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330210755_661" custom="readingOrder {index:2;}">
+                <Coords points="92,470 943,470 943,546 92,546" /><Baseline points="92,517 943,517" />
+                <Baseline points="133,521 920,517" />
+                <TextEquiv>
+                    <Unicode>ضرورت را بمعنی ضرورت ذاتا استعمال میکنند هم چنین بمعنی ضرورت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330212615_664" custom="readingOrder {index:3;}">
+                <Coords points="106,574 921,574 921,670 106,670" /><Baseline points="106,634 921,634" />
+                <Baseline points="118,630 917,626" />
+                <TextEquiv>
+                    <Unicode>ازلی نیز استعمال میکنند و مراد از ضروت ازلی حکم بضرورت نسبت است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330214450_667" custom="readingOrder {index:4;}">
+                <Coords points="84,681 939,681 939,808 84,808" /><Baseline points="84,760 939,760" />
+                <Baseline points="106,768 917,753" />
+                <TextEquiv>
+                    <Unicode>از لا مثل الواجب و عالم بالضروره الازلیه یعنی عالمیت در ازل ضروریست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330216355_670" custom="readingOrder {index:5;}">
+                <Coords points="92,825 948,825 948,917 92,917" /><Baseline points="92,882 948,882" />
+                <Baseline points="135,883 932,877" />
+                <TextEquiv>
+                    <Unicode>از برای واجب و نسبت میانه ضرورت ازلی و ضرورت ذاتا عموم و خصوص</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330218142_673" custom="readingOrder {index:6;}">
+                <Coords points="88,947 948,947 948,1033 88,1033" /><Baseline points="88,1000 948,1000" />
+                <Baseline points="119,1009 918,1002" />
+                <TextEquiv>
+                    <Unicode>من وجه است ماده اجنماع الواجب موجود بالضروره زیراکه موجودیه نظر هم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330220259_676" custom="readingOrder {index:7;}">
+                <Coords points="103,1067 945,1067 945,1174 103,1174" /><Baseline points="103,1133 945,1133" />
+                <Baseline points="123,1138 932,1130" />
+                <TextEquiv>
+                    <Unicode>بذات واجب الوجود ضروری است و هم ضرورت نسبت بذات واجب در ازل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330222194_679" custom="readingOrder {index:8;}">
+                <Coords points="108,1196 948,1196 948,1303 108,1303" /><Baseline points="108,1262 948,1262" />
+                <Baseline points="127,1257 932,1247" />
+                <TextEquiv>
+                    <Unicode>و ماده افتراق ضرورت ذاتا کل انسان حیوان بالضرورت بواسطه انکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330224190_682" custom="readingOrder {index:9;}">
+                <Coords points="112,1323 948,1323 948,1425 112,1425" /><Baseline points="112,1386 948,1386" />
+                <Baseline points="133,1375 928,1362" />
+                <TextEquiv>
+                    <Unicode>نسبت حیوانیه بذات هر فرد انسان ضروری است اما در ازل ضروری</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330226433_685" custom="readingOrder {index:10;}">
+                <Coords points="95,1423 948,1423 948,1534 95,1534" /><Baseline points="95,1492 948,1492" />
+                <Baseline points="114,1479 932,1486" />
+                <TextEquiv>
+                    <Unicode>نیست بواسطه انکه افراد انسان در ازل موجود نیستند تا حیوانیت از برای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330228684_688" custom="readingOrder {index:11;}">
+                <Coords points="95,1545 961,1545 961,1702 95,1702" /><Baseline points="95,1642 961,1642" />
+                <Baseline points="121,1600 941,1605" />
+                <TextEquiv>
+                    <Unicode>انها ضروری باشد و ماده افتراق ضرورت ازلی العقل موجود بالضروره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330236435_696" custom="readingOrder {index:12;}">
+                <Coords points="193,1680 317,1680 317,1787 193,1787" /><Baseline points="193,1746 317,1746" />
+                <Baseline points="230,1759 294,1733" />
+                <TextEquiv>
+                    <Unicode>الازلیه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و هرگاه مقید سازند بلا دوام وصفی این معنی دارد که نسبت تحرک اصابع دایمی نیست
+پس حقیقه حکم است بفعلیت خلاف ان نسبت در حین وصف دیکر بدانکه همچنانکه
+ضرورت را بمعنی ضرورت ذاتا استعمال میکنند هم چنین بمعنی ضرورت
+ازلی نیز استعمال میکنند و مراد از ضروت ازلی حکم بضرورت نسبت است
+از لا مثل الواجب و عالم بالضروره الازلیه یعنی عالمیت در ازل ضروریست
+از برای واجب و نسبت میانه ضرورت ازلی و ضرورت ذاتا عموم و خصوص
+من وجه است ماده اجنماع الواجب موجود بالضروره زیراکه موجودیه نظر هم
+بذات واجب الوجود ضروری است و هم ضرورت نسبت بذات واجب در ازل
+و ماده افتراق ضرورت ذاتا کل انسان حیوان بالضرورت بواسطه انکه
+نسبت حیوانیه بذات هر فرد انسان ضروری است اما در ازل ضروری
+نیست بواسطه انکه افراد انسان در ازل موجود نیستند تا حیوانیت از برای
+انها ضروری باشد و ماده افتراق ضرورت ازلی العقل موجود بالضروره
+الازلیه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:43.557+03:30</Created>
+        <LastChange>2026-06-21T18:59:47.847+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0017_NLAI-5-11187-0016.jpg" imageWidth="859" imageHeight="1505">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782055787925" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782054844050_473" />
+                <RegionRefIndexed index="1" regionRef="region_1782054921696_484" />
+                <RegionRefIndexed index="2" regionRef="region_1782055039534_495" />
+                <RegionRefIndexed index="3" regionRef="region_1782055248818_506" />
+                <RegionRefIndexed index="4" regionRef="region_1782055434673_517" />
+                <RegionRefIndexed index="5" regionRef="region_1782055629380_531" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782054844050_473" custom="readingOrder {index:0;}">
+            <Coords points="136,401 415,401 415,548 136,548" />
+            <TextLine id="line_1782054850832_476" custom="readingOrder {index:0;}">
+                <Coords points="137,401 417,401 417,475 137,475" /><Baseline points="137,447 417,447" />
+                <TextEquiv>
+                    <Unicode>بقیه العمر لا قیمه لها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782054885145_480" custom="readingOrder {index:1;}">
+                <Coords points="138,473 417,473 417,547 138,547" /><Baseline points="138,519 417,519" />
+                <TextEquiv>
+                    <Unicode>باقی مانده عمر را قیمت نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بقیه العمر لا قیمه لها
+باقی مانده عمر را قیمت نیست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782054921696_484" custom="readingOrder {index:1;}">
+            <Coords points="36,546 515,546 515,724 36,724" />
+            <TextLine id="line_1782054929336_487" custom="readingOrder {index:0;}">
+                <Coords points="36,546 518,546 518,646 36,646" /><Baseline points="36,608 518,608" />
+                <TextEquiv>
+                    <Unicode>برنگردد چو عمر رفته دگر که گذشته گذشته در هر باب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782054986109_491" custom="readingOrder {index:1;}">
+                <Coords points="36,644 513,644 513,723 36,723" /><Baseline points="36,693 513,693" />
+                <TextEquiv>
+                    <Unicode>باقی عمر را نمی باشد قیمت آن دگر بحد حساب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>برنگردد چو عمر رفته دگر که گذشته گذشته در هر باب
+باقی عمر را نمی باشد قیمت آن دگر بحد حساب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782055039534_495" custom="readingOrder {index:2;}">
+            <Coords points="133,722 411,722 411,872 133,872" />
+            <TextLine id="line_1782055049784_498" custom="readingOrder {index:0;}">
+                <Coords points="133,722 413,722 413,785 133,785" /><Baseline points="133,761 413,761" />
+                <TextEquiv>
+                    <Unicode>تدارک فی آخرالعمر مافاتک فی اوله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782055096213_502" custom="readingOrder {index:1;}">
+                <Coords points="133,784 413,784 413,871 133,871" /><Baseline points="133,838 413,838" />
+                <TextEquiv>
+                    <Unicode>تدارک کن در آخرعمرآنچه از تو فوتشده در اول آن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تدارک فی آخرالعمر مافاتک فی اوله
+تدارک کن در آخرعمرآنچه از تو فوتشده در اول آن</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782055248818_506" custom="readingOrder {index:3;}">
+            <Coords points="34,868 509,868 509,1044 34,1044" />
+            <TextLine id="line_1782055261460_509" custom="readingOrder {index:0;}">
+                <Coords points="34,867 509,867 509,957 34,957" /><Baseline points="34,923 509,923" />
+                <TextEquiv>
+                    <Unicode>تو که شد نقد عمر تااکنون صرف عصیان بآنچه بدرایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782055357295_513" custom="readingOrder {index:1;}">
+                <Coords points="34,957 509,958 509,1043 35,1041" /><Baseline points="34,1010 509,1010" />
+                <TextEquiv>
+                    <Unicode>تا بود مهلتی تدارک کن آنچه را فوت کشته تا غایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تو که شد نقد عمر تااکنون صرف عصیان بآنچه بدرایت
+تا بود مهلتی تدارک کن آنچه را فوت کشته تا غایت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782055434673_517" custom="readingOrder {index:4;}">
+            <Coords points="129,1044 409,1044 409,1197 127,1190" />
+            <TextLine id="line_1782055441846_520" custom="readingOrder {index:0;}">
+                <Coords points="127,1043 407,1043 407,1122 127,1122" /><Baseline points="127,1092 407,1092" />
+                <TextEquiv>
+                    <Unicode>تکاهل المر فی الصلوه من ضعف الایمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782055524354_525" custom="readingOrder {index:1;}">
+                <Coords points="129,1121 409,1121 409,1196 127,1190" /><Baseline points="127,1168 409,1168" />
+                <TextEquiv>
+                    <Unicode>کاهلی مرد درنماز از ضعف ایمان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تکاهل المر فی الصلوه من ضعف الایمان
+کاهلی مرد درنماز از ضعف ایمان است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782055629380_531" custom="readingOrder {index:5;}">
+            <Coords points="28,1192 504,1203 504,1349 28,1352" />
+            <TextLine id="line_1782055655286_535" custom="readingOrder {index:0;}">
+                <Coords points="30,1193 502,1193 502,1279 30,1279" /><Baseline points="30,1246 502,1246" />
+                <TextEquiv>
+                    <Unicode>تابود در نماز کاهل مرد ضعف ایمان ورابودعلت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782055711291_539" custom="readingOrder {index:1;}">
+                <Coords points="30,1277 507,1277 507,1350 30,1350" /><Baseline points="30,1322 507,1322" />
+                <TextEquiv>
+                    <Unicode>تقویت چون نمود ایمان را بعبادت فزایدش رغبت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تابود در نماز کاهل مرد ضعف ایمان ورابودعلت
+تقویت چون نمود ایمان را بعبادت فزایدش رغبت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:30.749-07:00</Created>
+        <LastChange>2026-06-21T07:42:14.974-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0065_NLAI-5-15801-0065.jpg" imageWidth="1090" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782052935037" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782035897534_1324" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782035897534_1324" custom="readingOrder {index:0;}">
+            <Coords points="1011,1650 128,1650 128,177 1011,177" />
+            <TextLine id="line_1782035921845_1327" custom="readingOrder {index:0;}">
+                <Coords points="192,183 1005,183 1005,287 192,287" /><Baseline points="192,247 1005,247" />
+                <Baseline points="997,248 201,242" />
+                <TextEquiv>
+                    <Unicode>زیرا که دلالت بر جز است ازین حیثیت که لازم جز دیگر است و اما التزام بواسطه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782035931829_1330" custom="readingOrder {index:1;}">
+                <Coords points="185,291 1012,291 1012,388 185,388" /><Baseline points="185,351 1012,351" />
+                <Baseline points="993,365 199,345" />
+                <TextEquiv>
+                    <Unicode>انکه دلالت بر خارج موضوع له نیست بلکه دلالت است برجز موضوع له و جمعی از</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782035938720_1333" custom="readingOrder {index:2;}">
+                <Coords points="183,384 1001,384 1001,520 183,520" /><Baseline points="183,468 1001,468" />
+                <Baseline points="991,494 196,468" />
+                <TextEquiv>
+                    <Unicode>مدققین مثل مولانا میرزاجان و غیره چنین جواب گفته اند که لفظ درینحالت دلالت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782035943688_1336" custom="readingOrder {index:3;}">
+                <Coords points="179,514 996,514 996,654 179,654" /><Baseline points="179,601 996,601" />
+                <Baseline points="988,611 194,593" />
+                <TextEquiv>
+                    <Unicode>نمیکنند بر ضو بواسطه دلالت برجرم بلکه دلالت میکند بر ان بواسطه انکه جز موضوع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782035950829_1339" custom="readingOrder {index:4;}">
+                <Coords points="176,645 992,645 992,785 176,785" /><Baseline points="176,732 992,732" />
+                <Baseline points="982,736 192,716" />
+                <TextEquiv>
+                    <Unicode>له است زیرا که جرم درینحالت مفهوم است به تبعیت کل و فهم ملزوم بالتبع لازم ندارد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782035958032_1342" custom="readingOrder {index:5;}">
+                <Coords points="176,760 992,760 992,911 176,911" /><Baseline points="176,854 992,854" />
+                <Baseline points="978,857 190,842" />
+                <TextEquiv>
+                    <Unicode>فهم لازم را و لکن مخفی نیست که منع استلزام فهم بالتبع ملزوم فهم لازم را در همه موارد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782035969187_1345" custom="readingOrder {index:6;}">
+                <Coords points="166,859 990,859 990,1010 166,1010" /><Baseline points="166,953 990,953" />
+                <Baseline points="975,984 183,941" />
+                <TextEquiv>
+                    <Unicode>بصورت است زیرا که هرگاه لفظی موضوع باشد مثلا از برای مجموع و کوسنجی دلالتش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782035981640_1348" custom="readingOrder {index:7;}">
+                <Coords points="166,1003 988,1003 988,1133 166,1133" /><Baseline points="166,1084 988,1084" />
+                <Baseline points="196,1070 637,1107 973,1107" />
+                <TextEquiv>
+                    <Unicode>بر هر یک ازین دو جنس جز بالتبع باشد زیا که تضمین است و حال انکه از فهم عمی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782035992671_1351" custom="readingOrder {index:8;}">
+                <Coords points="156,1126 982,1126 982,1281 156,1281" /><Baseline points="156,1222 982,1222" />
+                <Baseline points="971,1226 168,1195" />
+                <TextEquiv>
+                    <Unicode>لازم میآید فهم بصر که خارج لازم است و هم چنین کوسنجی لازم میآید بابدیهه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782036000546_1354" custom="readingOrder {index:9;}">
+                <Coords points="158,1253 976,1253 976,1402 158,1402" /><Baseline points="158,1345 976,1345" />
+                <Baseline points="962,1357 172,1314" />
+                <TextEquiv>
+                    <Unicode>فهم لحیه که خارج لازم است پس اگر ماده نقص اورده شود در لفظی که موضوع باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782036007295_1357" custom="readingOrder {index:10;}">
+                <Coords points="154,1354 976,1354 976,1501 154,1501" /><Baseline points="154,1445 976,1445" />
+                <Baseline points="964,1467 166,1426" />
+                <TextEquiv>
+                    <Unicode>از برای مجموع لازم و ملزوم چنین مذکور در مرتبه مکابره خواهد بود چنانکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782036012920_1360" custom="readingOrder {index:11;}">
+                <Coords points="143,1454 978,1454 978,1615 143,1615" /><Baseline points="143,1554 978,1554" />
+                <Baseline points="966,1584 162,1554" />
+                <TextEquiv>
+                    <Unicode>ظاهر است بر صاحبان انصاف دیگر جواب گفته اند که دلالت مذکور در تحت تضمن است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>زیرا که دلالت بر جز است ازین حیثیت که لازم جز دیگر است و اما التزام بواسطه
+انکه دلالت بر خارج موضوع له نیست بلکه دلالت است برجز موضوع له و جمعی از
+مدققین مثل مولانا میرزاجان و غیره چنین جواب گفته اند که لفظ درینحالت دلالت
+نمیکنند بر ضو بواسطه دلالت برجرم بلکه دلالت میکند بر ان بواسطه انکه جز موضوع
+له است زیرا که جرم درینحالت مفهوم است به تبعیت کل و فهم ملزوم بالتبع لازم ندارد
+فهم لازم را و لکن مخفی نیست که منع استلزام فهم بالتبع ملزوم فهم لازم را در همه موارد
+بصورت است زیرا که هرگاه لفظی موضوع باشد مثلا از برای مجموع و کوسنجی دلالتش
+بر هر یک ازین دو جنس جز بالتبع باشد زیا که تضمین است و حال انکه از فهم عمی
+لازم میآید فهم بصر که خارج لازم است و هم چنین کوسنجی لازم میآید بابدیهه
+فهم لحیه که خارج لازم است پس اگر ماده نقص اورده شود در لفظی که موضوع باشد
+از برای مجموع لازم و ملزوم چنین مذکور در مرتبه مکابره خواهد بود چنانکه
+ظاهر است بر صاحبان انصاف دیگر جواب گفته اند که دلالت مذکور در تحت تضمن است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

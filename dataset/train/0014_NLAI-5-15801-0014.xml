@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-27T18:30:08.878+03:30</Created>
+        <LastChange>2026-07-01T12:10:10.180+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0014_NLAI-5-15801-0014.jpg" imageWidth="1067" imageHeight="1776">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782895210212" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782893669192_424" />
+                <RegionRefIndexed index="1" regionRef="region_1782893689885_433" />
+                <RegionRefIndexed index="2" regionRef="region_1782893711431_442" />
+                <RegionRefIndexed index="3" regionRef="region_1782893735954_451" />
+                <RegionRefIndexed index="4" regionRef="region_1782893761318_460" />
+                <RegionRefIndexed index="5" regionRef="region_1782893780053_469" />
+                <RegionRefIndexed index="6" regionRef="region_1782893799201_478" />
+                <RegionRefIndexed index="7" regionRef="region_1782893842343_495" />
+                <RegionRefIndexed index="8" regionRef="region_1782893864331_504" />
+                <RegionRefIndexed index="9" regionRef="region_1782893883590_513" />
+                <RegionRefIndexed index="10" regionRef="region_1782894174646_522" />
+                <RegionRefIndexed index="11" regionRef="region_1782894197611_531" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782893669192_424" custom="readingOrder {index:0;}">
+            <Coords points="61,154 938,154 938,285 61,285" />
+            <TextLine id="line_1782893674694_427" custom="readingOrder {index:0;}">
+                <Coords points="58,157 938,157 938,285 58,285" /><Baseline points="58,236 938,236" />
+                <Baseline points="84,230 890,233" />
+                <TextEquiv>
+                    <Unicode>اولا دلالت نمیکند و از این دلیل ظاهر نمیشود و انکه میکویند علم نیست از جمله دلالتش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اولا دلالت نمیکند و از این دلیل ظاهر نمیشود و انکه میکویند علم نیست از جمله دلالتش</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893689885_433" custom="readingOrder {index:1;}">
+            <Coords points="60,296 931,296 931,397 60,397" />
+            <TextLine id="line_1782893696940_436" custom="readingOrder {index:0;}">
+                <Coords points="54,297 933,297 933,402 54,402" /><Baseline points="54,362 933,362" />
+                <Baseline points="108,337 879,338" />
+                <TextEquiv>
+                    <Unicode>یکی این است که میگویند وقتی چیزی را علم انذات میتوان کرد که انذا تر بدون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یکی این است که میگویند وقتی چیزی را علم انذات میتوان کرد که انذا تر بدون</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893711431_442" custom="readingOrder {index:2;}">
+            <Coords points="47,388 929,388 929,519 47,519" />
+            <TextLine id="line_1782893719162_445" custom="readingOrder {index:0;}">
+                <Coords points="42,382 935,382 935,525 42,525" /><Baseline points="42,471 935,471" />
+                <Baseline points="80,456 912,453" />
+                <TextEquiv>
+                    <Unicode>صفت تعقل توان کرد زیرا که علم از برای ذات است با صفت و محال است که تعقل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>صفت تعقل توان کرد زیرا که علم از برای ذات است با صفت و محال است که تعقل</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893735954_451" custom="readingOrder {index:3;}">
+            <Coords points="59,535 934,535 934,628 59,628" />
+            <TextLine id="line_1782893743675_454" custom="readingOrder {index:0;}">
+                <Coords points="56,537 943,537 943,631 56,631" /><Baseline points="56,595 943,595" />
+                <Baseline points="104,612 897,573" />
+                <TextEquiv>
+                    <Unicode>کند انذات را ملاحضه صفتی از صفات بلکه انچه تعقل کرده میشود صفات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کند انذات را ملاحضه صفتی از صفات بلکه انچه تعقل کرده میشود صفات</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893761318_460" custom="readingOrder {index:4;}">
+            <Coords points="75,643 921,643 921,763 75,763" />
+            <TextLine id="line_1782893767056_463" custom="readingOrder {index:0;}">
+                <Coords points="72,643 927,643 927,764 72,764" /><Baseline points="72,718 927,718" />
+                <Baseline points="103,686 897,701" />
+                <TextEquiv>
+                    <Unicode>انذات است و جوابش کقه شده که لازم نیست در علم ساحتن اسمی از برای ان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>انذات است و جوابش کقه شده که لازم نیست در علم ساحتن اسمی از برای ان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893780053_469" custom="readingOrder {index:5;}">
+            <Coords points="77,785 915,785 915,867 77,867" />
+            <TextLine id="line_1782893786411_472" custom="readingOrder {index:0;}">
+                <Coords points="83,777 933,777 933,874 83,874" /><Baseline points="83,837 933,837" />
+                <Baseline points="108,843 914,823" />
+                <TextEquiv>
+                    <Unicode>ذات تعقل انذات نه از راه صفت بلکه از راه صفات کافی است و هم چنین جواب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ذات تعقل انذات نه از راه صفت بلکه از راه صفات کافی است و هم چنین جواب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893799201_478" custom="readingOrder {index:6;}">
+            <Coords points="80,888 952,888 952,1022 80,1022" />
+            <TextLine id="line_1782893815518_484" custom="readingOrder {index:0;}">
+                <Coords points="49,1018 956,1018 956,891 49,891" /><Baseline points="49,970 956,970" />
+                <Baseline points="104,976 904,939" />
+                <TextEquiv>
+                    <Unicode>کقه شده که شاید که انذات خودش تعقل ذات خود کرده و وضع کرده باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کقه شده که شاید که انذات خودش تعقل ذات خود کرده و وضع کرده باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893842343_495" custom="readingOrder {index:7;}">
+            <Coords points="88,1045 980,1045 980,1120 88,1120" />
+            <TextLine id="line_1782893848529_498" custom="readingOrder {index:0;}">
+                <Coords points="77,1025 976,1025 976,1124 77,1124" /><Baseline points="77,1086 976,1086" />
+                <Baseline points="116,1084 910,1076" />
+                <TextEquiv>
+                    <Unicode>ان لفظ را از برای خودش چنانکه هست کرده بدون بودن صفت لکن چون هرچه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ان لفظ را از برای خودش چنانکه هست کرده بدون بودن صفت لکن چون هرچه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893864331_504" custom="readingOrder {index:8;}">
+            <Coords points="103,1140 935,1140 935,1243 103,1243" />
+            <TextLine id="line_1782893869637_507" custom="readingOrder {index:0;}">
+                <Coords points="104,1139 949,1139 949,1245 104,1245" /><Baseline points="104,1205 949,1205" />
+                <Baseline points="130,1199 919,1184" />
+                <TextEquiv>
+                    <Unicode>هست علمی دارد پس ظاهر ان که انذات هم که علمی داشته باشد و انچه صلاحیت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>هست علمی دارد پس ظاهر ان که انذات هم که علمی داشته باشد و انچه صلاحیت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893883590_513" custom="readingOrder {index:9;}">
+            <Coords points="74,1249 945,1249 945,1377 74,1377" />
+            <TextLine id="line_1782894157537_516" custom="readingOrder {index:0;}">
+                <Coords points="78,1246 950,1246 950,1377 78,1377" /><Baseline points="78,1327 950,1327" />
+                <Baseline points="115,1317 910,1303" />
+                <TextEquiv>
+                    <Unicode>علم بودن دارد در میان اسمایی که در شرع اطلاق بر ان ذات کرده اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>علم بودن دارد در میان اسمایی که در شرع اطلاق بر ان ذات کرده اند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782894174646_522" custom="readingOrder {index:10;}">
+            <Coords points="89,1388 926,1388 926,1500 89,1500" />
+            <TextLine id="line_1782894181123_525" custom="readingOrder {index:0;}">
+                <Coords points="86,1386 931,1386 931,1496 86,1496" /><Baseline points="86,1454 931,1454" />
+                <Baseline points="119,1441 916,1420" />
+                <TextEquiv>
+                    <Unicode>لفظ الله است زیرا که صفت بودن باقی اسما مثل حی و رحمان و رحیم و غیر این ها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>لفظ الله است زیرا که صفت بودن باقی اسما مثل حی و رحمان و رحیم و غیر این ها</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782894197611_531" custom="readingOrder {index:11;}">
+            <Coords points="84,1513 923,1513 923,1610 84,1610" />
+            <TextLine id="line_1782894202944_534" custom="readingOrder {index:0;}">
+                <Coords points="85,1517 926,1517 926,1614 85,1614" /><Baseline points="85,1577 926,1577" />
+                <Baseline points="121,1571 910,1543" />
+                <TextEquiv>
+                    <Unicode>ظاهر است و هم چنین در هر لعنتی انذات علمی دارد چنان که د رفارسی یزدان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ظاهر است و هم چنین در هر لعنتی انذات علمی دارد چنان که د رفارسی یزدان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

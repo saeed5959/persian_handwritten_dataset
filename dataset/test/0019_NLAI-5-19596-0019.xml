@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:17.179+03:30</Created>
+        <LastChange>2026-06-20T10:02:09.603+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0019_NLAI-5-19596-0019.jpg" imageWidth="1516" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781937129643" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781907324414_3316" />
+                <RegionRefIndexed index="1" regionRef="region_1781907328749_3319" />
+                <RegionRefIndexed index="2" regionRef="region_1781907331714_3322" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781907324414_3316" custom="readingOrder {index:0;}">
+            <Coords points="424,449 1461,449 1461,1157 424,1157" />
+            <TextLine id="line_1781907347098_3325" custom="readingOrder {index:0;}">
+                <Coords points="462,495 915,495 915,614 462,614" /><Baseline points="462,569 915,569" />
+                <Baseline points="496,562 889,560" />
+                <TextEquiv>
+                    <Unicode>که گنجهاست درین بیسری و سامانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907358427_3331" custom="readingOrder {index:1;}">
+                <Coords points="993,507 1438,507 1438,630 993,630" /><Baseline points="993,583 1438,583" />
+                <Baseline points="1003,574 1426,571" />
+                <TextEquiv>
+                    <Unicode>بهم نشینی رندان سری فرود آور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907399472_3351" custom="readingOrder {index:2;}">
+                <Coords points="985,596 1429,596 1429,750 985,750" /><Baseline points="985,691 1429,691" />
+                <Baseline points="1016,673 1418,682" />
+                <TextEquiv>
+                    <Unicode>بیار باده رنگین که صد حکایت خوش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907389849_3345" custom="readingOrder {index:3;}">
+                <Coords points="462,630 913,630 913,744 462,744" /><Baseline points="462,701 913,701" />
+                <Baseline points="496,691 890,691" />
+                <TextEquiv>
+                    <Unicode>بگویم و نکنم رخنه در مسلمانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907407947_3357" custom="readingOrder {index:4;}">
+                <Coords points="467,743 902,743 902,869 467,869" /><Baseline points="467,821 902,821" />
+                <Baseline points="482,820 884,816" />
+                <TextEquiv>
+                    <Unicode>که زیر خرقه ز نار داشت پنهانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907415387_3363" custom="readingOrder {index:5;}">
+                <Coords points="990,755 1430,755 1430,903 990,903" /><Baseline points="990,847 1430,847" />
+                <Baseline points="999,835 1423,833" />
+                <TextEquiv>
+                    <Unicode>به هیچ زاهد ظاهر فروش ننشستم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907424780_3369" custom="readingOrder {index:6;}">
+                <Coords points="465,872 918,872 918,1009 465,1009" /><Baseline points="465,957 918,957" />
+                <Baseline points="476,954 902,952" />
+                <TextEquiv>
+                    <Unicode>که تا خدات نگهدار از پریشانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907433224_3375" custom="readingOrder {index:7;}">
+                <Coords points="993,903 1442,903 1442,1023 993,1023" /><Baseline points="993,977 1442,977" />
+                <Baseline points="1028,980 1427,982" />
+                <TextEquiv>
+                    <Unicode>بیاد طر دلبند خویش خیری کن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907450082_3387" custom="readingOrder {index:8;}">
+                <Coords points="990,1023 1429,1023 1429,1164 990,1164" /><Baseline points="990,1110 1429,1110" />
+                <Baseline points="1009,1105 1415,1111" />
+                <TextEquiv>
+                    <Unicode>مگیر چشم عنایت زحال حافظ باز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907441977_3381" custom="readingOrder {index:9;}">
+                <Coords points="457,1025 910,1025 910,1155 457,1155" /><Baseline points="457,1106 910,1106" />
+                <Baseline points="479,1106 901,1109" />
+                <TextEquiv>
+                    <Unicode>وگرنه حال بگویم بآصف ثانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که گنجهاست درین بیسری و سامانی
+بهم نشینی رندان سری فرود آور
+بیار باده رنگین که صد حکایت خوش
+بگویم و نکنم رخنه در مسلمانی
+که زیر خرقه ز نار داشت پنهانی
+به هیچ زاهد ظاهر فروش ننشستم
+که تا خدات نگهدار از پریشانی
+بیاد طر دلبند خویش خیری کن
+مگیر چشم عنایت زحال حافظ باز
+وگرنه حال بگویم بآصف ثانی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781907328749_3319" custom="readingOrder {index:1;}">
+            <Coords points="655,1163 1193,1163 1193,1452 655,1452" />
+            <TextLine id="line_1781907459996_3393" custom="readingOrder {index:0;}">
+                <Coords points="668,1161 1180,1161 1180,1317 668,1317" /><Baseline points="668,1258 1180,1258" />
+                <Baseline points="689,1258 1169,1256" />
+                <TextEquiv>
+                    <Unicode>وزیر شاه نشان خواجه زمین و زمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907469993_3399" custom="readingOrder {index:1;}">
+                <Coords points="666,1322 1157,1322 1157,1451 666,1451" /><Baseline points="666,1402 1157,1402" />
+                <Baseline points="677,1397 1142,1394" />
+                <TextEquiv>
+                    <Unicode>که خرم است باو حال انسی و جانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>وزیر شاه نشان خواجه زمین و زمان
+که خرم است باو حال انسی و جانی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781907331714_3322" custom="readingOrder {index:2;}">
+            <Coords points="438,1440 1453,1440 1453,2602 438,2602" />
+            <TextLine id="line_1781907479609_3405" custom="readingOrder {index:0;}">
+                <Coords points="444,1457 908,1457 908,1599 444,1599" /><Baseline points="444,1545 908,1545" />
+                <Baseline points="465,1540 892,1537" />
+                <TextEquiv>
+                    <Unicode>که میدرخشدش از چهره نور یزدانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907487622_3411" custom="readingOrder {index:1;}">
+                <Coords points="997,1467 1421,1467 1421,1618 997,1618" /><Baseline points="997,1561 1421,1561" />
+                <Baseline points="1021,1554 1411,1551" />
+                <TextEquiv>
+                    <Unicode>قوام دولت و دنیا محمدبن علی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907496679_3417" custom="readingOrder {index:2;}">
+                <Coords points="448,1608 905,1608 905,1738 448,1738" /><Baseline points="448,1689 905,1689" />
+                <Baseline points="479,1678 895,1688" />
+                <TextEquiv>
+                    <Unicode>ترا رسد که کنی دعوی سلیمانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907506183_3423" custom="readingOrder {index:3;}">
+                <Coords points="991,1618 1432,1618 1432,1735 991,1735" /><Baseline points="991,1691 1432,1691" />
+                <Baseline points="1002,1678 1412,1675" />
+                <TextEquiv>
+                    <Unicode>زهی حمیده خصالی که گاه فکر و صواب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907522926_3429" custom="readingOrder {index:4;}">
+                <Coords points="449,1758 915,1758 915,1885 449,1885" /><Baseline points="449,1837 915,1837" />
+                <Baseline points="470,1833 895,1835" />
+                <TextEquiv>
+                    <Unicode>که همتت نبرد نام عالم فانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907530991_3435" custom="readingOrder {index:5;}">
+                <Coords points="990,1774 1432,1774 1432,1881 990,1881" /><Baseline points="990,1840 1432,1840" />
+                <Baseline points="1014,1845 1410,1838" />
+                <TextEquiv>
+                    <Unicode>طراز دولت باقی ترا همی زیبد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907546794_3447" custom="readingOrder {index:6;}">
+                <Coords points="989,1884 1429,1884 1429,2040 989,2040" /><Baseline points="989,1981 1429,1981" />
+                <Baseline points="1011,1971 1427,1965" />
+                <TextEquiv>
+                    <Unicode>تویی که صورت جسم ترا هیولا نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907538751_3441" custom="readingOrder {index:7;}">
+                <Coords points="446,1897 909,1897 909,2044 446,2044" /><Baseline points="446,1988 909,1988" />
+                <Baseline points="470,1977 900,1976" />
+                <TextEquiv>
+                    <Unicode>چو جوهر ملکی در لباس انسانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907555977_3453" custom="readingOrder {index:8;}">
+                <Coords points="441,2040 904,2040 904,2179 441,2179" /><Baseline points="441,2126 904,2126" />
+                <Baseline points="456,2114 887,2115" />
+                <TextEquiv>
+                    <Unicode>که در ممالک فطرت نه برتر از انی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907564108_3459" custom="readingOrder {index:9;}">
+                <Coords points="1001,2043 1440,2043 1440,2172 1001,2172" /><Baseline points="1001,2123 1440,2123" />
+                <Baseline points="1016,2121 1416,2117" />
+                <TextEquiv>
+                    <Unicode>کدام مایه ز تعظیم نصب شاید کرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907587663_3471" custom="readingOrder {index:10;}">
+                <Coords points="996,2175 1419,2175 1419,2325 996,2325" /><Baseline points="996,2268 1419,2268" />
+                <Baseline points="1004,2255 1424,2263" />
+                <TextEquiv>
+                    <Unicode>درون خلوت کرو بیان عالم قدس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907579646_3465" custom="readingOrder {index:11;}">
+                <Coords points="461,2181 900,2181 900,2325 461,2325" /><Baseline points="461,2270 900,2270" />
+                <Baseline points="461,2258 900,2258" />
+                <TextEquiv>
+                    <Unicode>صریر کلک تو باشد سماع روحانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907595467_3477" custom="readingOrder {index:12;}">
+                <Coords points="459,2318 910,2318 910,2458 459,2458" /><Baseline points="459,2405 910,2405" />
+                <Baseline points="465,2402 887,2405" />
+                <TextEquiv>
+                    <Unicode>تبارک الله ازین کارساز روحانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907604907_3483" custom="readingOrder {index:13;}">
+                <Coords points="980,2319 1431,2319 1431,2476 980,2476" /><Baseline points="980,2416 1431,2416" />
+                <Baseline points="995,2407 1410,2405" />
+                <TextEquiv>
+                    <Unicode>سوابق کرمت را چگونه شرح دهم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907613837_3489" custom="readingOrder {index:14;}">
+                <Coords points="447,2453 910,2453 910,2588 447,2588" /><Baseline points="447,2537 910,2537" />
+                <Baseline points="456,2519 891,2524" />
+                <TextEquiv>
+                    <Unicode>نعوذ بالله از ان فشهای طوفانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907623780_3495" custom="readingOrder {index:15;}">
+                <Coords points="983,2472 1425,2472 1425,2589 983,2589" /><Baseline points="983,2545 1425,2545" />
+                <Baseline points="1001,2536 1412,2537" />
+                <TextEquiv>
+                    <Unicode>صواعق سخطت را نمیتوانم گفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که میدرخشدش از چهره نور یزدانی
+قوام دولت و دنیا محمدبن علی
+ترا رسد که کنی دعوی سلیمانی
+زهی حمیده خصالی که گاه فکر و صواب
+که همتت نبرد نام عالم فانی
+طراز دولت باقی ترا همی زیبد
+تویی که صورت جسم ترا هیولا نیست
+چو جوهر ملکی در لباس انسانی
+که در ممالک فطرت نه برتر از انی
+کدام مایه ز تعظیم نصب شاید کرد
+درون خلوت کرو بیان عالم قدس
+صریر کلک تو باشد سماع روحانی
+تبارک الله ازین کارساز روحانی
+سوابق کرمت را چگونه شرح دهم
+نعوذ بالله از ان فشهای طوفانی
+صواعق سخطت را نمیتوانم گفت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

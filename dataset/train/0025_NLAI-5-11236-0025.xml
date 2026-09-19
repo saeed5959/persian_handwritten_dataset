@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.758+03:30</Created>
+        <LastChange>2026-06-18T21:30:50.999+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0025_NLAI-5-11236-0025.jpg" imageWidth="1188" imageHeight="1960">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781805651015" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781804912181_35" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781804912181_35" custom="readingOrder {index:0;}">
+            <Coords points="277,491 1043,491 1043,1731 277,1731" />
+            <TextLine id="line_1781804923020_41" custom="readingOrder {index:0;}">
+                <Coords points="294,650 627,650 627,517 294,517" /><Baseline points="294,599 627,599" />
+                <Baseline points="342,584 619,587" />
+                <TextEquiv>
+                    <Unicode>بگشتند و هر سو همی گل چدند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804920945_38" custom="readingOrder {index:1;}">
+                <Coords points="673,662 1014,662 1014,523 673,523" /><Baseline points="673,609 1014,609" />
+                <Baseline points="691,602 993,592" />
+                <TextEquiv>
+                    <Unicode>سرا پرده را چون برابر شدند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804924837_44" custom="readingOrder {index:2;}">
+                <Coords points="686,789 1024,789 1024,628 686,628" /><Baseline points="686,728 1024,728" />
+                <Baseline points="695,704 978,717" />
+                <TextEquiv>
+                    <Unicode>نگه کرد دستان ز تخت بلند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804927756_47" custom="readingOrder {index:3;}">
+                <Coords points="310,793 634,793 634,643 310,643" /><Baseline points="310,736 634,736" />
+                <Baseline points="327,713 628,711" />
+                <TextEquiv>
+                    <Unicode>بپرسید کاین گل پرستان کی ند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804932444_53" custom="readingOrder {index:4;}">
+                <Coords points="315,900 650,900 650,773 315,773" /><Baseline points="315,852 650,852" />
+                <Baseline points="339,831 615,838" />
+                <TextEquiv>
+                    <Unicode>نترسند مانا ز فرمان ما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804930357_50" custom="readingOrder {index:5;}">
+                <Coords points="676,910 1009,910 1009,777 676,777" /><Baseline points="676,859 1009,859" />
+                <Baseline points="701,837 984,840" />
+                <TextEquiv>
+                    <Unicode>چرا گل چدند از گلستان ما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804938348_59" custom="readingOrder {index:6;}">
+                <Coords points="314,1019 638,1019 638,891 314,891" /><Baseline points="314,970 638,970" />
+                <Baseline points="358,967 613,964" />
+                <TextEquiv>
+                    <Unicode>که از کاخ مهراب روشن روان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804934779_56" custom="readingOrder {index:7;}">
+                <Coords points="663,1028 990,1028 990,901 663,901" /><Baseline points="663,980 990,980" />
+                <Baseline points="691,974 973,977" />
+                <TextEquiv>
+                    <Unicode>چنین گفت گوینده با پهلوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804943908_65" custom="readingOrder {index:8;}">
+                <Coords points="314,1147 637,1147 637,1019 314,1019" /><Baseline points="314,1098 637,1098" />
+                <Baseline points="342,1087 615,1090" />
+                <TextEquiv>
+                    <Unicode>فرستد همی ماه کابلستان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804941509_62" custom="readingOrder {index:9;}">
+                <Coords points="673,1157 999,1157 999,1028 673,1028" /><Baseline points="673,1108 999,1108" />
+                <Baseline points="702,1091 983,1098" />
+                <TextEquiv>
+                    <Unicode>پرستندگان را سوی گلستان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804951285_71" custom="readingOrder {index:10;}">
+                <Coords points="314,1271 640,1271 640,1145 314,1145" /><Baseline points="314,1223 640,1223" />
+                <Baseline points="334,1218 618,1221" />
+                <TextEquiv>
+                    <Unicode>زبس مهر بر جای خود نارمید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804946188_68" custom="readingOrder {index:11;}">
+                <Coords points="666,1290 987,1290 987,1168 666,1168" /><Baseline points="666,1244 987,1244" />
+                <Baseline points="683,1221 971,1222" />
+                <TextEquiv>
+                    <Unicode>چو بشنید دستان دلش بردمید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804957269_77" custom="readingOrder {index:12;}">
+                <Coords points="324,1401 599,1401 599,1265 324,1265" /><Baseline points="324,1349 599,1349" />
+                <Baseline points="336,1332 609,1341" />
+                <TextEquiv>
+                    <Unicode>همی رفت دستان ازین سوی آب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804953916_74" custom="readingOrder {index:13;}">
+                <Coords points="686,1412 989,1412 989,1274 686,1274" /><Baseline points="686,1360 989,1360" />
+                <Baseline points="694,1351 971,1348" />
+                <TextEquiv>
+                    <Unicode>خرامید با بنده پر شتاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804962573_80" custom="readingOrder {index:14;}">
+                <Coords points="675,1542 990,1542 990,1382 675,1382" /><Baseline points="675,1481 990,1481" />
+                <Baseline points="689,1472 970,1474" />
+                <TextEquiv>
+                    <Unicode>چو زانسو پرستندگان دید زال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804965211_83" custom="readingOrder {index:15;}">
+                <Coords points="326,1534 627,1534 627,1411 326,1411" /><Baseline points="326,1487 627,1487" />
+                <Baseline points="339,1471 618,1472" />
+                <TextEquiv>
+                    <Unicode>کمان خواست از ترک و بفراخت یال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804971620_89" custom="readingOrder {index:16;}">
+                <Coords points="329,1655 631,1655 631,1529 329,1529" /><Baseline points="329,1607 631,1607" />
+                <Baseline points="704,1602 971,1602" />
+                <TextEquiv>
+                    <Unicode>خشیشار دید اندران رودبار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781804968419_86" custom="readingOrder {index:17;}">
+                <Coords points="678,1650 986,1650 986,1551 678,1551" /><Baseline points="678,1612 986,1612" />
+                <Baseline points="342,1595 615,1598" />
+                <TextEquiv>
+                    <Unicode>پیاده همی شد زبهر شکار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بگشتند و هر سو همی گل چدند
+سرا پرده را چون برابر شدند
+نگه کرد دستان ز تخت بلند
+بپرسید کاین گل پرستان کی ند
+نترسند مانا ز فرمان ما
+چرا گل چدند از گلستان ما
+که از کاخ مهراب روشن روان
+چنین گفت گوینده با پهلوان
+فرستد همی ماه کابلستان
+پرستندگان را سوی گلستان
+زبس مهر بر جای خود نارمید
+چو بشنید دستان دلش بردمید
+همی رفت دستان ازین سوی آب
+خرامید با بنده پر شتاب
+چو زانسو پرستندگان دید زال
+کمان خواست از ترک و بفراخت یال
+خشیشار دید اندران رودبار
+پیاده همی شد زبهر شکار</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

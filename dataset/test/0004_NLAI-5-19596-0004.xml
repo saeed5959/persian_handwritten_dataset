@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:15.178+03:30</Created>
+        <LastChange>2026-06-13T11:11:12.692+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0004_NLAI-5-19596-0004.jpg" imageWidth="1552" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781336472736" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781330750765_5" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781330750765_5" custom="readingOrder {index:0;}">
+            <Coords points="44,1043 998,1043 998,2623 44,2623" />
+            <TextLine id="line_1781330756897_8" custom="readingOrder {index:0;}">
+                <Coords points="76,1050 991,1050 991,1212 76,1212" /><Baseline points="76,1150 991,1150" />
+                <Baseline points="95,1120 977,1147" />
+                <TextEquiv>
+                    <Unicode>دیباچه کتاب خواجه حافظ که حسب الفرموده بسعی قلمی شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781330845479_19" custom="readingOrder {index:1;}">
+                <Coords points="58,1317 987,1317 987,1480 58,1480" /><Baseline points="58,1418 987,1418" />
+                <Baseline points="87,1396 982,1433" />
+                <TextEquiv>
+                    <Unicode>حمد بیحد و ثنای بیعد و سپاس بیقیاس حضرت خداوندی را که جمع دیوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781330884107_30" custom="readingOrder {index:2;}">
+                <Coords points="63,1487 1001,1487 1001,1625 63,1625" /><Baseline points="63,1573 1001,1573" />
+                <Baseline points="154,1559 984,1576" />
+                <TextEquiv>
+                    <Unicode>حافظان ارزاق به پروانه سلطان ارادت و مشیت اوست بی مانندی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781330972472_49" custom="readingOrder {index:3;}">
+                <Coords points="59,1628 994,1628 994,1767 59,1767" /><Baseline points="59,1714 994,1714" />
+                <Baseline points="100,1692 987,1714" />
+                <TextEquiv>
+                    <Unicode>که رفع بنیان ابوان سبع طباق نشان عرفان و حکمت بی منت اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781330998765_56" custom="readingOrder {index:4;}">
+                <Coords points="56,1769 996,1769 996,1911 56,1911" /><Baseline points="56,1857 996,1857" />
+                <Baseline points="101,1855 979,1871" />
+                <TextEquiv>
+                    <Unicode>حکیمی که طوطی شکرخای ناطقه انسانی را در محاذات آیینه تامل عرایس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781331019600_62" custom="readingOrder {index:5;}">
+                <Coords points="66,1917 992,1917 992,2049 66,2049" /><Baseline points="66,1999 992,1999" />
+                <Baseline points="73,1959 980,1991" />
+                <TextEquiv>
+                    <Unicode>به ادای دل گشای «ان من البیان لسحرا» گویا کرد علیمی که بلبل دستان سرای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781331440803_81" custom="readingOrder {index:6;}">
+                <Coords points="58,2056 995,2056 995,2185 58,2185" /><Baseline points="58,2136 995,2136" />
+                <Baseline points="109,2127 982,2141" />
+                <TextEquiv>
+                    <Unicode>خوش نوای زبان در قفس تنگ بقوت اذهان مستقیم در ترنم و تعنم ان من الشعر لحکمه آورد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781331594917_95" custom="readingOrder {index:7;}">
+                <Coords points="563,2189 996,2189 996,2353 563,2353" /><Baseline points="563,2291 996,2291" />
+                <Baseline points="597,2284 990,2286" />
+                <TextEquiv>
+                    <Unicode>آن بنده پروری که زبان در دهان نهاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781331512096_88" custom="readingOrder {index:8;}">
+                <Coords points="58,2194 475,2194 475,2336 58,2336" /><Baseline points="58,2282 475,2282" />
+                <Baseline points="71,2267 464,2277" />
+                <TextEquiv>
+                    <Unicode>در کلام در صدف هر زبان نهاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781331630199_102" custom="readingOrder {index:9;}">
+                <Coords points="57,2343 478,2343 478,2457 57,2457" /><Baseline points="57,2414 478,2414" />
+                <Baseline points="63,2384 461,2397" />
+                <TextEquiv>
+                    <Unicode>دل را مفرحی ز سخن در بیان نهاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781331758146_115" custom="readingOrder {index:10;}">
+                <Coords points="557,2361 992,2361 992,2485 557,2485" /><Baseline points="557,2438 992,2438" />
+                <Baseline points="567,2415 986,2432" />
+                <TextEquiv>
+                    <Unicode>جان را ز لطف عذب غذایی لطیف داد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781331783075_121" custom="readingOrder {index:11;}">
+                <Coords points="51,2482 486,2482 486,2603 51,2603" /><Baseline points="51,2557 486,2557" />
+                <Baseline points="63,2546 460,2554" />
+                <TextEquiv>
+                    <Unicode>در کان طبع لعل سخن بی کران نهاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781331804217_127" custom="readingOrder {index:12;}">
+                <Coords points="552,2489 993,2489 993,2624 552,2624" /><Baseline points="552,2573 993,2573" />
+                <Baseline points="562,2549 985,2565" />
+                <TextEquiv>
+                    <Unicode>در بحر سینه در معانی بپرورید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دیباچه کتاب خواجه حافظ که حسب الفرموده بسعی قلمی شد
+حمد بیحد و ثنای بیعد و سپاس بیقیاس حضرت خداوندی را که جمع دیوان
+حافظان ارزاق به پروانه سلطان ارادت و مشیت اوست بی مانندی
+که رفع بنیان ابوان سبع طباق نشان عرفان و حکمت بی منت اوست
+حکیمی که طوطی شکرخای ناطقه انسانی را در محاذات آیینه تامل عرایس
+به ادای دل گشای «ان من البیان لسحرا» گویا کرد علیمی که بلبل دستان سرای
+خوش نوای زبان در قفس تنگ بقوت اذهان مستقیم در ترنم و تعنم ان من الشعر لحکمه آورد
+آن بنده پروری که زبان در دهان نهاد
+در کلام در صدف هر زبان نهاد
+دل را مفرحی ز سخن در بیان نهاد
+جان را ز لطف عذب غذایی لطیف داد
+در کان طبع لعل سخن بی کران نهاد
+در بحر سینه در معانی بپرورید</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

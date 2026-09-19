@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:20.845+04:30</Created>
+        <LastChange>2026-06-21T23:52:46.307+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="2" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0181_NLAI-5-19596-0181.jpg" imageWidth="1512" imageHeight="2766">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782069766308" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781881414511_6" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781881414511_6" custom="readingOrder {index:0;}">
+            <Coords points="409,430 1431,430 1431,2595 409,2595" />
+            <TextLine id="line_1782069539429_223" custom="readingOrder {index:0;}">
+                <Coords points="1180,607 706,607 706,461 1180,461" /><Baseline points="706,552 1180,552" />
+                <Baseline points="721,562 1164,571" />
+                <TextEquiv>
+                    <Unicode>دیدی آن قهمهه کبک خرامان حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069543470_226" custom="readingOrder {index:1;}">
+                <Coords points="1181,738 711,738 711,615 1181,615" /><Baseline points="711,691 1181,691" />
+                <Baseline points="727,696 1147,701" />
+                <TextEquiv>
+                    <Unicode>که ز سرپنجه شاهین قضا غافل بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069547372_229" custom="readingOrder {index:2;}">
+                <Coords points="1429,902 449,902 449,731 1429,731" /><Baseline points="449,837 1429,837" />
+                <Baseline points="454,840 1387,848" />
+                <TextEquiv>
+                    <Unicode>گفتم که خطا کردی و تدبیر نه این بود گفتا چه توان کرد که تقدیر چنین بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069550924_232" custom="readingOrder {index:3;}">
+                <Coords points="1422,1036 458,1036 458,868 1422,868" /><Baseline points="458,972 1422,972" />
+                <Baseline points="467,976 1399,994" />
+                <TextEquiv>
+                    <Unicode>گفتم که قرین بدت افکند بدین روز گفتا که مرا بخت بد خویش قرین بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069555414_235" custom="readingOrder {index:4;}">
+                <Coords points="1422,1164 443,1164 443,1037 1422,1037" /><Baseline points="443,1116 1422,1116" />
+                <Baseline points="455,1124 1389,1137" />
+                <TextEquiv>
+                    <Unicode>گفتم ز من اییماه چرا مهر بریدی گفتا که فلک با من بد مهر بکین بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069558891_238" custom="readingOrder {index:5;}">
+                <Coords points="1445,1291 442,1291 442,1178 1445,1178" /><Baseline points="442,1248 1445,1248" />
+                <Baseline points="457,1271 1388,1274" />
+                <TextEquiv>
+                    <Unicode>گفتم که بسی جام طرب خوردی از این پیش گفتا که شفا در قدح باز پسین بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069562724_241" custom="readingOrder {index:6;}">
+                <Coords points="1428,1445 462,1445 462,1309 1428,1309" /><Baseline points="462,1393 1428,1393" />
+                <Baseline points="473,1416 1379,1422" />
+                <TextEquiv>
+                    <Unicode>گفتم تو ای عمر چرازور برفتی گفتا که فلانی چکنم عمر همین بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069568008_244" custom="readingOrder {index:7;}">
+                <Coords points="1417,1585 451,1585 451,1431 1417,1431" /><Baseline points="451,1526 1417,1526" />
+                <Baseline points="467,1536 1368,1556" />
+                <TextEquiv>
+                    <Unicode>گفتم که نه وقت سفرت بود چنین زود گفتا که مگر مصلحت وقت درین بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069572111_247" custom="readingOrder {index:8;}">
+                <Coords points="1427,1733 437,1733 437,1566 1427,1566" /><Baseline points="437,1670 1427,1670" />
+                <Baseline points="446,1691 1380,1705" />
+                <TextEquiv>
+                    <Unicode>گفتم که بسی خط خطا بر تو کشیدند گفتا همه آن بود که بر لوح جبین بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069574702_250" custom="readingOrder {index:9;}">
+                <Coords points="1165,1874 722,1874 722,1742 1165,1742" /><Baseline points="722,1824 1165,1824" />
+                <Baseline points="730,1835 1135,1841" />
+                <TextEquiv>
+                    <Unicode>گفتم که ز حافظ بچه خجلت شده دور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069577764_253" custom="readingOrder {index:10;}">
+                <Coords points="1152,2008 725,2008 725,1872 1152,1872" /><Baseline points="725,1956 1152,1956" />
+                <Baseline points="727,1979 1124,1979" />
+                <TextEquiv>
+                    <Unicode>گفتا که همه وقت مرا داعیه این بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069583935_256" custom="readingOrder {index:11;}">
+                <Coords points="1403,2162 440,2162 440,2001 1403,2001" /><Baseline points="440,2101 1403,2101" />
+                <Baseline points="448,2116 1374,2134" />
+                <TextEquiv>
+                    <Unicode>دوش در حلقه ما قصه گیسوی تو بود تا دل شب سخن از سلسله موی تو بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069586503_259" custom="readingOrder {index:12;}">
+                <Coords points="1407,2312 441,2312 441,2155 1407,2155" /><Baseline points="441,2252 1407,2252" />
+                <Baseline points="448,2264 1377,2265" />
+                <TextEquiv>
+                    <Unicode>دل که از ناوک مژگان تو در خون میگشت باز مشتاق کمان خانه ابروی تو بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069589667_262" custom="readingOrder {index:13;}">
+                <Coords points="1419,2450 433,2450 433,2289 1419,2289" /><Baseline points="433,2389 1419,2389" />
+                <Baseline points="448,2402 1371,2416" />
+                <TextEquiv>
+                    <Unicode>بگشا بند قبا که بگشاید دل ما که گشادی که مرا بود ز پهلوی تو بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782069598764_265" custom="readingOrder {index:14;}">
+                <Coords points="1405,2594 465,2594 465,2430 1405,2430" /><Baseline points="465,2532 1405,2532" />
+                <Baseline points="477,2534 1377,2553" />
+                <TextEquiv>
+                    <Unicode>عالم از شور و شر عشق خبر هیچ نداشت دام را هم شکن طره گیشوی تو بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دیدی آن قهمهه کبک خرامان حافظ
+که ز سرپنجه شاهین قضا غافل بود
+گفتم که خطا کردی و تدبیر نه این بود گفتا چه توان کرد که تقدیر چنین بود
+گفتم که قرین بدت افکند بدین روز گفتا که مرا بخت بد خویش قرین بود
+گفتم ز من اییماه چرا مهر بریدی گفتا که فلک با من بد مهر بکین بود
+گفتم که بسی جام طرب خوردی از این پیش گفتا که شفا در قدح باز پسین بود
+گفتم تو ای عمر چرازور برفتی گفتا که فلانی چکنم عمر همین بود
+گفتم که نه وقت سفرت بود چنین زود گفتا که مگر مصلحت وقت درین بود
+گفتم که بسی خط خطا بر تو کشیدند گفتا همه آن بود که بر لوح جبین بود
+گفتم که ز حافظ بچه خجلت شده دور
+گفتا که همه وقت مرا داعیه این بود
+دوش در حلقه ما قصه گیسوی تو بود تا دل شب سخن از سلسله موی تو بود
+دل که از ناوک مژگان تو در خون میگشت باز مشتاق کمان خانه ابروی تو بود
+بگشا بند قبا که بگشاید دل ما که گشادی که مرا بود ز پهلوی تو بود
+عالم از شور و شر عشق خبر هیچ نداشت دام را هم شکن طره گیشوی تو بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

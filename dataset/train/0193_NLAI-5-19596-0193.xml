@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.658+04:30</Created>
+        <LastChange>2026-06-21T18:31:52.125+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="14" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0193_NLAI-5-19596-0193.jpg" imageWidth="1506" imageHeight="2759">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782050512126" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782044075180_1157" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782044075180_1157" custom="readingOrder {index:0;}">
+            <Coords points="1317,2513 350,2513 350,448 1317,448" />
+            <TextLine id="line_1782044088812_1160" custom="readingOrder {index:0;}">
+                <Coords points="1317,588 354,588 354,427 1317,427" /><Baseline points="354,527 1317,527" />
+                <Baseline points="364,533 1290,541" />
+                <TextEquiv>
+                    <Unicode>ز چشم و ابروی آن جان و دل نگهداری که نقد مخزن تو فتنه جهان نبرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044092823_1163" custom="readingOrder {index:1;}">
+                <Coords points="354,580 1302,580 1302,716 354,716" /><Baseline points="354,664 1302,664" />
+                <Baseline points="367,660 1294,665" />
+                <TextEquiv>
+                    <Unicode>من ضعیف چگونه عم تو بردارم که بار هجر تو این جان ناتوان نبرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044096496_1166" custom="readingOrder {index:2;}">
+                <Coords points="1321,716 354,716 354,836 1321,836" /><Baseline points="354,790 1321,790" />
+                <Baseline points="366,801 1302,797" />
+                <TextEquiv>
+                    <Unicode>کیس که خاک در میفروش قلبه نساخت فرشته طاعت او بار آسمان نبرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044100090_1169" custom="readingOrder {index:3;}">
+                <Coords points="354,838 1300,838 1300,978 354,978" /><Baseline points="354,925 1300,925" />
+                <Baseline points="371,938 1294,942" />
+                <TextEquiv>
+                    <Unicode>بسعی او نتوان برد گوهر مقصود کسی که کار نکرد اجر را یگان نبرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044105735_1172" custom="readingOrder {index:4;}">
+                <Coords points="1072,1123 633,1123 633,987 1072,987" /><Baseline points="633,1071 1072,1071" />
+                <Baseline points="645,1091 1057,1090" />
+                <TextEquiv>
+                    <Unicode>سخن به نزد سخن دان ادا مکن حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044109457_1175" custom="readingOrder {index:5;}">
+                <Coords points="631,1118 1050,1118 1050,1237 631,1237" /><Baseline points="631,1192 1050,1192" />
+                <Baseline points="647,1201 1038,1223" />
+                <TextEquiv>
+                    <Unicode>که تحفه کس دروگوهر به بحر و کان نبرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044113412_1178" custom="readingOrder {index:6;}">
+                <Coords points="1328,1426 362,1426 362,1254 1328,1254" /><Baseline points="362,1361 1328,1361" />
+                <Baseline points="382,1381 1302,1369" />
+                <TextEquiv>
+                    <Unicode>اگر روم ز پیش فنتها برانگیزد ور از طلب بنشینم به کینه برخیزد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044118205_1181" custom="readingOrder {index:7;}">
+                <Coords points="331,1561 1319,1561 1319,1421 331,1421" /><Baseline points="331,1508 1319,1508" />
+                <Baseline points="380,1516 1304,1513" />
+                <TextEquiv>
+                    <Unicode>وگر به ره گذری یکدم از وفاداری چو گرد در پیش افتم چو باد برخیزد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044123832_1184" custom="readingOrder {index:8;}">
+                <Coords points="1322,1704 350,1704 350,1554 1322,1554" /><Baseline points="350,1647 1322,1647" />
+                <Baseline points="368,1648 1300,1646" />
+                <TextEquiv>
+                    <Unicode>وگر کنم طلب نیم بوسه صد افسوس ز حقه دهنش چون شکر قرو ریزد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044130252_1187" custom="readingOrder {index:9;}">
+                <Coords points="1330,1817 364,1817 364,1676 1330,1676" /><Baseline points="364,1763 1330,1763" />
+                <Baseline points="393,1778 1297,1786" />
+                <TextEquiv>
+                    <Unicode>من آن فریب که در نرگس تو میبینم بس آبروی که با خاک ره برآمیزد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044134389_1190" custom="readingOrder {index:10;}">
+                <Coords points="353,1812 1307,1812 1307,1978 353,1978" /><Baseline points="353,1915 1307,1915" />
+                <Baseline points="381,1930 1300,1942" />
+                <TextEquiv>
+                    <Unicode>چو گویمش که چرا باکان برآمیزی چنان بود که سرشکم بخون برآمیزد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044138602_1193" custom="readingOrder {index:11;}">
+                <Coords points="1323,1988 358,1988 358,2109 1323,2109" /><Baseline points="358,2063 1323,2063" />
+                <Baseline points="383,2062 1310,2075" />
+                <TextEquiv>
+                    <Unicode>فراز و شیب بیابان عشق دام بالاست کجاست شیردلی کز بلا نپرهیزد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044144025_1196" custom="readingOrder {index:12;}">
+                <Coords points="1313,2251 349,2251 349,2094 1313,2094" /><Baseline points="349,2191 1313,2191" />
+                <Baseline points="384,2201 1303,2215" />
+                <TextEquiv>
+                    <Unicode>تو عمر خواه و صبوری که چرخ شعبده باز هزار بازی از این طرفه تر برانگیزد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044147819_1199" custom="readingOrder {index:13;}">
+                <Coords points="1103,2401 645,2401 645,2268 1103,2268" /><Baseline points="645,2350 1103,2350" />
+                <Baseline points="674,2354 1096,2347" />
+                <TextEquiv>
+                    <Unicode>بر آستانه تسلیم سر بنه حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782044150356_1202" custom="readingOrder {index:14;}">
+                <Coords points="641,2400 1066,2400 1066,2510 641,2510" /><Baseline points="641,2468 1066,2468" />
+                <Baseline points="652,2472 1049,2479" />
+                <TextEquiv>
+                    <Unicode>که گر ستیزه کنی روزگار بستیزد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ز چشم و ابروی آن جان و دل نگهداری که نقد مخزن تو فتنه جهان نبرد
+من ضعیف چگونه عم تو بردارم که بار هجر تو این جان ناتوان نبرد
+کیس که خاک در میفروش قلبه نساخت فرشته طاعت او بار آسمان نبرد
+بسعی او نتوان برد گوهر مقصود کسی که کار نکرد اجر را یگان نبرد
+سخن به نزد سخن دان ادا مکن حافظ
+که تحفه کس دروگوهر به بحر و کان نبرد
+اگر روم ز پیش فنتها برانگیزد ور از طلب بنشینم به کینه برخیزد
+وگر به ره گذری یکدم از وفاداری چو گرد در پیش افتم چو باد برخیزد
+وگر کنم طلب نیم بوسه صد افسوس ز حقه دهنش چون شکر قرو ریزد
+من آن فریب که در نرگس تو میبینم بس آبروی که با خاک ره برآمیزد
+چو گویمش که چرا باکان برآمیزی چنان بود که سرشکم بخون برآمیزد
+فراز و شیب بیابان عشق دام بالاست کجاست شیردلی کز بلا نپرهیزد
+تو عمر خواه و صبوری که چرخ شعبده باز هزار بازی از این طرفه تر برانگیزد
+بر آستانه تسلیم سر بنه حافظ
+که گر ستیزه کنی روزگار بستیزد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.157+03:30</Created>
+        <LastChange>2026-06-26T16:48:56.186+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0124_NLAI-5-15801-0124.jpg" imageWidth="1091" imageHeight="1793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782479936198" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782330872231_489" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782330872231_489" custom="readingOrder {index:0;}">
+            <Coords points="140,183 1004,183 1004,1672 140,1672" />
+            <TextLine id="line_1782330875205_492" custom="readingOrder {index:0;}">
+                <Coords points="163,219 980,219 980,327 163,327" /><Baseline points="163,286 980,286" />
+                <Baseline points="161,276 949,286" />
+                <TextEquiv>
+                    <Unicode>و کلما کانت النهار موجود اکانت الشمس طالعه و گاه باعتبار این است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330877244_495" custom="readingOrder {index:1;}">
+                <Coords points="153,329 984,329 984,447 153,447" /><Baseline points="153,402 984,402" />
+                <Baseline points="155,398 965,396" />
+                <TextEquiv>
+                    <Unicode>که هر دو معلول یک علت اند مثل کلما کانت النهار موجود افاالعالم میضی این</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330879300_498" custom="readingOrder {index:2;}">
+                <Coords points="147,437 994,437 994,554 147,554" /><Baseline points="147,510 994,510" />
+                <Baseline points="169,508 967,500" />
+                <TextEquiv>
+                    <Unicode>دو نسبت هر دو مغلول طلوع شمند قوله فالمنفصله الحقیقه ما حکم اه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330881319_501" custom="readingOrder {index:3;}">
+                <Coords points="143,560 986,560 986,688 143,688" /><Baseline points="143,639 986,639" />
+                <Baseline points="161,654 943,654" />
+                <TextEquiv>
+                    <Unicode>جنبه منفصله حقیقته وقتی صادق است که تنافی در صدق و کذب هر دو باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330883572_504" custom="readingOrder {index:4;}">
+                <Coords points="136,660 1002,660 1002,798 136,798" /><Baseline points="136,746 1002,746" />
+                <Baseline points="153,753 961,758" />
+                <TextEquiv>
+                    <Unicode>و صدق سالبه اس حکم بسبب تنافی در صدق و کذب است گاه باین اعتبار است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330885887_507" custom="readingOrder {index:5;}">
+                <Coords points="138,776 992,776 992,928 138,928" /><Baseline points="138,870 992,870" />
+                <Baseline points="149,879 963,867" />
+                <TextEquiv>
+                    <Unicode>مه در اصل متنافی نیست مثل التبه اما ان یکون هذا العدوز و ج او منقسنما بمتساویین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330888370_510" custom="readingOrder {index:6;}">
+                <Coords points="138,926 988,926 988,1054 138,1054" /><Baseline points="138,1005 988,1005" />
+                <Baseline points="149,999 967,1003" />
+                <TextEquiv>
+                    <Unicode>و گاه باین اعتبار است که تنافی در کذب تنها است مثل لیس التبته اما ان یکون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330890431_513" custom="readingOrder {index:7;}">
+                <Coords points="147,1026 973,1026 973,1176 147,1176" /><Baseline points="147,1119 973,1119" />
+                <Baseline points="157,1117 959,1123" />
+                <TextEquiv>
+                    <Unicode>هذا الشی حجرا و شجرا و گاه باین اعتبار است که تنافی در کذب شهادت است مثل لیس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330893418_516" custom="readingOrder {index:8;}">
+                <Coords points="147,1168 986,1168 986,1294 147,1294" /><Baseline points="147,1246 986,1246" />
+                <Baseline points="149,1241 961,1245" />
+                <TextEquiv>
+                    <Unicode>التبه اما ان یکون زید فی البحرا و لا یغرق بواسطه انکه درین دو قضیه صادقست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330895328_519" custom="readingOrder {index:9;}">
+                <Coords points="161,1298 980,1298 980,1422 161,1422" /><Baseline points="161,1375 980,1375" />
+                <Baseline points="167,1373 965,1375" />
+                <TextEquiv>
+                    <Unicode>که تنافی بحسب صدق و کذب هر دو نیست و معنی سالبه منفصله حقیقیه نیست مگر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330897478_522" custom="readingOrder {index:10;}">
+                <Coords points="128,1416 980,1416 980,1536 128,1536" /><Baseline points="128,1490 980,1490" />
+                <Baseline points="153,1491 971,1495" />
+                <TextEquiv>
+                    <Unicode>سلب تنافی در صدق و کذب پس ظاهر شد که نسبت میانه هر یک از موجبه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330900105_525" custom="readingOrder {index:11;}">
+                <Coords points="136,1542 973,1542 973,1645 136,1645" /><Baseline points="136,1606 973,1606" />
+                <Baseline points="140,1609 959,1611" />
+                <TextEquiv>
+                    <Unicode>مانعقه الجمع بمعنی احض و مانعه الخلو بمعنی احض با منفصله حقیقیه تباین است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و کلما کانت النهار موجود اکانت الشمس طالعه و گاه باعتبار این است
+که هر دو معلول یک علت اند مثل کلما کانت النهار موجود افاالعالم میضی این
+دو نسبت هر دو مغلول طلوع شمند قوله فالمنفصله الحقیقه ما حکم اه
+جنبه منفصله حقیقته وقتی صادق است که تنافی در صدق و کذب هر دو باشد
+و صدق سالبه اس حکم بسبب تنافی در صدق و کذب است گاه باین اعتبار است
+مه در اصل متنافی نیست مثل التبه اما ان یکون هذا العدوز و ج او منقسنما بمتساویین
+و گاه باین اعتبار است که تنافی در کذب تنها است مثل لیس التبته اما ان یکون
+هذا الشی حجرا و شجرا و گاه باین اعتبار است که تنافی در کذب شهادت است مثل لیس
+التبه اما ان یکون زید فی البحرا و لا یغرق بواسطه انکه درین دو قضیه صادقست
+که تنافی بحسب صدق و کذب هر دو نیست و معنی سالبه منفصله حقیقیه نیست مگر
+سلب تنافی در صدق و کذب پس ظاهر شد که نسبت میانه هر یک از موجبه
+مانعقه الجمع بمعنی احض و مانعه الخلو بمعنی احض با منفصله حقیقیه تباین است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

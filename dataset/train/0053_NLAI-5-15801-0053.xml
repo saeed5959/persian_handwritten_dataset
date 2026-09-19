@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:29.608-07:00</Created>
+        <LastChange>2026-06-19T14:07:27.184-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0053_NLAI-5-15801-0053.jpg" imageWidth="1090" imageHeight="1789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781903247247" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1781901762720_443" />
+                <RegionRefIndexed index="1" regionRef="region_1781901818687_459" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1781901762720_443" custom="readingOrder {index:0;}">
+            <Coords points="108,222 964,222 964,1674 108,1674" />
+            <TextLine id="line_1781901783095_450" custom="readingOrder {index:0;}">
+                <Coords points="955,351 140,351 140,230 955,230" /><Baseline points="140,305 955,305" />
+                <Baseline points="948,302 156,301" />
+                <TextEquiv>
+                    <Unicode>نیست و الا لازم میآید که هیچ تصوی معلوم نباشد بواسطه انکه بنابراین تقدیر معرف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781901793844_453" custom="readingOrder {index:1;}">
+                <Coords points="953,473 140,473 140,342 953,342" /><Baseline points="140,423 953,423" />
+                <Baseline points="943,421 171,413" />
+                <TextEquiv>
+                    <Unicode>هم نظری خواهد بود پس محتاج است انمعرف بمعرفی دیگر و درین هنگام اگر برمیگردد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781901809484_456" custom="readingOrder {index:2;}">
+                <Coords points="959,589 135,589 135,478 959,478" /><Baseline points="135,547 959,547" />
+                <Baseline points="948,546 143,535" />
+                <TextEquiv>
+                    <Unicode>موقوف علیه بموقوف خواه بلا واسطه مثل انکه تصور زید محتاج باشد به تصور عمرو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781901829046_463" custom="readingOrder {index:3;}">
+                <Coords points="137,596 957,596 957,714 137,714" /><Baseline points="137,669 957,669" />
+                <Baseline points="948,666 150,662" />
+                <TextEquiv>
+                    <Unicode>و تصور عمرو محتاج باشد به تصور زید و خواه بواسطه واحد مثل انکه محتاج باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781901843186_466" custom="readingOrder {index:4;}">
+                <Coords points="131,692 959,692 959,816 131,816" /><Baseline points="131,769 959,769" />
+                <Baseline points="948,781 137,775" />
+                <TextEquiv>
+                    <Unicode>تصور زید بتصور عمرو و تصور عمرو بتصور بکر و تصور بکر بتصور زید و خواه بچندین واسطه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781901858639_469" custom="readingOrder {index:5;}">
+                <Coords points="138,801 959,801 959,945 138,945" /><Baseline points="138,890 959,890" />
+                <Baseline points="948,909 148,886" />
+                <TextEquiv>
+                    <Unicode>چنانکه ظاهر است پس در هر تقدیر مستلزم دور است زیرا که توقف شی است بر مایوقف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781901878670_472" custom="readingOrder {index:6;}">
+                <Coords points="131,910 957,910 957,1083 131,1083" /><Baseline points="131,1017 957,1017" />
+                <Baseline points="949,1038 146,1015" />
+                <TextEquiv>
+                    <Unicode>علیه و دور باطل است بواسطه تقدم شی بر نفس و تقدم شی بر نفس باطل است بالبدیهه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781901889966_475" custom="readingOrder {index:7;}">
+                <Coords points="952,1199 131,1199 131,1087 952,1087" /><Baseline points="131,1156 952,1156" />
+                <Baseline points="942,1158 138,1148" />
+                <TextEquiv>
+                    <Unicode>و اگر برنمیگردد بلکه الی غیر نهایه است باین که تصور زید محتاج باشد بتصور عمرو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781901901763_478" custom="readingOrder {index:8;}">
+                <Coords points="128,1206 952,1206 952,1334 128,1334" /><Baseline points="128,1285 952,1285" />
+                <Baseline points="945,1281 138,1271" />
+                <TextEquiv>
+                    <Unicode>و تصور عمرو بر تصور بکر و هم چنین الی غیرالنهایه پس جمیع تصورات موقوف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781901915606_481" custom="readingOrder {index:9;}">
+                <Coords points="948,1461 122,1461 122,1301 948,1301" /><Baseline points="122,1400 948,1400" />
+                <Baseline points="942,1403 135,1383" />
+                <TextEquiv>
+                    <Unicode>بر یکدیگر و هم در بند هم خواهند بود پس از کجا تصور میخواهد تا حاصل شود تصور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781901924887_484" custom="readingOrder {index:10;}">
+                <Coords points="952,1559 124,1559 124,1415 952,1415" /><Baseline points="124,1504 952,1504" />
+                <Baseline points="941,1521 141,1501" />
+                <TextEquiv>
+                    <Unicode>و دیگر از ان تصور و بالجمله بدیهیه عقل حکم میکند که مادامی که جمیع تصورات موقوف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781901937652_487" custom="readingOrder {index:11;}">
+                <Coords points="131,1564 946,1564 946,1673 131,1673" /><Baseline points="131,1632 946,1632" />
+                <Baseline points="939,1641 141,1620" />
+                <TextEquiv>
+                    <Unicode>باشند بر یکدیگر الی غیر النهایه حاصل نمیشود هیچ تصوری چنانکه مخفی نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>نیست و الا لازم میآید که هیچ تصوی معلوم نباشد بواسطه انکه بنابراین تقدیر معرف
+هم نظری خواهد بود پس محتاج است انمعرف بمعرفی دیگر و درین هنگام اگر برمیگردد
+موقوف علیه بموقوف خواه بلا واسطه مثل انکه تصور زید محتاج باشد به تصور عمرو
+و تصور عمرو محتاج باشد به تصور زید و خواه بواسطه واحد مثل انکه محتاج باشد
+تصور زید بتصور عمرو و تصور عمرو بتصور بکر و تصور بکر بتصور زید و خواه بچندین واسطه
+چنانکه ظاهر است پس در هر تقدیر مستلزم دور است زیرا که توقف شی است بر مایوقف
+علیه و دور باطل است بواسطه تقدم شی بر نفس و تقدم شی بر نفس باطل است بالبدیهه
+و اگر برنمیگردد بلکه الی غیر نهایه است باین که تصور زید محتاج باشد بتصور عمرو
+و تصور عمرو بر تصور بکر و هم چنین الی غیرالنهایه پس جمیع تصورات موقوف
+بر یکدیگر و هم در بند هم خواهند بود پس از کجا تصور میخواهد تا حاصل شود تصور
+و دیگر از ان تصور و بالجمله بدیهیه عقل حکم میکند که مادامی که جمیع تصورات موقوف
+باشند بر یکدیگر الی غیر النهایه حاصل نمیشود هیچ تصوری چنانکه مخفی نیست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781901818687_459" custom="readingOrder {index:1;}">
+            <Coords points="137,595" />
+        </TextRegion>
+    </Page>
+</PcGts>

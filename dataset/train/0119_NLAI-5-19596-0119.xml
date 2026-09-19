@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T19:59:33.873+03:30</Created>
+        <LastChange>2026-06-29T11:16:17.574+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0119_NLAI-5-19596-0119.jpg" imageWidth="1543" imageHeight="2740">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782719177606" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782717688752_3927" />
+                <RegionRefIndexed index="1" regionRef="region_1782718242923_4010" />
+                <RegionRefIndexed index="2" regionRef="region_1782719145289_4104" />
+                <RegionRefIndexed index="3" regionRef="region_1782717785100_3942" />
+                <RegionRefIndexed index="4" regionRef="region_1782718604667_4075" />
+                <RegionRefIndexed index="5" regionRef="region_1782717618409_3912" />
+                <RegionRefIndexed index="6" regionRef="region_1782717879380_3959" />
+                <RegionRefIndexed index="7" regionRef="region_1782718695554_4090" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782717688752_3927" custom="readingOrder {index:0;}">
+            <Coords points="432,469 914,469 914,745 432,745" />
+            <TextLine id="line_1782717702428_3930" custom="readingOrder {index:0;}">
+                <Coords points="440,476 914,476 914,592 440,592" /><Baseline points="440,548 914,548" />
+                <Baseline points="466,536 890,543" />
+                <TextEquiv>
+                    <Unicode>که به تیر مژه هر لحظه شکاری گیرند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782717732684_3936" custom="readingOrder {index:1;}">
+                <Coords points="452,598 883,598 883,741 452,741" /><Baseline points="452,687 883,687" />
+                <Baseline points="464,648 877,689" />
+                <TextEquiv>
+                    <Unicode>خاصه رقصی که در آن دست نگاری گیرند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که به تیر مژه هر لحظه شکاری گیرند
+خاصه رقصی که در آن دست نگاری گیرند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782718242923_4010" custom="readingOrder {index:1;}">
+            <Coords points="422,1018 910,1018 910,2173 422,2173" />
+            <TextLine id="line_1782718254843_4013" custom="readingOrder {index:0;}">
+                <Coords points="441,1038 887,1038 887,1173 441,1173" /><Baseline points="441,1122 887,1122" />
+                <Baseline points="457,1111 873,1107" />
+                <TextEquiv>
+                    <Unicode>محرمی کو که فرستم به تو پیغامی چند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718282055_4019" custom="readingOrder {index:1;}">
+                <Coords points="449,1179 882,1179 882,1312 449,1312" /><Baseline points="449,1261 882,1261" />
+                <Baseline points="456,1236 871,1244" />
+                <TextEquiv>
+                    <Unicode>هم مگر لطف شما پیش نهد گامی چند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718365547_4033" custom="readingOrder {index:2;}">
+                <Coords points="442,1318 886,1318 886,1458 442,1458" /><Baseline points="442,1405 886,1405" />
+                <Baseline points="449,1365 875,1388 879,1388" />
+                <TextEquiv>
+                    <Unicode>فرصت عیش نگه دار و بزن جامی چند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718402210_4039" custom="readingOrder {index:3;}">
+                <Coords points="444,1466 879,1466 879,1596 444,1596" /><Baseline points="444,1547 879,1547" />
+                <Baseline points="450,1526 870,1533" />
+                <TextEquiv>
+                    <Unicode>بوسه ای چند برآمیز به دشنامی چند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718436207_4045" custom="readingOrder {index:4;}">
+                <Coords points="445,1617 883,1617 883,1746 445,1746" /><Baseline points="445,1697 883,1697" />
+                <Baseline points="451,1677 871,1670" />
+                <TextEquiv>
+                    <Unicode>چشم انعام ندارید ز انعامی چند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718472971_4051" custom="readingOrder {index:5;}">
+                <Coords points="443,1752 890,1752 890,1872 443,1872" /><Baseline points="443,1826 890,1826" />
+                <Baseline points="451,1812 874,1812" />
+                <TextEquiv>
+                    <Unicode>تا خرابت نکند صحبت بدنامی چند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718517851_4057" custom="readingOrder {index:6;}">
+                <Coords points="437,1879 905,1879 905,2009 437,2009" /><Baseline points="437,1960 905,1960" />
+                <Baseline points="461,1955 891,1948" />
+                <TextEquiv>
+                    <Unicode>نفی حکمت مکن از بهر دل عامی چند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718555243_4063" custom="readingOrder {index:7;}">
+                <Coords points="436,2015 892,2015 892,2159 436,2159" /><Baseline points="436,2104 892,2104" />
+                <Baseline points="448,2081 870,2080" />
+                <TextEquiv>
+                    <Unicode>که مگو حال دل سوخته با خامی چند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>محرمی کو که فرستم به تو پیغامی چند
+هم مگر لطف شما پیش نهد گامی چند
+فرصت عیش نگه دار و بزن جامی چند
+بوسه ای چند برآمیز به دشنامی چند
+چشم انعام ندارید ز انعامی چند
+تا خرابت نکند صحبت بدنامی چند
+نفی حکمت مکن از بهر دل عامی چند
+که مگو حال دل سوخته با خامی چند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782719145289_4104" custom="readingOrder {index:2;}">
+            <Coords points="437,2416 890,2416 890,2588 437,2588" />
+            <TextLine id="line_1782719154049_4107" custom="readingOrder {index:0;}">
+                <Coords points="443,2424 885,2424 885,2579 443,2579" /><Baseline points="443,2520 885,2520" />
+                <Baseline points="463,2497 868,2506" />
+                <TextEquiv>
+                    <Unicode>همدم گل نمی شود یاد سمن نمی کند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>همدم گل نمی شود یاد سمن نمی کند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782717785100_3942" custom="readingOrder {index:3;}">
+            <Coords points="673,748 1179,748 1179,1023 673,1023" />
+            <TextLine id="line_1782717793924_3945" custom="readingOrder {index:0;}">
+                <Coords points="685,754 1162,754 1162,883 685,883" /><Baseline points="685,834 1162,834" />
+                <Baseline points="691,814 1154,813" />
+                <TextEquiv>
+                    <Unicode>حافظ ابنای زمان را غم مسکینان نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782717831064_3951" custom="readingOrder {index:1;}">
+                <Coords points="681,895 1139,895 1139,1021 681,1021" /><Baseline points="681,973 1139,973" />
+                <Baseline points="689,967 1115,974" />
+                <TextEquiv>
+                    <Unicode>زین میان گر بتوان به که کناری گیرند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ ابنای زمان را غم مسکینان نیست
+زین میان گر بتوان به که کناری گیرند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782718604667_4075" custom="readingOrder {index:4;}">
+            <Coords points="678,2168 1200,2168 1200,2432 678,2432" />
+            <TextLine id="line_1782718612363_4078" custom="readingOrder {index:0;}">
+                <Coords points="690,2188 1187,2188 1187,2294 690,2294" /><Baseline points="690,2254 1187,2254" />
+                <Baseline points="698,2242 1174,2232" />
+                <TextEquiv>
+                    <Unicode>حافظ از شوق رخ مهر فروغ تو بسوخت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718655958_4084" custom="readingOrder {index:1;}">
+                <Coords points="690,2307 1182,2307 1182,2425 690,2425" /><Baseline points="690,2380 1182,2380" />
+                <Baseline points="706,2367 1160,2357" />
+                <TextEquiv>
+                    <Unicode>کامگارا نظری کن سوی ناکامی چند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ از شوق رخ مهر فروغ تو بسوخت
+کامگارا نظری کن سوی ناکامی چند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782717618409_3912" custom="readingOrder {index:5;}">
+            <Coords points="943,451 1432,451 1432,753 943,753" />
+            <TextLine id="line_1782717624624_3915" custom="readingOrder {index:0;}">
+                <Coords points="955,456 1415,456 1415,626 955,626" /><Baseline points="955,561 1415,561" />
+                <Baseline points="971,553 1398,556" />
+                <TextEquiv>
+                    <Unicode>یا رب این بچه ترکان چه دلیرند به خون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782717652893_3921" custom="readingOrder {index:1;}">
+                <Coords points="961,634 1412,634 1412,749 961,749" /><Baseline points="961,705 1412,705" />
+                <Baseline points="982,693 1396,688" />
+                <TextEquiv>
+                    <Unicode>رقص بر شعر و ناله نی خوش باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یا رب این بچه ترکان چه دلیرند به خون
+رقص بر شعر و ناله نی خوش باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782717879380_3959" custom="readingOrder {index:6;}">
+            <Coords points="950,1028 1405,1028 1405,2169 950,2169" />
+            <TextLine id="line_1782717892312_3962" custom="readingOrder {index:0;}">
+                <Coords points="959,1039 1408,1039 1408,1178 959,1178" /><Baseline points="959,1125 1408,1125" />
+                <Baseline points="973,1120 1391,1101" />
+                <TextEquiv>
+                    <Unicode>حسب حالی ننوشتیم و شد ایامی چند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782717980732_3968" custom="readingOrder {index:1;}">
+                <Coords points="965,1196 1410,1196 1410,1307 965,1307" /><Baseline points="965,1265 1410,1265" />
+                <Baseline points="971,1254 1390,1257" />
+                <TextEquiv>
+                    <Unicode>ما بدان مقصد عالی نتوانیم رسید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718035668_3974" custom="readingOrder {index:2;}">
+                <Coords points="964,1312 1407,1312 1407,1459 964,1459" /><Baseline points="964,1403 1407,1403" />
+                <Baseline points="975,1383 1390,1390" />
+                <TextEquiv>
+                    <Unicode>چون می از خم به سبو رفت و گل افکند نقاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718075288_3980" custom="readingOrder {index:3;}">
+                <Coords points="966,1465 1407,1465 1407,1594 966,1594" /><Baseline points="966,1545 1407,1545" />
+                <Baseline points="978,1542 1384,1523" />
+                <TextEquiv>
+                    <Unicode>قند آمیخته با گل نه علاج دل ماست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718105744_3986" custom="readingOrder {index:4;}">
+                <Coords points="956,1597 1408,1597 1408,1731 956,1731" /><Baseline points="956,1680 1408,1680" />
+                <Baseline points="963,1660 1388,1666" />
+                <TextEquiv>
+                    <Unicode>ای گدایان خرابات خدا یار شماست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718134776_3992" custom="readingOrder {index:5;}">
+                <Coords points="957,1734 1401,1734 1401,1869 957,1869" /><Baseline points="957,1818 1401,1818" />
+                <Baseline points="966,1800 1388,1819" />
+                <TextEquiv>
+                    <Unicode>زاهد از کوچه رندان به سلامت بگذر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718167499_3998" custom="readingOrder {index:6;}">
+                <Coords points="959,1874 1403,1874 1403,2009 959,2009" /><Baseline points="959,1958 1403,1958" />
+                <Baseline points="976,1941 1392,1946" />
+                <TextEquiv>
+                    <Unicode>عیب می جمله چو گفتی هنرش نیز بگو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782718196795_4004" custom="readingOrder {index:7;}">
+                <Coords points="964,2017 1406,2017 1406,2161 964,2161" /><Baseline points="964,2106 1406,2106" />
+                <Baseline points="972,2086 1398,2096" />
+                <TextEquiv>
+                    <Unicode>پیر میخانه چه خوش گفت به دردی کش خویش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حسب حالی ننوشتیم و شد ایامی چند
+ما بدان مقصد عالی نتوانیم رسید
+چون می از خم به سبو رفت و گل افکند نقاب
+قند آمیخته با گل نه علاج دل ماست
+ای گدایان خرابات خدا یار شماست
+زاهد از کوچه رندان به سلامت بگذر
+عیب می جمله چو گفتی هنرش نیز بگو
+پیر میخانه چه خوش گفت به دردی کش خویش</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782718695554_4090" custom="readingOrder {index:7;}">
+            <Coords points="967,2431 1419,2431 1419,2598 967,2598" />
+            <TextLine id="line_1782718701755_4093" custom="readingOrder {index:0;}">
+                <Coords points="978,2437 1407,2437 1407,2579 978,2579" /><Baseline points="978,2525 1407,2525" />
+                <Baseline points="986,2526 1394,2515" />
+                <TextEquiv>
+                    <Unicode>سرو چمان من چرا میل چمن نمی کند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سرو چمان من چرا میل چمن نمی کند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

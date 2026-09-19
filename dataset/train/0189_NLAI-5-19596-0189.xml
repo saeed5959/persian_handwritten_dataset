@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.388+04:30</Created>
+        <LastChange>2026-06-21T13:36:57.007+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="10" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0189_NLAI-5-19596-0189.jpg" imageWidth="1506" imageHeight="2759">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782032817008" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782030140764_684" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782030140764_684" custom="readingOrder {index:0;}">
+            <Coords points="388,466 1383,466 1383,2520 388,2520" />
+            <TextLine id="line_1782030170920_687" custom="readingOrder {index:0;}">
+                <Coords points="397,587 1344,587 1344,449 397,449" /><Baseline points="397,535 1344,535" />
+                <Baseline points="409,542 1337,557" />
+                <TextEquiv>
+                    <Unicode>سواد دیده عمدیده ام به اشک مشوی که نقش خال تو ام هرگز از نظر نروند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030174342_690" custom="readingOrder {index:1;}">
+                <Coords points="1339,587 417,587 417,739 1339,739" /><Baseline points="417,681 1339,681" />
+                <Baseline points="422,690 1329,700" />
+                <TextEquiv>
+                    <Unicode>بپوش دامن عقوی بزلت من مست که آب روی شریعت بدین قدر نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030178250_693" custom="readingOrder {index:2;}">
+                <Coords points="1353,730 410,730 410,870 1353,870" /><Baseline points="410,817 1353,817" />
+                <Baseline points="415,831 1341,828" />
+                <TextEquiv>
+                    <Unicode>تو که مکارم اخلاق عالمی دگری وفای عهد من از خاطرت به در نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030183927_696" custom="readingOrder {index:3;}">
+                <Coords points="1362,1004 401,1004 401,865 1362,865" /><Baseline points="401,951 1362,951" />
+                <Baseline points="409,971 1345,980" />
+                <TextEquiv>
+                    <Unicode>دلا مباش چنین هرزه گرد و هرجایی که هیچ کار ز پیشت بدین هنر نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030193879_699" custom="readingOrder {index:4;}">
+                <Coords points="410,1168 1356,1168 1356,1017 410,1017" /><Baseline points="410,1111 1356,1111" />
+                <Baseline points="422,1123 1319,1126" />
+                <TextEquiv>
+                    <Unicode>من گدا هوس سروقامتی دارم که دست در کمرش جز به سیم و زر نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030196582_702" custom="readingOrder {index:5;}">
+                <Coords points="1374,1177 393,1177 393,1279 1374,1279" /><Baseline points="393,1240 1374,1240" />
+                <Baseline points="426,1251 1345,1233" />
+                <TextEquiv>
+                    <Unicode>بتاج هدهدم از ره مبر که باز سفید ز کبر در پی هر صید مختصر نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030201396_705" custom="readingOrder {index:6;}">
+                <Coords points="392,1435 1372,1435 1372,1267 392,1267" /><Baseline points="392,1371 1372,1371" />
+                <Baseline points="409,1393 1344,1376" />
+                <TextEquiv>
+                    <Unicode>سیاه نامه تر از خود کسی نمیبینم چگونه چون قلمم دود دل به سر نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030204967_708" custom="readingOrder {index:7;}">
+                <Coords points="1157,1566 675,1566 675,1455 1157,1455" /><Baseline points="675,1524 1157,1524" />
+                <Baseline points="696,1527 1139,1521" />
+                <TextEquiv>
+                    <Unicode>بیار باده اول به دست حافظ ده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030207249_711" custom="readingOrder {index:8;}">
+                <Coords points="673,1583 1128,1583 1128,1705 673,1705" /><Baseline points="673,1659 1128,1659" />
+                <Baseline points="686,1674 1118,1670" />
+                <TextEquiv>
+                    <Unicode>بشرط آن که ز مجلس سخن به در نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030212187_714" custom="readingOrder {index:9;}">
+                <Coords points="412,1868 1375,1868 1375,1721 412,1721" /><Baseline points="412,1812 1375,1812" />
+                <Baseline points="417,1819 1349,1812" />
+                <TextEquiv>
+                    <Unicode>از سر کوی تو هر کو به ملامت برود نرود کارش و آخر به خجالت برود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030215741_717" custom="readingOrder {index:10;}">
+                <Coords points="1391,1977 408,1977 408,1874 1391,1874" /><Baseline points="408,1938 1391,1938" />
+                <Baseline points="429,1971 1353,1944" />
+                <TextEquiv>
+                    <Unicode>سالک از نور هدایت ببرد راه به دوست که بجایی نرسد گر بضلالت برود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030219847_720" custom="readingOrder {index:11;}">
+                <Coords points="1379,2126 424,2126 424,2015 1379,2015" /><Baseline points="424,2084 1379,2084" />
+                <Baseline points="424,2087 1357,2090" />
+                <TextEquiv>
+                    <Unicode>کردی آخر عمر از می و معشوق بگیر حیف اوقان که یکسر ببطالت برود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030223315_723" custom="readingOrder {index:12;}">
+                <Coords points="1385,2261 416,2261 416,2168 1385,2168" /><Baseline points="416,2226 1385,2226" />
+                <Baseline points="431,2240 1361,2243" />
+                <TextEquiv>
+                    <Unicode>ای دلیل دل کم کشته خدا را یاران که غریب ار بز ره بدلالت برود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030227850_726" custom="readingOrder {index:13;}">
+                <Coords points="1395,2412 424,2412 424,2309 1395,2309" /><Baseline points="424,2373 1395,2373" />
+                <Baseline points="430,2378 1367,2385" />
+                <TextEquiv>
+                    <Unicode>حکم مستوری و مستی همه بر خاتمت است کس ندانست که آخر به چه حالت برود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782030231373_729" custom="readingOrder {index:14;}">
+                <Coords points="1391,2525 426,2525 426,2432 1391,2432" /><Baseline points="426,2490 1391,2490" />
+                <Baseline points="437,2518 1374,2504" />
+                <TextEquiv>
+                    <Unicode>کاروانی که بود بدرقه اش لطف خدای تحمل بنشیند بجلالت برود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سواد دیده عمدیده ام به اشک مشوی که نقش خال تو ام هرگز از نظر نروند
+بپوش دامن عقوی بزلت من مست که آب روی شریعت بدین قدر نرود
+تو که مکارم اخلاق عالمی دگری وفای عهد من از خاطرت به در نرود
+دلا مباش چنین هرزه گرد و هرجایی که هیچ کار ز پیشت بدین هنر نرود
+من گدا هوس سروقامتی دارم که دست در کمرش جز به سیم و زر نرود
+بتاج هدهدم از ره مبر که باز سفید ز کبر در پی هر صید مختصر نرود
+سیاه نامه تر از خود کسی نمیبینم چگونه چون قلمم دود دل به سر نرود
+بیار باده اول به دست حافظ ده
+بشرط آن که ز مجلس سخن به در نرود
+از سر کوی تو هر کو به ملامت برود نرود کارش و آخر به خجالت برود
+سالک از نور هدایت ببرد راه به دوست که بجایی نرسد گر بضلالت برود
+کردی آخر عمر از می و معشوق بگیر حیف اوقان که یکسر ببطالت برود
+ای دلیل دل کم کشته خدا را یاران که غریب ار بز ره بدلالت برود
+حکم مستوری و مستی همه بر خاتمت است کس ندانست که آخر به چه حالت برود
+کاروانی که بود بدرقه اش لطف خدای تحمل بنشیند بجلالت برود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

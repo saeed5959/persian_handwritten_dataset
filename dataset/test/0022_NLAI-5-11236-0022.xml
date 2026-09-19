@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.635+03:30</Created>
+        <LastChange>2026-06-18T17:32:25.023+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0022_NLAI-5-11236-0022.jpg" imageWidth="1132" imageHeight="1958">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781791345050" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781790222941_9" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781790222941_9" custom="readingOrder {index:0;}">
+            <Coords points="131,518 837,518 837,1695 131,1695" />
+            <TextLine id="line_1781790228356_12" custom="readingOrder {index:0;}">
+                <Coords points="508,645 847,645 847,530 508,530" /><Baseline points="508,601 847,601" />
+                <Baseline points="538,601 807,605" />
+                <TextEquiv>
+                    <Unicode>که را سرکه دارو بود بر جگر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790230955_15" custom="readingOrder {index:1;}">
+                <Coords points="153,651 482,651 482,540 153,540" /><Baseline points="153,609 482,609" />
+                <Baseline points="172,601 467,598" />
+                <TextEquiv>
+                    <Unicode>شود زانگبین درد او بیشتر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790233932_18" custom="readingOrder {index:2;}">
+                <Coords points="515,784 815,784 815,651 515,651" /><Baseline points="515,733 815,733" />
+                <Baseline points="530,720 796,733" />
+                <TextEquiv>
+                    <Unicode>نه قیصر بخواهم نه خاقان چین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790236420_21" custom="readingOrder {index:3;}">
+                <Coords points="154,779 496,779 496,652 154,652" /><Baseline points="154,731 496,731" />
+                <Baseline points="176,716 461,716" />
+                <TextEquiv>
+                    <Unicode>نه از تاجداران ایران زمین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790242316_27" custom="readingOrder {index:4;}">
+                <Coords points="152,914 479,914 479,774 152,774" /><Baseline points="152,861 479,861" />
+                <Baseline points="172,843 471,847" />
+                <TextEquiv>
+                    <Unicode>ابا بازوی شیر و با کتف و یال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790239443_24" custom="readingOrder {index:5;}">
+                <Coords points="516,922 814,922 814,796 516,796" /><Baseline points="516,874 814,874" />
+                <Baseline points="529,851 807,862" />
+                <TextEquiv>
+                    <Unicode>به بالای من پور سام است زال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790248036_33" custom="readingOrder {index:6;}">
+                <Coords points="149,1037 479,1037 479,921 149,921" /><Baseline points="149,993 479,993" />
+                <Baseline points="176,978 463,980" />
+                <TextEquiv>
+                    <Unicode>مرا او بجای تن است و روان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790245435_30" custom="readingOrder {index:7;}">
+                <Coords points="496,1036 827,1036 827,921 496,921" /><Baseline points="496,992 827,992" />
+                <Baseline points="530,995 799,981" />
+                <TextEquiv>
+                    <Unicode>گرش پیرخوانی همی یا جوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790256699_39" custom="readingOrder {index:8;}">
+                <Coords points="163,1139 461,1139 461,1029 163,1029" /><Baseline points="163,1097 461,1097" />
+                <Baseline points="174,1096 452,1102" />
+                <TextEquiv>
+                    <Unicode>جز از وی بر من میارید یاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790251124_36" custom="readingOrder {index:9;}">
+                <Coords points="508,1158 814,1158 814,1033 508,1033" /><Baseline points="508,1110 814,1110" />
+                <Baseline points="527,1102 795,1100" />
+                <TextEquiv>
+                    <Unicode>جز او هرگز اندر دل من مباد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790270180_45" custom="readingOrder {index:10;}">
+                <Coords points="163,1273 475,1273 475,1161 163,1161" /><Baseline points="163,1230 475,1230" />
+                <Baseline points="169,1221 456,1225" />
+                <TextEquiv>
+                    <Unicode>همان دوستی از شنیده گزید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790261627_42" custom="readingOrder {index:11;}">
+                <Coords points="496,1277 829,1277 829,1163 496,1163" /><Baseline points="496,1234 829,1234" />
+                <Baseline points="518,1228 799,1230" />
+                <TextEquiv>
+                    <Unicode>مرا مهر او دل ندیده گزید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790277396_51" custom="readingOrder {index:12;}">
+                <Coords points="158,1410 459,1410 459,1283 158,1283" /><Baseline points="158,1362 459,1362" />
+                <Baseline points="193,1358 448,1358" />
+                <TextEquiv>
+                    <Unicode>به سوی هنر گشتمش مهرجوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790274084_48" custom="readingOrder {index:13;}">
+                <Coords points="498,1406 811,1406 811,1284 498,1284" /><Baseline points="498,1360 811,1360" />
+                <Baseline points="515,1348 801,1350" />
+                <TextEquiv>
+                    <Unicode>برو مهربانم به بر روی و موی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790284563_57" custom="readingOrder {index:14;}">
+                <Coords points="156,1528 467,1528 467,1417 156,1417" /><Baseline points="156,1486 467,1486" />
+                <Baseline points="178,1470 455,1476" />
+                <TextEquiv>
+                    <Unicode>چو بشنید دل خسته آواز اوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790280356_54" custom="readingOrder {index:15;}">
+                <Coords points="496,1525 795,1525 795,1418 496,1418" /><Baseline points="496,1484 795,1484" />
+                <TextEquiv>
+                    <Unicode>پرستنده آگه شد از راز اوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790291627_63" custom="readingOrder {index:16;}">
+                <Coords points="152,1647 463,1647 463,1538 152,1538" /><Baseline points="152,1606 463,1606" />
+                <Baseline points="165,1584 453,1599" />
+                <TextEquiv>
+                    <Unicode>شدند آن پرستندگان همزبان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781790287716_60" custom="readingOrder {index:17;}">
+                <Coords points="505,1643 789,1643 789,1542 505,1542" /><Baseline points="505,1605 789,1605" />
+                <Baseline points="523,1601 779,1605" />
+                <TextEquiv>
+                    <Unicode>بدلجویی دختر مهربان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که را سرکه دارو بود بر جگر
+شود زانگبین درد او بیشتر
+نه قیصر بخواهم نه خاقان چین
+نه از تاجداران ایران زمین
+ابا بازوی شیر و با کتف و یال
+به بالای من پور سام است زال
+مرا او بجای تن است و روان
+گرش پیرخوانی همی یا جوان
+جز از وی بر من میارید یاد
+جز او هرگز اندر دل من مباد
+همان دوستی از شنیده گزید
+مرا مهر او دل ندیده گزید
+به سوی هنر گشتمش مهرجوی
+برو مهربانم به بر روی و موی
+چو بشنید دل خسته آواز اوی
+پرستنده آگه شد از راز اوی
+شدند آن پرستندگان همزبان
+بدلجویی دختر مهربان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

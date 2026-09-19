@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T18:11:08.011+04:30</Created>
+        <LastChange>2026-06-21T18:27:40.864+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0135_NLAI-5-15801-0135.jpg" imageWidth="1117" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782050260866" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782049332525_763" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782049332525_763" custom="readingOrder {index:0;}">
+            <Coords points="121,1645 1008,1645 1008,199 121,199" />
+            <TextLine id="line_1782049359289_766" custom="readingOrder {index:0;}">
+                <Coords points="165,203 1011,203 1011,309 165,309" /><Baseline points="165,269 1011,269" />
+                <Baseline points="989,273 170,258" />
+                <TextEquiv>
+                    <Unicode>و عکس حق مثل کل حیوان انسان و بعض الانسان حیوان بدانکه مراد از</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049436236_772" custom="readingOrder {index:1;}">
+                <Coords points="170,319 1012,319 1012,423 170,423" /><Baseline points="170,383 1012,383" />
+                <Baseline points="982,383 182,379" />
+                <TextEquiv>
+                    <Unicode>عکس نه هر قضیه است که حاصل میشود از تبدیل قضیه دیگر با بقای صدق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049490213_778" custom="readingOrder {index:2;}">
+                <Coords points="169,440 994,440 994,556 169,556" /><Baseline points="169,512 994,512" />
+                <Baseline points="978,526 188,500" />
+                <TextEquiv>
+                    <Unicode>و کیف و لهذا موجبه جزییه را عکس موجبه کلیه و جزییه گرفته اند در بعضی مواد موجبه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049551299_784" custom="readingOrder {index:3;}">
+                <Coords points="167,558 1003,558 1003,689 167,689" /><Baseline points="167,639 1003,639" />
+                <Baseline points="980,641 179,607" />
+                <TextEquiv>
+                    <Unicode>کلیه هم صادق است مثل کل ناطق انسان که از عکس کل ناطق انسان حق است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049626223_795" custom="readingOrder {index:4;}">
+                <Coords points="160,691 978,691 978,787 160,787" /><Baseline points="160,751 978,751" />
+                <Baseline points="963,764 550,744 165,740" />
+                <TextEquiv>
+                    <Unicode>و کل انسان حیوان که در عکس بعض الحیوان انسان حق است و هم چنین سالبه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049687694_801" custom="readingOrder {index:5;}">
+                <Coords points="161,794 981,794 981,925 161,925" /><Baseline points="161,875 981,875" />
+                <Baseline points="972,885 170,859" />
+                <TextEquiv>
+                    <Unicode>جزییه در بعضی مواد عکس دارد مثل بعض الحجر لیس بانسان و عکس بعض الانسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049771325_807" custom="readingOrder {index:6;}">
+                <Coords points="145,923 974,923 974,1055 145,1055" /><Baseline points="145,1005 974,1005" />
+                <Baseline points="958,1005 520,1004 162,971" />
+                <TextEquiv>
+                    <Unicode>لیس بحجر و نیز ممکنه عامه با عکس همه قضایا حق است و حال آنکه انرا عکس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049891357_813" custom="readingOrder {index:7;}">
+                <Coords points="145,1055 973,1055 973,1166 145,1166" /><Baseline points="145,1124 973,1124" />
+                <Baseline points="963,1133 165,1113" />
+                <TextEquiv>
+                    <Unicode>آن قضایا نگرفته اند بلکه مراد از عکس اخص قضایاییست که حاصل میشود از</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049936276_819" custom="readingOrder {index:8;}">
+                <Coords points="145,1184 963,1184 963,1301 145,1301" /><Baseline points="145,1257 963,1257" />
+                <Baseline points="950,1259 161,1231" />
+                <TextEquiv>
+                    <Unicode>تبدیل طرفین قضیه دیگر با بقای صدق و کیف بحیثیتی که لازم الصدق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049977879_825" custom="readingOrder {index:9;}">
+                <Coords points="142,1309 963,1309 963,1423 142,1423" /><Baseline points="142,1380 963,1380" />
+                <Baseline points="954,1386 154,1347" />
+                <TextEquiv>
+                    <Unicode>باشد در جمیع مواد لکن چون بتفصیل بیان عکس هر یک از قضایا مذکور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050054564_831" custom="readingOrder {index:10;}">
+                <Coords points="130,1408 961,1408 961,1529 130,1529" /><Baseline points="130,1483 961,1483" />
+                <Baseline points="948,1490 323,1472 146,1445" />
+                <TextEquiv>
+                    <Unicode>میشود لهذا اکتفا بتعریف کرده اند که اعم است از معرف وله بیان للجزنی اه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050215170_837" custom="readingOrder {index:11;}">
+                <Coords points="132,1533 961,1533 961,1641 132,1641" /><Baseline points="132,1600 961,1600" />
+                <Baseline points="946,1612 133,1595" />
+                <TextEquiv>
+                    <Unicode>قول مصنف مرکب از دو مدعا یکی آنکه موجبه کلیه منعکس میشود بموجبه کلیه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و عکس حق مثل کل حیوان انسان و بعض الانسان حیوان بدانکه مراد از
+عکس نه هر قضیه است که حاصل میشود از تبدیل قضیه دیگر با بقای صدق
+و کیف و لهذا موجبه جزییه را عکس موجبه کلیه و جزییه گرفته اند در بعضی مواد موجبه
+کلیه هم صادق است مثل کل ناطق انسان که از عکس کل ناطق انسان حق است
+و کل انسان حیوان که در عکس بعض الحیوان انسان حق است و هم چنین سالبه
+جزییه در بعضی مواد عکس دارد مثل بعض الحجر لیس بانسان و عکس بعض الانسان
+لیس بحجر و نیز ممکنه عامه با عکس همه قضایا حق است و حال آنکه انرا عکس
+آن قضایا نگرفته اند بلکه مراد از عکس اخص قضایاییست که حاصل میشود از
+تبدیل طرفین قضیه دیگر با بقای صدق و کیف بحیثیتی که لازم الصدق
+باشد در جمیع مواد لکن چون بتفصیل بیان عکس هر یک از قضایا مذکور
+میشود لهذا اکتفا بتعریف کرده اند که اعم است از معرف وله بیان للجزنی اه
+قول مصنف مرکب از دو مدعا یکی آنکه موجبه کلیه منعکس میشود بموجبه کلیه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

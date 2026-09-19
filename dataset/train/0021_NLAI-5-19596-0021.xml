@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:17.494+03:30</Created>
+        <LastChange>2026-06-21T01:17:31.567+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0021_NLAI-5-19596-0021.jpg" imageWidth="1625" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781992051605" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781907955873_3701" />
+                <RegionRefIndexed index="1" regionRef="region_1781907958852_3704" />
+                <RegionRefIndexed index="2" regionRef="region_1781907962400_3707" />
+                <RegionRefIndexed index="3" regionRef="region_1781907965750_3710" />
+                <RegionRefIndexed index="4" regionRef="region_1781907971137_3713" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781907955873_3701" custom="readingOrder {index:0;}">
+            <Coords points="449,466 1485,466 1485,1469 449,1469" />
+            <TextLine id="line_1781907977621_3716" custom="readingOrder {index:0;}">
+                <Coords points="487,497 936,497 936,630 487,630" /><Baseline points="487,579 936,579" />
+                <Baseline points="521,569 919,571" />
+                <TextEquiv>
+                    <Unicode>چنین متاع نفیسی بچون تو ارزانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907985473_3722" custom="readingOrder {index:1;}">
+                <Coords points="1022,504 1458,504 1458,628 1022,628" /><Baseline points="1022,581 1458,581" />
+                <Baseline points="1059,568 1446,568" />
+                <TextEquiv>
+                    <Unicode>هزار سال بقا بخشدت مدایح من</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907992830_3728" custom="readingOrder {index:2;}">
+                <Coords points="494,632 937,632 937,760 494,760" /><Baseline points="494,711 937,711" />
+                <Baseline points="514,694 920,692" />
+                <TextEquiv>
+                    <Unicode>که ذیل عفو بدین ماجرا بپوشانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908002208_3734" custom="readingOrder {index:3;}">
+                <Coords points="1011,633 1460,633 1460,775 1011,775" /><Baseline points="1011,721 1460,721" />
+                <Baseline points="1035,708 1440,709" />
+                <TextEquiv>
+                    <Unicode>سخن دراز کشیدم ولی امیدم نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908009701_3740" custom="readingOrder {index:4;}">
+                <Coords points="499,763 939,763 939,896 499,896" /><Baseline points="499,845 939,845" />
+                <Baseline points="521,836 924,834" />
+                <TextEquiv>
+                    <Unicode>هزار نقش نگارد و بخط ریحانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908018236_3746" custom="readingOrder {index:5;}">
+                <Coords points="1013,778 1450,778 1450,920 1013,920" /><Baseline points="1013,866 1450,866" />
+                <Baseline points="1025,851 1443,846" />
+                <TextEquiv>
+                    <Unicode>همیشه تا که بهاران صبا بسبز باغ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908026169_3752" custom="readingOrder {index:6;}">
+                <Coords points="502,902 931,902 931,1037 502,1037" /><Baseline points="502,986 931,986" />
+                <Baseline points="529,984 902,981" />
+                <TextEquiv>
+                    <Unicode>شکفته باد گل دولتت بآسانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908039392_3758" custom="readingOrder {index:7;}">
+                <Coords points="1020,930 1462,930 1462,1070 1020,1070" /><Baseline points="1020,1017 1462,1017" />
+                <Baseline points="1040,1000 1446,986" />
+                <TextEquiv>
+                    <Unicode>بباغ ملک زشاخ امل بعمر دراز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908056548_3770" custom="readingOrder {index:8;}">
+                <Coords points="1006,1185 1450,1185 1450,1343 1006,1343" /><Baseline points="1006,1283 1450,1283" />
+                <Baseline points="1040,1283 1424,1284" />
+                <TextEquiv>
+                    <Unicode>ای حریم بار کاتب کعب غر و علا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908049268_3764" custom="readingOrder {index:9;}">
+                <Coords points="482,1188 927,1188 927,1345 482,1345" /><Baseline points="482,1285 927,1285" />
+                <Baseline points="502,1281 904,1283" />
+                <TextEquiv>
+                    <Unicode>نور چشم مصطفی یعنی علی موسی رضا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908074046_3782" custom="readingOrder {index:10;}">
+                <Coords points="1011,1347 1448,1347 1448,1458 1011,1458" /><Baseline points="1011,1416 1448,1416" />
+                <Baseline points="1025,1404 1436,1408" />
+                <TextEquiv>
+                    <Unicode>ماه گردون ولایت شمع جمع اصطفا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908065127_3776" custom="readingOrder {index:11;}">
+                <Coords points="487,1352 925,1352 925,1456 487,1456" /><Baseline points="487,1416 925,1416" />
+                <Baseline points="501,1409 909,1413" />
+                <TextEquiv>
+                    <Unicode>میو ستان حیث بلبل نیکو سرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چنین متاع نفیسی بچون تو ارزانی
+هزار سال بقا بخشدت مدایح من
+که ذیل عفو بدین ماجرا بپوشانی
+سخن دراز کشیدم ولی امیدم نیست
+هزار نقش نگارد و بخط ریحانی
+همیشه تا که بهاران صبا بسبز باغ
+شکفته باد گل دولتت بآسانی
+بباغ ملک زشاخ امل بعمر دراز
+ای حریم بار کاتب کعب غر و علا
+نور چشم مصطفی یعنی علی موسی رضا
+ماه گردون ولایت شمع جمع اصطفا
+میو ستان حیث بلبل نیکو سرا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781907958852_3704" custom="readingOrder {index:1;}">
+            <Coords points="676,1466 1250,1466 1250,1765 676,1765" />
+            <TextLine id="line_1781908082568_3788" custom="readingOrder {index:0;}">
+                <Coords points="727,1488 1236,1488 1236,1611 727,1611" /><Baseline points="727,1564 1236,1564" />
+                <Baseline points="757,1552 1222,1552" />
+                <TextEquiv>
+                    <Unicode>دایما از عنیب می آید بگوشم این ندا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908090128_3794" custom="readingOrder {index:1;}">
+                <Coords points="733,1619 1224,1619 1224,1729 733,1729" /><Baseline points="733,1687 1224,1687" />
+                <Baseline points="767,1682 1195,1682" />
+                <TextEquiv>
+                    <Unicode>کالسلام ایحضرت شاه خراسان سلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دایما از عنیب می آید بگوشم این ندا
+کالسلام ایحضرت شاه خراسان سلام</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781907962400_3707" custom="readingOrder {index:2;}">
+            <Coords points="458,1738 1468,1738 1468,2058 458,2058" />
+            <TextLine id="line_1781908105130_3806" custom="readingOrder {index:0;}">
+                <Coords points="1011,1771 1451,1771 1451,1898 1011,1898" /><Baseline points="1011,1850 1451,1850" />
+                <Baseline points="1020,1844 1431,1844" />
+                <TextEquiv>
+                    <Unicode>جد تو سلطان گونین است یعنی مصطفی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908097497_3800" custom="readingOrder {index:1;}">
+                <Coords points="487,1773 915,1773 915,1903 487,1903" /><Baseline points="487,1854 915,1854" />
+                <Baseline points="502,1854 904,1856" />
+                <TextEquiv>
+                    <Unicode>جد تو فاطمه ام امام مجتبا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908120922_3818" custom="readingOrder {index:2;}">
+                <Coords points="1011,1899 1441,1899 1441,2034 1011,2034" /><Baseline points="1011,1983 1441,1983" />
+                <Baseline points="1030,1979 1423,1969" />
+                <TextEquiv>
+                    <Unicode>جد دیگر حیدر صفدرعلی مرتضی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908113376_3812" custom="readingOrder {index:3;}">
+                <Coords points="485,1913 919,1913 919,2041 485,2041" /><Baseline points="485,1992 919,1992" />
+                <Baseline points="504,1985 905,1987" />
+                <TextEquiv>
+                    <Unicode>هم غریب و هم شهیدی چون حسین کربلا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جد تو سلطان گونین است یعنی مصطفی
+جد تو فاطمه ام امام مجتبا
+جد دیگر حیدر صفدرعلی مرتضی
+هم غریب و هم شهیدی چون حسین کربلا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781907965750_3710" custom="readingOrder {index:3;}">
+            <Coords points="688,2046 1253,2046 1253,2317 688,2317" />
+            <TextLine id="line_1781908130569_3824" custom="readingOrder {index:0;}">
+                <Coords points="735,2070 1232,2070 1232,2181 735,2181" /><Baseline points="735,2139 1232,2139" />
+                <Baseline points="754,2124 1217,2125" />
+                <TextEquiv>
+                    <Unicode>از محبت هر زمان گوییم و باشد درد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908138264_3830" custom="readingOrder {index:1;}">
+                <Coords points="727,2189 1204,2189 1204,2297 727,2297" /><Baseline points="727,2256 1204,2256" />
+                <Baseline points="732,2248 1177,2242" />
+                <TextEquiv>
+                    <Unicode>کالسلام ایحضرت شاه خراسان السلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>از محبت هر زمان گوییم و باشد درد
+کالسلام ایحضرت شاه خراسان السلام</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781907971137_3713" custom="readingOrder {index:4;}">
+            <Coords points="455,2276 1474,2276 1474,2601 455,2601" />
+            <TextLine id="line_1781908146474_3836" custom="readingOrder {index:0;}">
+                <Coords points="475,2299 905,2299 905,2463 475,2463" /><Baseline points="475,2401 905,2401" />
+                <Baseline points="497,2398 891,2401" />
+                <TextEquiv>
+                    <Unicode>جعفر صادق که داده دین و دنیا را نظام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908156091_3842" custom="readingOrder {index:1;}">
+                <Coords points="1011,2344 1451,2344 1451,2469 1011,2469" /><Baseline points="1011,2422 1451,2422" />
+                <Baseline points="1025,2412 1424,2412" />
+                <TextEquiv>
+                    <Unicode>نور چشم زین عبادی و باقریا امام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908164892_3848" custom="readingOrder {index:2;}">
+                <Coords points="482,2462 923,2462 923,2585 482,2585" /><Baseline points="482,2538 923,2538" />
+                <Baseline points="487,2521 908,2525" />
+                <TextEquiv>
+                    <Unicode>گشته خورشید فلک بر درکهت اثیه غلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908173899_3854" custom="readingOrder {index:3;}">
+                <Coords points="1006,2472 1436,2472 1436,2594 1006,2594" /><Baseline points="1006,2548 1436,2548" />
+                <Baseline points="1011,2531 1422,2528" />
+                <TextEquiv>
+                    <Unicode>باب تو موسی کاظم آن شفیع خاص عام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جعفر صادق که داده دین و دنیا را نظام
+نور چشم زین عبادی و باقریا امام
+گشته خورشید فلک بر درکهت اثیه غلام
+باب تو موسی کاظم آن شفیع خاص عام</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

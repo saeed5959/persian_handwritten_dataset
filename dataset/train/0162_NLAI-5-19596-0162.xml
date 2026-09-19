@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T11:45:55.117+03:30</Created>
+        <LastChange>2026-06-25T13:57:36.829+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0162_NLAI-5-19596-0162.jpg" imageWidth="1506" imageHeight="2793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782383256886" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782380670166_487" />
+                <RegionRefIndexed index="1" regionRef="region_1782382064906_562" />
+                <RegionRefIndexed index="2" regionRef="region_1782383125251_676" />
+                <RegionRefIndexed index="3" regionRef="region_1782380729179_496" />
+                <RegionRefIndexed index="4" regionRef="region_1782382661510_611" />
+                <RegionRefIndexed index="5" regionRef="region_1782380630978_478" />
+                <RegionRefIndexed index="6" regionRef="region_1782381162859_511" />
+                <RegionRefIndexed index="7" regionRef="region_1782382897410_646" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782380670166_487" custom="readingOrder {index:0;}">
+            <Coords points="57,406 500,406 500,574 57,574" />
+            <TextLine id="line_1782380674026_490" custom="readingOrder {index:0;}">
+                <Coords points="82,409 498,409 498,566 82,566" /><Baseline points="82,506 498,506" />
+                <Baseline points="90,459 483,506" />
+                <TextEquiv>
+                    <Unicode>کان شاهد بازاری وین پرده نشین شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کان شاهد بازاری وین پرده نشین شد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782382064906_562" custom="readingOrder {index:1;}">
+            <Coords points="60,816 503,816 503,1706 60,1706" />
+            <TextLine id="line_1782382068399_565" custom="readingOrder {index:0;}">
+                <Coords points="63,825 495,825 495,975 63,975" /><Baseline points="63,918 495,918" />
+                <Baseline points="92,902 478,924" />
+                <TextEquiv>
+                    <Unicode>ای بسا خرقه که شایسته آتش باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782382190939_571" custom="readingOrder {index:1;}">
+                <Coords points="69,979 500,979 500,1111 69,1111" /><Baseline points="69,1061 500,1061" />
+                <Baseline points="94,1025 480,1066" />
+                <TextEquiv>
+                    <Unicode>تا مکانش نگران باش که سرخوش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782382403576_578" custom="readingOrder {index:2;}">
+                <Coords points="64,1136 504,1136 504,1265 64,1265" /><Baseline points="64,1216 504,1216" />
+                <Baseline points="74,1175 481,1224" />
+                <TextEquiv>
+                    <Unicode>عاشقی شیوه رندان بلاکش باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782382473117_584" custom="readingOrder {index:3;}">
+                <Coords points="68,1276 500,1276 500,1407 68,1407" /><Baseline points="68,1357 500,1357" />
+                <Baseline points="87,1324 482,1356" />
+                <TextEquiv>
+                    <Unicode>تاسیه روی شود هرکه درو غش باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782382564038_593" custom="readingOrder {index:4;}">
+                <Coords points="69,1434 495,1434 495,1554 69,1554" /><Baseline points="69,1508 495,1508" />
+                <Baseline points="81,1467 489,1508" />
+                <TextEquiv>
+                    <Unicode>حیف باشد دل دانا که مشوش باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782382613645_603" custom="readingOrder {index:5;}">
+                <Coords points="69,1566 494,1566 494,1700 69,1700" /><Baseline points="69,1649 494,1649" />
+                <Baseline points="86,1613 492,1642" />
+                <TextEquiv>
+                    <Unicode>ای بسا رخ که بخونابه منقش باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ای بسا خرقه که شایسته آتش باشد
+تا مکانش نگران باش که سرخوش
+عاشقی شیوه رندان بلاکش باشد
+تاسیه روی شود هرکه درو غش باشد
+حیف باشد دل دانا که مشوش باشد
+ای بسا رخ که بخونابه منقش باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782383125251_676" custom="readingOrder {index:2;}">
+            <Coords points="50,1970 503,1970 503,2545 50,2545" />
+            <TextLine id="line_1782383129064_679" custom="readingOrder {index:0;}">
+                <Coords points="45,1994 503,1994 503,2125 45,2125" /><Baseline points="45,2075 503,2075" />
+                <Baseline points="75,2048 494,2078" />
+                <TextEquiv>
+                    <Unicode>نه من بسوزم و او شمع انجمن باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782383158979_685" custom="readingOrder {index:1;}">
+                <Coords points="57,2132 503,2132 503,2254 57,2254" /><Baseline points="57,2208 503,2208" />
+                <Baseline points="99,2190 505,2214" />
+                <TextEquiv>
+                    <Unicode>که کاه کاه بدو دست اهرمن باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782383184300_691" custom="readingOrder {index:2;}">
+                <Coords points="65,2274 505,2274 505,2404 65,2404" /><Baseline points="65,2355 505,2355" />
+                <Baseline points="84,2332 502,2367" />
+                <TextEquiv>
+                    <Unicode>رقیب محرم و حرمان نصیب من باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782383223816_697" custom="readingOrder {index:3;}">
+                <Coords points="60,2412 505,2412 505,2541 60,2541" /><Baseline points="60,2492 505,2492" />
+                <Baseline points="86,2448 496,2517" />
+                <TextEquiv>
+                    <Unicode>وران ودیار که طوطی کم از زغن باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>نه من بسوزم و او شمع انجمن باشد
+که کاه کاه بدو دست اهرمن باشد
+رقیب محرم و حرمان نصیب من باشد
+وران ودیار که طوطی کم از زغن باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782380729179_496" custom="readingOrder {index:3;}">
+            <Coords points="259,569 764,569 764,825 259,825" />
+            <TextLine id="line_1782380733275_499" custom="readingOrder {index:0;}">
+                <Coords points="254,580 766,580 766,687 254,687" /><Baseline points="254,646 766,646" />
+                <Baseline points="264,615 743,635" />
+                <TextEquiv>
+                    <Unicode>آن نیست که حافش را رندی بشد از خاطر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782381107707_505" custom="readingOrder {index:1;}">
+                <Coords points="256,700 768,700 768,832 256,832" /><Baseline points="256,782 768,782" />
+                <Baseline points="281,759 712,783" />
+                <TextEquiv>
+                    <Unicode>کاین سابقه پیشین تا روزپسین باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>آن نیست که حافش را رندی بشد از خاطر
+کاین سابقه پیشین تا روزپسین باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782382661510_611" custom="readingOrder {index:4;}">
+            <Coords points="296,1707 776,1707 776,1979 296,1979" />
+            <TextLine id="line_1782382685941_621" custom="readingOrder {index:0;}">
+                <Coords points="296,1729 780,1729 780,1865 296,1865" /><Baseline points="296,1813 780,1813" />
+                <Baseline points="323,1796 760,1802" />
+                <TextEquiv>
+                    <Unicode>دلق سجاده حافظ ببرد باکه فروش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782382806978_634" custom="readingOrder {index:1;}">
+                <Coords points="295,1866 769,1866 769,1969 295,1969" /><Baseline points="295,1930 769,1930" />
+                <Baseline points="340,1917 743,1925" />
+                <TextEquiv>
+                    <Unicode>گر شراب از کف آن ساقه مهوش باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دلق سجاده حافظ ببرد باکه فروش
+گر شراب از کف آن ساقه مهوش باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782380630978_478" custom="readingOrder {index:5;}">
+            <Coords points="605,431 1030,431 1030,554 605,554" />
+            <TextLine id="line_1782380634623_481" custom="readingOrder {index:0;}">
+                <Coords points="599,434 1027,434 1027,564 599,564" /><Baseline points="599,515 1027,515" />
+                <Baseline points="587,508 1002,501 1007,503 1002,508" />
+                <TextEquiv>
+                    <Unicode>در کار گلاب و گل حکم ا زلی این بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>در کار گلاب و گل حکم ا زلی این بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782381162859_511" custom="readingOrder {index:6;}">
+            <Coords points="583,842 1039,842 1039,1707 583,1707" />
+            <TextLine id="line_1782381177411_517" custom="readingOrder {index:0;}">
+                <Coords points="600,863 1033,863 1033,974 600,974" /><Baseline points="600,932 1033,932" />
+                <Baseline points="610,920 1015,932" />
+                <TextEquiv>
+                    <Unicode>نقد صوفی نه همه صافی بی غش باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782381255084_531" custom="readingOrder {index:1;}">
+                <Coords points="587,1000 1030,1000 1030,1117 587,1117" /><Baseline points="587,1073 1030,1073" />
+                <Baseline points="617,1032 1019,1059" />
+                <TextEquiv>
+                    <Unicode>صوفی ما که زدرد سحری مست شدی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782381300136_537" custom="readingOrder {index:2;}">
+                <Coords points="593,1159 1026,1159 1026,1269 593,1269" /><Baseline points="593,1227 1026,1227" />
+                <Baseline points="614,1207 1015,1217" />
+                <TextEquiv>
+                    <Unicode>نازپرورده تنعم نبرد راه بدوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782381351649_544" custom="readingOrder {index:3;}">
+                <Coords points="588,1300 1035,1300 1035,1417 588,1417" /><Baseline points="588,1373 1035,1373" />
+                <Baseline points="607,1351 1025,1361" />
+                <TextEquiv>
+                    <Unicode>خوش بود گر محک تجربه آید به میان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782381379736_550" custom="readingOrder {index:4;}">
+                <Coords points="590,1437 1036,1437 1036,1560 590,1560" /><Baseline points="590,1513 1036,1513" />
+                <Baseline points="596,1486 1022,1509" />
+                <TextEquiv>
+                    <Unicode>غم دنیای دنی چند خوری باده بخور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782381592190_556" custom="readingOrder {index:5;}">
+                <Coords points="593,1575 1035,1575 1035,1707 593,1707" /><Baseline points="593,1657 1035,1657" />
+                <Baseline points="617,1626 1022,1631" />
+                <TextEquiv>
+                    <Unicode>خط ساقی که از آن گشت چنین نقش برآب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>نقد صوفی نه همه صافی بی غش باشد
+صوفی ما که زدرد سحری مست شدی
+نازپرورده تنعم نبرد راه بدوست
+خوش بود گر محک تجربه آید به میان
+غم دنیای دنی چند خوری باده بخور
+خط ساقی که از آن گشت چنین نقش برآب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782382897410_646" custom="readingOrder {index:7;}">
+            <Coords points="592,1980 1046,1980 1046,2552 592,2552" />
+            <TextLine id="line_1782382902491_649" custom="readingOrder {index:0;}">
+                <Coords points="600,1988 1043,1988 1043,2143 600,2143" /><Baseline points="600,2084 1043,2084" />
+                <Baseline points="608,2072 1033,2088" />
+                <TextEquiv>
+                    <Unicode>خوشست خلوت اگر یار یار من باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782382979646_655" custom="readingOrder {index:1;}">
+                <Coords points="596,2150 1051,2150 1051,2268 596,2268" /><Baseline points="596,2223 1051,2223" />
+                <Baseline points="613,2216 1029,2216" />
+                <TextEquiv>
+                    <Unicode>من آن نگین سلیمان به هیچ نستانم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782383016056_662" custom="readingOrder {index:2;}">
+                <Coords points="598,2313 1047,2313 1047,2398 598,2398" /><Baseline points="598,2366 1047,2366" />
+                <Baseline points="619,2332 1034,2367" />
+                <TextEquiv>
+                    <Unicode>روا مدار خدایا که در حریم وصال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782383037763_670" custom="readingOrder {index:3;}">
+                <Coords points="595,2431 1047,2431 1047,2546 595,2546" /><Baseline points="595,2502 1047,2502" />
+                <Baseline points="600,2480 1038,2501" />
+                <TextEquiv>
+                    <Unicode>همای گو مفکن سایه شرف هرگز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خوشست خلوت اگر یار یار من باشد
+من آن نگین سلیمان به هیچ نستانم
+روا مدار خدایا که در حریم وصال
+همای گو مفکن سایه شرف هرگز</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-16T21:33:27.376+03:30</Created>
+        <LastChange>2013-01-01T01:40:47.368+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0296_NLAI-5-21417-0296.jpg" imageWidth="1303" imageHeight="1825">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1356991847461" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1356991086960_1085" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1356991086960_1085" custom="readingOrder {index:0;}">
+            <Coords points="60,275 966,275 966,1650 60,1650" />
+            <TextLine id="line_1356991099315_1088" custom="readingOrder {index:0;}">
+                <Coords points="64,275 959,275 959,465 64,465" /><Baseline points="64,393 959,393" />
+                <Baseline points="75,376 905,390" />
+                <TextEquiv>
+                    <Unicode>و مثل فعل فی ذالاعلالاسم ضاها مضار عا وفیه و سم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356991204569_1094" custom="readingOrder {index:1;}">
+                <Coords points="93,515 887,515 887,676 93,676" /><Baseline points="93,615 887,615" />
+                <Baseline points="103,601 873,601" />
+                <TextEquiv>
+                    <Unicode>و مفعل صحح کالمفعال و الف الافعال و استفعال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356991313129_1101" custom="readingOrder {index:2;}">
+                <Coords points="118,748 909,748 909,927 118,927" /><Baseline points="118,859 909,859" />
+                <Baseline points="132,837 876,841" />
+                <TextEquiv>
+                    <Unicode>ازل لذالا علال و االتا الزم عوض وحذفها باالمقل بما عرض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356991419007_1107" custom="readingOrder {index:3;}">
+                <Coords points="139,1006 898,1006 898,1181 139,1181" /><Baseline points="139,1114 898,1114" />
+                <Baseline points="161,1095 880,1092" />
+                <TextEquiv>
+                    <Unicode>و مالا فعال من الحذف و من نقل فمعون به ایصا قمن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356991681072_1113" custom="readingOrder {index:4;}">
+                <Coords points="128,1228 880,1228 880,1417 128,1417" /><Baseline points="128,1345 880,1345" />
+                <Baseline points="136,1321 859,1306" />
+                <TextEquiv>
+                    <Unicode>نحو مبلیع و میصول و ندر یقصحح ذالواد و فی ذی الماشتهر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356991774235_1119" custom="readingOrder {index:5;}">
+                <Coords points="132,1503 887,1503 887,1629 132,1629" /><Baseline points="132,1581 887,1581" />
+                <Baseline points="143,1561 869,1571" />
+                <TextEquiv>
+                    <Unicode>وصحح المفعول فی نحو عدا دا علل انلم تحتری الاجودا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و مثل فعل فی ذالاعلالاسم ضاها مضار عا وفیه و سم
+و مفعل صحح کالمفعال و الف الافعال و استفعال
+ازل لذالا علال و االتا الزم عوض وحذفها باالمقل بما عرض
+و مالا فعال من الحذف و من نقل فمعون به ایصا قمن
+نحو مبلیع و میصول و ندر یقصحح ذالواد و فی ذی الماشتهر
+وصحح المفعول فی نحو عدا دا علل انلم تحتری الاجودا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

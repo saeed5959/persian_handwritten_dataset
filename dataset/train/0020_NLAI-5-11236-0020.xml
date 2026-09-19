@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.553+03:30</Created>
+        <LastChange>2026-06-14T21:40:05.953+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0020_NLAI-5-11236-0020.jpg" imageWidth="1165" imageHeight="1958">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781460605978" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781458313975_823" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781458313975_823" custom="readingOrder {index:0;}">
+            <Coords points="143,495 863,495 863,1692 143,1692" />
+            <TextLine id="line_1781458320382_829" custom="readingOrder {index:0;}">
+                <Coords points="183,649 505,649 505,531 183,531" /><Baseline points="183,604 505,604" />
+                <Baseline points="206,589 482,598" />
+                <TextEquiv>
+                    <Unicode>به شکی دل از جای برخواستند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458317863_826" custom="readingOrder {index:1;}">
+                <Coords points="517,643 858,643 858,539 517,539" /><Baseline points="517,603 858,603" />
+                <Baseline points="553,605 824,605" />
+                <TextEquiv>
+                    <Unicode>همه پاسخش را بیاراستند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458322463_832" custom="readingOrder {index:2;}">
+                <Coords points="520,802 849,802 849,648 520,648" /><Baseline points="520,743 849,743" />
+                <Baseline points="553,729 824,731" />
+                <TextEquiv>
+                    <Unicode>که ای افسر بانوان جهان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458325087_835" custom="readingOrder {index:3;}">
+                <Coords points="185,779 511,779 511,660 185,660" /><Baseline points="185,734 511,734" />
+                <Baseline points="203,720 484,722" />
+                <TextEquiv>
+                    <Unicode>سرافراز بر دختر میان مهان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458328215_838" custom="readingOrder {index:4;}">
+                <Coords points="529,919 834,919 834,782 529,782" /><Baseline points="529,867 834,867" />
+                <Baseline points="549,853 817,853" />
+                <TextEquiv>
+                    <Unicode>ستوده ز هندوستان تا بچین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458337270_841" custom="readingOrder {index:5;}">
+                <Coords points="183,889 494,889 494,786 183,786" /><Baseline points="183,850 494,850" />
+                <Baseline points="202,847 479,845" />
+                <TextEquiv>
+                    <Unicode>میان شبستان چو روشن نگین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458344582_847" custom="readingOrder {index:6;}">
+                <Coords points="188,1020 491,1020 491,909 188,909" /><Baseline points="188,978 491,978" />
+                <Baseline points="200,972 482,975" />
+                <TextEquiv>
+                    <Unicode>چو رخسار تو تابش پرو نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458341423_844" custom="readingOrder {index:7;}">
+                <Coords points="522,1030 842,1030 842,936 522,936" /><Baseline points="522,994 842,994" />
+                <Baseline points="543,977 824,983" />
+                <TextEquiv>
+                    <Unicode>ببالای تو در چمن سرو نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458352287_853" custom="readingOrder {index:8;}">
+                <Coords points="180,1138 497,1138 497,1036 180,1036" /><Baseline points="180,1099 497,1099" />
+                <Baseline points="203,1090 479,1090" />
+                <TextEquiv>
+                    <Unicode>فرستد همی سوی خاور خدای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458347719_850" custom="readingOrder {index:9;}">
+                <Coords points="520,1149 836,1149 836,1037 520,1037" /><Baseline points="520,1106 836,1106" />
+                <Baseline points="546,1107 814,1102" />
+                <TextEquiv>
+                    <Unicode>نگار رخ تو ز قنوح رای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458355647_856" custom="readingOrder {index:10;}">
+                <Coords points="523,1279 828,1279 828,1158 523,1158" /><Baseline points="523,1233 828,1233" />
+                <Baseline points="528,1227 816,1230" />
+                <TextEquiv>
+                    <Unicode>ترا خود بدیده درون شرم نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458358927_859" custom="readingOrder {index:11;}">
+                <Coords points="182,1265 487,1265 487,1167 182,1167" /><Baseline points="182,1228 487,1228" />
+                <Baseline points="191,1232 475,1226" />
+                <TextEquiv>
+                    <Unicode>پدر را به نزد تو آزرم نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458367064_865" custom="readingOrder {index:12;}">
+                <Coords points="179,1410 482,1410 482,1280 179,1280" /><Baseline points="179,1361 482,1361" />
+                <Baseline points="205,1350 470,1348" />
+                <TextEquiv>
+                    <Unicode>تو خواهی که او را بگیری بر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458364263_862" custom="readingOrder {index:13;}">
+                <Coords points="535,1410 839,1410 839,1280 535,1280" /><Baseline points="535,1361 839,1361" />
+                <Baseline points="543,1351 816,1353" />
+                <TextEquiv>
+                    <Unicode>که آن را که اندازد از بر پدر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458373919_871" custom="readingOrder {index:14;}">
+                <Coords points="179,1510 485,1510 485,1414 179,1414" /><Baseline points="179,1474 485,1474" />
+                <Baseline points="192,1475 473,1476" />
+                <TextEquiv>
+                    <Unicode>نشانی شده در میان گروه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458370319_868" custom="readingOrder {index:15;}">
+                <Coords points="525,1520 831,1520 831,1422 525,1422" /><Baseline points="525,1483 831,1483" />
+                <Baseline points="543,1484 814,1478" />
+                <TextEquiv>
+                    <Unicode>که پرورده مرغ باشد بکوه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458380919_877" custom="readingOrder {index:16;}">
+                <Coords points="174,1638 484,1638 484,1532 174,1532" /><Baseline points="174,1598 484,1598" />
+                <Baseline points="189,1599 476,1600" />
+                <TextEquiv>
+                    <Unicode>وزان کس که زاید نباشد نژاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781458377648_874" custom="readingOrder {index:17;}">
+                <Coords points="529,1636 843,1636 843,1534 529,1534" /><Baseline points="529,1597 843,1597" />
+                <Baseline points="540,1591 804,1603" />
+                <TextEquiv>
+                    <Unicode>کس از مادران پیر هرگز نزاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>به شکی دل از جای برخواستند
+همه پاسخش را بیاراستند
+که ای افسر بانوان جهان
+سرافراز بر دختر میان مهان
+ستوده ز هندوستان تا بچین
+میان شبستان چو روشن نگین
+چو رخسار تو تابش پرو نیست
+ببالای تو در چمن سرو نیست
+فرستد همی سوی خاور خدای
+نگار رخ تو ز قنوح رای
+ترا خود بدیده درون شرم نیست
+پدر را به نزد تو آزرم نیست
+تو خواهی که او را بگیری بر
+که آن را که اندازد از بر پدر
+نشانی شده در میان گروه
+که پرورده مرغ باشد بکوه
+وزان کس که زاید نباشد نژاد
+کس از مادران پیر هرگز نزاد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

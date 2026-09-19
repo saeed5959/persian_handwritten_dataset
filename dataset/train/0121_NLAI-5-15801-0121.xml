@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.089+03:30</Created>
+        <LastChange>2026-06-26T16:23:21.786+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0121_NLAI-5-15801-0121.jpg" imageWidth="1091" imageHeight="1761">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782478401798" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782330594016_253" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782330594016_253" custom="readingOrder {index:0;}">
+            <Coords points="75,196 969,196 969,1682 75,1682" />
+            <TextLine id="line_1782330598305_256" custom="readingOrder {index:0;}">
+                <Coords points="104,238 926,238 926,341 104,341" /><Baseline points="104,302 926,302" />
+                <Baseline points="136,294 917,294" />
+                <TextEquiv>
+                    <Unicode>این معنی داردند که ثبوت تحرک اصابع ضروری نیست والله اعلم بالصواب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330602417_259" custom="readingOrder {index:1;}">
+                <Coords points="98,349 942,349 942,460 98,460" /><Baseline points="98,418 942,418" />
+                <Baseline points="117,404 921,412" />
+                <TextEquiv>
+                    <Unicode>جوله اللزومیه الموجبه ما حکم اه در هر موجبه متصله لزومیه حکم کرده میشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330604299_262" custom="readingOrder {index:2;}">
+                <Coords points="98,469 957,469 957,598 98,598" /><Baseline points="98,549 957,549" />
+                <Baseline points="114,531 915,540" />
+                <TextEquiv>
+                    <Unicode>که اتصال میانه دو نسبه بواسطه علاقه است پس در سالبه اش جکم سبب این</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330605886_265" custom="readingOrder {index:3;}">
+                <Coords points="94,582 944,582 944,714 94,714" /><Baseline points="94,664 944,664" />
+                <Baseline points="104,636 921,653" />
+                <TextEquiv>
+                    <Unicode>اتصال است یعنی اتصال نسبت علاقه میانه دو نسبت و ازینجا ظاهر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330607410_268" custom="readingOrder {index:4;}">
+                <Coords points="79,686 946,686 946,818 79,818" /><Baseline points="79,768 946,768" />
+                <Baseline points="117,764 932,762" />
+                <TextEquiv>
+                    <Unicode>شد که صدق سالیه لزومیه کاه باین اعتبار است که اتصال نیست مطلقا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330609142_271" custom="readingOrder {index:5;}">
+                <Coords points="100,820 957,820 957,950 100,950" /><Baseline points="100,901 957,901" />
+                <Baseline points="112,888 928,906" />
+                <TextEquiv>
+                    <Unicode>مثل لیس کلما کان الشمس طالعه فاللیل موجود و گاه باین اعتبار است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330610980_274" custom="readingOrder {index:6;}">
+                <Coords points="87,946 938,946 938,1064 87,1064" /><Baseline points="87,1019 938,1019" />
+                <Baseline points="108,1020 926,1026" />
+                <TextEquiv>
+                    <Unicode>که اتصال هست اما بدون علاقه مثل لیس کلما کان النسان ناطقا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330613546_277" custom="readingOrder {index:7;}">
+                <Coords points="85,1051 946,1051 946,1196 85,1196" /><Baseline points="85,1141 946,1141" />
+                <Baseline points="112,1128 925,1147" />
+                <TextEquiv>
+                    <Unicode>کان الحمار ناهقا پس سالبه لزومیه جمع میشود تا موجبه اتفاقیه چنانکه در نیمشان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330615659_280" custom="readingOrder {index:8;}">
+                <Coords points="104,1191 923,1191 923,1303 104,1303" /><Baseline points="104,1260 923,1260" />
+                <Baseline points="123,1263 900,1263" />
+                <TextEquiv>
+                    <Unicode>و مراد از اتصال نسبتین صدق نسبتی است با هم چون در قضیه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330617667_283" custom="readingOrder {index:9;}">
+                <Coords points="89,1309 921,1309 921,1434 89,1434" /><Baseline points="89,1386 921,1386" />
+                <Baseline points="104,1384 905,1395" />
+                <TextEquiv>
+                    <Unicode>اتفاقیه حکم است باتصال پا علاقه و باین معنی که اتصال میانه نسبتین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330619927_286" custom="readingOrder {index:10;}">
+                <Coords points="79,1430 953,1430 953,1537 79,1537" /><Baseline points="79,1496 953,1496" />
+                <Baseline points="112,1499 925,1502" />
+                <TextEquiv>
+                    <Unicode>هست اما بدون علاقه در سالبه اش حکم خواهد بود سبب اتصال بیعلاقه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330622242_289" custom="readingOrder {index:11;}">
+                <Coords points="94,1539 938,1539 938,1663 94,1663" /><Baseline points="94,1616 938,1616" />
+                <Baseline points="104,1610 911,1625" />
+                <TextEquiv>
+                    <Unicode>و صدق سلب اتصال بیعلاقه باین اعتبار است که اتصال نیست مثل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>این معنی داردند که ثبوت تحرک اصابع ضروری نیست والله اعلم بالصواب
+جوله اللزومیه الموجبه ما حکم اه در هر موجبه متصله لزومیه حکم کرده میشود
+که اتصال میانه دو نسبه بواسطه علاقه است پس در سالبه اش جکم سبب این
+اتصال است یعنی اتصال نسبت علاقه میانه دو نسبت و ازینجا ظاهر
+شد که صدق سالیه لزومیه کاه باین اعتبار است که اتصال نیست مطلقا
+مثل لیس کلما کان الشمس طالعه فاللیل موجود و گاه باین اعتبار است
+که اتصال هست اما بدون علاقه مثل لیس کلما کان النسان ناطقا
+کان الحمار ناهقا پس سالبه لزومیه جمع میشود تا موجبه اتفاقیه چنانکه در نیمشان
+و مراد از اتصال نسبتین صدق نسبتی است با هم چون در قضیه
+اتفاقیه حکم است باتصال پا علاقه و باین معنی که اتصال میانه نسبتین
+هست اما بدون علاقه در سالبه اش حکم خواهد بود سبب اتصال بیعلاقه
+و صدق سلب اتصال بیعلاقه باین اعتبار است که اتصال نیست مثل</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

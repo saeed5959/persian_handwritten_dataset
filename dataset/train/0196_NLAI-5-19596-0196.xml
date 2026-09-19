@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.882+04:30</Created>
+        <LastChange>2026-06-21T20:39:16.069+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="17" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0196_NLAI-5-19596-0196.jpg" imageWidth="1506" imageHeight="2826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782058156070" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782053319739_1501" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782053319739_1501" custom="readingOrder {index:0;}">
+            <Coords points="1084,2574 97,2574 97,461 1084,461" />
+            <TextLine id="line_1782053332418_1504" custom="readingOrder {index:0;}">
+                <Coords points="877,578 403,578 403,461 877,461" /><Baseline points="403,534 877,534" />
+                <Baseline points="427,546 855,541" />
+                <TextEquiv>
+                    <Unicode>همای اوج سعادت بدام افتد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053337060_1507" custom="readingOrder {index:1;}">
+                <Coords points="405,586 855,586 855,702 405,702" /><Baseline points="405,658 855,658" />
+                <Baseline points="441,676 820,666" />
+                <TextEquiv>
+                    <Unicode>اگر تراکذری در مقام ما افتد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053344160_1510" custom="readingOrder {index:2;}">
+                <Coords points="1077,858 89,858 89,738 1077,738" /><Baseline points="89,812 1077,812" />
+                <Baseline points="109,811 1041,821" />
+                <TextEquiv>
+                    <Unicode>حباب وار براندازم از نشاط کلاه اگر تو را گذری بر مقام ما افتد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053349131_1513" custom="readingOrder {index:3;}">
+                <Coords points="1077,1005 89,1005 89,850 1077,850" /><Baseline points="89,946 1077,946" />
+                <Baseline points="124,963 1056,964" />
+                <TextEquiv>
+                    <Unicode>شبی که ماه مراد از افق طلوع کند بود که پرتو نوری به بام ما افتد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053356949_1516" custom="readingOrder {index:4;}">
+                <Coords points="1075,1158 97,1158 97,1005 1075,1005" /><Baseline points="97,1100 1075,1100" />
+                <Baseline points="119,1101 1058,1110" />
+                <TextEquiv>
+                    <Unicode>ببارگاه تو چون باد را نباشد بار کی اتفاق مجال سلام ما افتد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053362765_1519" custom="readingOrder {index:5;}">
+                <Coords points="1075,1307 97,1307 97,1156 1075,1156" /><Baseline points="97,1250 1075,1250" />
+                <Baseline points="118,1245 1063,1264" />
+                <TextEquiv>
+                    <Unicode>بنا امیدی از این در مرو بزن فالی بود که قرعه دولت به نام ما افتد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053367887_1522" custom="readingOrder {index:6;}">
+                <Coords points="1077,1458 101,1458 101,1309 1077,1309" /><Baseline points="101,1401 1077,1401" />
+                <Baseline points="121,1405 1051,1404" />
+                <TextEquiv>
+                    <Unicode>چو جان فدای لبش شد خیال میبستم که قطره ای ز زلالش به کام ما افتد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053376102_1525" custom="readingOrder {index:7;}">
+                <Coords points="94,1590 1076,1590 1076,1452 94,1452" /><Baseline points="94,1538 1076,1538" />
+                <Baseline points="109,1547 1055,1549" />
+                <TextEquiv>
+                    <Unicode>خیال روی تو گفتا که جان وسیله مساز کز این شکار فراوان به دام ما افتد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053379891_1528" custom="readingOrder {index:8;}">
+                <Coords points="1081,1577 101,1577 101,1736 1081,1736" /><Baseline points="101,1676 1081,1676" />
+                <Baseline points="122,1693 1069,1681" />
+                <TextEquiv>
+                    <Unicode>ملوک را چو ره خاکبوس این در نیست کی اتفاق جواب سلام ما افتد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053384501_1531" custom="readingOrder {index:9;}">
+                <Coords points="365,1872 883,1872 883,1734 365,1734" /><Baseline points="365,1820 883,1820" />
+                <Baseline points="397,1841 832,1843" />
+                <TextEquiv>
+                    <Unicode>ز خاک کوی تو هر گه که دم زند حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053387051_1534" custom="readingOrder {index:10;}">
+                <Coords points="884,1875 351,1875 351,2026 884,2026" /><Baseline points="351,1969 884,1969" />
+                <Baseline points="376,1979 818,1982" />
+                <TextEquiv>
+                    <Unicode>نسیم گلشن جان در مشام ما افتد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053392530_1537" custom="readingOrder {index:11;}">
+                <Coords points="1083,2186 111,2186 111,2049 1083,2049" /><Baseline points="111,2134 1083,2134" />
+                <Baseline points="123,2119 1081,2132" />
+                <TextEquiv>
+                    <Unicode>عشق تو نهال حیرت آمد وصل تو کمال حیرت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053397558_1540" custom="readingOrder {index:12;}">
+                <Coords points="1087,2324 97,2324 97,2190 1087,2190" /><Baseline points="97,2273 1087,2273" />
+                <Baseline points="117,2274 1047,2294" />
+                <TextEquiv>
+                    <Unicode>بس غرقه خال وصل کآخر هم با سر حال حیرت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053403136_1543" custom="readingOrder {index:13;}">
+                <Coords points="1089,2455 103,2455 103,2340 1089,2340" /><Baseline points="103,2411 1089,2411" />
+                <Baseline points="112,2413 1060,2419" />
+                <TextEquiv>
+                    <Unicode>یک دل بنما که در ره عشق بر چهره نه خال خیرت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053408863_1546" custom="readingOrder {index:14;}">
+                <Coords points="1081,2575 121,2575 121,2465 1081,2465" /><Baseline points="121,2533 1081,2533" />
+                <Baseline points="127,2537 1047,2551" />
+                <TextEquiv>
+                    <Unicode>از هر طرفی که گوش کردم آواز سوال حیرت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>همای اوج سعادت بدام افتد
+اگر تراکذری در مقام ما افتد
+حباب وار براندازم از نشاط کلاه اگر تو را گذری بر مقام ما افتد
+شبی که ماه مراد از افق طلوع کند بود که پرتو نوری به بام ما افتد
+ببارگاه تو چون باد را نباشد بار کی اتفاق مجال سلام ما افتد
+بنا امیدی از این در مرو بزن فالی بود که قرعه دولت به نام ما افتد
+چو جان فدای لبش شد خیال میبستم که قطره ای ز زلالش به کام ما افتد
+خیال روی تو گفتا که جان وسیله مساز کز این شکار فراوان به دام ما افتد
+ملوک را چو ره خاکبوس این در نیست کی اتفاق جواب سلام ما افتد
+ز خاک کوی تو هر گه که دم زند حافظ
+نسیم گلشن جان در مشام ما افتد
+عشق تو نهال حیرت آمد وصل تو کمال حیرت آمد
+بس غرقه خال وصل کآخر هم با سر حال حیرت آمد
+یک دل بنما که در ره عشق بر چهره نه خال خیرت آمد
+از هر طرفی که گوش کردم آواز سوال حیرت آمد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

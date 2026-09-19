@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T19:59:33.435+03:30</Created>
+        <LastChange>2026-06-27T18:49:40.018+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0105_NLAI-5-19596-0105.jpg" imageWidth="1543" imageHeight="2850">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782573580065" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782571531027_1118" />
+                <RegionRefIndexed index="1" regionRef="region_1782572484531_1207" />
+                <RegionRefIndexed index="2" regionRef="region_1782573540705_1319" />
+                <RegionRefIndexed index="3" regionRef="region_1782571647485_1139" />
+                <RegionRefIndexed index="4" regionRef="region_1782573239797_1295" />
+                <RegionRefIndexed index="5" regionRef="region_1782571446109_1105" />
+                <RegionRefIndexed index="6" regionRef="region_1782571801130_1154" />
+                <RegionRefIndexed index="7" regionRef="region_1782573341172_1310" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782571531027_1118" custom="readingOrder {index:0;}">
+            <Coords points="459,493 918,493 918,784 459,784" />
+            <TextLine id="line_1782571557224_1126" custom="readingOrder {index:0;}">
+                <Coords points="465,499 909,499 909,644 465,644" /><Baseline points="465,589 909,589" />
+                <Baseline points="504,564 902,598" />
+                <TextEquiv>
+                    <Unicode>زین حریفان بر دل و جان الغیاث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782571597059_1132" custom="readingOrder {index:1;}">
+                <Coords points="478,650 912,650 912,774 478,774" /><Baseline points="478,727 912,727" />
+                <Baseline points="500,690 900,727" />
+                <TextEquiv>
+                    <Unicode>در شب یلدای هجران الغیاث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>زین حریفان بر دل و جان الغیاث
+در شب یلدای هجران الغیاث</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782572484531_1207" custom="readingOrder {index:1;}">
+            <Coords points="458,1050 917,1050 917,2205 458,2205" />
+            <TextLine id="line_1782572501855_1210" custom="readingOrder {index:0;}">
+                <Coords points="475,1055 906,1055 906,1207 475,1207" /><Baseline points="475,1149 906,1149" />
+                <Baseline points="493,1113 892,1152" />
+                <TextEquiv>
+                    <Unicode>چرا بر سر خوبان عالمی چون تاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782572554079_1216" custom="readingOrder {index:1;}">
+                <Coords points="472,1212 919,1212 919,1361 472,1361" /><Baseline points="472,1304 919,1304" />
+                <Baseline points="480,1266 891,1294" />
+                <TextEquiv>
+                    <Unicode>به چین زلف تو ماچین و هند داده خراج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782572592209_1222" custom="readingOrder {index:2;}">
+                <Coords points="471,1364 910,1364 910,1483 471,1483" /><Baseline points="471,1438 910,1438" />
+                <Baseline points="478,1405 904,1433" />
+                <TextEquiv>
+                    <Unicode>سواد زلف تو تاریک تر ز ظلمت داج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782572706376_1228" custom="readingOrder {index:3;}">
+                <Coords points="469,1489 905,1489 905,1625 469,1625" /><Baseline points="469,1573 905,1573" />
+                <Baseline points="482,1533 897,1571" />
+                <TextEquiv>
+                    <Unicode>قد تو سرو و میان موی و سیم ساق تو عاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782572823424_1234" custom="readingOrder {index:4;}">
+                <Coords points="466,1629 907,1629 907,1782 466,1782" /><Baseline points="466,1724 907,1724" />
+                <Baseline points="481,1683 893,1718" />
+                <TextEquiv>
+                    <Unicode>شی چو سیم و سر نی بسان گنبد عاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782572899354_1241" custom="readingOrder {index:5;}">
+                <Coords points="469,1782 910,1782 910,1905 469,1905" /><Baseline points="469,1858 910,1858" />
+                <Baseline points="492,1831 895,1851" />
+                <TextEquiv>
+                    <Unicode>که از تو درد دل ما نمی رسد به علاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782572943651_1247" custom="readingOrder {index:6;}">
+                <Coords points="462,1910 900,1910 900,2058 462,2058" /><Baseline points="462,2002 900,2002" />
+                <Baseline points="469,1962 893,1998" />
+                <TextEquiv>
+                    <Unicode>لب چو قند تو برد از نبات مصر رواج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782572980592_1253" custom="readingOrder {index:7;}">
+                <Coords points="461,2060 907,2060 907,2199 461,2199" /><Baseline points="461,2146 907,2146" />
+                <Baseline points="479,2117 896,2142" />
+                <TextEquiv>
+                    <Unicode>دل ضعیف که هست او به نازکی چو زجاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چرا بر سر خوبان عالمی چون تاج
+به چین زلف تو ماچین و هند داده خراج
+سواد زلف تو تاریک تر ز ظلمت داج
+قد تو سرو و میان موی و سیم ساق تو عاج
+شی چو سیم و سر نی بسان گنبد عاج
+که از تو درد دل ما نمی رسد به علاج
+لب چو قند تو برد از نبات مصر رواج
+دل ضعیف که هست او به نازکی چو زجاج</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782573540705_1319" custom="readingOrder {index:2;}">
+            <Coords points="450,2460 903,2460 903,2622 450,2622" />
+            <TextLine id="line_1782573549656_1322" custom="readingOrder {index:0;}">
+                <Coords points="455,2463 895,2463 895,2610 455,2610" /><Baseline points="455,2554 895,2554" />
+                <Baseline points="468,2515 884,2562" />
+                <TextEquiv>
+                    <Unicode>یا در افشان در میان چشمه حیوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یا در افشان در میان چشمه حیوان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782571647485_1139" custom="readingOrder {index:3;}">
+            <Coords points="744,788 1222,788 1222,1084 744,1084" />
+            <TextLine id="line_1782571659201_1142" custom="readingOrder {index:0;}">
+                <Coords points="753,791 1223,791 1223,926 753,926" /><Baseline points="753,875 1223,875" />
+                <Baseline points="773,865 1195,861" />
+                <TextEquiv>
+                    <Unicode>هم چو حافظ روز و شب بی خویشتن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782571742284_1148" custom="readingOrder {index:1;}">
+                <Coords points="752,931 1184,931 1184,1066 752,1066" /><Baseline points="752,1015 1184,1015" />
+                <Baseline points="765,975 1150,988" />
+                <TextEquiv>
+                    <Unicode>گشته ام سوزان و گریان الغیاث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>هم چو حافظ روز و شب بی خویشتن
+گشته ام سوزان و گریان الغیاث</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782573239797_1295" custom="readingOrder {index:4;}">
+            <Coords points="619,2205 1199,2205 1199,2472 619,2472" />
+            <TextLine id="line_1782573248639_1298" custom="readingOrder {index:0;}">
+                <Coords points="630,2234 1189,2234 1189,2345 630,2345" /><Baseline points="630,2303 1189,2303" />
+                <Baseline points="639,2287 1177,2288" />
+                <TextEquiv>
+                    <Unicode>فتاد در سر حافظ فدای چون تو شهی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782573293671_1306" custom="readingOrder {index:1;}">
+                <Coords points="644,2352 1169,2352 1169,2473 644,2473" /><Baseline points="644,2427 1169,2427" />
+                <TextEquiv>
+                    <Unicode>کمینه بنده خاک در تو بودی کاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>فتاد در سر حافظ فدای چون تو شهی
+کمینه بنده خاک در تو بودی کاج</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782571446109_1105" custom="readingOrder {index:5;}">
+            <Coords points="983,533 1446,533 1446,797 983,797" />
+            <TextLine id="line_1782571453513_1108" custom="readingOrder {index:0;}">
+                <Coords points="1014,557 1431,557 1431,662 1014,662" /><Baseline points="1014,622 1431,622" />
+                <TextEquiv>
+                    <Unicode>هر زمانم درد دیگر می رسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782571489567_1112" custom="readingOrder {index:1;}">
+                <Coords points="1006,675 1428,675 1428,785 1006,785" /><Baseline points="1006,743 1428,743" />
+                <Baseline points="1020,734 1421,727" />
+                <TextEquiv>
+                    <Unicode>داد مسکینان بده ای روز وصل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>هر زمانم درد دیگر می رسد
+داد مسکینان بده ای روز وصل</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782571801130_1154" custom="readingOrder {index:6;}">
+            <Coords points="970,1085 1424,1085 1424,2221 970,2221" />
+            <TextLine id="line_1782571821861_1157" custom="readingOrder {index:0;}">
+                <Coords points="986,1094 1426,1094 1426,1211 986,1211" /><Baseline points="986,1167 1426,1167" />
+                <Baseline points="1006,1177 1415,1165" />
+                <TextEquiv>
+                    <Unicode>سزد که از همه دلبران ستانی باج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782571868912_1163" custom="readingOrder {index:1;}">
+                <Coords points="988,1221 1428,1221 1428,1383 988,1383" /><Baseline points="988,1321 1428,1321" />
+                <Baseline points="998,1278 1414,1310" />
+                <TextEquiv>
+                    <Unicode>ز چشم مست تو پرفتنه کشت ترکستان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782572049909_1169" custom="readingOrder {index:2;}">
+                <Coords points="987,1390 1429,1390 1429,1506 987,1506" /><Baseline points="987,1462 1429,1462" />
+                <Baseline points="996,1431 1414,1448" />
+                <TextEquiv>
+                    <Unicode>بیاض روی تو روشن تر است از مه بدر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782572112693_1175" custom="readingOrder {index:3;}">
+                <Coords points="991,1512 1421,1512 1421,1645 991,1645" /><Baseline points="991,1594 1421,1594" />
+                <Baseline points="1001,1560 1415,1567" />
+                <TextEquiv>
+                    <Unicode>لب تو خضر و دهان تو آب حیوان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782572190414_1181" custom="readingOrder {index:4;}">
+                <Coords points="992,1653 1414,1653 1414,1790 992,1790" /><Baseline points="992,1738 1414,1738" />
+                <Baseline points="1002,1700 1401,1712" />
+                <TextEquiv>
+                    <Unicode>چگونه بسته به مویی میان و بگشاده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782572305328_1189" custom="readingOrder {index:5;}">
+                <Coords points="984,1813 1422,1813 1422,1931 984,1931" /><Baseline points="984,1886 1422,1886" />
+                <Baseline points="999,1865 1411,1861" />
+                <TextEquiv>
+                    <Unicode>ازین مرض به حقیقت کجا شفا یابم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782572394222_1195" custom="readingOrder {index:6;}">
+                <Coords points="985,1946 1419,1946 1419,2066 985,2066" /><Baseline points="985,2020 1419,2020" />
+                <Baseline points="994,1990 1415,2008" />
+                <TextEquiv>
+                    <Unicode>دهان شک تو داده به آب خضر بقا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782572436558_1201" custom="readingOrder {index:7;}">
+                <Coords points="987,2074 1424,2074 1424,2215 987,2215" /><Baseline points="987,2161 1424,2161" />
+                <Baseline points="1002,2133 1405,2146" />
+                <TextEquiv>
+                    <Unicode>چرا همی شکنی جان من ز سنگ دلی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سزد که از همه دلبران ستانی باج
+ز چشم مست تو پرفتنه کشت ترکستان
+بیاض روی تو روشن تر است از مه بدر
+لب تو خضر و دهان تو آب حیوان است
+چگونه بسته به مویی میان و بگشاده
+ازین مرض به حقیقت کجا شفا یابم
+دهان شک تو داده به آب خضر بقا
+چرا همی شکنی جان من ز سنگ دلی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782573341172_1310" custom="readingOrder {index:7;}">
+            <Coords points="969,2479 1420,2479 1420,2615 969,2615" />
+            <TextLine id="line_1782573348920_1313" custom="readingOrder {index:0;}">
+                <Coords points="980,2483 1417,2483 1417,2611 980,2611" /><Baseline points="980,2562 1417,2562" />
+                <Baseline points="987,2528 1405,2550" />
+                <TextEquiv>
+                    <Unicode>به آنش اندر آب افسرده است یا می در رجاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>به آنش اندر آب افسرده است یا می در رجاج</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

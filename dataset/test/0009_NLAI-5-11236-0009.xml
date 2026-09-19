@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.085+03:30</Created>
+        <LastChange>2026-06-12T21:35:52.909+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0009_NLAI-5-11236-0009.jpg" imageWidth="1277" imageHeight="2000">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781287552930" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781286331521_29" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781286331521_29" custom="readingOrder {index:0;}">
+            <Coords points="359,518 1098,518 1098,1718 359,1718" />
+            <TextLine id="line_1781286341439_32" custom="readingOrder {index:0;}">
+                <Coords points="744,672 1061,672 1061,535 744,535" /><Baseline points="744,620 1061,620" />
+                <Baseline points="758,608 1049,616" />
+                <TextEquiv>
+                    <Unicode>زدینار ویاقوت و مشک و عبیر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781286382960_38" custom="readingOrder {index:1;}">
+                <Coords points="381,670 709,670 709,545 381,545" /><Baseline points="381,622 709,622" />
+                <Baseline points="395,607 695,613" />
+                <TextEquiv>
+                    <Unicode>زدیبای زر بفت و خسرو حریر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781286555152_50" custom="readingOrder {index:2;}">
+                <Coords points="395,783 709,783 709,672 395,672" /><Baseline points="395,741 709,741" />
+                <Baseline points="421,740 687,745" />
+                <TextEquiv>
+                    <Unicode>یکی طوق زرین زبرجد نگار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781286504071_44" custom="readingOrder {index:3;}">
+                <Coords points="744,779 1069,779 1069,672 744,672" /><Baseline points="744,738 1069,738" />
+                <Baseline points="776,735 1047,735" />
+                <TextEquiv>
+                    <Unicode>یکی تاج پر گوهر شاهوار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781286631591_56" custom="readingOrder {index:4;}">
+                <Coords points="742,914 1053,914 1053,794 742,794" /><Baseline points="742,868 1053,868" />
+                <Baseline points="762,860 1046,866" />
+                <TextEquiv>
+                    <Unicode>سران هر که بودند و کابل سپاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781286675512_62" custom="readingOrder {index:5;}">
+                <Coords points="393,925 706,925 706,804 393,804" /><Baseline points="393,879 706,879" />
+                <Baseline points="406,863 700,866" />
+                <TextEquiv>
+                    <Unicode>بیاورد با خویشتن سوی راه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781286736984_69" custom="readingOrder {index:6;}">
+                <Coords points="751,1054 1069,1054 1069,927 751,927" /><Baseline points="751,1006 1069,1006" />
+                <Baseline points="775,997 1042,996" />
+                <TextEquiv>
+                    <Unicode>چو آمد بدستان سام آگهی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781286786527_75" custom="readingOrder {index:7;}">
+                <Coords points="393,1054 714,1054 714,932 393,932" /><Baseline points="393,1008 714,1008" />
+                <Baseline points="414,995 692,995" />
+                <TextEquiv>
+                    <Unicode>که زیبا مهی آمد اند مهی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781286996535_87" custom="readingOrder {index:8;}">
+                <Coords points="402,1166 709,1166 709,1051 402,1051" /><Baseline points="402,1122 709,1122" />
+                <Baseline points="422,1117 685,1115" />
+                <TextEquiv>
+                    <Unicode>به آیین یکی پایگه ساختش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781286943288_81" custom="readingOrder {index:9;}">
+                <Coords points="758,1166 1060,1166 1060,1055 758,1055" /><Baseline points="758,1124 1060,1124" />
+                <Baseline points="775,1114 1046,1118" />
+                <TextEquiv>
+                    <Unicode>پذیره شدش زال و بنواختش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287098343_99" custom="readingOrder {index:10;}">
+                <Coords points="396,1287 714,1287 714,1176 396,1176" /><Baseline points="396,1245 714,1245" />
+                <Baseline points="410,1236 705,1240" />
+                <TextEquiv>
+                    <Unicode>گشاده دل بزم ساز آمدند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287046767_93" custom="readingOrder {index:11;}">
+                <Coords points="775,1303 1047,1303 1047,1176 775,1176" /><Baseline points="775,1255 1047,1255" />
+                <Baseline points="762,1239 1049,1247" />
+                <TextEquiv>
+                    <Unicode>سوی تخت پیروزه بار آمدند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287202735_111" custom="readingOrder {index:12;}">
+                <Coords points="400,1413 711,1413 711,1303 400,1303" /><Baseline points="400,1371 711,1371" />
+                <Baseline points="422,1365 695,1370" />
+                <TextEquiv>
+                    <Unicode>نشستند بر خوان او فر خان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287162432_105" custom="readingOrder {index:13;}">
+                <Coords points="764,1414 1068,1414 1068,1315 764,1315" /><Baseline points="764,1376 1068,1376" />
+                <Baseline points="770,1363 1047,1377" />
+                <TextEquiv>
+                    <Unicode>یکی پهلوانی نهادند خوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287321399_123" custom="readingOrder {index:14;}">
+                <Coords points="399,1548 720,1548 720,1429 399,1429" /><Baseline points="399,1503 720,1503" />
+                <Baseline points="417,1496 698,1495" />
+                <TextEquiv>
+                    <Unicode>نگه کرد مهراب بر پور سام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287281590_117" custom="readingOrder {index:15;}">
+                <Coords points="762,1550 1057,1550 1057,1433 762,1433" /><Baseline points="762,1506 1057,1506" />
+                <Baseline points="768,1503 1039,1505" />
+                <TextEquiv>
+                    <Unicode>گسارنده می می آورد و جام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287455695_139" custom="readingOrder {index:16;}">
+                <Coords points="413,1677 714,1677 714,1556 413,1556" /><Baseline points="413,1631 714,1631" />
+                <Baseline points="428,1620 706,1624" />
+                <TextEquiv>
+                    <Unicode>دلش تیز تر گشت در کار اوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287408216_133" custom="readingOrder {index:17;}">
+                <Coords points="760,1689 1057,1689 1057,1559 760,1559" /><Baseline points="760,1640 1057,1640" />
+                <Baseline points="762,1622 1053,1622" />
+                <TextEquiv>
+                    <Unicode>خوش آمد هماناش دیدار اوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>زدینار ویاقوت و مشک و عبیر
+زدیبای زر بفت و خسرو حریر
+یکی طوق زرین زبرجد نگار
+یکی تاج پر گوهر شاهوار
+سران هر که بودند و کابل سپاه
+بیاورد با خویشتن سوی راه
+چو آمد بدستان سام آگهی
+که زیبا مهی آمد اند مهی
+به آیین یکی پایگه ساختش
+پذیره شدش زال و بنواختش
+گشاده دل بزم ساز آمدند
+سوی تخت پیروزه بار آمدند
+نشستند بر خوان او فر خان
+یکی پهلوانی نهادند خوان
+نگه کرد مهراب بر پور سام
+گسارنده می می آورد و جام
+دلش تیز تر گشت در کار اوی
+خوش آمد هماناش دیدار اوی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.109+03:30</Created>
+        <LastChange>2026-06-12T21:52:24.859+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0010_NLAI-5-11236-0010.jpg" imageWidth="1233" imageHeight="1955">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781288544881" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781287604760_150" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781287604760_150" custom="readingOrder {index:0;}">
+            <Coords points="179,521 881,521 881,1678 179,1678" />
+            <TextLine id="line_1781287658416_159" custom="readingOrder {index:0;}">
+                <Coords points="199,648 519,648 519,532 199,532" /><Baseline points="199,604 519,604" />
+                <Baseline points="218,592 509,599" />
+                <TextEquiv>
+                    <Unicode>دل و دانش و رای او زا سپرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287612311_153" custom="readingOrder {index:1;}">
+                <Coords points="558,648 863,648 863,544 558,544" /><Baseline points="558,608 863,608" />
+                <Baseline points="577,606 849,606" />
+                <TextEquiv>
+                    <Unicode>ازان دانش و رای مهراب گرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287763487_171" custom="readingOrder {index:2;}">
+                <Coords points="204,778 530,778 530,654 204,654" /><Baseline points="204,731 530,731" />
+                <Baseline points="213,716 509,718" />
+                <TextEquiv>
+                    <Unicode>نگه کرد زال اندران برز و یال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287711591_165" custom="readingOrder {index:3;}">
+                <Coords points="551,779 865,779 865,662 551,662" /><Baseline points="551,735 865,735" />
+                <Baseline points="561,723 844,729" />
+                <TextEquiv>
+                    <Unicode>چو مهراب برخاست از خوان زال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287846184_183" custom="readingOrder {index:4;}">
+                <Coords points="200,903 524,903 524,776 200,776" /><Baseline points="200,855 524,855" />
+                <Baseline points="215,836 501,841" />
+                <TextEquiv>
+                    <Unicode>که زیبنده تر زین که بندد کمر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287811536_177" custom="readingOrder {index:5;}">
+                <Coords points="556,913 846,913 846,781 556,781" /><Baseline points="556,863 846,863" />
+                <Baseline points="563,848 846,859" />
+                <TextEquiv>
+                    <Unicode>چنین گفت با مهتران زال زر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287938207_195" custom="readingOrder {index:6;}">
+                <Coords points="189,1022 517,1022 517,893 189,893" /><Baseline points="189,973 517,973" />
+                <Baseline points="195,957 507,971" />
+                <TextEquiv>
+                    <Unicode>کسی گویی او را هم آورد نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287902519_189" custom="readingOrder {index:7;}">
+                <Coords points="538,1030 865,1030 865,926 538,926" /><Baseline points="538,990 865,990" />
+                <Baseline points="563,976 844,978" />
+                <TextEquiv>
+                    <Unicode>بچهر و ببالای او مرد نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781288007335_207" custom="readingOrder {index:8;}">
+                <Coords points="184,1142 503,1142 503,1033 184,1033" /><Baseline points="184,1101 503,1101" />
+                <Baseline points="200,1088 493,1090" />
+                <TextEquiv>
+                    <Unicode>چنین گفت کای پهلوان جهان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781287977752_201" custom="readingOrder {index:9;}">
+                <Coords points="540,1160 865,1160 865,1038 540,1038" /><Baseline points="540,1114 865,1114" />
+                <Baseline points="550,1098 839,1103" />
+                <TextEquiv>
+                    <Unicode>یکی نامدار از میان مهان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781288088776_219" custom="readingOrder {index:10;}">
+                <Coords points="191,1277 504,1277 504,1145 191,1145" /><Baseline points="191,1227 504,1227" />
+                <Baseline points="202,1209 486,1213" />
+                <TextEquiv>
+                    <Unicode>که رویش ز خورشید روشن تر است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781288054000_213" custom="readingOrder {index:11;}">
+                <Coords points="546,1285 847,1285 847,1165 546,1165" /><Baseline points="546,1239 847,1239" />
+                <Baseline points="555,1215 839,1222" />
+                <TextEquiv>
+                    <Unicode>پس پرده او یکی دختر است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781288190654_231" custom="readingOrder {index:12;}">
+                <Coords points="192,1400 501,1400 501,1278 192,1278" /><Baseline points="192,1354 501,1354" />
+                <Baseline points="200,1335 485,1343" />
+                <TextEquiv>
+                    <Unicode>برخ چون بهار و ببالا چو ساج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781288143336_225" custom="readingOrder {index:13;}">
+                <Coords points="535,1409 846,1409 846,1295 535,1295" /><Baseline points="535,1366 846,1366" />
+                <Baseline points="555,1353 829,1350" />
+                <TextEquiv>
+                    <Unicode>ز سر تا بپایش بکردار عاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781288297239_243" custom="readingOrder {index:14;}">
+                <Coords points="173,1537 496,1537 496,1392 173,1392" /><Baseline points="173,1482 496,1482" />
+                <Baseline points="191,1461 477,1475" />
+                <TextEquiv>
+                    <Unicode>سرش گشته چون حلقه پای بند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781288244768_237" custom="readingOrder {index:15;}">
+                <Coords points="538,1539 836,1539 836,1405 538,1405" /><Baseline points="538,1488 836,1488" />
+                <Baseline points="556,1474 824,1478" />
+                <TextEquiv>
+                    <Unicode>بر آن سفت سیمین دو مشکین کمند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781288344495_249" custom="readingOrder {index:16;}">
+                <Coords points="530,1652 833,1652 833,1524 530,1524" /><Baseline points="530,1603 833,1603" />
+                <Baseline points="542,1599 816,1602" />
+                <TextEquiv>
+                    <Unicode>رخانش چو گلنار و لب ناروان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781288442144_255" custom="readingOrder {index:17;}">
+                <Coords points="187,1649 483,1649 483,1542 187,1542" /><Baseline points="187,1608 483,1608" />
+                <Baseline points="193,1595 479,1594" />
+                <TextEquiv>
+                    <Unicode>ز سیمین برش رسته دو ناردان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دل و دانش و رای او زا سپرد
+ازان دانش و رای مهراب گرد
+نگه کرد زال اندران برز و یال
+چو مهراب برخاست از خوان زال
+که زیبنده تر زین که بندد کمر
+چنین گفت با مهتران زال زر
+کسی گویی او را هم آورد نیست
+بچهر و ببالای او مرد نیست
+چنین گفت کای پهلوان جهان
+یکی نامدار از میان مهان
+که رویش ز خورشید روشن تر است
+پس پرده او یکی دختر است
+برخ چون بهار و ببالا چو ساج
+ز سر تا بپایش بکردار عاج
+سرش گشته چون حلقه پای بند
+بر آن سفت سیمین دو مشکین کمند
+رخانش چو گلنار و لب ناروان
+ز سیمین برش رسته دو ناردان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

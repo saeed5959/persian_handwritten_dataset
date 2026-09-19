@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:22.079+04:30</Created>
+        <LastChange>2026-06-21T21:32:45.098+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="20" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0199_NLAI-5-19596-0199.jpg" imageWidth="1559" imageHeight="2753">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782061365099" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782060505565_1847" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782060505565_1847" custom="readingOrder {index:0;}">
+            <Coords points="1479,2518 488,2518 488,471 1479,471" />
+            <TextLine id="line_1782060512257_1850" custom="readingOrder {index:0;}">
+                <Coords points="1254,578 789,578 789,458 1254,458" /><Baseline points="789,532 1254,532" />
+                <Baseline points="804,535 1236,538" />
+                <TextEquiv>
+                    <Unicode>سحرم دولت بیدار ببالین آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060515044_1853" custom="readingOrder {index:1;}">
+                <Coords points="1253,692 796,692 796,572 1253,572" /><Baseline points="796,646 1253,646" />
+                <Baseline points="804,669 1203,660" />
+                <TextEquiv>
+                    <Unicode>گفت برخیز که آن خسرو شیرین آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060518959_1856" custom="readingOrder {index:2;}">
+                <Coords points="1442,828 479,828 479,719 1442,719" /><Baseline points="479,787 1442,787" />
+                <Baseline points="503,817 1438,803" />
+                <TextEquiv>
+                    <Unicode>قدحی درکش و سرخوش به تماشا بخرام تا ببینی که نگارت به چه آیین آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060521630_1859" custom="readingOrder {index:3;}">
+                <Coords points="1457,985 495,985 495,861 1457,861" /><Baseline points="495,938 1457,938" />
+                <Baseline points="509,961 1440,944" />
+                <TextEquiv>
+                    <Unicode>مژدگانی بده ای خلوتی نافه گشای که ز صحرای ختن آهوی مشکین آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060524191_1862" custom="readingOrder {index:4;}">
+                <Coords points="1464,1112 495,1112 495,1013 1464,1013" /><Baseline points="495,1074 1464,1074" />
+                <Baseline points="524,1106 1425,1089" />
+                <TextEquiv>
+                    <Unicode>ساقیا می بده و غم مخور از دشمن و دوست که به کام دل ما آن بشد و این آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060527041_1865" custom="readingOrder {index:5;}">
+                <Coords points="1454,1269 505,1269 505,1145 1454,1145" /><Baseline points="505,1222 1454,1222" />
+                <Baseline points="524,1229 1434,1225" />
+                <TextEquiv>
+                    <Unicode>گریه آبی به رخ سوختگان بازآیرذ ناله فریادرس عاشق مسکین آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060529885_1868" custom="readingOrder {index:6;}">
+                <Coords points="1454,1411 505,1411 505,1266 1454,1266" /><Baseline points="505,1356 1454,1356" />
+                <Baseline points="536,1374 1439,1373" />
+                <TextEquiv>
+                    <Unicode>رسم بدعهدی ایام چو دید ابر بهار گریه اش بر سمن و سنبل و نسرین آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060533536_1871" custom="readingOrder {index:7;}">
+                <Coords points="1457,1545 522,1545 522,1423 1457,1423" /><Baseline points="522,1499 1457,1499" />
+                <Baseline points="532,1511 1430,1508" />
+                <TextEquiv>
+                    <Unicode>شادی یار پریجعرع بده باگه بان که همی لعل دوای ذل غمگین آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060536630_1874" custom="readingOrder {index:8;}">
+                <Coords points="1464,1699 510,1699 510,1532 1464,1532" /><Baseline points="510,1636 1464,1636" />
+                <Baseline points="529,1629 1469,1656" />
+                <TextEquiv>
+                    <Unicode>مرغ دل باز هوادار کمان ابرویست ای کبوتر نگران باش که شاهین آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060542703_1877" custom="readingOrder {index:9;}">
+                <Coords points="1224,1822 779,1822 779,1705 1224,1705" /><Baseline points="779,1778 1224,1778" />
+                <Baseline points="792,1782 1204,1783" />
+                <TextEquiv>
+                    <Unicode>چون صبا گفته حافظ بشنید از بلبل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060545608_1880" custom="readingOrder {index:10;}">
+                <Coords points="1210,1945 754,1945 754,1833 1210,1833" /><Baseline points="754,1902 1210,1902" />
+                <Baseline points="764,1923 1199,1912" />
+                <TextEquiv>
+                    <Unicode>عنبرافشان به تماشای ریاحین آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060548769_1883" custom="readingOrder {index:11;}">
+                <Coords points="1481,2119 509,2119 509,1980 1481,1980" /><Baseline points="509,2066 1481,2066" />
+                <Baseline points="525,2074 1453,2080" />
+                <TextEquiv>
+                    <Unicode>در نمازم خم ابروی تو با یاد آمد حالتی رفت که محرا به محراب به فریاد آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060552408_1886" custom="readingOrder {index:12;}">
+                <Coords points="1490,2253 505,2253 505,2096 1490,2096" /><Baseline points="505,2193 1490,2193" />
+                <Baseline points="518,2219 1453,2214" />
+                <TextEquiv>
+                    <Unicode>از من اکنون طمع صبر و دل و هوش مدار کان تحمل که تو دیدی همه بر باد آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060556482_1889" custom="readingOrder {index:13;}">
+                <Coords points="1483,2382 517,2382 517,2256 1483,2256" /><Baseline points="517,2334 1483,2334" />
+                <Baseline points="524,2354 1464,2355" />
+                <TextEquiv>
+                    <Unicode>باده صافی شد و مرغان چمن مست شدند موسم عاشقی و کار به بنیاد آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060560532_1892" custom="readingOrder {index:14;}">
+                <Coords points="1479,2511 509,2511 509,2378 1479,2378" /><Baseline points="509,2460 1479,2460" />
+                <Baseline points="524,2488 1452,2476" />
+                <TextEquiv>
+                    <Unicode>یوی بهبود ز اوضاع جهان میشنوم شادی آورد گل و باد صبا شاد آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سحرم دولت بیدار ببالین آمد
+گفت برخیز که آن خسرو شیرین آمد
+قدحی درکش و سرخوش به تماشا بخرام تا ببینی که نگارت به چه آیین آمد
+مژدگانی بده ای خلوتی نافه گشای که ز صحرای ختن آهوی مشکین آمد
+ساقیا می بده و غم مخور از دشمن و دوست که به کام دل ما آن بشد و این آمد
+گریه آبی به رخ سوختگان بازآیرذ ناله فریادرس عاشق مسکین آمد
+رسم بدعهدی ایام چو دید ابر بهار گریه اش بر سمن و سنبل و نسرین آمد
+شادی یار پریجعرع بده باگه بان که همی لعل دوای ذل غمگین آمد
+مرغ دل باز هوادار کمان ابرویست ای کبوتر نگران باش که شاهین آمد
+چون صبا گفته حافظ بشنید از بلبل
+عنبرافشان به تماشای ریاحین آمد
+در نمازم خم ابروی تو با یاد آمد حالتی رفت که محرا به محراب به فریاد آمد
+از من اکنون طمع صبر و دل و هوش مدار کان تحمل که تو دیدی همه بر باد آمد
+باده صافی شد و مرغان چمن مست شدند موسم عاشقی و کار به بنیاد آمد
+یوی بهبود ز اوضاع جهان میشنوم شادی آورد گل و باد صبا شاد آمد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:40.932+03:30</Created>
+        <LastChange>2026-06-21T15:19:20.172+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_NLAI-5-11187-0000.jpg" imageWidth="818" imageHeight="1527">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782042560328" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782042122467_23" />
+                <RegionRefIndexed index="1" regionRef="region_1782042179255_30" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782042122467_23" custom="readingOrder {index:0;}">
+            <Coords points="190,892 438,892 438,973 190,973" />
+            <TextLine id="line_1782042129842_26" custom="readingOrder {index:0;}">
+                <Coords points="192,895 438,895 438,973 192,973" /><Baseline points="192,943 438,943" />
+                <TextEquiv>
+                    <Unicode>بسم الله الرحمن الرحیم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بسم الله الرحمن الرحیم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782042179255_30" custom="readingOrder {index:1;}">
+            <Coords points="76,973 558,973 558,1363 76,1363" />
+            <TextLine id="line_1782042188817_33" custom="readingOrder {index:0;}">
+                <Coords points="79,971 550,971 550,1051 79,1051" /><Baseline points="79,1021 550,1021" />
+                <TextEquiv>
+                    <Unicode>الحمد لله رب العالمین و الصلوه و السلام علی محمد و</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042260696_37" custom="readingOrder {index:1;}">
+                <Coords points="79,1050 550,1050 550,1135 79,1135" /><Baseline points="79,1103 550,1103" />
+                <TextEquiv>
+                    <Unicode>آله الطاهرین الطیبین و بع فهذا کتاب نثر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042347128_41" custom="readingOrder {index:2;}">
+                <Coords points="81,1132 552,1132 552,1225 81,1225" /><Baseline points="81,1190 552,1190" />
+                <TextEquiv>
+                    <Unicode>آلالالی من کلام مولینا و مقتدانا امیرالمومنینو امام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042422958_45" custom="readingOrder {index:3;}">
+                <Coords points="82,1227 549,1227 549,1296 82,1296" /><Baseline points="82,1270 549,1270" />
+                <TextEquiv>
+                    <Unicode>المتقین اسدالله الغالب علی ابن ابی طالب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042480857_49" custom="readingOrder {index:4;}">
+                <Coords points="84,1295 556,1295 556,1363 84,1363" /><Baseline points="84,1337 556,1337" />
+                <TextEquiv>
+                    <Unicode>صلوات الله و سلامه علیه علی ترتیب الحروف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>الحمد لله رب العالمین و الصلوه و السلام علی محمد و
+آله الطاهرین الطیبین و بع فهذا کتاب نثر
+آلالالی من کلام مولینا و مقتدانا امیرالمومنینو امام
+المتقین اسدالله الغالب علی ابن ابی طالب
+صلوات الله و سلامه علیه علی ترتیب الحروف</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

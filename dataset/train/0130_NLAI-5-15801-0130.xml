@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.278+03:30</Created>
+        <LastChange>2026-06-26T18:04:51.126+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0130_NLAI-5-15801-0130.jpg" imageWidth="1091" imageHeight="1793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782484491139" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782331402212_980" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782331402212_980" custom="readingOrder {index:0;}">
+            <Coords points="88,156 1006,156 1006,1753 88,1753" />
+            <TextLine id="line_1782331405998_983" custom="readingOrder {index:0;}">
+                <Coords points="100,193 971,193 971,294 100,294" /><Baseline points="100,256 971,256" />
+                <Baseline points="110,239 937,260" />
+                <TextEquiv>
+                    <Unicode>بکاتب مشروط باشد بغیر معین بودن آن بعض بلکه اتصاف بکاتب از برای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331407902_986" custom="readingOrder {index:1;}">
+                <Coords points="102,304 961,304 961,398 102,398" /><Baseline points="102,362 961,362" />
+                <Baseline points="114,357 951,376" />
+                <TextEquiv>
+                    <Unicode>فرد معین حاصل است نه از برای فرد غیر معین حاصل است زیرا که فرد غیر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331409697_989" custom="readingOrder {index:2;}">
+                <Coords points="120,408 967,408 967,546 120,546" /><Baseline points="120,494 967,494" />
+                <Baseline points="130,485 947,493" />
+                <TextEquiv>
+                    <Unicode>معین از حیثیت که غیر معین است وجود ندارد چه جای صفت کتابت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331411190_992" custom="readingOrder {index:3;}">
+                <Coords points="104,534 943,534 943,660 104,660" /><Baseline points="104,612 943,612" />
+                <Baseline points="132,597 929,607" />
+                <TextEquiv>
+                    <Unicode>بخلاف قضیه مذکوره که اتصاف بمحمول که متیقن الکفر است موقوف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331412744_995" custom="readingOrder {index:4;}">
+                <Coords points="110,674 933,674 933,786 110,786" /><Baseline points="110,743 933,743" />
+                <Baseline points="145,733 925,743" />
+                <TextEquiv>
+                    <Unicode>بغیر معین بودن یکی از انها و سلب محمول مشروط است بمعین بودن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331414372_998" custom="readingOrder {index:5;}">
+                <Coords points="106,778 941,778 941,896 106,896" /><Baseline points="106,851 941,851" />
+                <Baseline points="118,853 913,867" />
+                <TextEquiv>
+                    <Unicode>انها و منظور بودن بخصوص فتدبرو الله اعلم حوله نسبه الحینیه الممکنه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331416043_1001" custom="readingOrder {index:6;}">
+                <Coords points="102,910 947,910 947,1024 102,1024" /><Baseline points="102,981 947,981" />
+                <Baseline points="130,979 917,979" />
+                <TextEquiv>
+                    <Unicode>الی المشروطه العامه کنبته الممکنه العامه اه بدانکه مشروطه عامه را بشرط</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331417771_1004" custom="readingOrder {index:7;}">
+                <Coords points="106,1048 951,1048 951,1152 106,1152" /><Baseline points="106,1112 951,1112" />
+                <Baseline points="130,1105 906,1113" />
+                <TextEquiv>
+                    <Unicode>وصف اعتبار کنند حینیه ممکنه بمعنی سلب ضرورت در حین وصف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331419252_1007" custom="readingOrder {index:8;}">
+                <Coords points="100,1154 935,1154 935,1267 100,1267" /><Baseline points="100,1224 935,1224" />
+                <Baseline points="126,1209 911,1241" />
+                <TextEquiv>
+                    <Unicode>تفیض ان نمیشود زیرا که میتواند بود که چیزی وصف ضروری باشد اما در حین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331420968_1010" custom="readingOrder {index:9;}">
+                <Coords points="100,1288 955,1288 955,1412 100,1412" /><Baseline points="100,1365 955,1365" />
+                <Baseline points="145,1361 931,1355" />
+                <TextEquiv>
+                    <Unicode>وصف ضروری نباشد مثل حرکت اصابع در وقت کتابت بلکه نقیض مشروطه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331422658_1013" custom="readingOrder {index:10;}">
+                <Coords points="104,1404 945,1404 945,1511 104,1511" /><Baseline points="104,1470 945,1470" />
+                <Baseline points="236,1475 906,1481" />
+                <TextEquiv>
+                    <Unicode>عامه مادام الوصف میباشد و چون مشروطه بشرط وصف مشهورتر است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331424664_1016" custom="readingOrder {index:11;}">
+                <Coords points="112,1491 953,1491 953,1647 112,1647" /><Baseline points="112,1588 953,1588" />
+                <Baseline points="132,1589 937,1603" />
+                <TextEquiv>
+                    <Unicode>از مادام الوصف پس صواب ان است که حسنییه ممکنه را بدو طریق اعتبار کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331426740_1019" custom="readingOrder {index:12;}">
+                <Coords points="163,1668 331,1668 331,1757 163,1757" /><Baseline points="163,1723 331,1723" />
+                <Baseline points="197,1735 313,1708" />
+                <TextEquiv>
+                    <Unicode>یا سلب ضرورت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بکاتب مشروط باشد بغیر معین بودن آن بعض بلکه اتصاف بکاتب از برای
+فرد معین حاصل است نه از برای فرد غیر معین حاصل است زیرا که فرد غیر
+معین از حیثیت که غیر معین است وجود ندارد چه جای صفت کتابت
+بخلاف قضیه مذکوره که اتصاف بمحمول که متیقن الکفر است موقوف است
+بغیر معین بودن یکی از انها و سلب محمول مشروط است بمعین بودن
+انها و منظور بودن بخصوص فتدبرو الله اعلم حوله نسبه الحینیه الممکنه
+الی المشروطه العامه کنبته الممکنه العامه اه بدانکه مشروطه عامه را بشرط
+وصف اعتبار کنند حینیه ممکنه بمعنی سلب ضرورت در حین وصف
+تفیض ان نمیشود زیرا که میتواند بود که چیزی وصف ضروری باشد اما در حین
+وصف ضروری نباشد مثل حرکت اصابع در وقت کتابت بلکه نقیض مشروطه
+عامه مادام الوصف میباشد و چون مشروطه بشرط وصف مشهورتر است
+از مادام الوصف پس صواب ان است که حسنییه ممکنه را بدو طریق اعتبار کنند
+یا سلب ضرورت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

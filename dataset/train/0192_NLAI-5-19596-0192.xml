@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.593+04:30</Created>
+        <LastChange>2026-06-21T16:43:43.335+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="13" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0192_NLAI-5-19596-0192.jpg" imageWidth="1506" imageHeight="2826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782044023335" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782042784930_1041" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782042784930_1041" custom="readingOrder {index:0;}">
+            <Coords points="1079,2612 117,2612 117,445 1079,445" />
+            <TextLine id="line_1782042909870_1044" custom="readingOrder {index:0;}">
+                <Coords points="442,598 857,598 857,433 442,433" /><Baseline points="442,535 857,535" />
+                <Baseline points="128,2566 1057,2580" />
+                <TextEquiv>
+                    <Unicode>بحث بلبل بر حافظ مکن از خوش سخنی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042913618_1047" custom="readingOrder {index:1;}">
+                <Coords points="848,720 442,720 442,596 848,596" /><Baseline points="442,673 848,673" />
+                <Baseline points="451,689 824,694" />
+                <TextEquiv>
+                    <Unicode>پیش طوطی نتوان نام هزارآوا برد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042920473_1050" custom="readingOrder {index:2;}">
+                <Coords points="1058,878 110,878 110,761 1058,761" /><Baseline points="110,834 1058,834" />
+                <Baseline points="119,837 1042,847" />
+                <TextEquiv>
+                    <Unicode>اگر نه باده غم دل ز یاد ما ببرد نهیب حادثه بنیاد ما ز جا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042925116_1053" custom="readingOrder {index:3;}">
+                <Coords points="1058,1015 112,1015 112,902 1058,902" /><Baseline points="112,972 1058,972" />
+                <Baseline points="129,997 1042,987" />
+                <TextEquiv>
+                    <Unicode>اگر نه عقل به مستی فروگشد لنگر چگونه گشتی از این ورطه بلا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042929338_1056" custom="readingOrder {index:4;}">
+                <Coords points="1073,1161 115,1161 115,1053 1073,1053" /><Baseline points="115,1120 1073,1120" />
+                <Baseline points="125,1129 1052,1143" />
+                <TextEquiv>
+                    <Unicode>فغان که با همه کس غایبانه باخت فلک که کس نبود که دستی از این دغا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042936226_1059" custom="readingOrder {index:5;}">
+                <Coords points="1085,1318 116,1318 116,1184 1085,1184" /><Baseline points="116,1267 1085,1267" />
+                <Baseline points="126,1275 1044,1288" />
+                <TextEquiv>
+                    <Unicode>گذار بر ظلمات است خضر راهی کو مباد کآتش محرومی آب ما ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042943406_1062" custom="readingOrder {index:6;}">
+                <Coords points="1075,1480 115,1480 115,1338 1075,1338" /><Baseline points="115,1426 1075,1426" />
+                <Baseline points="123,1418 1048,1440" />
+                <TextEquiv>
+                    <Unicode>طبیب عشق منم باده ده که این معجون فراغت آرد و اندیشه خطا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042948037_1065" custom="readingOrder {index:7;}">
+                <Coords points="1076,1613 116,1613 116,1485 1076,1485" /><Baseline points="116,1564 1076,1564" />
+                <Baseline points="126,1554 1040,1582" />
+                <TextEquiv>
+                    <Unicode>دل ضعیفم از آن میکشد به طرف چمن که جان ز مرگ به بیماری صبا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042953264_1068" custom="readingOrder {index:8;}">
+                <Coords points="842,1751 376,1751 376,1609 842,1609" /><Baseline points="376,1697 842,1697" />
+                <Baseline points="386,1701 821,1712" />
+                <TextEquiv>
+                    <Unicode>بسوخت حافظ و کس حال او به یار نگفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042956426_1071" custom="readingOrder {index:9;}">
+                <Coords points="832,1910 393,1910 393,1776 832,1776" /><Baseline points="393,1859 832,1859" />
+                <Baseline points="399,1843 812,1853" />
+                <TextEquiv>
+                    <Unicode>مگر نسیم پیامی خدای را ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042961830_1074" custom="readingOrder {index:10;}">
+                <Coords points="1088,2054 104,2054 104,1898 1088,1898" /><Baseline points="104,1995 1088,1995" />
+                <Baseline points="132,2007 1044,2026" />
+                <TextEquiv>
+                    <Unicode>من و صلاح و سلامت کس این گمان نبرد که کس به رند خرابات ظن آن نبرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042965317_1077" custom="readingOrder {index:11;}">
+                <Coords points="1074,2205 116,2205 116,2027 1074,2027" /><Baseline points="116,2137 1074,2137" />
+                <Baseline points="108,2131 1054,2158" />
+                <TextEquiv>
+                    <Unicode>من این مرقع دیرینه بهر آن دارم که زیر خرقه کشم می کسی گمان نبرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042970486_1080" custom="readingOrder {index:12;}">
+                <Coords points="1079,2350 102,2350 102,2198 1079,2198" /><Baseline points="102,2292 1079,2292" />
+                <Baseline points="123,2281 1053,2311" />
+                <TextEquiv>
+                    <Unicode>مباش غره به علم و عمل فقیه مدام که هیچکس ز قضای خدای حان نبرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042974273_1083" custom="readingOrder {index:13;}">
+                <Coords points="1055,2473 115,2473 115,2330 1055,2330" /><Baseline points="115,2419 1055,2419" />
+                <Baseline points="130,2414 1043,2442" />
+                <TextEquiv>
+                    <Unicode>مشو فریقته رنگ و بو قرح در کش که زنگ غم ز دلت جز می مغان نبرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782042978890_1086" custom="readingOrder {index:14;}">
+                <Coords points="1090,2635 115,2635 115,2467 1090,2467" /><Baseline points="115,2571 1090,2571" />
+                <Baseline points="455,549 848,554" />
+                <TextEquiv>
+                    <Unicode>اگرچه دیده بود پاسبان تو ایدل بهوش باش که نقد تو پاسبان نبرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بحث بلبل بر حافظ مکن از خوش سخنی
+پیش طوطی نتوان نام هزارآوا برد
+اگر نه باده غم دل ز یاد ما ببرد نهیب حادثه بنیاد ما ز جا ببرد
+اگر نه عقل به مستی فروگشد لنگر چگونه گشتی از این ورطه بلا ببرد
+فغان که با همه کس غایبانه باخت فلک که کس نبود که دستی از این دغا ببرد
+گذار بر ظلمات است خضر راهی کو مباد کآتش محرومی آب ما ببرد
+طبیب عشق منم باده ده که این معجون فراغت آرد و اندیشه خطا ببرد
+دل ضعیفم از آن میکشد به طرف چمن که جان ز مرگ به بیماری صبا ببرد
+بسوخت حافظ و کس حال او به یار نگفت
+مگر نسیم پیامی خدای را ببرد
+من و صلاح و سلامت کس این گمان نبرد که کس به رند خرابات ظن آن نبرد
+من این مرقع دیرینه بهر آن دارم که زیر خرقه کشم می کسی گمان نبرد
+مباش غره به علم و عمل فقیه مدام که هیچکس ز قضای خدای حان نبرد
+مشو فریقته رنگ و بو قرح در کش که زنگ غم ز دلت جز می مغان نبرد
+اگرچه دیده بود پاسبان تو ایدل بهوش باش که نقد تو پاسبان نبرد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

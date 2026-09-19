@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:29.718-07:00</Created>
+        <LastChange>2026-06-19T15:57:45.979-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0054_NLAI-5-15801-0054.jpg" imageWidth="1089" imageHeight="1757">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781909866057" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="TextRegion_1781903276277_554" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1781903276277_554" custom="readingOrder {index:1;}">
+            <Coords points="56,171 945,171 945,1629 56,1629" />
+            <TextLine id="line_1781903289073_560" custom="readingOrder {index:0;}">
+                <Coords points="72,175 899,175 899,304 72,304" /><Baseline points="72,255 899,255" />
+                <Baseline points="888,236 80,251" />
+                <TextEquiv>
+                    <Unicode>بر صاحبان فطرت مستقیم پس لازم میآید معلوم نبودن تصور مطلقا نزد عقل و حال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781903296823_563" custom="readingOrder {index:1;}">
+                <Coords points="74,401 901,401 901,300 74,300" /><Baseline points="74,363 901,363" />
+                <Baseline points="891,349 90,356" />
+                <TextEquiv>
+                    <Unicode>انکه بعض از تصورات معلوم است مثل تصور حرارت و برودت و امثال اینها و به</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781903305807_566" custom="readingOrder {index:2;}">
+                <Coords points="77,409 905,409 905,523 77,523" /><Baseline points="77,480 905,480" />
+                <Baseline points="892,467 93,477" />
+                <TextEquiv>
+                    <Unicode>همین طریق گفته میشود در تصدیق و طریقه دوم بهتر است زیرا که بعد از رحمت استدلال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781903314354_569" custom="readingOrder {index:3;}">
+                <Coords points="85,544 912,544 912,655 85,655" /><Baseline points="85,613 912,613" />
+                <Baseline points="898,598 92,604" />
+                <TextEquiv>
+                    <Unicode>لازم است از دعوای بدیهیه از مقدمات دلیل کردن و الا ما یغرا میرسد که بگوید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781903323759_572" custom="readingOrder {index:4;}">
+                <Coords points="914,662 81,662 81,780 914,780" /><Baseline points="81,735 914,735" />
+                <Baseline points="903,714 101,731" />
+                <TextEquiv>
+                    <Unicode>مثلا اگر همه تصورات یا تصدیقات نظری باشد لازم میآید که هیچ تصوری یا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781903349040_581" custom="readingOrder {index:5;}">
+                <Coords points="92,782 919,782 919,897 92,897" /><Baseline points="92,853 919,853" />
+                <Baseline points="909,829 109,857" />
+                <TextEquiv>
+                    <Unicode>هیچ تصدیقی حاصل معلوم نباشد و حال انکه معلوم است نیز از جمله تصدیقات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781903365899_584" custom="readingOrder {index:6;}">
+                <Coords points="99,901 925,901 925,1028 99,1028" /><Baseline points="99,980 925,980" />
+                <Baseline points="913,954 105,978" />
+                <TextEquiv>
+                    <Unicode>است بنابر فرض اول اطرافش غیر معلوم خواهد بود پس محتاج باشد بفکر زیرا که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781903376867_587" custom="readingOrder {index:7;}">
+                <Coords points="929,1033 96,1033 96,1156 929,1156" /><Baseline points="96,1109 929,1109" />
+                <Baseline points="918,1079 107,1098" />
+                <TextEquiv>
+                    <Unicode>موضوع و محمول معلوم بشود و تصدیق حاصل نمیشود و بر تقدیر ثانی خودش نظری</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781903385351_590" custom="readingOrder {index:8;}">
+                <Coords points="930,1156 99,1156 99,1260 930,1260" /><Baseline points="99,1220 930,1220" />
+                <Baseline points="919,1202 107,1225" />
+                <TextEquiv>
+                    <Unicode>خواهد بود پس محتاج باشد بدلیل و هرگاه مستدل را ناچار باشد از دعوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781903392741_593" custom="readingOrder {index:9;}">
+                <Coords points="932,1283 101,1283 101,1401 932,1401" /><Baseline points="101,1356 932,1356" />
+                <Baseline points="922,1327 111,1354" />
+                <TextEquiv>
+                    <Unicode>بدیهی بودن تصور یا تصدیق در مقدمات دلیل کردن پس دعوی بدیهیه در</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781903405897_596" custom="readingOrder {index:10;}">
+                <Coords points="112,1395 936,1395 936,1500 112,1500" /><Baseline points="112,1460 936,1460" />
+                <Baseline points="925,1449 122,1464" />
+                <TextEquiv>
+                    <Unicode>اصل انقسام کردن در اول مرتبه بهتر باشد قوله منها التحرز عم استعمال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781903415334_599" custom="readingOrder {index:11;}">
+                <Coords points="109,1486 938,1486 938,1623 109,1623" /><Baseline points="109,1571 938,1571" />
+                <Baseline points="925,1557 118,1582" />
+                <TextEquiv>
+                    <Unicode>الفظ المشترک چون علم لفظ مشترک است میانه معانی زیرا که در بعضی اصطلاحات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بر صاحبان فطرت مستقیم پس لازم میآید معلوم نبودن تصور مطلقا نزد عقل و حال
+انکه بعض از تصورات معلوم است مثل تصور حرارت و برودت و امثال اینها و به
+همین طریق گفته میشود در تصدیق و طریقه دوم بهتر است زیرا که بعد از رحمت استدلال
+لازم است از دعوای بدیهیه از مقدمات دلیل کردن و الا ما یغرا میرسد که بگوید
+مثلا اگر همه تصورات یا تصدیقات نظری باشد لازم میآید که هیچ تصوری یا
+هیچ تصدیقی حاصل معلوم نباشد و حال انکه معلوم است نیز از جمله تصدیقات
+است بنابر فرض اول اطرافش غیر معلوم خواهد بود پس محتاج باشد بفکر زیرا که
+موضوع و محمول معلوم بشود و تصدیق حاصل نمیشود و بر تقدیر ثانی خودش نظری
+خواهد بود پس محتاج باشد بدلیل و هرگاه مستدل را ناچار باشد از دعوی
+بدیهی بودن تصور یا تصدیق در مقدمات دلیل کردن پس دعوی بدیهیه در
+اصل انقسام کردن در اول مرتبه بهتر باشد قوله منها التحرز عم استعمال
+الفظ المشترک چون علم لفظ مشترک است میانه معانی زیرا که در بعضی اصطلاحات</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

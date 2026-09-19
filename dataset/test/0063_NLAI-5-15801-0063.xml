@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:30.577-07:00</Created>
+        <LastChange>2026-06-20T16:35:49.756-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0063_NLAI-5-15801-0063.jpg" imageWidth="1090" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781998549818" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781997613351_912" />
+                <RegionRefIndexed index="1" regionRef="region_1781997643475_924" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781997613351_912" custom="readingOrder {index:0;}">
+            <Coords points="1011,135 132,135 132,1616 1011,1616" />
+            <TextLine id="line_1781997624726_915" custom="readingOrder {index:0;}">
+                <Coords points="174,146 986,146 986,290 174,290" /><Baseline points="174,235 986,235" />
+                <Baseline points="972,251 198,229" />
+                <TextEquiv>
+                    <Unicode>ازین حیثیت که خارج لازم موضوع است له است زیرا که اگر قید حیثیت معتبر نباشد لازم میآید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781997633819_918" custom="readingOrder {index:1;}">
+                <Coords points="174,287 993,287 993,395 174,395" /><Baseline points="174,354 993,354" />
+                <Baseline points="980,370 183,352" />
+                <TextEquiv>
+                    <Unicode>دخول هر یک ازین سه دلالت در تحت دیگری مثلا هرگاه لفظ افتاب هم از برای جرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781997639022_921" custom="readingOrder {index:2;}">
+                <Coords points="174,394 989,394 989,533 174,533" /><Baseline points="174,480 989,480" />
+                <Baseline points="979,493 190,468" />
+                <TextEquiv>
+                    <Unicode>موضوع باشد و هم از برای ضو و هم از برای مجموع جرم وضو پس وقتی که از لفظ افتاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781997652615_928" custom="readingOrder {index:3;}">
+                <Coords points="171,526 986,526 986,649 171,649" /><Baseline points="171,602 986,602" />
+                <Baseline points="970,609 187,591" />
+                <TextEquiv>
+                    <Unicode>مجموع جرم وضو خواسته شود دلالتش بر جرم تنها و روشنی تنها در ضمن دلالت بر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781997658271_931" custom="readingOrder {index:4;}">
+                <Coords points="158,643 988,643 988,763 158,763" /><Baseline points="158,717 988,717" />
+                <Baseline points="975,725 165,700" />
+                <TextEquiv>
+                    <Unicode>مجموع تضمن است زیرا که دلالت بر جز موضوع له لفظ است و قطع نظر از قید حیثیت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781997663802_934" custom="readingOrder {index:5;}">
+                <Coords points="162,757 973,757 973,900 162,900" /><Baseline points="162,846 973,846" />
+                <Baseline points="966,857 176,818" />
+                <TextEquiv>
+                    <Unicode>لازم میآید که مطابقه هم باشد زیرا که صادق است که دلالت لفظ است بر مجموع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781997677646_937" custom="readingOrder {index:6;}">
+                <Coords points="164,840 977,840 977,1033 164,1033" /><Baseline points="164,960 977,960" />
+                <Baseline points="961,987 180,939" />
+                <TextEquiv>
+                    <Unicode>التزام نیز صادقست زیرا که جرم تنها موضوع له نیز ست وضو خارج لازم موضوع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781997687442_940" custom="readingOrder {index:7;}">
+                <Coords points="166,986 975,986 975,1152 166,1152" /><Baseline points="166,1089 975,1089" />
+                <Baseline points="961,1106 181,1077" />
+                <TextEquiv>
+                    <Unicode>له و ازینجا لازم میآید که دلالت بر ضو هم مطابقه باشد و هم تضمن و هم التزام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781997693208_943" custom="readingOrder {index:8;}">
+                <Coords points="153,1102 968,1102 968,1270 153,1270" /><Baseline points="153,1206 968,1206" />
+                <Baseline points="960,1228 170,1195" />
+                <TextEquiv>
+                    <Unicode>و حال انکه تضمن است و هم چنین هرگاه افتاب بگویند و جرم تنها بخواهند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781997699864_946" custom="readingOrder {index:9;}">
+                <Coords points="146,1245 961,1245 961,1380 146,1380" /><Baseline points="146,1329 961,1329" />
+                <Baseline points="954,1357 195,1330" />
+                <TextEquiv>
+                    <Unicode>با انکه درینوقت مطابقه است لازم میآید که تضمن نیز باشد زیرا که صادق است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781997708770_949" custom="readingOrder {index:10;}">
+                <Coords points="144,1354 973,1354 973,1495 144,1495" /><Baseline points="144,1441 973,1441" />
+                <Baseline points="949,1464 152,1438" />
+                <TextEquiv>
+                    <Unicode>که دلالت لفظ است بر جز موضوع له دهم چنین هرگاه لفظ افتاب بگویند وضو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781997717035_952" custom="readingOrder {index:11;}">
+                <Coords points="141,1473 963,1473 963,1611 141,1611" /><Baseline points="141,1559 963,1559" />
+                <Baseline points="946,1588 154,1569" />
+                <TextEquiv>
+                    <Unicode>بخواهند با انکه مطابقه است تعریف تضمن و التزام هر دو بر ان صادق است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ازین حیثیت که خارج لازم موضوع است له است زیرا که اگر قید حیثیت معتبر نباشد لازم میآید
+دخول هر یک ازین سه دلالت در تحت دیگری مثلا هرگاه لفظ افتاب هم از برای جرم
+موضوع باشد و هم از برای ضو و هم از برای مجموع جرم وضو پس وقتی که از لفظ افتاب
+مجموع جرم وضو خواسته شود دلالتش بر جرم تنها و روشنی تنها در ضمن دلالت بر
+مجموع تضمن است زیرا که دلالت بر جز موضوع له لفظ است و قطع نظر از قید حیثیت
+لازم میآید که مطابقه هم باشد زیرا که صادق است که دلالت لفظ است بر مجموع
+التزام نیز صادقست زیرا که جرم تنها موضوع له نیز ست وضو خارج لازم موضوع
+له و ازینجا لازم میآید که دلالت بر ضو هم مطابقه باشد و هم تضمن و هم التزام
+و حال انکه تضمن است و هم چنین هرگاه افتاب بگویند و جرم تنها بخواهند
+با انکه درینوقت مطابقه است لازم میآید که تضمن نیز باشد زیرا که صادق است
+که دلالت لفظ است بر جز موضوع له دهم چنین هرگاه لفظ افتاب بگویند وضو
+بخواهند با انکه مطابقه است تعریف تضمن و التزام هر دو بر ان صادق است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781997643475_924" custom="readingOrder {index:1;}">
+            <Coords points="169,524" />
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:30.499-07:00</Created>
+        <LastChange>2026-06-20T16:19:43.805-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0062_NLAI-5-15801-0062.jpg" imageWidth="1089" imageHeight="1779">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781997583868" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781996442767_802" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781996442767_802" custom="readingOrder {index:0;}">
+            <Coords points="63,1642 971,1642 971,126 63,126" />
+            <TextLine id="line_1781996463470_805" custom="readingOrder {index:0;}">
+                <Coords points="127,134 964,134 964,283 127,283" /><Baseline points="127,226 964,226" />
+                <Baseline points="933,267 136,234 141,233" />
+                <TextEquiv>
+                    <Unicode>که دلالت وضعیه لفظیه بودن است بحیثیتی که فهمیده شود از ان معنی بمدخلیت وضع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781996471001_808" custom="readingOrder {index:1;}">
+                <Coords points="116,257 946,257 946,422 116,422" /><Baseline points="116,359 946,359" />
+                <Baseline points="936,388 136,357" />
+                <TextEquiv>
+                    <Unicode>واضح بعد از علم بوضع بوضعیه غیر لفظیه بود غیر لفظیت بحیثیتی که فهمیده شود از ان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781996479766_811" custom="readingOrder {index:2;}">
+                <Coords points="109,421 944,421 944,561 109,561" /><Baseline points="109,508 944,508" />
+                <Baseline points="936,500 126,501" />
+                <TextEquiv>
+                    <Unicode>معنی بمدخلیت طبع وضع بعد از علم بوضع و طبیعیه لفظیه بمعنی لفظ است بحیثیتیکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781996485656_814" custom="readingOrder {index:3;}">
+                <Coords points="116,525 936,525 936,669 116,669" /><Baseline points="116,614 936,614" />
+                <Baseline points="926,624 160,604" />
+                <TextEquiv>
+                    <Unicode>فهمیده شود از ان معنی بمدخلیت طبع بعد از علم باقتضای طبع و دلالت عقلیه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781996499062_817" custom="readingOrder {index:4;}">
+                <Coords points="116,632 938,632 938,775 116,775" /><Baseline points="116,721 938,721" />
+                <Baseline points="928,740 146,725" />
+                <TextEquiv>
+                    <Unicode>لفظیه بودن لفظ است بحیثیتی که فهمیده شود از ان معنی بمجرد دریافت عقل بمدخلیت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781996508859_820" custom="readingOrder {index:5;}">
+                <Coords points="115,780 945,780 945,899 115,899" /><Baseline points="115,854 945,854" />
+                <Baseline points="931,860 132,840" />
+                <TextEquiv>
+                    <Unicode>طبع و وضع پس دلالت وضعیه و عقلیه غیر لفظیه بودن غیر لفظ است بحیثیتی که فهمیده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781996517749_823" custom="readingOrder {index:6;}">
+                <Coords points="110,884 925,884 925,1017 110,1017" /><Baseline points="110,966 925,966" />
+                <Baseline points="142,978 208,980 631,976 919,988" />
+                <TextEquiv>
+                    <Unicode>شود از ان معنی بمجرد دریافت عقل بمدخلیت طبع و وضع پس دلالت وضعیه بمدخلیت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781996523983_826" custom="readingOrder {index:7;}">
+                <Coords points="107,1017 930,1017 930,1148 107,1148" /><Baseline points="107,1098 930,1098" />
+                <Baseline points="922,1108 136,1096" />
+                <TextEquiv>
+                    <Unicode>عقلست با وضع واضع و طبیعیه بمدخلیت عقلست با طبع و عقلیه پی مدخلیت وضع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781996530280_829" custom="readingOrder {index:8;}">
+                <Coords points="112,1146 925,1146 925,1279 112,1279" /><Baseline points="112,1228 925,1228" />
+                <Baseline points="918,1226 130,1222" />
+                <TextEquiv>
+                    <Unicode>و طبعست قوله و هی تنقسم الی المطالبقه اه بدانکه در تعریف دلالات ثلث ناچار است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781996536811_832" custom="readingOrder {index:9;}">
+                <Coords points="103,1267 927,1267 927,1382 103,1382" /><Baseline points="103,1338 927,1338" />
+                <Baseline points="916,1358 143,1349" />
+                <TextEquiv>
+                    <Unicode>از قید حیثیت بانطریق که مطابقه دلالت لفظ است بر تمام موضوع له ازین حیثیت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781996549170_835" custom="readingOrder {index:10;}">
+                <Coords points="94,1393 949,1393 949,1519 94,1519" /><Baseline points="94,1471 949,1471" />
+                <Baseline points="105,1446 294,1454 667,1465 919,1469" />
+                <TextEquiv>
+                    <Unicode>که تمام موضوع له اوست و تضمن دلالت لفظ است بر جز معنی موضوع له ازین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781996556748_838" custom="readingOrder {index:11;}">
+                <Coords points="80,1472 934,1472 934,1636 80,1636" /><Baseline points="80,1574 934,1574" />
+                <Baseline points="114,1577 396,1589 710,1590 921,1586" />
+                <TextEquiv>
+                    <Unicode>حیثیت که جز معنی موضوع له است و التزام دلالت لفظ است بر خارج لازم موضوع له</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که دلالت وضعیه لفظیه بودن است بحیثیتی که فهمیده شود از ان معنی بمدخلیت وضع
+واضح بعد از علم بوضع بوضعیه غیر لفظیه بود غیر لفظیت بحیثیتی که فهمیده شود از ان
+معنی بمدخلیت طبع وضع بعد از علم بوضع و طبیعیه لفظیه بمعنی لفظ است بحیثیتیکه
+فهمیده شود از ان معنی بمدخلیت طبع بعد از علم باقتضای طبع و دلالت عقلیه
+لفظیه بودن لفظ است بحیثیتی که فهمیده شود از ان معنی بمجرد دریافت عقل بمدخلیت
+طبع و وضع پس دلالت وضعیه و عقلیه غیر لفظیه بودن غیر لفظ است بحیثیتی که فهمیده
+شود از ان معنی بمجرد دریافت عقل بمدخلیت طبع و وضع پس دلالت وضعیه بمدخلیت
+عقلست با وضع واضع و طبیعیه بمدخلیت عقلست با طبع و عقلیه پی مدخلیت وضع
+و طبعست قوله و هی تنقسم الی المطالبقه اه بدانکه در تعریف دلالات ثلث ناچار است
+از قید حیثیت بانطریق که مطابقه دلالت لفظ است بر تمام موضوع له ازین حیثیت
+که تمام موضوع له اوست و تضمن دلالت لفظ است بر جز معنی موضوع له ازین
+حیثیت که جز معنی موضوع له است و التزام دلالت لفظ است بر خارج لازم موضوع له</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T11:45:56.022+03:30</Created>
+        <LastChange>2026-06-25T19:13:49.123+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0172_NLAI-5-19596-0172.jpg" imageWidth="1506" imageHeight="2832">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782402229159" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782400585832_2629" />
+                <RegionRefIndexed index="1" regionRef="region_1782400617046_2638" />
+                <RegionRefIndexed index="2" regionRef="region_1782401750294_2740" />
+                <RegionRefIndexed index="3" regionRef="region_1782400554388_2620" />
+                <RegionRefIndexed index="4" regionRef="region_1782400706605_2661" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782400585832_2629" custom="readingOrder {index:0;}">
+            <Coords points="110,502 552,502 552,622 110,622" />
+            <TextLine id="line_1782400588575_2632" custom="readingOrder {index:0;}">
+                <Coords points="117,486 545,486 545,619 117,619" /><Baseline points="117,568 545,568" />
+                <Baseline points="141,543 532,539" />
+                <TextEquiv>
+                    <Unicode>مرا به پسند و گوید که این چه کس باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مرا به پسند و گوید که این چه کس باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782400617046_2638" custom="readingOrder {index:1;}">
+            <Coords points="98,622 883,622 883,888 98,888" />
+            <TextLine id="line_1782400630744_2647" custom="readingOrder {index:0;}">
+                <Coords points="95,636 865,636 865,748 95,748" /><Baseline points="95,705 865,705" />
+                <Baseline points="367,686 860,671" />
+                <TextEquiv>
+                    <Unicode>خوشست باده رنگین و دیدن جانان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782400670848_2654" custom="readingOrder {index:1;}">
+                <Coords points="105,759 867,759 867,885 105,885" /><Baseline points="105,837 867,837" />
+                <Baseline points="401,843 811,831" />
+                <TextEquiv>
+                    <Unicode>مدام حافظ مسکین هوش باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خوشست باده رنگین و دیدن جانان
+مدام حافظ مسکین هوش باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782401750294_2740" custom="readingOrder {index:2;}">
+            <Coords points="96,911 539,911 539,2601 96,2601" />
+            <TextLine id="line_1782401754009_2743" custom="readingOrder {index:0;}">
+                <Coords points="89,931 543,931 543,1025 89,1025" /><Baseline points="89,989 543,989" />
+                <Baseline points="133,980 531,978" />
+                <TextEquiv>
+                    <Unicode>وین راز سر به مهر به عالم سمر شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782401784365_2749" custom="readingOrder {index:1;}">
+                <Coords points="81,1035 545,1035 545,1146 81,1146" /><Baseline points="81,1104 545,1104" />
+                <Baseline points="126,1100 538,1100" />
+                <TextEquiv>
+                    <Unicode>آری شود ولیک به خون جگر شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782401815352_2757" custom="readingOrder {index:2;}">
+                <Coords points="109,1181 547,1181 547,1297 109,1297" /><Baseline points="109,1253 547,1253" />
+                <Baseline points="523,1244 131,1240" />
+                <TextEquiv>
+                    <Unicode>باشد کز آن میانه یکی کارگر شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782401857472_2763" custom="readingOrder {index:3;}">
+                <Coords points="94,1325 547,1325 547,1446 94,1446" /><Baseline points="94,1400 547,1400" />
+                <Baseline points="135,1402 514,1396" />
+                <TextEquiv>
+                    <Unicode>کی با تو دست کوته ما درکمر شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782401905185_2769" custom="readingOrder {index:4;}">
+                <Coords points="113,1464 564,1464 564,1597 113,1597" /><Baseline points="113,1546 564,1546" />
+                <Baseline points="116,1514 536,1536" />
+                <TextEquiv>
+                    <Unicode>گر دست غم خلاص من آنجا مگر شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782401940785_2775" custom="readingOrder {index:5;}">
+                <Coords points="98,1615 555,1615 555,1759 98,1759" /><Baseline points="98,1704 555,1704" />
+                <Baseline points="113,1689 536,1691" />
+                <TextEquiv>
+                    <Unicode>یا رب مباد آن که گدا معتبر شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782401964460_2781" custom="readingOrder {index:6;}">
+                <Coords points="94,1783 545,1783 545,1901 94,1901" /><Baseline points="94,1856 545,1856" />
+                <Baseline points="116,1840 527,1835" />
+                <TextEquiv>
+                    <Unicode>مقبول طبع مردم صاحب نظر شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782401997676_2787" custom="readingOrder {index:7;}">
+                <Coords points="84,1910 564,1910 564,2030 84,2030" /><Baseline points="84,1984 564,1984" />
+                <Baseline points="144,1962 530,1972" />
+                <TextEquiv>
+                    <Unicode>لیکن چنان مگو که صبا را خبر شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782402019259_2793" custom="readingOrder {index:8;}">
+                <Coords points="81,2030 538,2030 538,2185 81,2185" /><Baseline points="81,2126 538,2126" />
+                <Baseline points="103,2124 530,2122" />
+                <TextEquiv>
+                    <Unicode>اری چمن لطف شما خاک زر شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782402083394_2801" custom="readingOrder {index:9;}">
+                <Coords points="121,2197 532,2197 532,2314 121,2314" /><Baseline points="121,2270 532,2270" />
+                <Baseline points="142,2252 534,2261" />
+                <TextEquiv>
+                    <Unicode>سرها بر آستانه او خاک در شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782402140320_2811" custom="readingOrder {index:10;}">
+                <Coords points="110,2336 531,2336 531,2454 110,2454" /><Baseline points="110,2409 531,2409" />
+                <Baseline points="125,2393 531,2412" />
+                <TextEquiv>
+                    <Unicode>روشکر کن مباد کرد برتبر شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782402205835_2817" custom="readingOrder {index:11;}">
+                <Coords points="94,2472 556,2472 556,2597 94,2597" /><Baseline points="94,2550 556,2550" />
+                <Baseline points="113,2527 537,2543" />
+                <TextEquiv>
+                    <Unicode>ان صبح روز گردد و این شب سحر شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>وین راز سر به مهر به عالم سمر شود
+آری شود ولیک به خون جگر شود
+باشد کز آن میانه یکی کارگر شود
+کی با تو دست کوته ما درکمر شود
+گر دست غم خلاص من آنجا مگر شود
+یا رب مباد آن که گدا معتبر شود
+مقبول طبع مردم صاحب نظر شود
+لیکن چنان مگو که صبا را خبر شود
+اری چمن لطف شما خاک زر شود
+سرها بر آستانه او خاک در شود
+روشکر کن مباد کرد برتبر شود
+ان صبح روز گردد و این شب سحر شود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782400554388_2620" custom="readingOrder {index:3;}">
+            <Coords points="632,500 1095,500 1095,616 632,616" />
+            <TextLine id="line_1782400558902_2623" custom="readingOrder {index:0;}">
+                <Coords points="643,507 1076,507 1076,613 643,613" /><Baseline points="643,573 1076,573" />
+                <Baseline points="673,542 1064,540 1030,563 1054,543" />
+                <TextEquiv>
+                    <Unicode>هزار بار شود اشنا و دیگر بار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>هزار بار شود اشنا و دیگر بار</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782400706605_2661" custom="readingOrder {index:4;}">
+            <Coords points="648,899 1080,899 1080,2604 648,2604" />
+            <TextLine id="line_1782400714684_2664" custom="readingOrder {index:0;}">
+                <Coords points="650,903 1080,903 1080,1016 650,1016" /><Baseline points="650,973 1080,973" />
+                <Baseline points="665,981 1059,962" />
+                <TextEquiv>
+                    <Unicode>ترسم که اشک از غم ما پرده در شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782400778420_2671" custom="readingOrder {index:1;}">
+                <Coords points="651,1049 1088,1049 1088,1152 651,1152" /><Baseline points="651,1113 1088,1113" />
+                <Baseline points="634,1128 1069,1105" />
+                <TextEquiv>
+                    <Unicode>گویند سنگ لعل شود در مقام صبر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782400804064_2677" custom="readingOrder {index:2;}">
+                <Coords points="638,1180 1088,1180 1088,1302 638,1302" /><Baseline points="638,1256 1088,1256" />
+                <Baseline points="635,1238 1058,1256" />
+                <TextEquiv>
+                    <Unicode>از هر کرانه تیر دعا کرده ام روان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782400830811_2683" custom="readingOrder {index:3;}">
+                <Coords points="657,1316 1087,1316 1087,1444 657,1444" /><Baseline points="657,1395 1087,1395" />
+                <Baseline points="650,1390 1081,1395" />
+                <TextEquiv>
+                    <Unicode>این سرکشی که در سرو بلندیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782400889807_2689" custom="readingOrder {index:4;}">
+                <Coords points="623,1443 1077,1443 1077,1604 623,1604" /><Baseline points="623,1543 1077,1543" />
+                <Baseline points="637,1535 1057,1546" />
+                <TextEquiv>
+                    <Unicode>خواهم شدن به میکده گریان و دادخواه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782400921917_2695" custom="readingOrder {index:5;}">
+                <Coords points="628,1628 1106,1628 1106,1751 628,1751" /><Baseline points="628,1704 1106,1704" />
+                <Baseline points="630,1709 1068,1697" />
+                <TextEquiv>
+                    <Unicode>در تنگنای حیرتم از نخوت رقیب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782400970022_2702" custom="readingOrder {index:6;}">
+                <Coords points="636,1770 1071,1770 1071,1907 636,1907" /><Baseline points="636,1855 1071,1855" />
+                <Baseline points="632,1870 1060,1844" />
+                <TextEquiv>
+                    <Unicode>صد نکته غیر حسن بباید که تا کسی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782401035301_2709" custom="readingOrder {index:7;}">
+                <Coords points="617,1901 1091,1901 1091,2043 617,2043" /><Baseline points="617,1989 1091,1989" />
+                <Baseline points="642,1984 1069,1994" />
+                <TextEquiv>
+                    <Unicode>ای دل حدیث ما بر دلدار بازگو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782401087530_2716" custom="readingOrder {index:8;}">
+                <Coords points="639,2061 1078,2061 1078,2180 639,2180" /><Baseline points="639,2135 1078,2135" />
+                <Baseline points="671,2108 1068,2129" />
+                <TextEquiv>
+                    <Unicode>از کیمیای مهر تو زر گشت روی من</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782401107660_2722" custom="readingOrder {index:9;}">
+                <Coords points="648,2216 1078,2216 1078,2318 648,2318" /><Baseline points="648,2279 1078,2279" />
+                <Baseline points="649,2265 1072,2275" />
+                <TextEquiv>
+                    <Unicode>آن قصر سلطنت که تواش ما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782401668168_2728" custom="readingOrder {index:10;}">
+                <Coords points="634,2326 1082,2326 1082,2490 634,2490" /><Baseline points="634,2428 1082,2428" />
+                <Baseline points="659,2424 1064,2423" />
+                <TextEquiv>
+                    <Unicode>روزی اگر غمی رسدت شکدل مباش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782401708318_2734" custom="readingOrder {index:11;}">
+                <Coords points="648,2495 1076,2495 1076,2599 648,2599" /><Baseline points="648,2559 1076,2559" />
+                <Baseline points="649,2540 1072,2548" />
+                <TextEquiv>
+                    <Unicode>ای دل صبور باش و مخور غم که عاقبت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ترسم که اشک از غم ما پرده در شود
+گویند سنگ لعل شود در مقام صبر
+از هر کرانه تیر دعا کرده ام روان
+این سرکشی که در سرو بلندیست
+خواهم شدن به میکده گریان و دادخواه
+در تنگنای حیرتم از نخوت رقیب
+صد نکته غیر حسن بباید که تا کسی
+ای دل حدیث ما بر دلدار بازگو
+از کیمیای مهر تو زر گشت روی من
+آن قصر سلطنت که تواش ما
+روزی اگر غمی رسدت شکدل مباش
+ای دل صبور باش و مخور غم که عاقبت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

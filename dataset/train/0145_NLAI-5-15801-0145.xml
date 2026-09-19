@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T08:19:33.794+04:30</Created>
+        <LastChange>2026-06-25T08:38:26.605+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0145_NLAI-5-15801-0145.jpg" imageWidth="1117" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782360506606" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782359405344_1690" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782359405344_1690" custom="readingOrder {index:0;}">
+            <Coords points="127,1641 992,1641 992,132 127,132" />
+            <TextLine id="line_1782359436530_1693" custom="readingOrder {index:0;}">
+                <Coords points="137,141 984,141 984,274 137,274" /><Baseline points="137,223 984,223" />
+                <Baseline points="977,234 148,228" />
+                <TextEquiv>
+                    <Unicode>مثل بعض الحیوان انسان موجبه جزییه عکس ندارد و الا لازم میآید وجود اخص</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782359948924_1705" custom="readingOrder {index:1;}">
+                <Coords points="154,285 986,285 986,404 154,404" /><Baseline points="154,359 986,359" />
+                <Baseline points="974,358 179,347" />
+                <TextEquiv>
+                    <Unicode>بدون اعم و له یعنی کما ان المطالب المذکوره فی العکس المستوی کان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782359999747_1711" custom="readingOrder {index:2;}">
+                <Coords points="157,413 988,413 988,527 157,527" /><Baseline points="157,484 988,484" />
+                <Baseline points="978,483 179,471" />
+                <TextEquiv>
+                    <Unicode>ثبت بالخلف اه چون محشی بتفصیل متعرض بیان نشده است دراین مقام لایق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360103025_1717" custom="readingOrder {index:3;}">
+                <Coords points="170,541 991,541 991,636 170,636" /><Baseline points="170,600 991,600" />
+                <Baseline points="976,599 188,594" />
+                <TextEquiv>
+                    <Unicode>آن است که فی الجمله تفصیلی که در فهم مبتدی صاحب فطرت باشد داده شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360139007_1723" custom="readingOrder {index:4;}">
+                <Coords points="162,645 978,645 978,758 162,758" /><Baseline points="162,715 978,715" />
+                <Baseline points="970,723 173,706" />
+                <TextEquiv>
+                    <Unicode>بنابرین مذکور میشود که موجبه کلیه منعکس میشود بعکس نقیض بموجبه کلی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360178647_1729" custom="readingOrder {index:5;}">
+                <Coords points="157,764 978,764 978,894 157,894" /><Baseline points="157,845 978,845" />
+                <Baseline points="972,857 170,820" />
+                <TextEquiv>
+                    <Unicode>و الا لازم میآید صدق قضیه که اگر با اصل ضم شود سلب شییی از نفس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360221830_1735" custom="readingOrder {index:6;}">
+                <Coords points="154,897 982,897 982,1015 154,1015" /><Baseline points="154,970 982,970" />
+                <Baseline points="966,979 164,957" />
+                <TextEquiv>
+                    <Unicode>لازم آید و اگر منعکس شود بعکس مستوی قضیه بهم رسد منافی اصل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360275531_1742" custom="readingOrder {index:7;}">
+                <Coords points="156,1021 982,1021 982,1129 156,1129" /><Baseline points="156,1088 982,1088" />
+                <Baseline points="974,1094 168,1080" />
+                <TextEquiv>
+                    <Unicode>مثلا عکس نقیض کل انسان حیوان اگر کل لا حیوان لا حیوان صادق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360308837_1748" custom="readingOrder {index:8;}">
+                <Coords points="154,1135 977,1135 977,1256 154,1256" /><Baseline points="154,1210 977,1210" />
+                <Baseline points="967,1216 166,1200" />
+                <TextEquiv>
+                    <Unicode>نباشد نقیضش که بعض الحیوان لیس بلا انسان باشد صادق خواهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360349885_1754" custom="readingOrder {index:9;}">
+                <Coords points="155,1263 975,1263 975,1387 155,1387" /><Baseline points="155,1340 975,1340" />
+                <Baseline points="965,1344 496,1341 167,1315" />
+                <TextEquiv>
+                    <Unicode>بود و صدق این قضیه لازم دارد صدق بعض الحیوان لا انسان را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360391604_1760" custom="readingOrder {index:10;}">
+                <Coords points="142,1391 970,1391 970,1507 142,1507" /><Baseline points="142,1463 970,1463" />
+                <Baseline points="961,1461 150,1451" />
+                <TextEquiv>
+                    <Unicode>و این قضیه با اصل که ضم شود نتیجه میدهد که بعض الحیوان لا حیوان و این</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360437161_1767" custom="readingOrder {index:11;}">
+                <Coords points="144,1512 987,1512 987,1632 144,1632" /><Baseline points="144,1586 987,1586" />
+                <Baseline points="975,1569 154,1570" />
+                <TextEquiv>
+                    <Unicode>سلب شی است از نفس ما منعکس میکنیم این قضیه را بعکس مستوی پس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مثل بعض الحیوان انسان موجبه جزییه عکس ندارد و الا لازم میآید وجود اخص
+بدون اعم و له یعنی کما ان المطالب المذکوره فی العکس المستوی کان
+ثبت بالخلف اه چون محشی بتفصیل متعرض بیان نشده است دراین مقام لایق
+آن است که فی الجمله تفصیلی که در فهم مبتدی صاحب فطرت باشد داده شود
+بنابرین مذکور میشود که موجبه کلیه منعکس میشود بعکس نقیض بموجبه کلی
+و الا لازم میآید صدق قضیه که اگر با اصل ضم شود سلب شییی از نفس
+لازم آید و اگر منعکس شود بعکس مستوی قضیه بهم رسد منافی اصل
+مثلا عکس نقیض کل انسان حیوان اگر کل لا حیوان لا حیوان صادق
+نباشد نقیضش که بعض الحیوان لیس بلا انسان باشد صادق خواهد
+بود و صدق این قضیه لازم دارد صدق بعض الحیوان لا انسان را
+و این قضیه با اصل که ضم شود نتیجه میدهد که بعض الحیوان لا حیوان و این
+سلب شی است از نفس ما منعکس میکنیم این قضیه را بعکس مستوی پس</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T19:59:33.513+03:30</Created>
+        <LastChange>2026-06-27T20:30:15.815+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0108_NLAI-5-19596-0108.jpg" imageWidth="1591" imageHeight="2759">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782579615847" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782578491992_1779" />
+                <RegionRefIndexed index="1" regionRef="region_1782579382546_1892" />
+                <RegionRefIndexed index="2" regionRef="region_1782578851027_1832" />
+                <RegionRefIndexed index="3" regionRef="region_1782578125332_1719" />
+                <RegionRefIndexed index="4" regionRef="region_1782578986175_1848" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782578491992_1779" custom="readingOrder {index:0;}">
+            <Coords points="126,402 599,402 599,1431 126,1431" />
+            <TextLine id="line_1782578535844_1790" custom="readingOrder {index:0;}">
+                <Coords points="147,410 587,410 587,542 147,542" /><Baseline points="147,492 587,492" />
+                <Baseline points="176,471 572,484" />
+                <TextEquiv>
+                    <Unicode>که برخوردار شد از روی فرخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782578557680_1796" custom="readingOrder {index:1;}">
+                <Coords points="154,550 569,550 569,680 154,680" /><Baseline points="154,631 569,631" />
+                <Baseline points="171,606 560,634" />
+                <TextEquiv>
+                    <Unicode>بود هم راز و هم زانوی فرخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782578602776_1802" custom="readingOrder {index:2;}">
+                <Coords points="158,690 589,690 589,819 158,819" /><Baseline points="158,770 589,770" />
+                <Baseline points="173,749 574,762" />
+                <TextEquiv>
+                    <Unicode>اگر بیند قد دلجوی فرخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782578632744_1808" custom="readingOrder {index:3;}">
+                <Coords points="151,822 576,822 576,980 151,980" /><Baseline points="151,920 576,920" />
+                <Baseline points="166,889 567,912" />
+                <TextEquiv>
+                    <Unicode>ز غم پیوسته چون ابروی فرخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782578717883_1814" custom="readingOrder {index:4;}">
+                <Coords points="157,986 577,986 577,1119 157,1119" /><Baseline points="157,1068 577,1068" />
+                <Baseline points="174,1038 569,1067" />
+                <TextEquiv>
+                    <Unicode>به یاد نرگس جادوی فرخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782578766834_1820" custom="readingOrder {index:5;}">
+                <Coords points="159,1122 581,1122 581,1257 159,1257" /><Baseline points="159,1206 581,1206" />
+                <Baseline points="179,1173 568,1196" />
+                <TextEquiv>
+                    <Unicode>شمیم زلف عنبربوی فرخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782578803347_1826" custom="readingOrder {index:6;}">
+                <Coords points="155,1264 574,1264 574,1420 155,1420" /><Baseline points="155,1361 574,1361" />
+                <Baseline points="168,1326 561,1355" />
+                <TextEquiv>
+                    <Unicode>بود میل دل من سوی فرخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که برخوردار شد از روی فرخ
+بود هم راز و هم زانوی فرخ
+اگر بیند قد دلجوی فرخ
+ز غم پیوسته چون ابروی فرخ
+به یاد نرگس جادوی فرخ
+شمیم زلف عنبربوی فرخ
+بود میل دل من سوی فرخ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782579382546_1892" custom="readingOrder {index:1;}">
+            <Coords points="138,1678 594,1678 594,2555 138,2555" />
+            <TextLine id="line_1782579400593_1895" custom="readingOrder {index:0;}">
+                <Coords points="152,1689 583,1689 583,1825 152,1825" /><Baseline points="152,1773 583,1773" />
+                <Baseline points="163,1758 563,1772" />
+                <TextEquiv>
+                    <Unicode>زاهدان را رخنه در ایمان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782579441298_1901" custom="readingOrder {index:1;}">
+                <Coords points="153,1832 582,1832 582,1969 153,1969" /><Baseline points="153,1917 582,1917" />
+                <Baseline points="161,1893 566,1915" />
+                <TextEquiv>
+                    <Unicode>گل رخانش دیده نرگس دان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782579476330_1907" custom="readingOrder {index:2;}">
+                <Coords points="146,1975 585,1975 585,2113 146,2113" /><Baseline points="146,2061 585,2061" />
+                <Baseline points="152,2028 574,2064" />
+                <TextEquiv>
+                    <Unicode>قدسیان بر عرش دست افشان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782579505386_1913" custom="readingOrder {index:3;}">
+                <Coords points="149,2125 579,2125 579,2263 149,2263" /><Baseline points="149,2211 579,2211" />
+                <Baseline points="160,2198 570,2199" />
+                <TextEquiv>
+                    <Unicode>گر چو صبحت آینه رخشان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782579550538_1919" custom="readingOrder {index:4;}">
+                <Coords points="142,2281 579,2281 579,2413 142,2413" /><Baseline points="142,2363 579,2363" />
+                <Baseline points="155,2345 565,2350" />
+                <TextEquiv>
+                    <Unicode>پیش از آن کز قامتت چوگان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782579584690_1925" custom="readingOrder {index:5;}">
+                <Coords points="146,2426 580,2426 580,2551 146,2551" /><Baseline points="146,2504 580,2504" />
+                <Baseline points="155,2486 567,2499" />
+                <TextEquiv>
+                    <Unicode>هر چه فرمان تو باشد آن کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>زاهدان را رخنه در ایمان کنند
+گل رخانش دیده نرگس دان کنند
+قدسیان بر عرش دست افشان کنند
+گر چو صبحت آینه رخشان کنند
+پیش از آن کز قامتت چوگان کنند
+هر چه فرمان تو باشد آن کنند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782578851027_1832" custom="readingOrder {index:2;}">
+            <Coords points="404,1432 901,1432 901,1702 404,1702" />
+            <TextLine id="line_1782578858679_1835" custom="readingOrder {index:0;}">
+                <Coords points="442,1442 864,1442 864,1557 442,1557" /><Baseline points="442,1513 864,1513" />
+                <Baseline points="466,1497 848,1501" />
+                <TextEquiv>
+                    <Unicode>غلام خاطر آنم که باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782578906163_1841" custom="readingOrder {index:1;}">
+                <Coords points="445,1564 875,1564 875,1694 445,1694" /><Baseline points="445,1645 875,1645" />
+                <Baseline points="461,1623 851,1646" />
+                <TextEquiv>
+                    <Unicode>چو حافظ چاکرهندوی فرخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>غلام خاطر آنم که باشد
+چو حافظ چاکرهندوی فرخ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782578125332_1719" custom="readingOrder {index:3;}">
+            <Coords points="659,428 1132,428 1132,1431 659,1431" />
+            <TextLine id="line_1782578134105_1722" custom="readingOrder {index:0;}">
+                <Coords points="680,443 1112,443 1112,549 680,549" /><Baseline points="680,509 1112,509" />
+                <TextEquiv>
+                    <Unicode>به جز هندوی زلفش هیچ کس نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782578260624_1743" custom="readingOrder {index:1;}">
+                <Coords points="676,570 1117,570 1117,694 676,694" /><Baseline points="676,647 1117,647" />
+                <Baseline points="684,636 1092,632" />
+                <TextEquiv>
+                    <Unicode>سیاهی نیکبخت است آن که دایم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782578317728_1749" custom="readingOrder {index:2;}">
+                <Coords points="669,701 1107,701 1107,830 669,830" /><Baseline points="669,781 1107,781" />
+                <Baseline points="675,752 1089,776" />
+                <TextEquiv>
+                    <Unicode>شود چون بید لرزان سروستان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782578375688_1755" custom="readingOrder {index:3;}">
+                <Coords points="670,838 1106,838 1106,982 670,982" /><Baseline points="670,927 1106,927" />
+                <Baseline points="676,908 1093,917" />
+                <TextEquiv>
+                    <Unicode>دو تا شد قامتم همچون کمانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782578407644_1761" custom="readingOrder {index:4;}">
+                <Coords points="672,1001 1109,1001 1109,1128 672,1128" /><Baseline points="672,1080 1109,1080" />
+                <Baseline points="678,1050 1096,1075" />
+                <TextEquiv>
+                    <Unicode>بده ساقی شراب ارغوانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782578430772_1767" custom="readingOrder {index:5;}">
+                <Coords points="674,1135 1112,1135 1112,1278 674,1278" /><Baseline points="674,1224 1112,1224" />
+                <Baseline points="687,1202 1092,1201" />
+                <TextEquiv>
+                    <Unicode>نسیم مشک تاتاری خجل کرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782578458008_1773" custom="readingOrder {index:6;}">
+                <Coords points="674,1286 1108,1286 1108,1422 674,1422" /><Baseline points="674,1370 1108,1370" />
+                <Baseline points="685,1359 1099,1351" />
+                <TextEquiv>
+                    <Unicode>اگر میل دل هر کس به جایی ست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>به جز هندوی زلفش هیچ کس نیست
+سیاهی نیکبخت است آن که دایم
+شود چون بید لرزان سروستان
+دو تا شد قامتم همچون کمانی
+بده ساقی شراب ارغوانی
+نسیم مشک تاتاری خجل کرد
+اگر میل دل هر کس به جایی ست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782578986175_1848" custom="readingOrder {index:4;}">
+            <Coords points="670,1707 1115,1707 1115,2543 670,2543" />
+            <TextLine id="line_1782578995499_1851" custom="readingOrder {index:0;}">
+                <Coords points="678,1709 1109,1709 1109,1845 678,1845" /><Baseline points="678,1793 1109,1793" />
+                <Baseline points="690,1778 1102,1799" />
+                <TextEquiv>
+                    <Unicode>شاهدان گر دلبری زین سان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782579109930_1862" custom="readingOrder {index:1;}">
+                <Coords points="675,1850 1112,1850 1112,1993 675,1993" /><Baseline points="675,1939 1112,1939" />
+                <Baseline points="683,1920 1102,1930" />
+                <TextEquiv>
+                    <Unicode>هر کجا آن شاخ نرگس بشکفد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782579141063_1868" custom="readingOrder {index:2;}">
+                <Coords points="683,2012 1111,2012 1111,2133 683,2133" /><Baseline points="683,2087 1111,2087" />
+                <Baseline points="699,2083 1101,2081" />
+                <TextEquiv>
+                    <Unicode>یار ما چون ساز و آهنگ سماع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782579197394_1874" custom="readingOrder {index:3;}">
+                <Coords points="678,2155 1112,2155 1112,2275 678,2275" /><Baseline points="678,2229 1112,2229" />
+                <Baseline points="684,2228 1107,2229" />
+                <TextEquiv>
+                    <Unicode>رخ نماید آفتاب دلت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782579271454_1880" custom="readingOrder {index:4;}">
+                <Coords points="672,2289 1111,2289 1111,2411 672,2411" /><Baseline points="672,2365 1111,2365" />
+                <Baseline points="680,2347 1102,2369" />
+                <TextEquiv>
+                    <Unicode>ای جوان سروقد کوی برزن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782579344946_1886" custom="readingOrder {index:5;}">
+                <Coords points="674,2422 1099,2422 1099,2538 674,2538" /><Baseline points="674,2494 1099,2494" />
+                <Baseline points="681,2466 1091,2499" />
+                <TextEquiv>
+                    <Unicode>عاشقان را در سر خود حکم نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شاهدان گر دلبری زین سان کنند
+هر کجا آن شاخ نرگس بشکفد
+یار ما چون ساز و آهنگ سماع
+رخ نماید آفتاب دلت
+ای جوان سروقد کوی برزن
+عاشقان را در سر خود حکم نیست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

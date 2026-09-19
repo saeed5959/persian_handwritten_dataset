@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-16T21:33:21.633+03:30</Created>
+        <LastChange>2012-12-31T23:33:13.356+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0137_NLAI-5-21417-0137.jpg" imageWidth="1329" imageHeight="1848">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1356984193465" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1356983674114_540" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1356983674114_540" custom="readingOrder {index:0;}">
+            <Coords points="720,948 1050,948 1050,1104 720,1104" />
+            <TextLine id="line_1356983687296_543" custom="readingOrder {index:0;}">
+                <Coords points="721,949 1052,949 1052,1024 721,1024" /><Baseline points="721,996 1052,996" />
+                <Baseline points="730,987 1041,995" />
+                <TextEquiv>
+                    <Unicode>لهم دار السلام عند ربهم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356983765514_549" custom="readingOrder {index:1;}">
+                <Coords points="726,1031 1049,1031 1049,1107 726,1107" /><Baseline points="726,1078 1049,1078" />
+                <Word id="word_1356983781972_553" custom="readingOrder {index:0;}">
+                    <Coords points="733,1044 1030,1044 1030,1043 733,1043" />
+                    <TextEquiv>
+                        <Unicode />
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>و هو ولیهم بما کانو یعملون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>لهم دار السلام عند ربهم
+و هو ولیهم بما کانو یعملون</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

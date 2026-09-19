@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T08:38:36.876+04:30</Created>
+        <LastChange>2026-06-25T08:51:38.688+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0146_NLAI-5-15801-0146.jpg" imageWidth="1089" imageHeight="1794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782361298689" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782360605868_1779" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782360605868_1779" custom="readingOrder {index:0;}">
+            <Coords points="68,1751 932,1751 932,139 68,139" />
+            <TextLine id="line_1782360630877_1782" custom="readingOrder {index:0;}">
+                <Coords points="80,146 926,146 926,277 80,277" /><Baseline points="80,227 926,227" />
+                <Baseline points="916,234 453,234 106,216" />
+                <TextEquiv>
+                    <Unicode>حاصل میشود بعض الانسان لا حیوان و این منافی اصل است که کل انسان حیوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360681118_1788" custom="readingOrder {index:1;}">
+                <Coords points="87,285 923,285 923,401 87,401" /><Baseline points="87,357 923,357" />
+                <Baseline points="912,351 103,343" />
+                <TextEquiv>
+                    <Unicode>باشد و هم چنین موجبه کلیه دایمتا منعکس میشوند بعکس نقیض بدایمه و الا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360721293_1794" custom="readingOrder {index:2;}">
+                <Coords points="78,405 924,405 924,533 78,533" /><Baseline points="78,484 924,484" />
+                <Baseline points="916,468 441,486 94,470" />
+                <TextEquiv>
+                    <Unicode>سلب شییی از نفس لازم میآید و هم چنین لازم اید صدق قضیه منافی الاصل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360795793_1800" custom="readingOrder {index:3;}">
+                <Coords points="81,540 922,540 922,633 81,633" /><Baseline points="81,598 922,598" />
+                <Baseline points="913,594 94,600" />
+                <TextEquiv>
+                    <Unicode>مثلا اگر صادق باشد کل انسان حیوان بالضروره یا بالدوام نقیضش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360838487_1807" custom="readingOrder {index:4;}">
+                <Coords points="85,639 928,639 928,755 85,755" /><Baseline points="85,711 928,711" />
+                <Baseline points="906,714 98,710" />
+                <TextEquiv>
+                    <Unicode>که سالبه جزییه مطلقه عامه است صادق خواهد بود بعض الحیوان لیس بلانسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360874784_1813" custom="readingOrder {index:5;}">
+                <Coords points="85,761 920,761 920,898 85,898" /><Baseline points="85,846 920,846" />
+                <Baseline points="910,836 104,841" />
+                <TextEquiv>
+                    <Unicode>بالفعل و لازمش را که بعض اللاحیوان انسان باشد با اصل ضم میکنیم و میگوییم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360950187_1819" custom="readingOrder {index:6;}">
+                <Coords points="85,903 919,903 919,1009 85,1009" /><Baseline points="85,969 919,969" />
+                <Baseline points="905,960 103,962" />
+                <TextEquiv>
+                    <Unicode>بعض اللاحیوان انسان و کل انسان حیوان بالضروره یا بالدوام نتیجه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782360993705_1825" custom="readingOrder {index:7;}">
+                <Coords points="88,1016 922,1016 922,1143 88,1143" /><Baseline points="88,1095 922,1095" />
+                <Baseline points="912,1085 102,1088" />
+                <TextEquiv>
+                    <Unicode>میدهد بعض اللاحیوان حیوان بالضروره یا بالدوام و این سلب شیی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361040495_1831" custom="readingOrder {index:8;}">
+                <Coords points="87,1149 920,1149 920,1261 87,1261" /><Baseline points="87,1218 920,1218" />
+                <Baseline points="899,1211 99,1206" />
+                <TextEquiv>
+                    <Unicode>است از نفس و هم چنین منعکس میسازیم لازمش را به بعض الانسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361077851_1837" custom="readingOrder {index:9;}">
+                <Coords points="82,1266 915,1266 915,1375 82,1375" /><Baseline points="82,1334 915,1334" />
+                <Baseline points="904,1330 96,1329" />
+                <TextEquiv>
+                    <Unicode>لا حیوان و این منافی اصل است این است عکس نقیض دایمتان بمذهب شیخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361137779_1843" custom="readingOrder {index:10;}">
+                <Coords points="85,1384 918,1384 918,1491 85,1491" /><Baseline points="85,1450 918,1450" />
+                <Baseline points="909,1445 98,1451" />
+                <TextEquiv>
+                    <Unicode>ابوعلی اما بنابر مذهب فارابی ضروریه موجبه منعکس میشود بعکس نقیض بموجبه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361178596_1849" custom="readingOrder {index:11;}">
+                <Coords points="83,1495 919,1495 919,1631 83,1631" /><Baseline points="83,1579 919,1579" />
+                <Baseline points="907,1580 99,1566" />
+                <TextEquiv>
+                    <Unicode>ضروریه هم چنانکه سالبه ضروریه نیز بمذهب او منعکس میشود و بعکس مستوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361266396_1861" custom="readingOrder {index:12;}">
+                <Coords points="164,1641 284,1641 284,1735 164,1735" /><Baseline points="164,1699 284,1699" />
+                <Baseline points="273,1659 175,1721" />
+                <TextEquiv>
+                    <Unicode>بضرویه سالبه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حاصل میشود بعض الانسان لا حیوان و این منافی اصل است که کل انسان حیوان
+باشد و هم چنین موجبه کلیه دایمتا منعکس میشوند بعکس نقیض بدایمه و الا
+سلب شییی از نفس لازم میآید و هم چنین لازم اید صدق قضیه منافی الاصل
+مثلا اگر صادق باشد کل انسان حیوان بالضروره یا بالدوام نقیضش
+که سالبه جزییه مطلقه عامه است صادق خواهد بود بعض الحیوان لیس بلانسان
+بالفعل و لازمش را که بعض اللاحیوان انسان باشد با اصل ضم میکنیم و میگوییم
+بعض اللاحیوان انسان و کل انسان حیوان بالضروره یا بالدوام نتیجه
+میدهد بعض اللاحیوان حیوان بالضروره یا بالدوام و این سلب شیی
+است از نفس و هم چنین منعکس میسازیم لازمش را به بعض الانسان
+لا حیوان و این منافی اصل است این است عکس نقیض دایمتان بمذهب شیخ
+ابوعلی اما بنابر مذهب فارابی ضروریه موجبه منعکس میشود بعکس نقیض بموجبه
+ضروریه هم چنانکه سالبه ضروریه نیز بمذهب او منعکس میشود و بعکس مستوی
+بضرویه سالبه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

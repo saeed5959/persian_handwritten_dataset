@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:45.088+03:30</Created>
+        <LastChange>2026-06-21T21:30:43.103+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0031_NLAI-5-11187-0030.jpg" imageWidth="818" imageHeight="1431">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782064843166" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782063497125_1297" />
+                <RegionRefIndexed index="1" regionRef="region_1782063575659_1308" />
+                <RegionRefIndexed index="2" regionRef="region_1782063742079_1321" />
+                <RegionRefIndexed index="3" regionRef="region_1782064217724_1391" />
+                <RegionRefIndexed index="4" regionRef="region_1782064346436_1402" />
+                <RegionRefIndexed index="5" regionRef="region_1782064491263_1413" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782063497125_1297" custom="readingOrder {index:0;}">
+            <Coords points="156,343 433,343 433,472 156,472" />
+            <TextLine id="line_1782063508172_1300" custom="readingOrder {index:0;}">
+                <Coords points="156,343 434,343 434,412 156,412" /><Baseline points="156,386 434,386" />
+                <TextEquiv>
+                    <Unicode>خوف الله یجلی القلب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782063538627_1304" custom="readingOrder {index:1;}">
+                <Coords points="156,410 435,410 435,474 156,474" /><Baseline points="156,450 435,450" />
+                <TextEquiv>
+                    <Unicode>ترس حق میدهد جلادل را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خوف الله یجلی القلب
+ترس حق میدهد جلادل را</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782063575659_1308" custom="readingOrder {index:1;}">
+            <Coords points="52,476 533,473 533,653 52,656" />
+            <TextLine id="line_1782063619053_1313" custom="readingOrder {index:0;}">
+                <Coords points="52,475 534,475 534,572 52,572" /><Baseline points="52,535 534,535" />
+                <TextEquiv>
+                    <Unicode>خوف حق در دلی که نیست بود تنگ وتاریک چون چه دوزخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782063681354_1317" custom="readingOrder {index:1;}">
+                <Coords points="51,570 532,570 532,655 51,655" /><Baseline points="51,623 532,623" />
+                <TextEquiv>
+                    <Unicode>خوش دلی کز جلای خوف خدا وادی ایمنش بود مطبخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خوف حق در دلی که نیست بود تنگ وتاریک چون چه دوزخ
+خوش دلی کز جلای خوف خدا وادی ایمنش بود مطبخ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782063742079_1321" custom="readingOrder {index:2;}">
+            <Coords points="154,654 433,654 433,802 154,802" />
+            <TextLine id="line_1782063748564_1324" custom="readingOrder {index:0;}">
+                <Coords points="153,652 430,652 432,727 155,727" /><Baseline points="153,698 432,698" />
+                <TextEquiv>
+                    <Unicode>خیر الاصحاب من یدلک علی الخیر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782063823130_1329" custom="readingOrder {index:1;}">
+                <Coords points="154,725 432,725 432,801 154,801" /><Baseline points="154,772 432,772" />
+                <TextEquiv>
+                    <Unicode>بهترین رفیقان کسی است که راهنمایی کند ترا برخیز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خیر الاصحاب من یدلک علی الخیر
+بهترین رفیقان کسی است که راهنمایی کند ترا برخیز</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782064217724_1391" custom="readingOrder {index:3;}">
+            <Coords points="46,803 525,803 525,980 46,980" />
+            <TextLine id="line_1782064226880_1394" custom="readingOrder {index:0;}">
+                <Coords points="48,802 526,802 526,892 48,892" /><Baseline points="48,858 526,858" />
+                <TextEquiv>
+                    <Unicode>خوبتر بهر صحبتت زاصحاب کیست دانی زمن شنو پاسخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782064278449_1398" custom="readingOrder {index:1;}">
+                <Coords points="49,891 527,891 527,978 49,978" /><Baseline points="49,945 527,945" />
+                <TextEquiv>
+                    <Unicode>خیر خواهیست کز بدت مانع باشد آرد بسوی خیرت رخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خوبتر بهر صحبتت زاصحاب کیست دانی زمن شنو پاسخ
+خیر خواهیست کز بدت مانع باشد آرد بسوی خیرت رخ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782064346436_1402" custom="readingOrder {index:4;}">
+            <Coords points="152,977 429,977 429,1120 152,1120" />
+            <TextLine id="line_1782064356905_1405" custom="readingOrder {index:0;}">
+                <Coords points="153,978 433,976 433,1055 153,1057" /><Baseline points="153,1026 433,1026" />
+                <TextEquiv>
+                    <Unicode>خف الله تامن من غیره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782064441524_1409" custom="readingOrder {index:1;}">
+                <Coords points="152,1057 432,1057 429,1119 149,1119" /><Baseline points="149,1095 432,1095" />
+                <TextEquiv>
+                    <Unicode>از خدای بترس تا ایمن باشی از غیر او</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خف الله تامن من غیره
+از خدای بترس تا ایمن باشی از غیر او</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782064491263_1413" custom="readingOrder {index:5;}">
+            <Coords points="49,1120 524,1123 524,1284 49,1281" />
+            <TextLine id="line_1782064500669_1416" custom="readingOrder {index:0;}">
+                <Coords points="50,1120 527,1120 527,1208 50,1208" /><Baseline points="50,1175 527,1175" />
+                <TextEquiv>
+                    <Unicode>خواهی ایمن زترس خلق شوی نبودت کام هیچ ازین ره تلخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782064629149_1420" custom="readingOrder {index:1;}">
+                <Coords points="51,1207 524,1207 525,1280 52,1280" /><Baseline points="51,1252 525,1252" />
+                <TextEquiv>
+                    <Unicode>خوف حق دارد باش ایمن اگر دشمن از مصر باشدت تا بلخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خواهی ایمن زترس خلق شوی نبودت کام هیچ ازین ره تلخ
+خوف حق دارد باش ایمن اگر دشمن از مصر باشدت تا بلخ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

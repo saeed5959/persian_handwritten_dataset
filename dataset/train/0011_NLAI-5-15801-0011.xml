@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-27T18:30:08.738+03:30</Created>
+        <LastChange>2026-07-01T10:33:03.645+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0011_NLAI-5-15801-0011.jpg" imageWidth="1134" imageHeight="1766">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782889383676" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782887508199_9" />
+                <RegionRefIndexed index="1" regionRef="region_1782887630205_18" />
+                <RegionRefIndexed index="2" regionRef="region_1782887750040_36" />
+                <RegionRefIndexed index="3" regionRef="region_1782887866920_45" />
+                <RegionRefIndexed index="4" regionRef="region_1782887983875_54" />
+                <RegionRefIndexed index="5" regionRef="region_1782888434633_65" />
+                <RegionRefIndexed index="6" regionRef="region_1782888528165_74" />
+                <RegionRefIndexed index="7" regionRef="region_1782888636594_84" />
+                <RegionRefIndexed index="8" regionRef="region_1782888761338_93" />
+                <RegionRefIndexed index="9" regionRef="region_1782888983113_102" />
+                <RegionRefIndexed index="10" regionRef="region_1782889169321_111" />
+                <RegionRefIndexed index="11" regionRef="region_1782889297587_122" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782887508199_9" custom="readingOrder {index:0;}">
+            <Coords points="172,138 1011,138 1011,281 172,281" />
+            <TextLine id="line_1782887515021_12" custom="readingOrder {index:0;}">
+                <Coords points="171,136 1013,136 1013,282 171,282" /><Baseline points="171,227 1013,227" />
+                <Baseline points="208,200 1001,254" />
+                <TextEquiv>
+                    <Unicode>حمد مثل حمد در برابر صفات ذاتیه واجب ااوجود مثل عام و قدرت وحدت زیرا که ایشان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حمد مثل حمد در برابر صفات ذاتیه واجب ااوجود مثل عام و قدرت وحدت زیرا که ایشان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782887630205_18" custom="readingOrder {index:1;}">
+            <Coords points="172,291 1011,291 1011,399 172,399" />
+            <TextLine id="line_1782887674250_30" custom="readingOrder {index:0;}">
+                <Coords points="174,287 1009,287 1009,402 174,402" /><Baseline points="174,358 1009,358" />
+                <Baseline points="200,344 990,372" />
+                <TextEquiv>
+                    <Unicode>این صفات اختیاری واجب نیست بلکه نزد محققین عین ذات واجب است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>این صفات اختیاری واجب نیست بلکه نزد محققین عین ذات واجب است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782887750040_36" custom="readingOrder {index:2;}">
+            <Coords points="176,404 1026,404 1026,540 176,540" />
+            <TextLine id="line_1782887756482_39" custom="readingOrder {index:0;}">
+                <Coords points="183,405 1025,405 1025,545 183,545" /><Baseline points="183,492 1025,492" />
+                <Baseline points="203,419 977,504" />
+                <TextEquiv>
+                    <Unicode>و نزد جمعی که زاید است لازم دانست بیرون میرود حمد در برابر شجاعت زند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و نزد جمعی که زاید است لازم دانست بیرون میرود حمد در برابر شجاعت زند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782887866920_45" custom="readingOrder {index:3;}">
+            <Coords points="180,545 1005,545 1005,656 180,656" />
+            <TextLine id="line_1782887872093_48" custom="readingOrder {index:0;}">
+                <Coords points="180,548 1015,548 1015,658 180,658" /><Baseline points="180,616 1015,616" />
+                <Baseline points="200,560 981,617" />
+                <TextEquiv>
+                    <Unicode>وحسنش مثلا محتاج است داخل شدن این افراد در تعریف بنا بتاویلات بعیده چنان که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>وحسنش مثلا محتاج است داخل شدن این افراد در تعریف بنا بتاویلات بعیده چنان که</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782887983875_54" custom="readingOrder {index:4;}">
+            <Coords points="172,660 1008,660 1008,776 172,776" />
+            <TextLine id="line_1782888001755_57" custom="readingOrder {index:0;}">
+                <Coords points="170,657 1010,657 1010,773 170,773" /><Baseline points="170,729 1010,729" />
+                <Baseline points="184,683 974,736" />
+                <TextEquiv>
+                    <Unicode>مذکور است در مقام خودش پس اگر تقصیر کرده شود جمیل اختیاری به صفت خوبی که منویت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مذکور است در مقام خودش پس اگر تقصیر کرده شود جمیل اختیاری به صفت خوبی که منویت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782888434633_65" custom="readingOrder {index:5;}">
+            <Coords points="176,783 1001,783 1001,900 176,900" />
+            <TextLine id="line_1782888443929_68" custom="readingOrder {index:0;}">
+                <Coords points="174,784 995,784 995,907 174,907" /><Baseline points="174,860 995,860" />
+                <Baseline points="192,793 976,862" />
+                <TextEquiv>
+                    <Unicode>ب اختیاری یعنی صاحبش مختار است یا بجای جمیل اختیاری جمیل فاعل مختار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ب اختیاری یعنی صاحبش مختار است یا بجای جمیل اختیاری جمیل فاعل مختار</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782888528165_74" custom="readingOrder {index:6;}">
+            <Coords points="182,894 1022,894 1022,1030 182,1030" />
+            <TextLine id="line_1782888532386_77" custom="readingOrder {index:0;}">
+                <Coords points="183,901 1025,901 1025,1036 183,1036" /><Baseline points="183,985 1025,985" />
+                <Baseline points="189,926 980,979" />
+                <TextEquiv>
+                    <Unicode>اعتبار کرده شود هم مدح بیرون میرود بر تقدیر اعم بودن و هم شامل جمیل افراد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اعتبار کرده شود هم مدح بیرون میرود بر تقدیر اعم بودن و هم شامل جمیل افراد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782888636594_84" custom="readingOrder {index:7;}">
+            <Coords points="170,1024 1021,1024 1021,1151 170,1151" />
+            <TextLine id="line_1782888641686_87" custom="readingOrder {index:0;}">
+                <Coords points="175,1023 1021,1023 1021,1150 175,1150" /><Baseline points="175,1102 1021,1102" />
+                <Baseline points="184,1061 985,1096" />
+                <TextEquiv>
+                    <Unicode>حمد میکرد و متکلف زیرا که بر همه ی انسان ها صادق است کخ وصف بر جمیل فاعل مختار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حمد میکرد و متکلف زیرا که بر همه ی انسان ها صادق است کخ وصف بر جمیل فاعل مختار</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782888761338_93" custom="readingOrder {index:8;}">
+            <Coords points="175,1159 1011,1159 1011,1272 175,1272" />
+            <TextLine id="line_1782888768849_96" custom="readingOrder {index:0;}">
+                <Coords points="172,1157 1012,1157 1012,1278 172,1278" /><Baseline points="172,1232 1012,1232" />
+                <Baseline points="184,1195 983,1217" />
+                <TextEquiv>
+                    <Unicode>یعنی ذکر صفت خوبی که صاحب ان ذی اختیار است و لهذا جمعی از ارباب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یعنی ذکر صفت خوبی که صاحب ان ذی اختیار است و لهذا جمعی از ارباب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782888983113_102" custom="readingOrder {index:9;}">
+            <Coords points="157,1273 1019,1273 1019,1392 157,1392" />
+            <TextLine id="line_1782888989172_105" custom="readingOrder {index:0;}">
+                <Coords points="162,1274 1019,1274 1019,1390 162,1390" /><Baseline points="162,1346 1019,1346" />
+                <Baseline points="182,1311 977,1338" />
+                <TextEquiv>
+                    <Unicode>تعپر مثل امام رازی و علامه نیشاپوری در نقرقه میان حمد و مدح چنین گفته اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تعپر مثل امام رازی و علامه نیشاپوری در نقرقه میان حمد و مدح چنین گفته اند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782889169321_111" custom="readingOrder {index:10;}">
+            <Coords points="154,1400 1021,1400 1021,1520 154,1520" />
+            <TextLine id="line_1782889174872_114" custom="readingOrder {index:0;}">
+                <Coords points="148,1395 1021,1395 1021,1524 148,1524" /><Baseline points="148,1475 1021,1475" />
+                <Baseline points="170,1449 975,1453" />
+                <TextEquiv>
+                    <Unicode>که حمد مخصوص است بحسبی یعنی موجود شعور و اراده و مدح از برای حسی و غیر حسی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که حمد مخصوص است بحسبی یعنی موجود شعور و اراده و مدح از برای حسی و غیر حسی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782889297587_122" custom="readingOrder {index:11;}">
+            <Coords points="157,1512 1008,1512 1008,1645 157,1645" />
+            <TextLine id="line_1782889302908_125" custom="readingOrder {index:0;}">
+                <Coords points="156,1512 1016,1512 1016,1648 156,1648" /><Baseline points="156,1596 1016,1596" />
+                <Baseline points="178,1544 985,1592" />
+                <TextEquiv>
+                    <Unicode>هر دو واقع میشود و معترض اختیاری بودن جمیل نشده و در کتب لعنت نیز اختیاری</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>هر دو واقع میشود و معترض اختیاری بودن جمیل نشده و در کتب لعنت نیز اختیاری</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:30.421-07:00</Created>
+        <LastChange>2026-06-20T16:00:12.800-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0061_NLAI-5-15801-0061.jpg" imageWidth="1090" imageHeight="1789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781996412862" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781989537612_597" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781989537612_597" custom="readingOrder {index:0;}">
+            <Coords points="141,134 988,134 988,1626 141,1626" />
+            <TextLine id="line_1781989552517_600" custom="readingOrder {index:0;}">
+                <Coords points="159,153 977,153 977,301 159,301" /><Baseline points="159,245 977,245" />
+                <Baseline points="963,254 173,242" />
+                <TextEquiv>
+                    <Unicode>ادراک امور غریبه از برای تعجب و علی هذا القیاس و دیگر بدانکه در هر علم احوالاتی که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781989563595_603" custom="readingOrder {index:1;}">
+                <Coords points="161,278 975,278 975,403 161,403" /><Baseline points="161,356 975,356" />
+                <Baseline points="964,368 170,356" />
+                <TextEquiv>
+                    <Unicode>بواسطه امراض عارض موضوع میشود ثابت میکنند مثل انکه در نحو احوالی که بواسطه اسم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781989573267_606" custom="readingOrder {index:2;}">
+                <Coords points="166,384 973,384 973,530 166,530" /><Baseline points="166,475 973,475" />
+                <Baseline points="963,489 183,470" />
+                <TextEquiv>
+                    <Unicode>و فعل حرف عارض کلمه و کلام میشود بیان کرده میشود و هم چنیندر حکمه که موضوع طبیعی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781989582376_609" custom="readingOrder {index:3;}">
+                <Coords points="149,505 977,505 977,657 149,657" /><Baseline points="149,599 977,599" />
+                <Baseline points="964,600 175,603" />
+                <TextEquiv>
+                    <Unicode>انجمنست احوالی که بسبب انواع جسم مثل عناصر و افلاک عارض جسم میشود و ثابت میکنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781990099715_612" custom="readingOrder {index:4;}">
+                <Coords points="147,632 966,632 966,769 147,769" /><Baseline points="147,717 966,717" />
+                <Baseline points="956,726 158,718" />
+                <TextEquiv>
+                    <Unicode>و حال انکه بحث عارض بواسطه امر اخص داخل در عرض ذاتی کردن و اعم ار ان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781990105105_615" custom="readingOrder {index:5;}">
+                <Coords points="153,761 981,761 981,884 153,884" /><Baseline points="153,837 981,837" />
+                <Baseline points="957,861 168,842" />
+                <TextEquiv>
+                    <Unicode>که اعراض ذاتی موضوع را از برای انها ثابت کنند و محققین دیگر نیز معترض جواب شده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781990120136_618" custom="readingOrder {index:6;}">
+                <Coords points="151,890 972,890 972,1015 151,1015" /><Baseline points="151,968 972,968" />
+                <Baseline points="960,981 158,958" />
+                <TextEquiv>
+                    <Unicode>اند و درد کریمه جوابها و وجه صحت افساد آنها و بیان رجحان یکی بر دیگری سخن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781990208024_621" custom="readingOrder {index:7;}">
+                <Coords points="153,1014 976,1014 976,1152 153,1152" /><Baseline points="153,1100 976,1100" />
+                <Baseline points="963,1096 167,1085" />
+                <TextEquiv>
+                    <Unicode>بسیاری هست در خور حوصله مبتدی و مرتبه این تعلیقه نیست لهذا مذکور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781990514622_624" custom="readingOrder {index:8;}">
+                <Coords points="150,1112 981,1112 981,1260 150,1260" /><Baseline points="150,1204 981,1204" />
+                <Baseline points="958,1212 160,1208" />
+                <TextEquiv>
+                    <Unicode>نگردید و انچه مذکور شد اگرچه نسبت بحال متعلم نیز بسیار است لکن چون این طلب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781994662252_633" custom="readingOrder {index:9;}">
+                <Coords points="147,1280 964,1280 964,1384 147,1384" /><Baseline points="147,1344 964,1344" />
+                <Baseline points="958,1349 154,1335" />
+                <TextEquiv>
+                    <Unicode>بود تحریر یافت قوله الدوال الاربع اه یعنی خطوط و عقود و نصب و اشارات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781994682033_636" custom="readingOrder {index:10;}">
+                <Coords points="985,1399 142,1399 142,1508 985,1508" /><Baseline points="142,1467 985,1467" />
+                <Baseline points="956,1459 153,1456" />
+                <TextEquiv>
+                    <Unicode>که غیر لفظیه و دلالت میکنند بسبب وضع واضح قوله و اقسا الدلاله سته اه وضعیه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781994690235_639" custom="readingOrder {index:11;}">
+                <Coords points="142,1510 964,1510 964,1611 142,1611" /><Baseline points="142,1573 964,1573" />
+                <Baseline points="954,1576 151,1558" />
+                <TextEquiv>
+                    <Unicode>لفظیه و وضعیه غیر لفظیه طبیعیه لفظیه و طبیعیه غیر لفظیه عقلیه لفظیه و عقلیه غیر لفظیه باید دانست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ادراک امور غریبه از برای تعجب و علی هذا القیاس و دیگر بدانکه در هر علم احوالاتی که
+بواسطه امراض عارض موضوع میشود ثابت میکنند مثل انکه در نحو احوالی که بواسطه اسم
+و فعل حرف عارض کلمه و کلام میشود بیان کرده میشود و هم چنیندر حکمه که موضوع طبیعی
+انجمنست احوالی که بسبب انواع جسم مثل عناصر و افلاک عارض جسم میشود و ثابت میکنند
+و حال انکه بحث عارض بواسطه امر اخص داخل در عرض ذاتی کردن و اعم ار ان است
+که اعراض ذاتی موضوع را از برای انها ثابت کنند و محققین دیگر نیز معترض جواب شده
+اند و درد کریمه جوابها و وجه صحت افساد آنها و بیان رجحان یکی بر دیگری سخن
+بسیاری هست در خور حوصله مبتدی و مرتبه این تعلیقه نیست لهذا مذکور
+نگردید و انچه مذکور شد اگرچه نسبت بحال متعلم نیز بسیار است لکن چون این طلب
+بود تحریر یافت قوله الدوال الاربع اه یعنی خطوط و عقود و نصب و اشارات
+که غیر لفظیه و دلالت میکنند بسبب وضع واضح قوله و اقسا الدلاله سته اه وضعیه
+لفظیه و وضعیه غیر لفظیه طبیعیه لفظیه و طبیعیه غیر لفظیه عقلیه لفظیه و عقلیه غیر لفظیه باید دانست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

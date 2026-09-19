@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.450+04:30</Created>
+        <LastChange>2026-06-21T13:45:50.081+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="11" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0190_NLAI-5-19596-0190.jpg" imageWidth="1506" imageHeight="2826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782033350082" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782032845834_806" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782032845834_806" custom="readingOrder {index:0;}">
+            <Coords points="1048,2605 35,2605 35,482 1048,482" />
+            <TextLine id="line_1782032852822_809" custom="readingOrder {index:0;}">
+                <Coords points="775,607 323,607 323,479 775,479" /><Baseline points="323,558 775,558" />
+                <Baseline points="333,583 773,574" />
+                <TextEquiv>
+                    <Unicode>حافظ از چشمه حکمت بکف آور جامی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032856194_812" custom="readingOrder {index:1;}">
+                <Coords points="309,623 744,623 744,747 309,747" /><Baseline points="309,700 744,700" />
+                <Baseline points="315,708 741,709" />
+                <TextEquiv>
+                    <Unicode>بو که از لوح دلت نقش جهالت برود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032862600_815" custom="readingOrder {index:2;}">
+                <Coords points="35,900 998,900 998,771 35,771" /><Baseline points="35,851 998,851" />
+                <Baseline points="49,861 986,854" />
+                <TextEquiv>
+                    <Unicode>مرا می دگر باره از دست برد بمن باز نمود وی دست برد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032867386_818" custom="readingOrder {index:3;}">
+                <Coords points="35,1039 1005,1039 1005,892 35,892" /><Baseline points="35,983 1005,983" />
+                <Baseline points="46,999 990,987" />
+                <TextEquiv>
+                    <Unicode>هزار آفرین بر می سرخ باد که از روی ما رنگ زردی ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032872992_821" custom="readingOrder {index:4;}">
+                <Coords points="40,1201 1004,1201 1004,1035 40,1035" /><Baseline points="40,1138 1004,1138" />
+                <Baseline points="70,1167 996,1153" />
+                <TextEquiv>
+                    <Unicode>مزن دم ز حکمت که در وقت مرگ ارسطو دهد جان چو بیچاره کرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032878224_824" custom="readingOrder {index:5;}">
+                <Coords points="42,1325 1020,1325 1020,1200 42,1200" /><Baseline points="42,1278 1020,1278" />
+                <Baseline points="71,1301 1004,1296" />
+                <TextEquiv>
+                    <Unicode>بنازم دستی که انگور چید مریزاد پایی که در هم فشرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032882375_827" custom="readingOrder {index:6;}">
+                <Coords points="1021,1461 51,1461 51,1325 1021,1325" /><Baseline points="51,1409 1021,1409" />
+                <Baseline points="67,1418 1012,1428" />
+                <TextEquiv>
+                    <Unicode>برو زاهد خورده بر ما مگیر که کار خدایی نه کاریست خرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032887318_830" custom="readingOrder {index:7;}">
+                <Coords points="41,1618 1019,1618 1019,1471 41,1471" /><Baseline points="41,1562 1019,1562" />
+                <Baseline points="68,1585 1003,1575" />
+                <TextEquiv>
+                    <Unicode>مرا از ازل عشق شد سرنوشت قضای نوشته نشاید سترد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032890252_833" custom="readingOrder {index:8;}">
+                <Coords points="1013,1765 41,1765 41,1634 1013,1634" /><Baseline points="41,1715 1013,1715" />
+                <Baseline points="51,1734 999,1731" />
+                <TextEquiv>
+                    <Unicode>چنان زندگانی کن اندر جهان که چون مرده باشی نگویند مرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032894090_836" custom="readingOrder {index:9;}">
+                <Coords points="783,1905 324,1905 324,1775 783,1775" /><Baseline points="324,1856 783,1856" />
+                <Baseline points="348,1884 768,1866" />
+                <TextEquiv>
+                    <Unicode>شود مست وحدت زجام الست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032897341_839" custom="readingOrder {index:10;}">
+                <Coords points="325,2038 763,2038 763,1905 325,1905" /><Baseline points="325,1987 763,1987" />
+                <Baseline points="336,2008 737,2010" />
+                <TextEquiv>
+                    <Unicode>هر آنکو چو حافظ می صاف خورد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032903633_842" custom="readingOrder {index:11;}">
+                <Coords points="1034,2192 55,2192 55,2075 1034,2075" /><Baseline points="55,2148 1034,2148" />
+                <Baseline points="60,2170 1029,2158" />
+                <TextEquiv>
+                    <Unicode>نیست در شهر نگاری که دل ما ببرد بختم از یار شود رختم از این جا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032908976_845" custom="readingOrder {index:12;}">
+                <Coords points="53,2346 1059,2346 1059,2194 53,2194" /><Baseline points="53,2288 1059,2288" />
+                <Baseline points="61,2304 1023,2308" />
+                <TextEquiv>
+                    <Unicode>کو حریفی کش سرمست که پیش گرمش عاشق سخته دل نام تمنا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032914576_848" custom="readingOrder {index:13;}">
+                <Coords points="1039,2494 43,2494 43,2347 1039,2347" /><Baseline points="43,2438 1039,2438" />
+                <Baseline points="68,2457 1023,2441" />
+                <TextEquiv>
+                    <Unicode>باعبانا ز خزان بی خبرت میبینم آه از آن روز که بادت گل رعنا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032917965_851" custom="readingOrder {index:14;}">
+                <Coords points="44,2626 1046,2626 1046,2482 44,2482" /><Baseline points="44,2571 1046,2571" />
+                <Baseline points="81,2580 1027,2581" />
+                <TextEquiv>
+                    <Unicode>رهزن دهر نخفته ست مشو ایمن از او اگر امروز نبرده ست که فردا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ از چشمه حکمت بکف آور جامی
+بو که از لوح دلت نقش جهالت برود
+مرا می دگر باره از دست برد بمن باز نمود وی دست برد
+هزار آفرین بر می سرخ باد که از روی ما رنگ زردی ببرد
+مزن دم ز حکمت که در وقت مرگ ارسطو دهد جان چو بیچاره کرد
+بنازم دستی که انگور چید مریزاد پایی که در هم فشرد
+برو زاهد خورده بر ما مگیر که کار خدایی نه کاریست خرد
+مرا از ازل عشق شد سرنوشت قضای نوشته نشاید سترد
+چنان زندگانی کن اندر جهان که چون مرده باشی نگویند مرد
+شود مست وحدت زجام الست
+هر آنکو چو حافظ می صاف خورد
+نیست در شهر نگاری که دل ما ببرد بختم از یار شود رختم از این جا ببرد
+کو حریفی کش سرمست که پیش گرمش عاشق سخته دل نام تمنا ببرد
+باعبانا ز خزان بی خبرت میبینم آه از آن روز که بادت گل رعنا ببرد
+رهزن دهر نخفته ست مشو ایمن از او اگر امروز نبرده ست که فردا ببرد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

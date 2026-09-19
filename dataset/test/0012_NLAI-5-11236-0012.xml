@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.195+03:30</Created>
+        <LastChange>2026-06-12T22:27:12.164+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0012_NLAI-5-11236-0012.jpg" imageWidth="1192" imageHeight="1955">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781290632186" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781290002440_401" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781290002440_401" custom="readingOrder {index:0;}">
+            <Coords points="139,506 903,506 903,1669 139,1669" />
+            <TextLine id="line_1781290008639_404" custom="readingOrder {index:0;}">
+                <Coords points="555,651 843,651 843,523 555,523" /><Baseline points="555,602 843,602" />
+                <Baseline points="565,586 832,582" />
+                <TextEquiv>
+                    <Unicode>شب آمد در اندیشه بنشست زال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290024047_410" custom="readingOrder {index:1;}">
+                <Coords points="201,651 496,651 496,529 201,529" /><Baseline points="201,605 496,605" />
+                <Baseline points="215,588 487,589" />
+                <TextEquiv>
+                    <Unicode>به نادیده برشد بجان سوگوار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290047055_422" custom="readingOrder {index:2;}">
+                <Coords points="210,759 504,759 504,650 210,650" /><Baseline points="210,718 504,718" />
+                <Baseline points="206,708 489,715" />
+                <TextEquiv>
+                    <Unicode>چو کافور شد روی گیتی سفید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290034271_416" custom="readingOrder {index:3;}">
+                <Coords points="555,761 837,761 837,654 555,654" /><Baseline points="555,720 837,720" />
+                <Baseline points="568,704 823,716" />
+                <TextEquiv>
+                    <Unicode>چو زد بر سر کوه بر تیغ شید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290080391_434" custom="readingOrder {index:4;}">
+                <Coords points="203,888 506,888 506,770 203,770" /><Baseline points="203,843 506,843" />
+                <Baseline points="209,838 489,834" />
+                <TextEquiv>
+                    <Unicode>برفتند گردان به زرین نیام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290068984_428" custom="readingOrder {index:5;}">
+                <Coords points="555,899 835,899 835,772 555,772" /><Baseline points="555,851 835,851" />
+                <Baseline points="566,837 829,835" />
+                <TextEquiv>
+                    <Unicode>در بار بگشاد دستان سام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290110136_448" custom="readingOrder {index:6;}">
+                <Coords points="207,1018 504,1018 504,911 207,911" /><Baseline points="207,977 504,977" />
+                <Baseline points="215,973 492,968" />
+                <TextEquiv>
+                    <Unicode>چو بالای پرمایگان خواستند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290094064_442" custom="readingOrder {index:7;}">
+                <Coords points="557,1010 851,1010 851,916 557,916" /><Baseline points="557,974 851,974" />
+                <Baseline points="565,967 826,960" />
+                <TextEquiv>
+                    <Unicode>در پهلوانرا بیاراستند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290120679_454" custom="readingOrder {index:8;}">
+                <Coords points="551,1131 837,1131 837,1016 551,1016" /><Baseline points="551,1087 837,1087" />
+                <Baseline points="560,1075 829,1084" />
+                <TextEquiv>
+                    <Unicode>برون رفت مهراب کابل خدای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290133464_460" custom="readingOrder {index:9;}">
+                <Coords points="199,1134 501,1134 501,1027 199,1027" /><Baseline points="199,1093 501,1093" />
+                <Baseline points="213,1078 487,1078" />
+                <TextEquiv>
+                    <Unicode>سوی خیمه زال زابل خدای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290155480_472" custom="readingOrder {index:10;}">
+                <Coords points="207,1262 493,1262 493,1148 207,1148" /><Baseline points="207,1219 493,1219" />
+                <Baseline points="215,1211 487,1211" />
+                <TextEquiv>
+                    <Unicode>خروش آمد از در که بگشای راه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290145425_466" custom="readingOrder {index:11;}">
+                <Coords points="554,1261 837,1261 837,1148 554,1148" /><Baseline points="554,1218 837,1218" />
+                <Baseline points="560,1206 828,1216" />
+                <TextEquiv>
+                    <Unicode>چو آمد بنزدیکی بارگاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290169569_478" custom="readingOrder {index:12;}">
+                <Coords points="555,1378 835,1378 835,1282 555,1282" /><Baseline points="555,1342 835,1342" />
+                <Baseline points="565,1335 821,1338" />
+                <TextEquiv>
+                    <Unicode>بر پهلوان اندرون رفت گو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290182439_484" custom="readingOrder {index:13;}">
+                <Coords points="206,1372 490,1372 490,1293 206,1293" /><Baseline points="206,1342 490,1342" />
+                <Baseline points="226,1336 490,1341" />
+                <TextEquiv>
+                    <Unicode>به سان درختی پر از بار نو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290192992_490" custom="readingOrder {index:14;}">
+                <Coords points="552,1511 834,1511 834,1398 552,1398" /><Baseline points="552,1468 834,1468" />
+                <Baseline points="565,1471 818,1469" />
+                <TextEquiv>
+                    <Unicode>دل زال شد شاد و بنواختش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290204544_496" custom="readingOrder {index:15;}">
+                <Coords points="209,1520 506,1520 506,1400 209,1400" /><Baseline points="209,1474 506,1474" />
+                <Baseline points="221,1471 498,1466" />
+                <TextEquiv>
+                    <Unicode>وزان انجمن سر برافراختش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290228224_508" custom="readingOrder {index:16;}">
+                <Coords points="199,1630 512,1630 512,1527 199,1527" /><Baseline points="199,1591 512,1591" />
+                <Baseline points="213,1584 490,1585" />
+                <TextEquiv>
+                    <Unicode>ز تخت و ز مهر و ز تیغ و کلاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290216400_502" custom="readingOrder {index:17;}">
+                <Coords points="565,1632 841,1632 841,1536 565,1536" /><Baseline points="565,1596 841,1596" />
+                <Baseline points="575,1581 834,1582" />
+                <TextEquiv>
+                    <Unicode>بپرسید کز من چه خواهی بخواه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شب آمد در اندیشه بنشست زال
+به نادیده برشد بجان سوگوار
+چو کافور شد روی گیتی سفید
+چو زد بر سر کوه بر تیغ شید
+برفتند گردان به زرین نیام
+در بار بگشاد دستان سام
+چو بالای پرمایگان خواستند
+در پهلوانرا بیاراستند
+برون رفت مهراب کابل خدای
+سوی خیمه زال زابل خدای
+خروش آمد از در که بگشای راه
+چو آمد بنزدیکی بارگاه
+بر پهلوان اندرون رفت گو
+به سان درختی پر از بار نو
+دل زال شد شاد و بنواختش
+وزان انجمن سر برافراختش
+ز تخت و ز مهر و ز تیغ و کلاه
+بپرسید کز من چه خواهی بخواه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

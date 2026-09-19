@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-16T21:33:14.515+03:30</Created>
+        <LastChange>2013-01-01T00:48:43.353+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0007_NLAI-5-21417-0007.jpg" imageWidth="1311" imageHeight="1889">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1356988723416" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1356987387008_660" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1356987387008_660" custom="readingOrder {index:0;}">
+            <Coords points="397,308 1156,308 1156,1657 397,1657" />
+            <TextLine id="line_1356987395619_663" custom="readingOrder {index:0;}">
+                <Coords points="404,311 1134,311 1134,415 404,415" /><Baseline points="404,375 1134,375" />
+                <Baseline points="433,372 1116,369" />
+                <TextEquiv>
+                    <Unicode>جر و قبول تنوین اقاملن اخصرو الشهودا و قبله ارایت ان جافت به ا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356987521059_674" custom="readingOrder {index:1;}">
+                <Coords points="429,422 1134,422 1134,526 429,526" /><Baseline points="429,486 1134,486" />
+                <Baseline points="440,465 1120,462" />
+                <TextEquiv>
+                    <Unicode>اصلودا امر خلا و یلبس البر و دا یعنی ایاقاید بحاضر کردن گواهان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356987705451_688" custom="readingOrder {index:2;}">
+                <Coords points="418,522 1123,522 1123,637 418,637" /><Baseline points="418,593 1123,593" />
+                <Baseline points="433,573 1116,576" />
+                <TextEquiv>
+                    <Unicode>و ایا خرمید هی توکه اکزمپار و این زن ولد فرم بدن در حالتی که موی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356987939967_694" custom="readingOrder {index:3;}">
+                <Coords points="425,655 1116,655 1116,737 425,737" /><Baseline points="425,706 1116,706" />
+                <Baseline points="440,684 1109,694" />
+                <TextEquiv>
+                    <Unicode>سرش را شانه کرده باشند و پوشید باشند جامع بردیمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356988001306_700" custom="readingOrder {index:4;}">
+                <Coords points="425,752 1127,752 1127,848 425,848" /><Baseline points="425,812 1127,812" />
+                <Baseline points="433,795 1116,795" />
+                <TextEquiv>
+                    <Unicode>و شاهد در این پست در دخول نون تاکید است بر اسم فاعل برایه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356988062895_706" custom="readingOrder {index:5;}">
+                <Coords points="425,855 1127,855 1127,963 425,963" /><Baseline points="425,922 1127,922" />
+                <Baseline points="433,909 1102,906" />
+                <TextEquiv>
+                    <Unicode>ضرورت شعر و در غیر شعر نادر است اسم بضم اول و الکثر مع همزه وهدفها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356988201392_712" custom="readingOrder {index:6;}">
+                <Coords points="429,974 1127,974 1127,1095 429,1095" /><Baseline points="429,1049 1127,1049" />
+                <Baseline points="443,1027 1106,1027" />
+                <TextEquiv>
+                    <Unicode>والقصر یعنی اسم بضم همزه است و بکثر همزه ایضومجد ف همزه گاهی و بقث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356988296193_718" custom="readingOrder {index:7;}">
+                <Coords points="429,1102 1131,1102 1131,1199 429,1199" /><Baseline points="429,1162 1131,1162" />
+                <Baseline points="436,1149 1113,1156" />
+                <TextEquiv>
+                    <Unicode>نیز واقع شده است و شاهد این پست در این است که در اسم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356988344272_724" custom="readingOrder {index:8;}">
+                <Coords points="425,1217 1113,1217 1113,1328 425,1328" /><Baseline points="425,1286 1113,1286" />
+                <Baseline points="436,1263 1109,1271 1102,1274" />
+                <TextEquiv>
+                    <Unicode>شش لغه جایز است اسم و اسم و سم سم و سمی اواین سعر در شواهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356988452615_730" custom="readingOrder {index:9;}">
+                <Coords points="440,1346 1131,1346 1131,1425 440,1425" /><Baseline points="440,1395 1131,1395" />
+                <Baseline points="447,1378 1116,1385" />
+                <TextEquiv>
+                    <Unicode>مذکور نیست و لیت بقولها المهزون یعنی کلمه لیت میگوید او را کسی که د</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356988526933_736" custom="readingOrder {index:10;}">
+                <Coords points="433,1432 1134,1432 1134,1543 433,1543" /><Baseline points="433,1501 1134,1501" />
+                <Baseline points="440,1496 1120,1489" />
+                <TextEquiv>
+                    <Unicode>دلگیر باشد و لیت مبتدا واقع شده است ما عتباد ایسمت جهه آنکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356988611922_742" custom="readingOrder {index:11;}">
+                <Coords points="436,1564 1152,1564 1152,1664 436,1664" /><Baseline points="436,1626 1152,1626" />
+                <TextEquiv>
+                    <Unicode>به فعل داخل است و بمقتضا حروف مشبهه بالفعل عمل نکرده و این نزدد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جر و قبول تنوین اقاملن اخصرو الشهودا و قبله ارایت ان جافت به ا
+اصلودا امر خلا و یلبس البر و دا یعنی ایاقاید بحاضر کردن گواهان
+و ایا خرمید هی توکه اکزمپار و این زن ولد فرم بدن در حالتی که موی
+سرش را شانه کرده باشند و پوشید باشند جامع بردیمان
+و شاهد در این پست در دخول نون تاکید است بر اسم فاعل برایه
+ضرورت شعر و در غیر شعر نادر است اسم بضم اول و الکثر مع همزه وهدفها
+والقصر یعنی اسم بضم همزه است و بکثر همزه ایضومجد ف همزه گاهی و بقث
+نیز واقع شده است و شاهد این پست در این است که در اسم
+شش لغه جایز است اسم و اسم و سم سم و سمی اواین سعر در شواهد
+مذکور نیست و لیت بقولها المهزون یعنی کلمه لیت میگوید او را کسی که د
+دلگیر باشد و لیت مبتدا واقع شده است ما عتباد ایسمت جهه آنکه
+به فعل داخل است و بمقتضا حروف مشبهه بالفعل عمل نکرده و این نزدد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.068+03:30</Created>
+        <LastChange>2026-06-26T16:08:13.307+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0119_NLAI-5-15801-0119.jpg" imageWidth="1091" imageHeight="1761">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782477493319" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782330373691_72" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782330373691_72" custom="readingOrder {index:0;}">
+            <Coords points="89,127 992,127 992,1667 89,1667" />
+            <TextLine id="line_1782330378013_75" custom="readingOrder {index:0;}">
+                <Coords points="119,184 951,184 951,307 119,307" /><Baseline points="119,260 951,260" />
+                <Baseline points="131,259 934,265" />
+                <TextEquiv>
+                    <Unicode>الازلیه زیرا که بمدت قدما حکما قدمیست و وجودش ضروری است بواسطه انکه ایشان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330380325_78" custom="readingOrder {index:1;}">
+                <Coords points="140,328 946,328 946,443 140,443" /><Baseline points="140,399 946,399" />
+                <Baseline points="154,383 930,391" />
+                <TextEquiv>
+                    <Unicode>میگویند که شی تا واجب نشود و وجودش از فاعل صادر نمیشود پس هر گاه عقلرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330382458_81" custom="readingOrder {index:2;}">
+                <Coords points="125,443 969,443 969,559 125,559" /><Baseline points="125,515 969,515" />
+                <Baseline points="159,500 942,512" />
+                <TextEquiv>
+                    <Unicode>خدای تعالی ایجاد کرده پس ضرورت ازلیه وجود نسبت بعقل صادق است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330384489_84" custom="readingOrder {index:3;}">
+                <Coords points="117,565 955,565 955,670 117,670" /><Baseline points="117,630 955,630" />
+                <Baseline points="136,623 940,630" />
+                <TextEquiv>
+                    <Unicode>اما ضرورت ذاتا صادق نیست بواسطه انکه وجود نظر بد است عقل ضروری</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330386511_87" custom="readingOrder {index:4;}">
+                <Coords points="112,665 953,665 953,798 112,798" /><Baseline points="112,747 953,747" />
+                <Baseline points="140,728 936,754" />
+                <TextEquiv>
+                    <Unicode>نیست بلکه ممکن است هر چند در واقع بسبب علت و موجدش که خداوند عالمیان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330388632_90" custom="readingOrder {index:5;}">
+                <Coords points="112,791 957,791 957,927 112,927" /><Baseline points="112,875 957,875" />
+                <Baseline points="127,862 934,885" />
+                <TextEquiv>
+                    <Unicode>ضروری است و قضایا را همچنان که مقید بلا ضرورت ذاتا میسازند بلا ضرورت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330390527_93" custom="readingOrder {index:6;}">
+                <Coords points="110,927 948,927 948,1043 110,1043" /><Baseline points="110,999 948,999" />
+                <Baseline points="133,990 928,990" />
+                <TextEquiv>
+                    <Unicode>ازلی نیز مقید میسازند حوله قدمر بیان ذالک فی بیان معنی الادوام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330392375_96" custom="readingOrder {index:7;}">
+                <Coords points="110,1047 961,1047 961,1175 110,1175" /><Baseline points="110,1126 961,1126" />
+                <Baseline points="129,1114 928,1131" />
+                <TextEquiv>
+                    <Unicode>والا ضرورت اه حاصل معنی انچه گذشت این است که لادوام را قید قضیه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330394217_99" custom="readingOrder {index:8;}">
+                <Coords points="115,1162 953,1162 953,1307 115,1307" /><Baseline points="115,1252 953,1252" />
+                <Baseline points="142,1229 925,1242" />
+                <TextEquiv>
+                    <Unicode>نمایند این معنی دارد که نسبت درین قضیه دایمی نیست و دایمی نبودن نسبتی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330396012_102" custom="readingOrder {index:9;}">
+                <Coords points="110,1271 951,1271 951,1418 110,1418" /><Baseline points="110,1362 951,1362" />
+                <Baseline points="156,1340 919,1374" />
+                <TextEquiv>
+                    <Unicode>لازم دارد و فعلیت مخاف نسبترا پس لادوام بمنزله مطلقه عام است که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330398253_105" custom="readingOrder {index:10;}">
+                <Coords points="119,1388 934,1388 934,1525 119,1525" /><Baseline points="119,1473 934,1473" />
+                <Baseline points="146,1457 915,1468" />
+                <TextEquiv>
+                    <Unicode>مخالف الکیفیه باشد با ان قضیه که لادوم قید ان است مثلا کل کاتب مترحک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330400360_108" custom="readingOrder {index:11;}">
+                <Coords points="110,1516 946,1516 946,1663 110,1663" /><Baseline points="110,1607 946,1607" />
+                <Baseline points="125,1596 902,1613" />
+                <TextEquiv>
+                    <Unicode>الاصابع بلفعلرا که مقید بالا دوام میسازند از لادوام فهمیده میشود که نسبت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>الازلیه زیرا که بمدت قدما حکما قدمیست و وجودش ضروری است بواسطه انکه ایشان
+میگویند که شی تا واجب نشود و وجودش از فاعل صادر نمیشود پس هر گاه عقلرا
+خدای تعالی ایجاد کرده پس ضرورت ازلیه وجود نسبت بعقل صادق است
+اما ضرورت ذاتا صادق نیست بواسطه انکه وجود نظر بد است عقل ضروری
+نیست بلکه ممکن است هر چند در واقع بسبب علت و موجدش که خداوند عالمیان
+ضروری است و قضایا را همچنان که مقید بلا ضرورت ذاتا میسازند بلا ضرورت
+ازلی نیز مقید میسازند حوله قدمر بیان ذالک فی بیان معنی الادوام
+والا ضرورت اه حاصل معنی انچه گذشت این است که لادوام را قید قضیه
+نمایند این معنی دارد که نسبت درین قضیه دایمی نیست و دایمی نبودن نسبتی
+لازم دارد و فعلیت مخاف نسبترا پس لادوام بمنزله مطلقه عام است که
+مخالف الکیفیه باشد با ان قضیه که لادوم قید ان است مثلا کل کاتب مترحک
+الاصابع بلفعلرا که مقید بالا دوام میسازند از لادوام فهمیده میشود که نسبت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

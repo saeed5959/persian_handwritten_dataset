@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:16.999+03:30</Created>
+        <LastChange>2026-06-20T00:59:36.549+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0017_NLAI-5-19596-0017.jpg" imageWidth="1525" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781904576596" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781864926164_2794" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781864926164_2794" custom="readingOrder {index:0;}">
+            <Coords points="398,477 1410,477 1410,2625 398,2625" />
+            <TextLine id="line_1781865123774_2797" custom="readingOrder {index:0;}">
+                <Coords points="424,498 881,498 881,626 424,626" /><Baseline points="424,577 881,577" />
+                <Baseline points="443,574 854,574" />
+                <TextEquiv>
+                    <Unicode>گردون نیاورد چو تو اختر بصد قران</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865133961_2803" custom="readingOrder {index:1;}">
+                <Coords points="957,498 1382,498 1382,653 957,653" /><Baseline points="957,594 1382,594" />
+                <Baseline points="966,585 1373,590" />
+                <TextEquiv>
+                    <Unicode>ارکان نپرورد چو تو گوهر به هیچ قرن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865143525_2809" custom="readingOrder {index:2;}">
+                <Coords points="421,631 868,631 868,761 421,761" /><Baseline points="421,712 868,712" />
+                <Baseline points="438,702 846,698" />
+                <TextEquiv>
+                    <Unicode>پی نعمت تو مغز نبندد در استخوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865156679_2815" custom="readingOrder {index:3;}">
+                <Coords points="954,656 1380,656 1380,760 954,760" /><Baseline points="954,720 1380,720" />
+                <Baseline points="969,711 1377,705" />
+                <TextEquiv>
+                    <Unicode>بی طلعت تو جان نگراید بکالبد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865173241_2821" custom="readingOrder {index:4;}">
+                <Coords points="428,762 862,762 862,896 428,896" /><Baseline points="428,845 862,845" />
+                <Baseline points="442,844 847,844" />
+                <TextEquiv>
+                    <Unicode>دارد جواب خامه تو بر سر زبان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865193174_2827" custom="readingOrder {index:5;}">
+                <Coords points="955,769 1384,769 1384,896 955,896" /><Baseline points="955,848 1384,848" />
+                <Baseline points="964,839 1361,836" />
+                <TextEquiv>
+                    <Unicode>هر دانشی که در دل دفتر نیامد ا ست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865203357_2833" custom="readingOrder {index:6;}">
+                <Coords points="428,897 863,897 863,1056 428,1056" /><Baseline points="428,996 863,996" />
+                <Baseline points="444,988 845,987" />
+                <TextEquiv>
+                    <Unicode>چون بدره بدره این دهد و قطره قطره آن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865213109_2839" custom="readingOrder {index:7;}">
+                <Coords points="958,901 1377,901 1377,1034 958,1034" /><Baseline points="958,983 1377,983" />
+                <Baseline points="964,974 1364,977" />
+                <TextEquiv>
+                    <Unicode>دست ترا با برکه یار و شبیه کرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865237239_2851" custom="readingOrder {index:8;}">
+                <Coords points="959,1050 1387,1050 1387,1187 959,1187" /><Baseline points="959,1135 1387,1135" />
+                <Baseline points="973,1130 1380,1128" />
+                <TextEquiv>
+                    <Unicode>با پایه جلال تو افلاک پایمال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865228445_2845" custom="readingOrder {index:9;}">
+                <Coords points="428,1063 867,1063 867,1187 428,1187" /><Baseline points="428,1140 867,1140" />
+                <Baseline points="449,1125 847,1132" />
+                <TextEquiv>
+                    <Unicode>وز بحر جود دست تو در دهر داستان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865247010_2857" custom="readingOrder {index:10;}">
+                <Coords points="416,1187 870,1187 870,1352 416,1352" /><Baseline points="416,1289 870,1289" />
+                <Baseline points="432,1282 853,1283" />
+                <TextEquiv>
+                    <Unicode>در چشم فضل نوری و در جسم ملک جان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865255294_2863" custom="readingOrder {index:11;}">
+                <Coords points="951,1205 1395,1205 1395,1343 951,1343" /><Baseline points="951,1291 1395,1291" />
+                <Baseline points="957,1286 1373,1287" />
+                <TextEquiv>
+                    <Unicode>بر چرخ علم ماهی و بر فرق قهر تاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865273141_2875" custom="readingOrder {index:12;}">
+                <Coords points="951,1356 1388,1356 1388,1493 951,1493" /><Baseline points="951,1441 1388,1441" />
+                <Baseline points="969,1421 1380,1420" />
+                <TextEquiv>
+                    <Unicode>علم از تو با کرامت و عقل از تو با فروغ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865263926_2869" custom="readingOrder {index:13;}">
+                <Coords points="414,1360 866,1360 866,1493 414,1493" /><Baseline points="414,1442 866,1442" />
+                <Baseline points="425,1427 853,1428" />
+                <TextEquiv>
+                    <Unicode>شرع از تو در حمایت و دین از تو در امان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865282322_2881" custom="readingOrder {index:14;}">
+                <Coords points="419,1498 862,1498 862,1625 419,1625" /><Baseline points="419,1577 862,1577" />
+                <Baseline points="447,1564 844,1565" />
+                <TextEquiv>
+                    <Unicode>وی داور عدیم مثال عظیم شان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865291099_2887" custom="readingOrder {index:15;}">
+                <Coords points="947,1500 1394,1500 1394,1610 947,1610" /><Baseline points="947,1568 1394,1568" />
+                <Baseline points="962,1562 1371,1561" />
+                <TextEquiv>
+                    <Unicode>ایخسرو رفیع جناب منع قدر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865307889_2899" custom="readingOrder {index:16;}">
+                <Coords points="952,1620 1389,1620 1389,1754 952,1754" /><Baseline points="952,1703 1389,1703" />
+                <Baseline points="961,1695 1378,1693" />
+                <TextEquiv>
+                    <Unicode>ای آفتاب ملک که در جنب همتت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865300108_2893" custom="readingOrder {index:17;}">
+                <Coords points="424,1627 866,1627 866,1767 424,1767" /><Baseline points="424,1714 866,1714" />
+                <Baseline points="438,1702 853,1709" />
+                <TextEquiv>
+                    <Unicode>چون ذر حقیر بود گنج شایگان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865332974_2911" custom="readingOrder {index:18;}">
+                <Coords points="945,1764 1389,1764 1389,1898 945,1898" /><Baseline points="945,1847 1389,1847" />
+                <Baseline points="965,1841 1373,1837" />
+                <TextEquiv>
+                    <Unicode>از جنب بحر جود تو از ذره کمتر است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865317722_2905" custom="readingOrder {index:19;}">
+                <Coords points="424,1774 862,1774 862,1915 424,1915" /><Baseline points="424,1861 862,1861" />
+                <Baseline points="433,1843 845,1843" />
+                <TextEquiv>
+                    <Unicode>صد گنج شایگان که ببخشی برایگان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865350341_2923" custom="readingOrder {index:20;}">
+                <Coords points="946,1908 1401,1908 1401,2047 946,2047" /><Baseline points="946,1994 1401,1994" />
+                <Baseline points="960,1984 1389,1989" />
+                <TextEquiv>
+                    <Unicode>عصمت نهفته رخ بسرا پرده ات مقیم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865341570_2917" custom="readingOrder {index:21;}">
+                <Coords points="426,1920 866,1920 866,2043 426,2043" /><Baseline points="426,1996 866,1996" />
+                <Baseline points="439,1992 860,1990" />
+                <TextEquiv>
+                    <Unicode>دولت گشا که رو بصفا زیر کندلان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865361485_2929" custom="readingOrder {index:22;}">
+                <Coords points="423,2050 860,2050 860,2184 423,2184" /><Baseline points="423,2133 860,2133" />
+                <Baseline points="435,2127 845,2123" />
+                <TextEquiv>
+                    <Unicode>از کوه ابر ساخته تا زیر و سایبان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865372283_2935" custom="readingOrder {index:23;}">
+                <Coords points="948,2052 1398,2052 1398,2201 948,2201" /><Baseline points="948,2144 1398,2144" />
+                <Baseline points="959,2131 1388,2133" />
+                <TextEquiv>
+                    <Unicode>گردون برای چشمه خورشید فلکه ات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865382734_2941" custom="readingOrder {index:24;}">
+                <Coords points="418,2191 851,2191 851,2353 418,2353" /><Baseline points="418,2291 851,2291" />
+                <Baseline points="440,2276 844,2272" />
+                <TextEquiv>
+                    <Unicode>چتر بلند بر سر خرگاه خویش دان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865392397_2947" custom="readingOrder {index:25;}">
+                <Coords points="950,2205 1392,2205 1392,2337 950,2337" /><Baseline points="950,2287 1392,2287" />
+                <Baseline points="966,2275 1376,2274" />
+                <TextEquiv>
+                    <Unicode>وین اطلس منقش نه توی زرنگار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865408565_2959" custom="readingOrder {index:26;}">
+                <Coords points="951,2344 1395,2344 1395,2480 951,2480" /><Baseline points="951,2428 1395,2428" />
+                <Baseline points="971,2427 1378,2427" />
+                <TextEquiv>
+                    <Unicode>بعد از کیان بملک سلیمان نیافت کس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865400131_2953" custom="readingOrder {index:27;}">
+                <Coords points="418,2356 861,2356 861,2483 418,2483" /><Baseline points="418,2435 861,2435" />
+                <Baseline points="429,2427 847,2425" />
+                <TextEquiv>
+                    <Unicode>این ساز و این ساسه و وان لشکر گران</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865428716_2971" custom="readingOrder {index:28;}">
+                <Coords points="945,2488 1389,2488 1389,2603 945,2603" /><Baseline points="945,2559 1389,2559" />
+                <Baseline points="971,2548 1373,2549" />
+                <TextEquiv>
+                    <Unicode>بودی درون گلشن و از پردلان تو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781865420005_2965" custom="readingOrder {index:29;}">
+                <Coords points="418,2490 865,2490 865,2596 418,2596" /><Baseline points="418,2556 865,2556" />
+                <Baseline points="431,2551 853,2551" />
+                <TextEquiv>
+                    <Unicode>در هند بود غلغله در زنگ بد فغان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گردون نیاورد چو تو اختر بصد قران
+ارکان نپرورد چو تو گوهر به هیچ قرن
+پی نعمت تو مغز نبندد در استخوان
+بی طلعت تو جان نگراید بکالبد
+دارد جواب خامه تو بر سر زبان
+هر دانشی که در دل دفتر نیامد ا ست
+چون بدره بدره این دهد و قطره قطره آن
+دست ترا با برکه یار و شبیه کرد
+با پایه جلال تو افلاک پایمال
+وز بحر جود دست تو در دهر داستان
+در چشم فضل نوری و در جسم ملک جان
+بر چرخ علم ماهی و بر فرق قهر تاج
+علم از تو با کرامت و عقل از تو با فروغ
+شرع از تو در حمایت و دین از تو در امان
+وی داور عدیم مثال عظیم شان
+ایخسرو رفیع جناب منع قدر
+ای آفتاب ملک که در جنب همتت
+چون ذر حقیر بود گنج شایگان
+از جنب بحر جود تو از ذره کمتر است
+صد گنج شایگان که ببخشی برایگان
+عصمت نهفته رخ بسرا پرده ات مقیم
+دولت گشا که رو بصفا زیر کندلان
+از کوه ابر ساخته تا زیر و سایبان
+گردون برای چشمه خورشید فلکه ات
+چتر بلند بر سر خرگاه خویش دان
+وین اطلس منقش نه توی زرنگار
+بعد از کیان بملک سلیمان نیافت کس
+این ساز و این ساسه و وان لشکر گران
+بودی درون گلشن و از پردلان تو
+در هند بود غلغله در زنگ بد فغان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

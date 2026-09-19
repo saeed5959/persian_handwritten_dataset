@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.137+03:30</Created>
+        <LastChange>2026-06-26T16:39:33.108+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0123_NLAI-5-15801-0123.jpg" imageWidth="1091" imageHeight="1761">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782479373121" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782330777490_411" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782330777490_411" custom="readingOrder {index:0;}">
+            <Coords points="73,148 998,148 998,1694 73,1694" />
+            <TextLine id="line_1782330781566_414" custom="readingOrder {index:0;}">
+                <Coords points="102,197 935,197 935,315 102,315" /><Baseline points="102,270 935,270" />
+                <Baseline points="118,268 911,278" />
+                <TextEquiv>
+                    <Unicode>سالبه لزومیه حقیست زیرا که صادق است که این اتصال سبب علاقه نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330783167_417" custom="readingOrder {index:1;}">
+                <Coords points="108,325 949,325 949,437 108,437" /><Baseline points="108,394 949,394" />
+                <Baseline points="122,388 921,394" />
+                <TextEquiv>
+                    <Unicode>و ماده افتراق سالبه اتفاقیه موجبه لزومیه دیگر بدانکه صدق قضیه شرطیه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330785605_420" custom="readingOrder {index:2;}">
+                <Coords points="118,463 937,463 937,558 118,558" /><Baseline points="118,522 937,522" />
+                <Baseline points="295,514 921,524" />
+                <TextEquiv>
+                    <Unicode>لازم ندارد صدق مقدم و تالیرا بلکه کاه است که مقدم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330787764_423" custom="readingOrder {index:3;}">
+                <Coords points="116,565 935,565 935,680 116,680" /><Baseline points="116,636 935,636" />
+                <Baseline points="116,623 913,634" />
+                <TextEquiv>
+                    <Unicode>و قضیه صادق مثل کلما کان زید حجرا کان جمادا اما نمیتواند که مقدم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330789841_426" custom="readingOrder {index:4;}">
+                <Coords points="88,676 943,676 943,816 88,816" /><Baseline points="88,763 943,763" />
+                <Baseline points="118,747 919,768" />
+                <TextEquiv>
+                    <Unicode>صادق باشد و تالی کاذب یا کذب صادق زیرا که هر جا ملزوم صادقست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330791560_429" custom="readingOrder {index:5;}">
+                <Coords points="98,806 941,806 941,918 98,918" /><Baseline points="98,875 941,875" />
+                <Baseline points="112,869 925,886" />
+                <TextEquiv>
+                    <Unicode>باید تالی که لازم است صادق باشد و اگر لازم کاذب دارد کذب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330793640_432" custom="readingOrder {index:6;}">
+                <Coords points="90,906 929,906 929,1046 90,1046" /><Baseline points="90,993 929,993" />
+                <Baseline points="110,981 908,1014" />
+                <TextEquiv>
+                    <Unicode>ملزومرا که در شرطیه متصله حکم باتصال کنند یا سلب اتصال اما نه علاقه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330795603_435" custom="readingOrder {index:7;}">
+                <Coords points="82,1009 947,1009 947,1172 82,1172" /><Baseline points="82,1110 947,1110" />
+                <Baseline points="124,1103 933,1129" />
+                <TextEquiv>
+                    <Unicode>منظور باشد و نه عدم علاقه ان قضیه را متصله مطلقه گویند دیگر بدانکه حقیقه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330797233_438" custom="readingOrder {index:8;}">
+                <Coords points="94,1178 931,1178 931,1306 94,1306" /><Baseline points="94,1257 931,1257" />
+                <Baseline points="116,1235 921,1265" />
+                <TextEquiv>
+                    <Unicode>علاقه بودن دو نسبت است بحیثیتی که عقلرا از ملاحظه کردن دو نسبت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330798999_441" custom="readingOrder {index:9;}">
+                <Coords points="88,1292 963,1292 963,1430 88,1430" /><Baseline points="88,1378 963,1378" />
+                <Baseline points="104,1361 911,1385" />
+                <TextEquiv>
+                    <Unicode>جزم بهمر شد که ممتنع است جدا شدن انها از یکدیگر در نفس الامر خوا بدیهته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330800934_444" custom="readingOrder {index:10;}">
+                <Coords points="100,1410 943,1410 943,1519 100,1519" /><Baseline points="100,1478 943,1478" />
+                <Baseline points="130,1469 923,1495" />
+                <TextEquiv>
+                    <Unicode>جزم حاصل شود و خواه بعد از فکر و تامل و امتناع جدا شدن گاه باعتبار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330802844_447" custom="readingOrder {index:11;}">
+                <Coords points="86,1517 959,1517 959,1660 86,1660" /><Baseline points="86,1606 959,1606" />
+                <Baseline points="114,1595 919,1625" />
+                <TextEquiv>
+                    <Unicode>انیست که احد هما علت دیگر است مثل کلما کانت الشمس طالعه فالنهار موجود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سالبه لزومیه حقیست زیرا که صادق است که این اتصال سبب علاقه نیست
+و ماده افتراق سالبه اتفاقیه موجبه لزومیه دیگر بدانکه صدق قضیه شرطیه
+لازم ندارد صدق مقدم و تالیرا بلکه کاه است که مقدم
+و قضیه صادق مثل کلما کان زید حجرا کان جمادا اما نمیتواند که مقدم
+صادق باشد و تالی کاذب یا کذب صادق زیرا که هر جا ملزوم صادقست
+باید تالی که لازم است صادق باشد و اگر لازم کاذب دارد کذب
+ملزومرا که در شرطیه متصله حکم باتصال کنند یا سلب اتصال اما نه علاقه
+منظور باشد و نه عدم علاقه ان قضیه را متصله مطلقه گویند دیگر بدانکه حقیقه
+علاقه بودن دو نسبت است بحیثیتی که عقلرا از ملاحظه کردن دو نسبت
+جزم بهمر شد که ممتنع است جدا شدن انها از یکدیگر در نفس الامر خوا بدیهته
+جزم حاصل شود و خواه بعد از فکر و تامل و امتناع جدا شدن گاه باعتبار
+انیست که احد هما علت دیگر است مثل کلما کانت الشمس طالعه فالنهار موجود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:31.046-07:00</Created>
+        <LastChange>2026-06-21T16:13:17.960-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0068_NLAI-5-15801-0068.jpg" imageWidth="1089" imageHeight="1779">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782083598007" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782082619697_1683" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782082619697_1683" custom="readingOrder {index:0;}">
+            <Coords points="91,164 964,164 964,1649 91,1649" />
+            <TextLine id="line_1782082639087_1686" custom="readingOrder {index:0;}">
+                <Coords points="98,169 944,169 944,308 98,308" /><Baseline points="98,255 944,255" />
+                <Baseline points="932,253 108,253" />
+                <TextEquiv>
+                    <Unicode>چنین گفته اند که اگر چه مراد از لفظ جز یا لازم است اما در حین سماع لفظ ذهن اولا منتقل میشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782082650821_1689" custom="readingOrder {index:1;}">
+                <Coords points="101,283 944,283 944,441 101,441" /><Baseline points="101,381 944,381" />
+                <Baseline points="932,359 108,361" />
+                <TextEquiv>
+                    <Unicode>بموضوع له و فهمیده مشود و بتبعیت فهم موضوع له جز و لازم لکن قرنیه دلالت میکند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782082660790_1692" custom="readingOrder {index:2;}">
+                <Coords points="108,413 962,413 962,550 108,550" /><Baseline points="108,498 962,498" />
+                <Baseline points="932,487 120,492" />
+                <TextEquiv>
+                    <Unicode>که کل مراد نیست و اگر لفظ مشهور شده باشد در جز یا در لازم بحیثیتی که فهمیده نه شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782082671164_1695" custom="readingOrder {index:3;}">
+                <Coords points="962,549 116,549 116,681 962,681" /><Baseline points="116,631 962,631" />
+                <Baseline points="933,603 149,623" />
+                <TextEquiv>
+                    <Unicode>کل که موضوع له است بدون قرینه بلکه ذهن اولا منتقل شود بجز یا لازم این</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782082689804_1698" custom="readingOrder {index:4;}">
+                <Coords points="121,662 944,662 944,806 121,806" /><Baseline points="121,751 944,751" />
+                <Baseline points="937,741 140,752" />
+                <TextEquiv>
+                    <Unicode>دلالترا داخل در تضمن و التزام نمیدانند زیرا که از جمله دلالت لفظییه وضعیه نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782082702413_1701" custom="readingOrder {index:5;}">
+                <Coords points="946,794 126,794 126,927 946,927" /><Baseline points="126,876 946,876" />
+                <Baseline points="935,860 141,858" />
+                <TextEquiv>
+                    <Unicode>و بنابرین مذهب لازم دارد تضمن و التزام مطابقه را حقیقه زیرا که دلالت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782082720319_1704" custom="readingOrder {index:6;}">
+                <Coords points="127,902 950,902 950,1020 127,1020" /><Baseline points="127,975 950,975" />
+                <Baseline points="935,986 139,986" />
+                <TextEquiv>
+                    <Unicode>در ضمن دلالت مطابقی محال است که مطابقت که پیدلالت مطابق یافت شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782082730412_1707" custom="readingOrder {index:7;}">
+                <Coords points="120,1028 952,1028 952,1178 120,1178" /><Baseline points="120,1121 952,1121" />
+                <Baseline points="648,1117 942,1104 147,1117" />
+                <TextEquiv>
+                    <Unicode>و و جمعی دیگر را عقیده آن است که دلالت تضمن اعم از ان است که دلالت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782082742037_1710" custom="readingOrder {index:8;}">
+                <Coords points="106,1157 965,1157 965,1263 106,1263" /><Baseline points="106,1223 965,1223" />
+                <Baseline points="959,1218 107,1224" />
+                <TextEquiv>
+                    <Unicode>بر جز باشد در ضمن کل یا دلالت بر جز تنها باشد بدون دلالت بر کل و همچنین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782082750771_1713" custom="readingOrder {index:9;}">
+                <Coords points="122,1265 954,1265 954,1404 122,1404" /><Baseline points="122,1351 954,1351" />
+                <Baseline points="945,1352 157,1361" />
+                <TextEquiv>
+                    <Unicode>دلالت التزام اعم از ان است که در ضمن دلالت بر جز موضوع له باشد یا اینکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782082759505_1716" custom="readingOrder {index:10;}">
+                <Coords points="958,1403 125,1403 125,1520 958,1520" /><Baseline points="125,1476 958,1476" />
+                <Baseline points="939,1465 136,1464" />
+                <TextEquiv>
+                    <Unicode>دلالت بر لازم باشد بتنهایی بدون دلالت بر ملزوم و بنابراین مذهب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782082768926_1719" custom="readingOrder {index:11;}">
+                <Coords points="957,1522 143,1522 143,1645 957,1645" /><Baseline points="143,1598 957,1598" />
+                <Baseline points="939,1584 154,1583" />
+                <TextEquiv>
+                    <Unicode>لازم ندارد حقیقه تضمن و التزام دلالت مطابقه را بواسطه انکه هرگاه لفظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چنین گفته اند که اگر چه مراد از لفظ جز یا لازم است اما در حین سماع لفظ ذهن اولا منتقل میشود
+بموضوع له و فهمیده مشود و بتبعیت فهم موضوع له جز و لازم لکن قرنیه دلالت میکند
+که کل مراد نیست و اگر لفظ مشهور شده باشد در جز یا در لازم بحیثیتی که فهمیده نه شود
+کل که موضوع له است بدون قرینه بلکه ذهن اولا منتقل شود بجز یا لازم این
+دلالترا داخل در تضمن و التزام نمیدانند زیرا که از جمله دلالت لفظییه وضعیه نیست
+و بنابرین مذهب لازم دارد تضمن و التزام مطابقه را حقیقه زیرا که دلالت
+در ضمن دلالت مطابقی محال است که مطابقت که پیدلالت مطابق یافت شود
+و و جمعی دیگر را عقیده آن است که دلالت تضمن اعم از ان است که دلالت
+بر جز باشد در ضمن کل یا دلالت بر جز تنها باشد بدون دلالت بر کل و همچنین
+دلالت التزام اعم از ان است که در ضمن دلالت بر جز موضوع له باشد یا اینکه
+دلالت بر لازم باشد بتنهایی بدون دلالت بر ملزوم و بنابراین مذهب
+لازم ندارد حقیقه تضمن و التزام دلالت مطابقه را بواسطه انکه هرگاه لفظ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

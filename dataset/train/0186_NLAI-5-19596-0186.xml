@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.187+04:30</Created>
+        <LastChange>2026-06-21T12:19:42.492+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="7" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0186_NLAI-5-19596-0186.jpg" imageWidth="1506" imageHeight="2826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782028182493" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782027307689_332" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782027307689_332" custom="readingOrder {index:0;}">
+            <Coords points="49,2582 1062,2582 1062,420 49,420" />
+            <TextLine id="line_1782027315189_335" custom="readingOrder {index:0;}">
+                <Coords points="1078,591 83,591 83,417 1078,417" /><Baseline points="83,525 1078,525" />
+                <Baseline points="76,2546 992,2567" />
+                <TextEquiv>
+                    <Unicode>بخواه جام صبوحی به یاد آصف عهد وزیر ملک سلیمان عماد الدین محمود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027318366_338" custom="readingOrder {index:1;}">
+                <Coords points="1061,732 98,732 98,574 1061,574" /><Baseline points="98,672 1061,672" />
+                <Baseline points="128,666 1044,689" />
+                <TextEquiv>
+                    <Unicode>بود که مجلس حافظ به یمن ترتیبش هر آن چه می طلبد جمله باشدش موجود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027321092_341" custom="readingOrder {index:2;}">
+                <Coords points="859,876 369,876 369,728 859,728" /><Baseline points="369,820 859,820" />
+                <Baseline points="399,819 822,833" />
+                <TextEquiv>
+                    <Unicode>بجوی دولت و جاه ابد که خواهی یافت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027325146_344" custom="readingOrder {index:3;}">
+                <Coords points="844,1009 371,1009 371,858 844,858" /><Baseline points="371,952 844,952" />
+                <Baseline points="398,965 821,963" />
+                <TextEquiv>
+                    <Unicode>که هست حافظت از جان چو داعی موجود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027380957_347" custom="readingOrder {index:4;}">
+                <Coords points="1052,1158 86,1158 86,1000 1052,1000" /><Baseline points="86,1098 1052,1098" />
+                <Baseline points="92,1106 1035,1122" />
+                <TextEquiv>
+                    <Unicode>از دیده خون دل همه بر روی ما رود بر روی ما ز دیده چه گویم چها رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027385238_350" custom="readingOrder {index:5;}">
+                <Coords points="80,1161 1049,1161 1049,1285 80,1285" /><Baseline points="80,1238 1049,1238" />
+                <Baseline points="79,1243 1056,1272" />
+                <TextEquiv>
+                    <Unicode>ما در درون سینه هوایی نهفته ایم بر باد اگر رود دل ما زان هوا رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027390448_353" custom="readingOrder {index:6;}">
+                <Coords points="66,1281 1045,1281 1045,1443 66,1443" /><Baseline points="66,1381 1045,1381" />
+                <Baseline points="92,1381 1039,1416" />
+                <TextEquiv>
+                    <Unicode>بر خاک راه یار نهادیم روی خویش بر روی ما رواست اگر آشنا رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027399969_356" custom="readingOrder {index:7;}">
+                <Coords points="1043,1594 70,1594 70,1424 1043,1424" /><Baseline points="70,1529 1043,1529" />
+                <Baseline points="70,1538 1022,1552" />
+                <TextEquiv>
+                    <Unicode>سیلست آب دیده و هر کس که بگذرد گر خود دلش ز سنگ بود هم ز جا رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027405867_359" custom="readingOrder {index:8;}">
+                <Coords points="1049,1731 86,1731 86,1573 1049,1573" /><Baseline points="86,1671 1049,1671" />
+                <Baseline points="116,1689 1028,1708" />
+                <TextEquiv>
+                    <Unicode>خورشید خاوری کند از رشک جامه چاک گر ماه مهرپرور من در قبا رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027410193_362" custom="readingOrder {index:9;}">
+                <Coords points="1044,1893 62,1893 62,1732 1044,1732" /><Baseline points="62,1832 1044,1832" />
+                <Baseline points="85,1825 1028,1857" />
+                <TextEquiv>
+                    <Unicode>ما را آب دیده شب و روز ماجراست زان رهگذر که بر سر کویش چرا رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027413636_365" custom="readingOrder {index:10;}">
+                <Coords points="803,2028 303,2028 303,1889 803,1889" /><Baseline points="303,1975 803,1975" />
+                <Baseline points="332,1993 774,1997" />
+                <TextEquiv>
+                    <Unicode>حافظ بکوی میکده دایم به صدق دل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027415771_368" custom="readingOrder {index:11;}">
+                <Coords points="300,2037 782,2037 782,2161 300,2161" /><Baseline points="300,2114 782,2114" />
+                <Baseline points="321,2131 764,2138" />
+                <TextEquiv>
+                    <Unicode>چون صوفیان صومعه دار از صفا رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027419916_371" custom="readingOrder {index:12;}">
+                <Coords points="1056,2330 65,2330 65,2154 1056,2154" /><Baseline points="65,2263 1056,2263" />
+                <Baseline points="96,2265 1010,2293" />
+                <TextEquiv>
+                    <Unicode>چو دست بر سر زلفش زنم به تاب رود ور آشتی طلبم با سر عتاب رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027422955_374" custom="readingOrder {index:13;}">
+                <Coords points="51,2319 1025,2319 1025,2476 51,2476" /><Baseline points="51,2416 1025,2416" />
+                <Baseline points="71,2411 1020,2433" />
+                <TextEquiv>
+                    <Unicode>چو ماه نو ره بیچارگان نظاره زند به گوشه ابرو و در نقاب رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782027424955_377" custom="readingOrder {index:14;}">
+                <Coords points="1025,2476 47,2476 47,2580 1025,2580" /><Baseline points="47,2540 1025,2540" />
+                <Baseline points="121,531 1054,549" />
+                <TextEquiv>
+                    <Unicode>شب شراب خرابم کند به بیداری وگر به روز شکایت کنم به خواب رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بخواه جام صبوحی به یاد آصف عهد وزیر ملک سلیمان عماد الدین محمود
+بود که مجلس حافظ به یمن ترتیبش هر آن چه می طلبد جمله باشدش موجود
+بجوی دولت و جاه ابد که خواهی یافت
+که هست حافظت از جان چو داعی موجود
+از دیده خون دل همه بر روی ما رود بر روی ما ز دیده چه گویم چها رود
+ما در درون سینه هوایی نهفته ایم بر باد اگر رود دل ما زان هوا رود
+بر خاک راه یار نهادیم روی خویش بر روی ما رواست اگر آشنا رود
+سیلست آب دیده و هر کس که بگذرد گر خود دلش ز سنگ بود هم ز جا رود
+خورشید خاوری کند از رشک جامه چاک گر ماه مهرپرور من در قبا رود
+ما را آب دیده شب و روز ماجراست زان رهگذر که بر سر کویش چرا رود
+حافظ بکوی میکده دایم به صدق دل
+چون صوفیان صومعه دار از صفا رود
+چو دست بر سر زلفش زنم به تاب رود ور آشتی طلبم با سر عتاب رود
+چو ماه نو ره بیچارگان نظاره زند به گوشه ابرو و در نقاب رود
+شب شراب خرابم کند به بیداری وگر به روز شکایت کنم به خواب رود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

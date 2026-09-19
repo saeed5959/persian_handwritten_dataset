@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.240+03:30</Created>
+        <LastChange>2026-06-12T23:10:37.802+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0013_NLAI-5-11236-0013.jpg" imageWidth="1216" imageHeight="1970">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781293237816" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781290653463_540" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781290653463_540" custom="readingOrder {index:0;}">
+            <Coords points="285,504 1062,504 1062,1709 285,1709" />
+            <TextLine id="line_1781290658640_543" custom="readingOrder {index:0;}">
+                <Coords points="689,651 997,651 997,534 689,534" /><Baseline points="689,607 997,607" />
+                <Baseline points="702,601 983,596" />
+                <TextEquiv>
+                    <Unicode>بدو گفت مهراب کای پادشا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290663711_546" custom="readingOrder {index:1;}">
+                <Coords points="342,644 638,644 638,536 342,536" /><Baseline points="342,603 638,603" />
+                <Baseline points="355,595 625,595" />
+                <TextEquiv>
+                    <Unicode>سرافراز و پیروز و فرمان روا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290669992_552" custom="readingOrder {index:2;}">
+                <Coords points="342,774 646,774 646,646 342,646" /><Baseline points="342,725 646,725" />
+                <Baseline points="349,711 632,719" />
+                <TextEquiv>
+                    <Unicode>که آن آرزو بر تو دشوار نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290666560_549" custom="readingOrder {index:3;}">
+                <Coords points="693,782 1009,782 1009,651 693,651" /><Baseline points="693,732 1009,732" />
+                <Baseline points="704,725 991,716" />
+                <TextEquiv>
+                    <Unicode>مرا آرزو در زمانه یکیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290672447_555" custom="readingOrder {index:4;}">
+                <Coords points="703,903 988,903 988,770 703,770" /><Baseline points="703,852 988,852" />
+                <Baseline points="714,849 983,842" />
+                <TextEquiv>
+                    <Unicode>که آیی به شادی سوی خان من</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290675359_558" custom="readingOrder {index:5;}">
+                <Coords points="347,920 646,920 646,774 347,774" /><Baseline points="347,865 646,865" />
+                <Baseline points="360,848 631,848" />
+                <TextEquiv>
+                    <Unicode>چو خورشید روشن کنی جان من</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290678127_561" custom="readingOrder {index:6;}">
+                <Coords points="695,1029 1005,1029 1005,895 695,895" /><Baseline points="695,978 1005,978" />
+                <Baseline points="704,975 992,969" />
+                <TextEquiv>
+                    <Unicode>چنین داد پاسخ که این رای نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290687752_564" custom="readingOrder {index:7;}">
+                <Coords points="341,1027 674,1027 674,909 341,909" /><Baseline points="341,982 674,982" />
+                <Baseline points="355,972 631,969" />
+                <TextEquiv>
+                    <Unicode>به خان تو اندر مرا جای نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290690705_567" custom="readingOrder {index:8;}">
+                <Coords points="705,1166 1007,1166 1007,1017 705,1017" /><Baseline points="705,1109 1007,1109" />
+                <Baseline points="711,1100 995,1099" />
+                <TextEquiv>
+                    <Unicode>نباشد بدین سام همداستان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290693792_570" custom="readingOrder {index:9;}">
+                <Coords points="336,1163 653,1163 653,1031 336,1031" /><Baseline points="336,1113 653,1113" />
+                <Baseline points="351,1108 632,1105" />
+                <TextEquiv>
+                    <Unicode>همان شاه چون بشنود داستان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290696663_573" custom="readingOrder {index:10;}">
+                <Coords points="690,1290 1016,1290 1016,1160 690,1160" /><Baseline points="690,1241 1016,1241" />
+                <Baseline points="704,1232 995,1224" />
+                <TextEquiv>
+                    <Unicode>که ما می گساریم و مستان شویم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290699807_576" custom="readingOrder {index:11;}">
+                <Coords points="354,1301 653,1301 653,1166 354,1166" /><Baseline points="354,1250 653,1250" />
+                <Baseline points="357,1235 638,1235" />
+                <TextEquiv>
+                    <Unicode>سوی خانه بت پرستان شویم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290705543_582" custom="readingOrder {index:12;}">
+                <Coords points="349,1416 655,1416 655,1290 349,1290" /><Baseline points="349,1368 655,1368" />
+                <Baseline points="361,1359 638,1360" />
+                <TextEquiv>
+                    <Unicode>به دیدار تو رای فرخ نهیم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290702623_579" custom="readingOrder {index:13;}">
+                <Coords points="707,1425 1004,1425 1004,1299 707,1299" /><Baseline points="707,1377 1004,1377" />
+                <Baseline points="696,1353 1001,1353" />
+                <TextEquiv>
+                    <Unicode>جزاین هر چه گویی تو پاسخ دهیم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290711520_588" custom="readingOrder {index:14;}">
+                <Coords points="354,1546 660,1546 660,1408 354,1408" /><Baseline points="354,1494 660,1494" />
+                <Baseline points="364,1477 641,1477" />
+                <TextEquiv>
+                    <Unicode>بدل زال را خواند ناپاک دین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290708383_585" custom="readingOrder {index:15;}">
+                <Coords points="704,1543 1010,1543 1010,1417 704,1417" /><Baseline points="704,1495 1010,1495" />
+                <Baseline points="719,1482 992,1482" />
+                <TextEquiv>
+                    <Unicode>چو بشنید مهراب کرد آفرین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290714975_591" custom="readingOrder {index:16;}">
+                <Coords points="708,1659 1010,1659 1010,1529 708,1529" /><Baseline points="708,1610 1010,1610" />
+                <Baseline points="723,1595 1006,1600" />
+                <TextEquiv>
+                    <Unicode>خرامان برفت از بر تخت اوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781290718223_594" custom="readingOrder {index:17;}">
+                <Coords points="355,1661 653,1661 653,1531 355,1531" /><Baseline points="355,1612 653,1612" />
+                <Baseline points="364,1603 638,1603" />
+                <TextEquiv>
+                    <Unicode>همی آفرین خواند بر بخت اوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بدو گفت مهراب کای پادشا
+سرافراز و پیروز و فرمان روا
+که آن آرزو بر تو دشوار نیست
+مرا آرزو در زمانه یکیست
+که آیی به شادی سوی خان من
+چو خورشید روشن کنی جان من
+چنین داد پاسخ که این رای نیست
+به خان تو اندر مرا جای نیست
+نباشد بدین سام همداستان
+همان شاه چون بشنود داستان
+که ما می گساریم و مستان شویم
+سوی خانه بت پرستان شویم
+به دیدار تو رای فرخ نهیم
+جزاین هر چه گویی تو پاسخ دهیم
+بدل زال را خواند ناپاک دین
+چو بشنید مهراب کرد آفرین
+خرامان برفت از بر تخت اوی
+همی آفرین خواند بر بخت اوی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

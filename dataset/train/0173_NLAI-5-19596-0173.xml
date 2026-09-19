@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T11:45:56.190+03:30</Created>
+        <LastChange>2026-06-25T20:39:24.100+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0173_NLAI-5-19596-0173.jpg" imageWidth="1519" imageHeight="2740">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782407364168" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782406835616_2894" />
+                <RegionRefIndexed index="1" regionRef="region_1782407259931_2992" />
+                <RegionRefIndexed index="2" regionRef="region_1782406328386_2827" />
+                <RegionRefIndexed index="3" regionRef="region_1782406996798_2938" />
+                <RegionRefIndexed index="4" regionRef="region_1782406565010_2855" />
+                <RegionRefIndexed index="5" regionRef="region_1782407109175_2959" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782406835616_2894" custom="readingOrder {index:0;}">
+            <Coords points="460,663 892,663 892,1544 460,1544" />
+            <TextLine id="line_1782406840331_2897" custom="readingOrder {index:0;}">
+                <Coords points="468,667 898,667 898,795 468,795" /><Baseline points="468,746 898,746" />
+                <Baseline points="476,747 890,749" />
+                <TextEquiv>
+                    <Unicode>پیش پایی به چراغ تو ببینم چه شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782406863600_2906" custom="readingOrder {index:1;}">
+                <Coords points="470,809 902,809 902,939 470,939" /><Baseline points="470,890 902,890" />
+                <Baseline points="474,879 886,891" />
+                <TextEquiv>
+                    <Unicode>گر من سوخته یک دم بنشینم چه شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782406882735_2912" custom="readingOrder {index:2;}">
+                <Coords points="450,945 914,945 914,1097 450,1097" /><Baseline points="450,1039 914,1039" />
+                <Baseline points="474,1027 884,1031" />
+                <TextEquiv>
+                    <Unicode>گر فتد عکس تو بر نقش نگینم چه شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782406905805_2918" custom="readingOrder {index:3;}">
+                <Coords points="472,1104 892,1104 892,1232 472,1232" /><Baseline points="472,1183 892,1183" />
+                <Baseline points="456,1158 884,1172" />
+                <TextEquiv>
+                    <Unicode>من اگر مهر نگاری بگزینم چه شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782406927362_2924" custom="readingOrder {index:4;}">
+                <Coords points="478,1250 904,1250 904,1364 478,1364" /><Baseline points="478,1321 904,1321" />
+                <Baseline points="484,1320 892,1316" />
+                <TextEquiv>
+                    <Unicode>تا از آنم چه به پیش آید از اینم چه شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782406942222_2930" custom="readingOrder {index:5;}">
+                <Coords points="474,1390 902,1390 902,1530 474,1530" /><Baseline points="474,1477 902,1477" />
+                <Baseline points="460,1464 888,1468" />
+                <TextEquiv>
+                    <Unicode>دیدم از پیش که در خانه دینم چه شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>پیش پایی به چراغ تو ببینم چه شود
+گر من سوخته یک دم بنشینم چه شود
+گر فتد عکس تو بر نقش نگینم چه شود
+من اگر مهر نگاری بگزینم چه شود
+تا از آنم چه به پیش آید از اینم چه شود
+دیدم از پیش که در خانه دینم چه شود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782407259931_2992" custom="readingOrder {index:1;}">
+            <Coords points="418,1818 899,1818 899,2489 418,2489" />
+            <TextLine id="line_1782407263714_2995" custom="readingOrder {index:0;}">
+                <Coords points="427,1806 894,1806 894,1938 427,1938" /><Baseline points="427,1888 894,1888" />
+                <Baseline points="457,1882 885,1885" />
+                <TextEquiv>
+                    <Unicode>تا ریا ورزد و سالوس مسلمان نشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782407289146_3001" custom="readingOrder {index:1;}">
+                <Coords points="435,1947 896,1947 896,2090 435,2090" /><Baseline points="435,2036 896,2036" />
+                <Baseline points="471,2021 878,2027" />
+                <TextEquiv>
+                    <Unicode>حیوانی که ننوشد می و انسان نشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782407305599_3007" custom="readingOrder {index:2;}">
+                <Coords points="449,2101 892,2101 892,2228 449,2228" /><Baseline points="449,2180 892,2180" />
+                <Baseline points="469,2168 885,2184" />
+                <TextEquiv>
+                    <Unicode>ور نه هر سنگ و گلی لل و مرجان نشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782407325270_3013" custom="readingOrder {index:3;}">
+                <Coords points="442,2226 899,2226 899,2385 442,2385" /><Baseline points="442,2325 899,2325" />
+                <Baseline points="442,2296 884,2316" />
+                <TextEquiv>
+                    <Unicode>که به تلبیس و حیل دیو مسلمان نشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782407343867_3021" custom="readingOrder {index:4;}">
+                <Coords points="437,2388 910,2388 910,2519 437,2519" /><Baseline points="437,2469 910,2469" />
+                <Baseline points="424,2416 877,2440" />
+                <TextEquiv>
+                    <Unicode>سببی ساز خدایا که پشیمان نشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تا ریا ورزد و سالوس مسلمان نشود
+حیوانی که ننوشد می و انسان نشود
+ور نه هر سنگ و گلی لل و مرجان نشود
+که به تلبیس و حیل دیو مسلمان نشود
+سببی ساز خدایا که پشیمان نشود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782406328386_2827" custom="readingOrder {index:2;}">
+            <Coords points="675,401 1208,401 1208,666 675,666" />
+            <TextLine id="line_1782406424814_2843" custom="readingOrder {index:0;}">
+                <Coords points="721,427 1176,427 1176,514 721,514" /><Baseline points="721,481 1176,481" />
+                <Baseline points="761,463 1174,481" />
+                <TextEquiv>
+                    <Unicode>حافظ چو نافه سر زلفش به دست توست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782406531958_2849" custom="readingOrder {index:1;}">
+                <Coords points="711,529 1184,529 1184,653 711,653" /><Baseline points="711,606 1184,606" />
+                <Baseline points="764,588 1141,616" />
+                <TextEquiv>
+                    <Unicode>دم درکش ار نه باد صبا را خبر شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ چو نافه سر زلفش به دست توست
+دم درکش ار نه باد صبا را خبر شود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782406996798_2938" custom="readingOrder {index:3;}">
+            <Coords points="700,1565 1215,1565 1215,1786 700,1786" />
+            <TextLine id="line_1782407009673_2947" custom="readingOrder {index:0;}">
+                <Coords points="719,1569 1202,1569 1202,1656 719,1656" /><Baseline points="719,1623 1202,1623" />
+                <Baseline points="734,1617 1169,1603" />
+                <TextEquiv>
+                    <Unicode>خواجه دانست که من عاشقم وهیچ نگفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782407052318_2953" custom="readingOrder {index:1;}">
+                <Coords points="713,1676 1186,1676 1186,1772 713,1772" /><Baseline points="713,1736 1186,1736" />
+                <Baseline points="736,1737 1138,1737" />
+                <TextEquiv>
+                    <Unicode>حافظ از نیز بداند که چنینم چه شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خواجه دانست که من عاشقم وهیچ نگفت
+حافظ از نیز بداند که چنینم چه شود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782406565010_2855" custom="readingOrder {index:4;}">
+            <Coords points="984,673 1420,673 1420,1548 984,1548" />
+            <TextLine id="line_1782406568291_2858" custom="readingOrder {index:0;}">
+                <Coords points="980,683 1434,683 1434,811 980,811" /><Baseline points="980,762 1434,762" />
+                <Baseline points="1000,743 1416,749" />
+                <TextEquiv>
+                    <Unicode>گر من از باغ تو یک میوه بچینم چه شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782406677216_2864" custom="readingOrder {index:1;}">
+                <Coords points="986,823 1422,823 1422,945 986,945" /><Baseline points="986,899 1422,899" />
+                <Baseline points="996,901 1410,897" />
+                <TextEquiv>
+                    <Unicode>یا رب اندر کنف سایه آن سرو بلند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782406695888_2870" custom="readingOrder {index:2;}">
+                <Coords points="984,959 1408,959 1408,1075 984,1075" /><Baseline points="984,1031 1408,1031" />
+                <Baseline points="986,1045 1396,1041" />
+                <TextEquiv>
+                    <Unicode>آخر ای خاتم جمشید همایون آثار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782406720068_2876" custom="readingOrder {index:3;}">
+                <Coords points="998,1099 1412,1099 1412,1212 998,1212" /><Baseline points="998,1169 1412,1169" />
+                <Baseline points="1012,1176 1408,1176" />
+                <TextEquiv>
+                    <Unicode>واعظ شهر چو مهر ملک و شحنه گزید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782406788930_2882" custom="readingOrder {index:4;}">
+                <Coords points="982,1236 1416,1236 1416,1352 982,1352" /><Baseline points="982,1308 1416,1308" />
+                <Baseline points="1004,1308 1394,1308" />
+                <TextEquiv>
+                    <Unicode>صرف شد عمر گرانمایه به معشوقه و می</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782406814036_2888" custom="readingOrder {index:5;}">
+                <Coords points="986,1358 1410,1358 1410,1504 986,1504" /><Baseline points="986,1449 1410,1449" />
+                <Baseline points="1010,1454 1396,1464" />
+                <TextEquiv>
+                    <Unicode>عقلم از خانه به در رفت وگر می این است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گر من از باغ تو یک میوه بچینم چه شود
+یا رب اندر کنف سایه آن سرو بلند
+آخر ای خاتم جمشید همایون آثار
+واعظ شهر چو مهر ملک و شحنه گزید
+صرف شد عمر گرانمایه به معشوقه و می
+عقلم از خانه به در رفت وگر می این است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782407109175_2959" custom="readingOrder {index:5;}">
+            <Coords points="975,1797 1422,1797 1422,2504 975,2504" />
+            <TextLine id="line_1782407112788_2962" custom="readingOrder {index:0;}">
+                <Coords points="973,1805 1431,1805 1431,1931 973,1931" /><Baseline points="973,1883 1431,1883" />
+                <Baseline points="979,1859 1409,1872" />
+                <TextEquiv>
+                    <Unicode>گر چه بر واعظ شهر این سخن آسان نشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782407162694_2968" custom="readingOrder {index:1;}">
+                <Coords points="983,1942 1431,1942 1431,2084 983,2084" /><Baseline points="983,2030 1431,2030" />
+                <Baseline points="984,2012 1406,2035" />
+                <TextEquiv>
+                    <Unicode>رندی آموز و کرم کن که نه چندان هنر است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782407185854_2974" custom="readingOrder {index:2;}">
+                <Coords points="986,2111 1425,2111 1425,2219 986,2219" /><Baseline points="986,2178 1425,2178" />
+                <Baseline points="995,2187 1399,2175" />
+                <TextEquiv>
+                    <Unicode>گوهر پاک بباید که شود قابل فیض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782407216688_2980" custom="readingOrder {index:3;}">
+                <Coords points="979,2231 1423,2231 1423,2381 979,2381" /><Baseline points="979,2324 1423,2324" />
+                <Baseline points="991,2311 1422,2318" />
+                <TextEquiv>
+                    <Unicode>اسم اعظم بکند کار خود ای دل خوش باش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782407238975_2986" custom="readingOrder {index:4;}">
+                <Coords points="977,2383 1411,2383 1411,2484 977,2484" /><Baseline points="977,2446 1411,2446" />
+                <Baseline points="996,2434 1404,2450" />
+                <TextEquiv>
+                    <Unicode>دوش می گفت که فردا بدهم کام دلت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گر چه بر واعظ شهر این سخن آسان نشود
+رندی آموز و کرم کن که نه چندان هنر است
+گوهر پاک بباید که شود قابل فیض
+اسم اعظم بکند کار خود ای دل خوش باش
+دوش می گفت که فردا بدهم کام دلت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

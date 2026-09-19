@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-23T17:53:42.095+04:30</Created>
+        <LastChange>2026-06-25T08:19:19.151+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0144_NLAI-5-15801-0144.jpg" imageWidth="1089" imageHeight="1794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782359359152" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782358466924_1577" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782358466924_1577" custom="readingOrder {index:0;}">
+            <Coords points="78,183 925,183 925,1653 78,1653" />
+            <TextLine id="line_1782358492293_1582" custom="readingOrder {index:0;}">
+                <Coords points="83,194 905,194 905,312 83,312" /><Baseline points="83,267 905,267" />
+                <Baseline points="886,268 94,264" />
+                <TextEquiv>
+                    <Unicode>ان یکون نقیض المحمول فى السالبه اعم من الموضوع اه حاصل کلام محشى این است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782358536946_1588" custom="readingOrder {index:1;}">
+                <Coords points="88,320 919,320 919,423 88,423" /><Baseline points="88,384 919,384" />
+                <Baseline points="897,378 98,377" />
+                <TextEquiv>
+                    <Unicode>که گاه است که اصل مرکب است از موضوع و محمول که موضوغ اخص است و محمول نقیض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782358657112_1594" custom="readingOrder {index:2;}">
+                <Coords points="86,440 906,440 906,550 86,550" /><Baseline points="86,508 906,508" />
+                <Baseline points="888,512 104,505" />
+                <TextEquiv>
+                    <Unicode>اعم مثل لا شیی من الانسان بلا حیوان و در اینوقت نقص محمول اعم است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782358756825_1604" custom="readingOrder {index:3;}">
+                <Coords points="90,556 905,556 905,676 90,676" /><Baseline points="90,630 905,630" />
+                <Baseline points="895,628 105,630" />
+                <TextEquiv>
+                    <Unicode>از موضوع مثلا حیوان که نقیض محمول است در مثال مذکور اعم است از موضوع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782358797242_1610" custom="readingOrder {index:4;}">
+                <Coords points="88,682 917,682 917,789 88,789" /><Baseline points="88,748 917,748" />
+                <Baseline points="896,750 96,746" />
+                <TextEquiv>
+                    <Unicode>که آن انسان است پس اگر نقیض را در چنین حالتی کلی اعتبار کنند لازم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782358857690_1616" custom="readingOrder {index:5;}">
+                <Coords points="86,797 919,797 919,923 86,923" /><Baseline points="86,875 919,875" />
+                <Baseline points="906,866 102,876" />
+                <TextEquiv>
+                    <Unicode>سلب نقیض اخص از عین اعم کلیه زیرا که در این هنگام موضوع عکس نقیص عین اعم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782358963571_1645" custom="readingOrder {index:6;}">
+                <Coords points="90,928 912,928 912,1042 90,1042" /><Baseline points="90,999 912,999" />
+                <Baseline points="901,988 111,996" />
+                <TextEquiv>
+                    <Unicode>خواهد بود که نقیض محمول است اصل است و محمول نقیض اخص باشد که موضوع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782359041299_1651" custom="readingOrder {index:7;}">
+                <Coords points="84,1054 908,1054 908,1168 84,1168" /><Baseline points="84,1125 908,1125" />
+                <Baseline points="900,1119 100,1123" />
+                <TextEquiv>
+                    <Unicode>اصل بود و سلب نقیض اخص از عین اعم بالکلیه باطل است بواسطه آنکه لازم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782359083405_1657" custom="readingOrder {index:8;}">
+                <Coords points="85,1175 911,1175 911,1296 85,1296" /><Baseline points="85,1250 911,1250" />
+                <Baseline points="902,1246 102,1243" />
+                <TextEquiv>
+                    <Unicode>میآید که اعم نباشد زیرا که هرگاه اعم با نقیض یافت نشود پس همیشه با اخص خواهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782359143004_1668" custom="readingOrder {index:9;}">
+                <Coords points="89,1301 916,1301 916,1405 89,1405" /><Baseline points="89,1365 916,1365" />
+                <Baseline points="907,1364 103,1365" />
+                <TextEquiv>
+                    <Unicode>بود و بدون اخص یافت نخواهد شد و حال آنکه اعم آن است که بدون اخص</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782359189348_1675" custom="readingOrder {index:10;}">
+                <Coords points="76,1414 906,1414 906,1527 76,1527" /><Baseline points="76,1484 906,1484" />
+                <Baseline points="893,1487 96,1478" />
+                <TextEquiv>
+                    <Unicode>یافت نشود هف پس هر جا که موضوع اخص باشد و محمول نقیص اعم عکس نقیض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782359282037_1681" custom="readingOrder {index:11;}">
+                <Coords points="83,1535 897,1535 897,1648 83,1648" /><Baseline points="83,1605 897,1605" />
+                <Baseline points="889,1602 103,1600" />
+                <TextEquiv>
+                    <Unicode>سالبه حقه نیست کلیه چنانکه هر جا که اعم موضوع باشد و نقیض اخص محمول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ان یکون نقیض المحمول فى السالبه اعم من الموضوع اه حاصل کلام محشى این است
+که گاه است که اصل مرکب است از موضوع و محمول که موضوغ اخص است و محمول نقیض
+اعم مثل لا شیی من الانسان بلا حیوان و در اینوقت نقص محمول اعم است
+از موضوع مثلا حیوان که نقیض محمول است در مثال مذکور اعم است از موضوع
+که آن انسان است پس اگر نقیض را در چنین حالتی کلی اعتبار کنند لازم
+سلب نقیض اخص از عین اعم کلیه زیرا که در این هنگام موضوع عکس نقیص عین اعم
+خواهد بود که نقیض محمول است اصل است و محمول نقیض اخص باشد که موضوع
+اصل بود و سلب نقیض اخص از عین اعم بالکلیه باطل است بواسطه آنکه لازم
+میآید که اعم نباشد زیرا که هرگاه اعم با نقیض یافت نشود پس همیشه با اخص خواهد
+بود و بدون اخص یافت نخواهد شد و حال آنکه اعم آن است که بدون اخص
+یافت نشود هف پس هر جا که موضوع اخص باشد و محمول نقیص اعم عکس نقیض
+سالبه حقه نیست کلیه چنانکه هر جا که اعم موضوع باشد و نقیض اخص محمول</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

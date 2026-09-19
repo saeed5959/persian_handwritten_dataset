@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:16.494+03:30</Created>
+        <LastChange>2026-06-18T19:13:32.868+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0012_NLAI-5-19596-0012.jpg" imageWidth="1598" imageHeight="2842">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781797412921" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781792469992_1750" />
+                <RegionRefIndexed index="1" regionRef="region_1781792474881_1753" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781792469992_1750" custom="readingOrder {index:0;}">
+            <Coords points="102,561 1108,561 1108,994 102,994" />
+            <TextLine id="line_1781792600370_1770" custom="readingOrder {index:0;}">
+                <Coords points="623,585 1108,585 1108,701 623,701" /><Baseline points="623,657 1108,657" />
+                <Baseline points="629,642 1084,659" />
+                <TextEquiv>
+                    <Unicode>غزل سرایی حافظ بدان رسید که چرخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792591764_1764" custom="readingOrder {index:1;}">
+                <Coords points="132,587 566,587 566,693 132,693" /><Baseline points="132,653 566,653" />
+                <Baseline points="150,644 550,650" />
+                <TextEquiv>
+                    <Unicode>نوای زهره و ناهید را از یاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792608290_1776" custom="readingOrder {index:2;}">
+                <Coords points="130,705 558,705 558,837 130,837" /><Baseline points="130,787 558,787" />
+                <Baseline points="144,772 544,780" />
+                <TextEquiv>
+                    <Unicode>که هیچ شاعر از آنگونه داد و نظم نداد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792616914_1783" custom="readingOrder {index:3;}">
+                <Coords points="635,726 1094,726 1094,864 635,864" /><Baseline points="635,812 1094,812" />
+                <Baseline points="672,797 1086,803" />
+                <TextEquiv>
+                    <Unicode>بداد داد بیان در غزل بدان وجهی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792629080_1789" custom="readingOrder {index:4;}">
+                <Coords points="132,858 566,858 566,963 132,963" /><Baseline points="132,923 566,923" />
+                <Baseline points="134,917 550,921" />
+                <TextEquiv>
+                    <Unicode>هزار رحمت حق بر روان حافظ باد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792639780_1795" custom="readingOrder {index:5;}">
+                <Coords points="639,874 1094,874 1094,983 639,983" /><Baseline points="639,942 1094,942" />
+                <Baseline points="658,925 1084,933" />
+                <TextEquiv>
+                    <Unicode>چو شعر عذب روانش ز بر کنی گویی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>غزل سرایی حافظ بدان رسید که چرخ
+نوای زهره و ناهید را از یاد
+که هیچ شاعر از آنگونه داد و نظم نداد
+بداد داد بیان در غزل بدان وجهی
+هزار رحمت حق بر روان حافظ باد
+چو شعر عذب روانش ز بر کنی گویی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781792474881_1753" custom="readingOrder {index:1;}">
+            <Coords points="113,1009 1104,1009 1104,2742 113,2742" />
+            <TextLine id="line_1781792648910_1801" custom="readingOrder {index:0;}">
+                <Coords points="126,1012 1084,1012 1084,1142 126,1142" /><Baseline points="126,1093 1084,1093" />
+                <Baseline points="146,1063 1068,1077" />
+                <TextEquiv>
+                    <Unicode>بلی محافظت درس قرآن و ملازمت شغل سلطان و بحث کشاف مفتاح و مطالعه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792658985_1807" custom="readingOrder {index:1;}">
+                <Coords points="132,1152 1094,1152 1094,1280 132,1280" /><Baseline points="132,1231 1094,1231" />
+                <Baseline points="154,1213 1080,1223" />
+                <TextEquiv>
+                    <Unicode>و تحصیل قوانین ادب و تحسین دوانین عرب از جمع ابیات غزلیات مانع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792667379_1813" custom="readingOrder {index:2;}">
+                <Coords points="140,1294 1100,1294 1100,1438 140,1438" /><Baseline points="140,1383 1100,1383" />
+                <Baseline points="156,1371 1092,1377" />
+                <TextEquiv>
+                    <Unicode>آمدی و از تدوین و اثبات ابیات ابیاتش وازع کشتی و مسود این ورق عفی الله عنه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792675307_1819" custom="readingOrder {index:3;}">
+                <Coords points="136,1448 1088,1448 1088,1572 136,1572" /><Baseline points="136,1525 1088,1525" />
+                <Baseline points="138,1501 1068,1515" />
+                <TextEquiv>
+                    <Unicode>عما سبق اقل انام محمد گلندام در درس گاه دین پناه مولانا و سیدنا استاد البشیر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792684835_1825" custom="readingOrder {index:4;}">
+                <Coords points="134,1585 1090,1585 1090,1727 134,1727" /><Baseline points="134,1673 1090,1673" />
+                <Baseline points="150,1653 1072,1662" />
+                <TextEquiv>
+                    <Unicode>قوام المله و الدین عبدالله اعلی الله درجاته اعلی علیین بکرات و مرات که بمذاکره رفتی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792693427_1831" custom="readingOrder {index:5;}">
+                <Coords points="132,1737 1088,1737 1088,1857 132,1857" /><Baseline points="132,1811 1088,1811" />
+                <Baseline points="136,1794 1090,1800" />
+                <TextEquiv>
+                    <Unicode>و در اثنای محاوره گفتی که این فواید فزاید را همه در یک عقده می باید کشید و این</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792701220_1837" custom="readingOrder {index:6;}">
+                <Coords points="136,1875 1100,1875 1100,2009 136,2009" /><Baseline points="136,1958 1100,1958" />
+                <Baseline points="148,1942 1080,1950" />
+                <TextEquiv>
+                    <Unicode>درر غررر را در یک سلک می باید پیوست تا قلاده جید وجود اهل زمان و تمیمه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792709500_1843" custom="readingOrder {index:7;}">
+                <Coords points="134,2019 1090,2019 1090,2153 134,2153" /><Baseline points="134,2102 1090,2102" />
+                <Baseline points="144,2084 1088,2084" />
+                <TextEquiv>
+                    <Unicode>وشاخ عروسان دوران گردد و آن جناب حوالت رفیع ترفیع این بنا بر ناراستی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792717139_1849" custom="readingOrder {index:8;}">
+                <Coords points="132,2179 1094,2179 1094,2303 132,2303" /><Baseline points="132,2256 1094,2256" />
+                <Baseline points="152,2236 1087,2238" />
+                <TextEquiv>
+                    <Unicode>روزگار کردی و نقص و عذر اهل عصر عذرآوردی دور تاریخ سنه احدی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792727982_1857" custom="readingOrder {index:9;}">
+                <Coords points="134,2324 1090,2324 1090,2450 134,2450" /><Baseline points="134,2402 1090,2402" />
+                <Baseline points="143,2379 1072,2390" />
+                <TextEquiv>
+                    <Unicode>وستعین و سبغمایه هجری ودیعت حیات بموکلان قضا و قدر سپرد و رخت وجود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792736871_1863" custom="readingOrder {index:10;}">
+                <Coords points="141,2458 1087,2458 1087,2577 141,2577" /><Baseline points="141,2532 1087,2532" />
+                <Baseline points="152,2508 1085,2519" />
+                <TextEquiv>
+                    <Unicode>از دهلیز تنگ اجل بیرون برده و روح پاکش با ساکنان عالم علوی قرین شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792745668_1869" custom="readingOrder {index:11;}">
+                <Coords points="189,2586 1081,2586 1081,2716 189,2716" /><Baseline points="189,2667 1081,2667" />
+                <Baseline points="214,2661 1068,2665" />
+                <TextEquiv>
+                    <Unicode>و پس از مفارقت بدن همخوابه پاکیزه رویان حورالعین گشت بیت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بلی محافظت درس قرآن و ملازمت شغل سلطان و بحث کشاف مفتاح و مطالعه
+و تحصیل قوانین ادب و تحسین دوانین عرب از جمع ابیات غزلیات مانع
+آمدی و از تدوین و اثبات ابیات ابیاتش وازع کشتی و مسود این ورق عفی الله عنه
+عما سبق اقل انام محمد گلندام در درس گاه دین پناه مولانا و سیدنا استاد البشیر
+قوام المله و الدین عبدالله اعلی الله درجاته اعلی علیین بکرات و مرات که بمذاکره رفتی
+و در اثنای محاوره گفتی که این فواید فزاید را همه در یک عقده می باید کشید و این
+درر غررر را در یک سلک می باید پیوست تا قلاده جید وجود اهل زمان و تمیمه
+وشاخ عروسان دوران گردد و آن جناب حوالت رفیع ترفیع این بنا بر ناراستی
+روزگار کردی و نقص و عذر اهل عصر عذرآوردی دور تاریخ سنه احدی
+وستعین و سبغمایه هجری ودیعت حیات بموکلان قضا و قدر سپرد و رخت وجود
+از دهلیز تنگ اجل بیرون برده و روح پاکش با ساکنان عالم علوی قرین شد
+و پس از مفارقت بدن همخوابه پاکیزه رویان حورالعین گشت بیت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

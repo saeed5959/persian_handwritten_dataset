@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.729+04:30</Created>
+        <LastChange>2026-06-21T18:45:19.843+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="15" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0194_NLAI-5-19596-0194.jpg" imageWidth="1506" imageHeight="2826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782051319843" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782050552527_1272" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782050552527_1272" custom="readingOrder {index:0;}">
+            <Coords points="60,2603 1064,2603 1064,433 60,433" />
+            <TextLine id="line_1782050564540_1275" custom="readingOrder {index:0;}">
+                <Coords points="93,596 1060,596 1060,426 93,426" /><Baseline points="93,531 1060,531" />
+                <Baseline points="100,565 1034,548" />
+                <TextEquiv>
+                    <Unicode>بخت از دهان دوست نشانم نمیدهد دولت خبر ز راز نهانم نمیدهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050567988_1278" custom="readingOrder {index:1;}">
+                <Coords points="1060,587 72,587 72,764 1060,764" /><Baseline points="72,697 1060,697" />
+                <Baseline points="91,684 1048,701" />
+                <TextEquiv>
+                    <Unicode>مردم ز اشتیاق در این پرده راه نیست یا هست پرده دار نشانم نمیدهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050570306_1281" custom="readingOrder {index:2;}">
+                <Coords points="72,752 1055,752 1055,893 72,893" /><Baseline points="72,839 1055,839" />
+                <Baseline points="103,831 1035,841" />
+                <TextEquiv>
+                    <Unicode>چند آنکه بر کنار چو پرگار میردم دوران چو نقطه ره به میانم نمیدهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050572830_1284" custom="readingOrder {index:3;}">
+                <Coords points="1059,879 63,879 63,1044 1059,1044" /><Baseline points="63,981 1059,981" />
+                <Baseline points="101,984 1042,969" />
+                <TextEquiv>
+                    <Unicode>شکر بصبر دست دهد عاقبت ولی بدعهدی زمانه زمانم نمیدهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050577616_1287" custom="readingOrder {index:4;}">
+                <Coords points="1062,1174 72,1174 72,1020 1062,1020" /><Baseline points="72,1115 1062,1115" />
+                <Baseline points="97,1121 1045,1126" />
+                <TextEquiv>
+                    <Unicode>زلفش کشید باد صبت چرخ سفله من کانجا جمال باد وزانم نمیدهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050582796_1290" custom="readingOrder {index:5;}">
+                <Coords points="1049,1322 74,1322 74,1166 1049,1166" /><Baseline points="74,1263 1049,1263" />
+                <Baseline points="89,1268 1021,1275" />
+                <TextEquiv>
+                    <Unicode>جان میدهم ز بهر یکی بوسه از لبش جان میسپرد روان و امانم نمیدهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050587608_1293" custom="readingOrder {index:6;}">
+                <Coords points="1043,1465 69,1465 69,1317 1043,1317" /><Baseline points="69,1409 1043,1409" />
+                <Baseline points="102,1401 1033,1405" />
+                <TextEquiv>
+                    <Unicode>از بهر بوسه ای ز لبش جان میدهم اینم همی ستاند و آنم نمیدهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050591319_1296" custom="readingOrder {index:7;}">
+                <Coords points="836,1614 305,1614 305,1463 836,1463" /><Baseline points="305,1557 836,1557" />
+                <Baseline points="355,1577 771,1565" />
+                <TextEquiv>
+                    <Unicode>گفتم روم بخواب و به بینم جمال دوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050593777_1299" custom="readingOrder {index:8;}">
+                <Coords points="782,1739 398,1739 398,1628 782,1628" /><Baseline points="398,1697 782,1697" />
+                <Baseline points="409,1713 755,1705" />
+                <TextEquiv>
+                    <Unicode>حافظ راه و ناله امانم نمیدهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050598977_1302" custom="readingOrder {index:9;}">
+                <Coords points="1043,1889 79,1889 79,1733 1043,1733" /><Baseline points="79,1830 1043,1830" />
+                <Baseline points="82,1839 1024,1859" />
+                <TextEquiv>
+                    <Unicode>کارم ز جور چرخ بسامان نمیرسد خون شد دلم ز درد بدرمان نمیرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050605416_1305" custom="readingOrder {index:10;}">
+                <Coords points="1055,2038 74,2038 74,1903 1055,1903" /><Baseline points="74,1987 1055,1987" />
+                <Baseline points="78,1985 1035,1985" />
+                <TextEquiv>
+                    <Unicode>با آنکه خاک زاه شدم همجو سگ هنوز آب رخم همیرود دو نان نمیرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050610710_1308" custom="readingOrder {index:11;}">
+                <Coords points="1058,2201 64,2201 64,2033 1058,2033" /><Baseline points="64,2137 1058,2137" />
+                <Baseline points="80,2139 1032,2148" />
+                <TextEquiv>
+                    <Unicode>با خاک راه پست شدم همجو باذاران با آب رو نمیرود و نان نمیرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050617588_1311" custom="readingOrder {index:12;}">
+                <Coords points="1056,2354 59,2354 59,2179 1056,2179" /><Baseline points="59,2288 1056,2288" />
+                <Baseline points="104,2301 1035,2297" />
+                <TextEquiv>
+                    <Unicode>سیرم ز جان خود به راستان ولی بیچاره را چه چاره چو فرمان نمیرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050623835_1314" custom="readingOrder {index:13;}">
+                <Coords points="1044,2467 72,2467 72,2343 1044,2343" /><Baseline points="72,2420 1044,2420" />
+                <Baseline points="94,2420 1033,2426" />
+                <TextEquiv>
+                    <Unicode>یعقوب را دو دیده ز حسرت سپید گشت و آوازه ای ز مصر به کنعان نمیرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050628877_1317" custom="readingOrder {index:14;}">
+                <Coords points="1041,2616 63,2616 63,2452 1041,2452" /><Baseline points="63,2554 1041,2554" />
+                <Baseline points="85,2566 1037,2565" />
+                <TextEquiv>
+                    <Unicode>از حشمت اهل جهل به کیوان رسیده اند جز آه اهل فضل به کیوان نمیرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بخت از دهان دوست نشانم نمیدهد دولت خبر ز راز نهانم نمیدهد
+مردم ز اشتیاق در این پرده راه نیست یا هست پرده دار نشانم نمیدهد
+چند آنکه بر کنار چو پرگار میردم دوران چو نقطه ره به میانم نمیدهد
+شکر بصبر دست دهد عاقبت ولی بدعهدی زمانه زمانم نمیدهد
+زلفش کشید باد صبت چرخ سفله من کانجا جمال باد وزانم نمیدهد
+جان میدهم ز بهر یکی بوسه از لبش جان میسپرد روان و امانم نمیدهد
+از بهر بوسه ای ز لبش جان میدهم اینم همی ستاند و آنم نمیدهد
+گفتم روم بخواب و به بینم جمال دوست
+حافظ راه و ناله امانم نمیدهد
+کارم ز جور چرخ بسامان نمیرسد خون شد دلم ز درد بدرمان نمیرسد
+با آنکه خاک زاه شدم همجو سگ هنوز آب رخم همیرود دو نان نمیرسد
+با خاک راه پست شدم همجو باذاران با آب رو نمیرود و نان نمیرسد
+سیرم ز جان خود به راستان ولی بیچاره را چه چاره چو فرمان نمیرسد
+یعقوب را دو دیده ز حسرت سپید گشت و آوازه ای ز مصر به کنعان نمیرسد
+از حشمت اهل جهل به کیوان رسیده اند جز آه اهل فضل به کیوان نمیرسد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

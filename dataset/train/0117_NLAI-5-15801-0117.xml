@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.046+03:30</Created>
+        <LastChange>2026-06-26T15:52:39.206+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0117_NLAI-5-15801-0117.jpg" imageWidth="1091" imageHeight="1761">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782476559219" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782330077286_560" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782330077286_560" custom="readingOrder {index:0;}">
+            <Coords points="92,533 948,533 948,1696 92,1696" />
+            <TextLine id="line_1782330091945_573" custom="readingOrder {index:0;}">
+                <Coords points="108,548 945,548 945,699 108,699" /><Baseline points="108,642 945,642" />
+                <Baseline points="121,640 919,644" />
+                <TextEquiv>
+                    <Unicode>بدانکه لاضرورت وصفی بنابر مشهور سلب ضرورت در حین وصف است وبنابراین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330094398_576" custom="readingOrder {index:1;}">
+                <Coords points="112,684 934,684 934,799 112,799" /><Baseline points="112,755 934,755" />
+                <Baseline points="134,742 928,760" />
+                <TextEquiv>
+                    <Unicode>منافات ندارد با مشروطه بشرط وصف زیرا که میتواند بود محمول ضروری</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330096744_579" custom="readingOrder {index:2;}">
+                <Coords points="127,804 932,804 932,930 127,930" /><Baseline points="127,882 932,882" />
+                <Baseline points="149,871 917,882" />
+                <TextEquiv>
+                    <Unicode>باشد بشرط وصف اما در وقت وصف ضروری نباشد همچنانکه گذشت در کل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330099467_582" custom="readingOrder {index:3;}">
+                <Coords points="114,934 930,934 930,1050 114,1050" /><Baseline points="114,1006 930,1006" />
+                <Baseline points="136,995 924,1009" />
+                <TextEquiv>
+                    <Unicode>کاتب متحرک الاصابع که تحرک اصابع بشرط وصف ضروری است اما در وقت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330101811_585" custom="readingOrder {index:4;}">
+                <Coords points="108,1039 937,1039 937,1183 108,1183" /><Baseline points="108,1128 937,1128" />
+                <Baseline points="162,1109 924,1139" />
+                <TextEquiv>
+                    <Unicode>وصف ضروری نیست لکن منافات دارد با مشروطه مادام الوصف زیرا که دران</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330104647_588" custom="readingOrder {index:5;}">
+                <Coords points="136,1200 930,1200 930,1310 136,1310" /><Baseline points="136,1268 930,1268" />
+                <Baseline points="154,1244 917,1255" />
+                <TextEquiv>
+                    <Unicode>حکم شده است بضرورت در جمیع اوقات وصف و لا ضرورت وصفی حکم سلب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330106995_591" custom="readingOrder {index:6;}">
+                <Coords points="119,1312 934,1312 934,1432 119,1432" /><Baseline points="119,1386 934,1386" />
+                <Baseline points="147,1368 926,1379" />
+                <TextEquiv>
+                    <Unicode>ضرورت در حین وصف و مراد از لا دوام وصفی سلب دوا است در حین وصف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330110303_594" custom="readingOrder {index:7;}">
+                <Coords points="121,1425 934,1425 934,1541 121,1541" /><Baseline points="121,1497 934,1497" />
+                <Baseline points="130,1491 917,1501" />
+                <TextEquiv>
+                    <Unicode>مثلا هر گاه کل کاتب متحرک الاصابع بالضروره یا بالدوام را مقید بلا ضروره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330112778_597" custom="readingOrder {index:8;}">
+                <Coords points="97,1539 939,1539 939,1676 97,1676" /><Baseline points="97,1624 939,1624" />
+                <Baseline points="154,1602 915,1619" />
+                <TextEquiv>
+                    <Unicode>وصفی سازند این معنی دارد که نسبت تحرک در وقت کتابت ضروری نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بدانکه لاضرورت وصفی بنابر مشهور سلب ضرورت در حین وصف است وبنابراین
+منافات ندارد با مشروطه بشرط وصف زیرا که میتواند بود محمول ضروری
+باشد بشرط وصف اما در وقت وصف ضروری نباشد همچنانکه گذشت در کل
+کاتب متحرک الاصابع که تحرک اصابع بشرط وصف ضروری است اما در وقت
+وصف ضروری نیست لکن منافات دارد با مشروطه مادام الوصف زیرا که دران
+حکم شده است بضرورت در جمیع اوقات وصف و لا ضرورت وصفی حکم سلب
+ضرورت در حین وصف و مراد از لا دوام وصفی سلب دوا است در حین وصف
+مثلا هر گاه کل کاتب متحرک الاصابع بالضروره یا بالدوام را مقید بلا ضروره
+وصفی سازند این معنی دارد که نسبت تحرک در وقت کتابت ضروری نیست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

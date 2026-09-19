@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:31.979+03:30</Created>
+        <LastChange>2026-06-20T21:54:23.935+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0099_NLAI-5-19596-0099.jpg" imageWidth="1553" imageHeight="2850">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781979863976" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781979340205_1093" />
+                <RegionRefIndexed index="1" regionRef="region_1781979386158_1111" />
+                <RegionRefIndexed index="2" regionRef="region_1781979625234_1166" />
+                <RegionRefIndexed index="3" regionRef="region_1781979680166_1183" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781979340205_1093" custom="readingOrder {index:0;}">
+            <Coords points="644,529 1249,529 1249,799 644,799" />
+            <TextLine id="line_1781979346534_1096" custom="readingOrder {index:0;}">
+                <Coords points="673,547 1218,547 1218,664 673,664" /><Baseline points="673,620 1218,620" />
+                <Baseline points="700,614 1186,603" />
+                <TextEquiv>
+                    <Unicode>زهی همت که حافظ راست از دنیی و از عقبی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979349802_1099" custom="readingOrder {index:1;}">
+                <Coords points="669,686 1195,686 1195,783 669,783" /><Baseline points="669,746 1195,746" />
+                <Baseline points="698,740 1164,738" />
+                <TextEquiv>
+                    <Unicode>نیاید هیچ در چشمش به جز خاک سر کویت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>زهی همت که حافظ راست از دنیی و از عقبی
+نیاید هیچ در چشمش به جز خاک سر کویت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781979386158_1111" custom="readingOrder {index:1;}">
+            <Coords points="495,808 1464,808 1464,1631 495,1631" />
+            <TextLine id="line_1781979391590_1114" custom="readingOrder {index:0;}">
+                <Coords points="492,800 1448,800 1448,933 492,933" /><Baseline points="492,882 1448,882" />
+                <Baseline points="522,869 1423,883" />
+                <TextEquiv>
+                    <Unicode>کنون که می دمد از بوستان نسیم بهشت من و شراب فرح بخش و یار حورسرشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979393882_1117" custom="readingOrder {index:1;}">
+                <Coords points="495,939 1459,939 1459,1067 495,1067" /><Baseline points="495,1018 1459,1018" />
+                <Baseline points="506,1011 1409,1014" />
+                <TextEquiv>
+                    <Unicode>چمن حکایت اردیبهشت می گوید نه عاقل است که نسیه خرید و نقد بهشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979396238_1120" custom="readingOrder {index:2;}">
+                <Coords points="489,1086 1439,1086 1439,1222 489,1222" /><Baseline points="489,1170 1439,1170" />
+                <Baseline points="500,1142 1425,1167" />
+                <TextEquiv>
+                    <Unicode>به می عمارت دل کن که این جهان خراب بر آن سر است که از خاک ما بسازد خشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979398650_1123" custom="readingOrder {index:3;}">
+                <Coords points="486,1231 1445,1231 1445,1347 486,1347" /><Baseline points="486,1303 1445,1303" />
+                <Baseline points="508,1289 1398,1294" />
+                <TextEquiv>
+                    <Unicode>وفا مجوی ز دشمن که پرتوی ندهد چو شمع صومعه افروزی از چراغ کنشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979401134_1126" custom="readingOrder {index:4;}">
+                <Coords points="492,1361 1442,1361 1442,1483 492,1483" /><Baseline points="492,1437 1442,1437" />
+                <Baseline points="508,1431 1400,1436" />
+                <TextEquiv>
+                    <Unicode>مکن به نامه سیاهی ملامت من مست که آگه است که تقدیر بر سرش چه نوشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979404570_1129" custom="readingOrder {index:5;}">
+                <Coords points="495,1481 1450,1481 1450,1631 495,1631" /><Baseline points="495,1574 1450,1574" />
+                <Baseline points="503,1567 1417,1570" />
+                <TextEquiv>
+                    <Unicode>گدا چرا نزند لاف سلطنت امروز که خیمه سایه ابر است و بزمگه لب کشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کنون که می دمد از بوستان نسیم بهشت من و شراب فرح بخش و یار حورسرشت
+چمن حکایت اردیبهشت می گوید نه عاقل است که نسیه خرید و نقد بهشت
+به می عمارت دل کن که این جهان خراب بر آن سر است که از خاک ما بسازد خشت
+وفا مجوی ز دشمن که پرتوی ندهد چو شمع صومعه افروزی از چراغ کنشت
+مکن به نامه سیاهی ملامت من مست که آگه است که تقدیر بر سرش چه نوشت
+گدا چرا نزند لاف سلطنت امروز که خیمه سایه ابر است و بزمگه لب کشت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781979625234_1166" custom="readingOrder {index:2;}">
+            <Coords points="705,1662 1223,1662 1223,1908 705,1908" />
+            <TextLine id="line_1781979628502_1169" custom="readingOrder {index:0;}">
+                <Coords points="741,1680 1187,1680 1187,1792 741,1792" /><Baseline points="741,1749 1187,1749" />
+                <Baseline points="778,1723 1168,1735" />
+                <TextEquiv>
+                    <Unicode>قدم دریغ مدار از جنازه حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979630955_1172" custom="readingOrder {index:1;}">
+                <Coords points="735,1806 1184,1806 1184,1911 735,1911" /><Baseline points="735,1871 1184,1871" />
+                <Baseline points="771,1862 1162,1856" />
+                <TextEquiv>
+                    <Unicode>که گر چه غرق گناه است می رود به بهشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>قدم دریغ مدار از جنازه حافظ
+که گر چه غرق گناه است می رود به بهشت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781979680166_1183" custom="readingOrder {index:3;}">
+            <Coords points="470,1915 1456,1915 1456,2649 470,2649" />
+            <TextLine id="line_1781979685919_1186" custom="readingOrder {index:0;}">
+                <Coords points="485,1925 1453,1925 1453,2048 485,2048" /><Baseline points="485,2001 1453,2001" />
+                <Baseline points="506,2004 1427,2014" />
+                <TextEquiv>
+                    <Unicode>عیب رندان مکن ای زاهد پاکیزه سرشت که گناه دگران بر تو نخواهند نوشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979689162_1189" custom="readingOrder {index:1;}">
+                <Coords points="475,2065 1439,2065 1439,2205 475,2205" /><Baseline points="475,2152 1439,2152" />
+                <Baseline points="502,2137 1407,2152" />
+                <TextEquiv>
+                    <Unicode>من اگر نیکم و گر بد تو برو خود را باش هر کسی آن درود عاقبت کار که کشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979692102_1192" custom="readingOrder {index:2;}">
+                <Coords points="475,2202 1441,2202 1441,2333 475,2333" /><Baseline points="475,2283 1441,2283" />
+                <Baseline points="514,2297 1410,2289" />
+                <TextEquiv>
+                    <Unicode>همه کس طالب یارند چه هشیار و چه مست همه جا خانه عشق است چه مسجد چه کنشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979695122_1195" custom="readingOrder {index:3;}">
+                <Coords points="480,2347 1434,2347 1434,2483 480,2483" /><Baseline points="480,2431 1434,2431" />
+                <Baseline points="560,2429 1417,2432" />
+                <TextEquiv>
+                    <Unicode>سر تسلیم من و خشت در میکده ها مدعی گر نکند فهم سخن گو سر و خشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979698654_1198" custom="readingOrder {index:4;}">
+                <Coords points="487,2504 1444,2504 1444,2632 487,2632" /><Baseline points="487,2583 1444,2583" />
+                <Baseline points="497,2560 1441,2570" />
+                <TextEquiv>
+                    <Unicode>ناامیدم مکن از سابقه لطف ازل تو پس پرده چه دانی که که خوب است و که زشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>عیب رندان مکن ای زاهد پاکیزه سرشت که گناه دگران بر تو نخواهند نوشت
+من اگر نیکم و گر بد تو برو خود را باش هر کسی آن درود عاقبت کار که کشت
+همه کس طالب یارند چه هشیار و چه مست همه جا خانه عشق است چه مسجد چه کنشت
+سر تسلیم من و خشت در میکده ها مدعی گر نکند فهم سخن گو سر و خشت
+ناامیدم مکن از سابقه لطف ازل تو پس پرده چه دانی که که خوب است و که زشت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

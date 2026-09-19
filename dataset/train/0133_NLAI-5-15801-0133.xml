@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T17:27:36.726+04:30</Created>
+        <LastChange>2026-06-21T17:45:50.697+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0133_NLAI-5-15801-0133.jpg" imageWidth="1117" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782047750699" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782046702763_521" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782046702763_521" custom="readingOrder {index:0;}">
+            <Coords points="146,1605 1007,1605 1007,156 146,156" />
+            <TextLine id="line_1782046740325_528" custom="readingOrder {index:0;}">
+                <Coords points="180,166 1003,166 1003,285 180,285" /><Baseline points="180,240 1003,240" />
+                <Baseline points="993,234 191,242" />
+                <TextEquiv>
+                    <Unicode>معدوم نشود مرکب معدوم نمیشود مثلا سکنجبین گاه باعتبار نبودن عسل معدوم است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046838081_534" custom="readingOrder {index:1;}">
+                <Coords points="178,290 996,290 996,393 178,393" /><Baseline points="178,354 996,354" />
+                <Baseline points="987,355 184,350" />
+                <TextEquiv>
+                    <Unicode>و گاه باعتبار نبودن سرکه و عسل هر دو قوله قضیه منفصله مانعه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046890661_540" custom="readingOrder {index:2;}">
+                <Coords points="183,400 1002,400 1002,516 183,516" /><Baseline points="183,472 1002,472" />
+                <Baseline points="994,479 189,478" />
+                <TextEquiv>
+                    <Unicode>الخلواه بحث کرده اند که در تناقض اختلاف در کیف شرط شده و حال آنکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046950462_546" custom="readingOrder {index:3;}">
+                <Coords points="182,531 996,531 996,638 182,638" /><Baseline points="182,597 996,597" />
+                <Baseline points="987,590 421,603 184,593" />
+                <TextEquiv>
+                    <Unicode>نقیض قضایا موجبه کلیه مختلف نیست با اصل در کیف زیرا که موجبه مانعه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047072274_552" custom="readingOrder {index:4;}">
+                <Coords points="177,651 993,651 993,757 177,757" /><Baseline points="177,717 993,717" />
+                <Baseline points="983,715 190,713" />
+                <TextEquiv>
+                    <Unicode>الحلول که مقدمش نقیض جز اول اصل است و تالیش نقیض جز ثانی اصل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047215112_558" custom="readingOrder {index:5;}">
+                <Coords points="173,769 992,769 992,893 173,893" /><Baseline points="173,846 992,846" />
+                <Baseline points="982,845 177,832" />
+                <TextEquiv>
+                    <Unicode>جواب داده اند که مراد از نقیض درین مقام لازم نقیض است و چون منفصله مرکب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047303370_567" custom="readingOrder {index:6;}">
+                <Coords points="174,900 992,900 992,1021 174,1021" /><Baseline points="174,975 992,975" />
+                <Baseline points="983,975 187,957" />
+                <TextEquiv>
+                    <Unicode>از نقیض جزیین لازم دارد رفع مرکب را لهذا اطلاق نقیض بر آن کرده اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047359116_575" custom="readingOrder {index:7;}">
+                <Coords points="174,1032 997,1032 997,1129 174,1129" /><Baseline points="174,1092 997,1092" />
+                <Baseline points="981,1092 250,1086 263,1045 180,1078" />
+                <TextEquiv>
+                    <Unicode>وله قضیه مردوده المحمول بدانکه گاه دو چیز را بعنوان تردید نسبت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047440103_581" custom="readingOrder {index:8;}">
+                <Coords points="170,1138 993,1138 993,1258 170,1258" /><Baseline points="170,1212 993,1212" />
+                <Baseline points="978,1213 177,1195" />
+                <TextEquiv>
+                    <Unicode>بموضوع واحد بدهند اگراداه انفصال مخر است از موضوع مثل العددواما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047543151_587" custom="readingOrder {index:9;}">
+                <Coords points="166,1267 980,1267 980,1384 166,1384" /><Baseline points="166,1340 980,1340" />
+                <Baseline points="969,1346 348,1330 334,1312 167,1316" />
+                <TextEquiv>
+                    <Unicode>زوج او فرد آن قضیه حملیه را شبیه منفصله اعتبار کرده اند علما منطق و اگر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047618615_593" custom="readingOrder {index:10;}">
+                <Coords points="166,1383 985,1383 985,1486 166,1486" /><Baseline points="166,1447 985,1447" />
+                <Baseline points="971,1459 170,1430" />
+                <TextEquiv>
+                    <Unicode>ادات انفصال مقدم است بر موضوع مثل اما ان یکون العدد زوجا او فردا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047681204_599" custom="readingOrder {index:11;}">
+                <Coords points="159,1489 999,1489 999,1609 159,1609" /><Baseline points="159,1563 999,1563" />
+                <Baseline points="983,1581 242,1556 230,1523 161,1549" />
+                <TextEquiv>
+                    <Unicode>آن قضیه را منفصله شبیه حملیه میدانند و مثل بحثی که در مرکبه کلیه مذکور شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>معدوم نشود مرکب معدوم نمیشود مثلا سکنجبین گاه باعتبار نبودن عسل معدوم است
+و گاه باعتبار نبودن سرکه و عسل هر دو قوله قضیه منفصله مانعه
+الخلواه بحث کرده اند که در تناقض اختلاف در کیف شرط شده و حال آنکه
+نقیض قضایا موجبه کلیه مختلف نیست با اصل در کیف زیرا که موجبه مانعه
+الحلول که مقدمش نقیض جز اول اصل است و تالیش نقیض جز ثانی اصل
+جواب داده اند که مراد از نقیض درین مقام لازم نقیض است و چون منفصله مرکب
+از نقیض جزیین لازم دارد رفع مرکب را لهذا اطلاق نقیض بر آن کرده اند
+وله قضیه مردوده المحمول بدانکه گاه دو چیز را بعنوان تردید نسبت
+بموضوع واحد بدهند اگراداه انفصال مخر است از موضوع مثل العددواما
+زوج او فرد آن قضیه حملیه را شبیه منفصله اعتبار کرده اند علما منطق و اگر
+ادات انفصال مقدم است بر موضوع مثل اما ان یکون العدد زوجا او فردا
+آن قضیه را منفصله شبیه حملیه میدانند و مثل بحثی که در مرکبه کلیه مذکور شد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

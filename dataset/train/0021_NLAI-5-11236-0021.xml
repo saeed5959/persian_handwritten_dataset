@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.591+03:30</Created>
+        <LastChange>2026-06-14T21:53:33.464+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0021_NLAI-5-11236-0021.jpg" imageWidth="1197" imageHeight="1960">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781461413485" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781460623635_961" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781460623635_961" custom="readingOrder {index:0;}">
+            <Coords points="299,510 1046,510 1046,1709 299,1709" />
+            <TextLine id="line_1781460630492_967" custom="readingOrder {index:0;}">
+                <Coords points="340,652 661,652 661,529 340,529" /><Baseline points="340,605 661,605" />
+                <Baseline points="364,598 618,596" />
+                <TextEquiv>
+                    <Unicode>شگفتی بود گر بود پیرجوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460627652_964" custom="readingOrder {index:1;}">
+                <Coords points="674,648 999,648 999,544 674,544" /><Baseline points="674,608 999,608" />
+                <Baseline points="687,591 988,611" />
+                <TextEquiv>
+                    <Unicode>چنین سرخ رخساره و مشک بوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460633532_970" custom="readingOrder {index:2;}">
+                <Coords points="674,765 1018,765 1018,651 674,651" /><Baseline points="674,722 1018,722" />
+                <Baseline points="688,718 975,729" />
+                <TextEquiv>
+                    <Unicode>جهانی سراسر پر از مهر تست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460637347_973" custom="readingOrder {index:3;}">
+                <Coords points="333,762 646,762 646,659 333,659" /><Baseline points="333,723 646,723" />
+                <Baseline points="350,714 618,722" />
+                <TextEquiv>
+                    <Unicode>بر ایوانها صورت چهرتست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460642980_979" custom="readingOrder {index:4;}">
+                <Coords points="342,898 661,898 661,763 342,763" /><Baseline points="342,847 661,847" />
+                <Baseline points="346,842 621,853" />
+                <TextEquiv>
+                    <Unicode>ز چرخ چهارم خور آیدت شوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460639675_976" custom="readingOrder {index:5;}">
+                <Coords points="675,907 994,907 994,777 675,777" /><Baseline points="675,858 994,858" />
+                <Baseline points="688,848 987,858" />
+                <TextEquiv>
+                    <Unicode>ترا با چنین روی و بالای و موی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460648251_985" custom="readingOrder {index:6;}">
+                <Coords points="332,1036 632,1036 632,908 332,908" /><Baseline points="332,987 632,987" />
+                <Baseline points="346,977 606,983" />
+                <TextEquiv>
+                    <Unicode>چو از باد آتش دلش بردمید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460645258_982" custom="readingOrder {index:7;}">
+                <Coords points="670,1045 1003,1045 1003,912 670,912" /><Baseline points="670,994 1003,994" />
+                <Baseline points="694,981 977,981" />
+                <TextEquiv>
+                    <Unicode>چو رودابه گفتار ایشان شنید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460650763_988" custom="readingOrder {index:8;}">
+                <Coords points="673,1169 991,1169 991,1032 673,1032" /><Baseline points="673,1117 991,1117" />
+                <Baseline points="687,1098 995,1107" />
+                <TextEquiv>
+                    <Unicode>برایشان یکی بانگ برزد بخشم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460653419_991" custom="readingOrder {index:9;}">
+                <Coords points="332,1157 651,1157 651,1038 332,1038" /><Baseline points="332,1112 651,1112" />
+                <Baseline points="343,1100 628,1103" />
+                <TextEquiv>
+                    <Unicode>بتابید روی و بخوابید چشم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460659747_997" custom="readingOrder {index:10;}">
+                <Coords points="337,1286 632,1286 632,1166 337,1166" /><Baseline points="337,1240 632,1240" />
+                <Baseline points="342,1228 623,1232" />
+                <TextEquiv>
+                    <Unicode>به ابرو ز خشم اندر آورد خم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460656602_994" custom="readingOrder {index:11;}">
+                <Coords points="670,1291 1015,1291 1015,1166 670,1166" /><Baseline points="670,1244 1015,1244" />
+                <Baseline points="688,1231 991,1235" />
+                <TextEquiv>
+                    <Unicode>وزان پس بخشم و به روی دژم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460662467_1000" custom="readingOrder {index:12;}">
+                <Coords points="675,1415 999,1415 999,1283 675,1283" /><Baseline points="675,1365 999,1365" />
+                <Baseline points="685,1359 989,1357" />
+                <TextEquiv>
+                    <Unicode>چنین گفت کای خام پیکارتان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460665132_1003" custom="readingOrder {index:13;}">
+                <Coords points="332,1405 632,1405 632,1291 332,1291" /><Baseline points="332,1362 632,1362" />
+                <Baseline points="346,1352 622,1355" />
+                <TextEquiv>
+                    <Unicode>شنیدن نیرزید گفتارتان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460670948_1009" custom="readingOrder {index:14;}">
+                <Coords points="335,1538 657,1538 657,1410 335,1410" /><Baseline points="335,1489 657,1489" />
+                <Baseline points="347,1481 626,1484" />
+                <TextEquiv>
+                    <Unicode>چگونه توان شاد بودن بماه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460667627_1006" custom="readingOrder {index:15;}">
+                <Coords points="682,1546 975,1546 975,1419 682,1419" /><Baseline points="682,1498 975,1498" />
+                <Baseline points="691,1486 970,1486" />
+                <TextEquiv>
+                    <Unicode>دل من چو شد بر ستاره تباه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460676627_1015" custom="readingOrder {index:16;}">
+                <Coords points="335,1643 646,1643 646,1533 335,1533" /><Baseline points="335,1601 646,1601" />
+                <Baseline points="349,1602 622,1600" />
+                <TextEquiv>
+                    <Unicode>اگر چه گل از گل ستوده تر است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781460673667_1012" custom="readingOrder {index:17;}">
+                <Coords points="675,1647 999,1647 999,1539 675,1539" /><Baseline points="675,1606 999,1606" />
+                <Baseline points="704,1601 981,1602" />
+                <TextEquiv>
+                    <Unicode>بگل ننگرد آنکه او گل خور است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شگفتی بود گر بود پیرجوی
+چنین سرخ رخساره و مشک بوی
+جهانی سراسر پر از مهر تست
+بر ایوانها صورت چهرتست
+ز چرخ چهارم خور آیدت شوی
+ترا با چنین روی و بالای و موی
+چو از باد آتش دلش بردمید
+چو رودابه گفتار ایشان شنید
+برایشان یکی بانگ برزد بخشم
+بتابید روی و بخوابید چشم
+به ابرو ز خشم اندر آورد خم
+وزان پس بخشم و به روی دژم
+چنین گفت کای خام پیکارتان
+شنیدن نیرزید گفتارتان
+چگونه توان شاد بودن بماه
+دل من چو شد بر ستاره تباه
+اگر چه گل از گل ستوده تر است
+بگل ننگرد آنکه او گل خور است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

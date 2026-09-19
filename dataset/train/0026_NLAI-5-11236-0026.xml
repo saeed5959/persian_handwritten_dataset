@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.784+03:30</Created>
+        <LastChange>2026-06-18T21:42:16.908+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0026_NLAI-5-11236-0026.jpg" imageWidth="1179" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781806336924" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781805675852_170" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781805675852_170" custom="readingOrder {index:0;}">
+            <Coords points="153,498 896,498 896,1721 153,1721" />
+            <TextLine id="line_1781805681717_173" custom="readingOrder {index:0;}">
+                <Coords points="552,630 861,630 861,541 552,541" /><Baseline points="552,596 861,596" />
+                <TextEquiv>
+                    <Unicode>کمان ترک گلرخ به زه بر نهاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805685877_176" custom="readingOrder {index:1;}">
+                <Coords points="209,630 513,630 513,551 209,551" /><Baseline points="209,600 513,600" />
+                <TextEquiv>
+                    <Unicode>به دست جهان پهلوان در نهاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805688901_179" custom="readingOrder {index:2;}">
+                <Coords points="566,761 855,761 855,651 566,651" /><Baseline points="566,719 855,719" />
+                <TextEquiv>
+                    <Unicode>بزد بانگ تا مرغ برخواست زاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805692492_182" custom="readingOrder {index:3;}">
+                <Coords points="209,773 505,773 505,654 209,654" /><Baseline points="209,728 505,728" />
+                <TextEquiv>
+                    <Unicode>همی تیر انداخت اندر شتاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805695076_185" custom="readingOrder {index:4;}">
+                <Coords points="558,893 851,893 851,775 558,775" /><Baseline points="558,848 851,848" />
+                <TextEquiv>
+                    <Unicode>ز پروازش آورد انگه فرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805700332_188" custom="readingOrder {index:5;}">
+                <Coords points="209,879 513,879 513,782 209,782" /><Baseline points="209,842 513,842" />
+                <TextEquiv>
+                    <Unicode>زخونش شده لعل رنگ آب رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805703219_191" custom="readingOrder {index:6;}">
+                <Coords points="557,995 858,995 858,901 557,901" /><Baseline points="557,959 858,959" />
+                <TextEquiv>
+                    <Unicode>بترک آنگهی گفت زانسو گذر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805705884_194" custom="readingOrder {index:7;}">
+                <Coords points="207,1024 510,1024 510,902 207,902" /><Baseline points="207,978 510,978" />
+                <TextEquiv>
+                    <Unicode>بیاور تو آن مرغ افگنده پر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805708644_197" custom="readingOrder {index:8;}">
+                <Coords points="558,1123 858,1123 858,1017 558,1017" /><Baseline points="558,1083 858,1083" />
+                <TextEquiv>
+                    <Unicode>به کشتی گذر کرد ترک سترگ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805712077_200" custom="readingOrder {index:9;}">
+                <Coords points="206,1124 499,1124 499,1028 206,1028" /><Baseline points="206,1088 499,1088" />
+                <TextEquiv>
+                    <Unicode>خرامید نزد پرستنده ترک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805719332_206" custom="readingOrder {index:10;}">
+                <Coords points="210,1256 503,1256 503,1145 210,1145" /><Baseline points="210,1214 503,1214" />
+                <TextEquiv>
+                    <Unicode>سخن گفت و بگشاد شیرین زبان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805715731_203" custom="readingOrder {index:11;}">
+                <Coords points="551,1256 843,1256 843,1165 551,1165" /><Baseline points="551,1221 843,1221" />
+                <TextEquiv>
+                    <Unicode>پرستنده باریدک پهلوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805725181_212" custom="readingOrder {index:12;}">
+                <Coords points="209,1380 501,1380 501,1270 209,1270" /><Baseline points="209,1338 501,1338" />
+                <TextEquiv>
+                    <Unicode>چه مرداست و شاه کدام انجمن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805722316_209" custom="readingOrder {index:13;}">
+                <Coords points="558,1381 852,1381 852,1271 558,1271" /><Baseline points="558,1339 852,1339" />
+                <TextEquiv>
+                    <Unicode>که این شیر بازو گو پیل تن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805728052_215" custom="readingOrder {index:14;}">
+                <Coords points="557,1507 850,1507 850,1398 557,1398" /><Baseline points="557,1466 850,1466" />
+                <TextEquiv>
+                    <Unicode>که بگشاد ازینگونه تیر از کمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805731749_218" custom="readingOrder {index:15;}">
+                <Coords points="209,1517 498,1517 498,1408 209,1408" /><Baseline points="209,1476 498,1476" />
+                <TextEquiv>
+                    <Unicode>چه سنجد به پیش اندرش بدگمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805735460_221" custom="readingOrder {index:16;}">
+                <Coords points="562,1647 846,1647 846,1514 562,1514" /><Baseline points="562,1596 846,1596" />
+                <TextEquiv>
+                    <Unicode>ندیدیم زیبنده تر زین سوار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781805739300_224" custom="readingOrder {index:17;}">
+                <Coords points="200,1637 492,1637 492,1524 200,1524" /><Baseline points="200,1594 492,1594" />
+                <TextEquiv>
+                    <Unicode>به تیر و کمان بر چنین کامگار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کمان ترک گلرخ به زه بر نهاد
+به دست جهان پهلوان در نهاد
+بزد بانگ تا مرغ برخواست زاب
+همی تیر انداخت اندر شتاب
+ز پروازش آورد انگه فرود
+زخونش شده لعل رنگ آب رود
+بترک آنگهی گفت زانسو گذر
+بیاور تو آن مرغ افگنده پر
+به کشتی گذر کرد ترک سترگ
+خرامید نزد پرستنده ترک
+سخن گفت و بگشاد شیرین زبان
+پرستنده باریدک پهلوان
+چه مرداست و شاه کدام انجمن
+که این شیر بازو گو پیل تن
+که بگشاد ازینگونه تیر از کمان
+چه سنجد به پیش اندرش بدگمان
+ندیدیم زیبنده تر زین سوار
+به تیر و کمان بر چنین کامگار</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

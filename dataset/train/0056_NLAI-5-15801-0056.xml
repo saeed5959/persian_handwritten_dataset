@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:29.905-07:00</Created>
+        <LastChange>2026-06-20T09:32:29.184-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0056_NLAI-5-15801-0056.jpg" imageWidth="1089" imageHeight="1757">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781973149247" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781911832316_814" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781911832316_814" custom="readingOrder {index:0;}">
+            <Coords points="949,1661 67,1661 67,176 949,176" />
+            <TextLine id="line_1781911850472_817" custom="readingOrder {index:0;}">
+                <Coords points="94,181 939,181 939,316 94,316" /><Baseline points="94,265 939,265" />
+                <Baseline points="928,266 119,248" />
+                <TextEquiv>
+                    <Unicode>یا معنی کرده میشود بخلاف لفظ معلوم زیرا که درکلی و جزیی هر دو مستعملست چنانکه ظاهر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781911860550_820" custom="readingOrder {index:1;}">
+                <Coords points="110,294 935,294 935,423 110,423" /><Baseline points="110,374 935,374" />
+                <Baseline points="923,374 140,361" />
+                <TextEquiv>
+                    <Unicode>میشود نزد تتبع مواضع استعمال دیگر بدانکه تعریف از رهگذر اعتبار کردن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781967188484_969" custom="readingOrder {index:2;}">
+                <Coords points="113,409 939,409 939,538 113,538" /><Baseline points="113,489 939,489" />
+                <Baseline points="930,503 120,502" />
+                <TextEquiv>
+                    <Unicode>صیغه مفرد نیز ترجیح دارد بر تعریف مشهور زیرا که در تعریف مشهور اعتبار امور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781967199046_972" custom="readingOrder {index:3;}">
+                <Coords points="114,548 946,548 946,663 114,663" /><Baseline points="114,619 946,619" />
+                <Baseline points="915,627 121,629" />
+                <TextEquiv>
+                    <Unicode>کرده اند و چنین گفته اند که فکر ترتیب امور معلومه است از برای تحصیل مجهول و بنا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781967208499_975" custom="readingOrder {index:4;}">
+                <Coords points="106,666 926,666 926,782 106,782" /><Baseline points="106,738 926,738" />
+                <Baseline points="918,746 125,746" />
+                <TextEquiv>
+                    <Unicode>برین منتقض میشود تعریف بفصل شبها یا خاصه و احتیاج میافتد در تصحیح تعریف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781967217951_978" custom="readingOrder {index:5;}">
+                <Coords points="113,778 935,778 935,900 113,900" /><Baseline points="113,854 935,854" />
+                <Baseline points="923,860 123,852" />
+                <TextEquiv>
+                    <Unicode>بتکلف و خلاف ظاهر بخلاف تعریف که بیتکلف شامل جمیع افراد معروف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781967226170_981" custom="readingOrder {index:6;}">
+                <Coords points="110,900 918,900 918,1043 110,1043" /><Baseline points="110,989 918,989" />
+                <Baseline points="910,989 134,983" />
+                <TextEquiv>
+                    <Unicode>قوله لیعترف منها احکام جزییات موضوعها باینطریق که جزیی موضوعرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781967246294_984" custom="readingOrder {index:7;}">
+                <Coords points="108,1027 937,1027 937,1154 108,1154" /><Baseline points="108,1106 937,1106" />
+                <Baseline points="928,1112 121,1106" />
+                <TextEquiv>
+                    <Unicode>موضوع صغری سازنده و وصف عنوانی موضوع قضیه را محمول صغرا و قضیه کلیه را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781967259184_987" custom="readingOrder {index:8;}">
+                <Coords points="95,1138 940,1138 940,1290 95,1290" /><Baseline points="95,1232 940,1232" />
+                <Baseline points="917,1229 123,1233" />
+                <TextEquiv>
+                    <Unicode>کبری سازنده و ازینجا جزیی موضوع ثابت میشود مثلا چنین گویند که زید فاعلست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781967270356_990" custom="readingOrder {index:9;}">
+                <Coords points="102,1291 927,1291 927,1399 102,1399" /><Baseline points="102,1358 927,1358" />
+                <Baseline points="919,1357 117,1355" />
+                <TextEquiv>
+                    <Unicode>و هر فاعل مرفوع پس زید مرفوعست و اطلاق لفظ قانون برمنطق باعتبار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781967280793_993" custom="readingOrder {index:10;}">
+                <Coords points="941,1405 138,1405 138,1537 941,1537" /><Baseline points="138,1487 941,1487" />
+                <Baseline points="919,1478 150,1489" />
+                <TextEquiv>
+                    <Unicode>آن است که مشتملست بر قوانین کلیهپس از قبیل تسمیه کلست باسم جز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781967289543_996" custom="readingOrder {index:11;}">
+                <Coords points="82,1511 914,1511 914,1646 82,1646" /><Baseline points="82,1595 914,1595" />
+                <Baseline points="911,1596 94,1595" />
+                <TextEquiv>
+                    <Unicode>قوله و اما بواسطه بدانکه و جمع کثیری از متاخرین گفته اند که مراد بعرض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یا معنی کرده میشود بخلاف لفظ معلوم زیرا که درکلی و جزیی هر دو مستعملست چنانکه ظاهر
+میشود نزد تتبع مواضع استعمال دیگر بدانکه تعریف از رهگذر اعتبار کردن
+صیغه مفرد نیز ترجیح دارد بر تعریف مشهور زیرا که در تعریف مشهور اعتبار امور
+کرده اند و چنین گفته اند که فکر ترتیب امور معلومه است از برای تحصیل مجهول و بنا
+برین منتقض میشود تعریف بفصل شبها یا خاصه و احتیاج میافتد در تصحیح تعریف
+بتکلف و خلاف ظاهر بخلاف تعریف که بیتکلف شامل جمیع افراد معروف است
+قوله لیعترف منها احکام جزییات موضوعها باینطریق که جزیی موضوعرا
+موضوع صغری سازنده و وصف عنوانی موضوع قضیه را محمول صغرا و قضیه کلیه را
+کبری سازنده و ازینجا جزیی موضوع ثابت میشود مثلا چنین گویند که زید فاعلست
+و هر فاعل مرفوع پس زید مرفوعست و اطلاق لفظ قانون برمنطق باعتبار
+آن است که مشتملست بر قوانین کلیهپس از قبیل تسمیه کلست باسم جز
+قوله و اما بواسطه بدانکه و جمع کثیری از متاخرین گفته اند که مراد بعرض</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

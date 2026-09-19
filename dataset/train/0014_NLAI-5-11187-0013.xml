@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:43.057+03:30</Created>
+        <LastChange>2026-06-21T18:16:33.226+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0014_NLAI-5-11187-0013.jpg" imageWidth="587" imageHeight="1071">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782053193289" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782049759326_714" />
+                <RegionRefIndexed index="1" regionRef="region_1782049835799_725" />
+                <RegionRefIndexed index="2" regionRef="region_1782049995086_738" />
+                <RegionRefIndexed index="3" regionRef="region_1782050337485_749" />
+                <RegionRefIndexed index="4" regionRef="region_1782050563489_763" />
+                <RegionRefIndexed index="5" regionRef="region_1782050790615_779" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782049759326_714" custom="readingOrder {index:0;}">
+            <Coords points="293,285 475,285 475,380 293,380" />
+            <TextLine id="line_1782049765357_717" custom="readingOrder {index:0;}">
+                <Coords points="291,287 473,287 474,338 292,338" /><Baseline points="291,319 474,319" />
+                <TextEquiv>
+                    <Unicode>بطن المر عدوه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049800032_721" custom="readingOrder {index:1;}">
+                <Coords points="294,337 475,337 475,382 294,382" /><Baseline points="294,365 475,365" />
+                <TextEquiv>
+                    <Unicode>شکم مرد دشمن است اورا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بطن المر عدوه
+شکم مرد دشمن است اورا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782049835799_725" custom="readingOrder {index:1;}">
+            <Coords points="211,379 555,379 555,505 211,505" />
+            <TextLine id="line_1782049845409_728" custom="readingOrder {index:0;}">
+                <Coords points="213,381 556,381 556,454 213,454" /><Baseline points="213,426 556,426" />
+                <TextEquiv>
+                    <Unicode>بشکم کرد جدت ادم را کید شیطان بمعصیت منسوب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049943311_734" custom="readingOrder {index:1;}">
+                <Coords points="213,452 554,452 554,506 213,506" /><Baseline points="213,485 554,485" />
+                <TextEquiv>
+                    <Unicode>پس بود دشمن تو و ان را بندگی تو بدترین عیوب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بشکم کرد جدت ادم را کید شیطان بمعصیت منسوب
+پس بود دشمن تو و ان را بندگی تو بدترین عیوب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782049995086_738" custom="readingOrder {index:2;}">
+            <Coords points="293,507 474,507 473,612 294,612" />
+            <TextLine id="line_1782050004007_741" custom="readingOrder {index:0;}">
+                <Coords points="293,507 475,507 475,564 293,564" /><Baseline points="293,542 475,542" />
+                <TextEquiv>
+                    <Unicode>باکرلقد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050038916_745" custom="readingOrder {index:1;}">
+                <Coords points="293,565 476,565 475,612 294,612" /><Baseline points="293,594 476,594" />
+                <TextEquiv>
+                    <Unicode>صبحگاهان برخیز تا سعادت یابی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>باکرلقد
+صبحگاهان برخیز تا سعادت یابی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782050337485_749" custom="readingOrder {index:3;}">
+            <Coords points="214,613 547,613 547,737 214,737" />
+            <TextLine id="line_1782050383768_755" custom="readingOrder {index:0;}">
+                <Coords points="215,613 547,613 547,679 215,679" /><Baseline points="215,654 547,654" />
+                <TextEquiv>
+                    <Unicode>بسعادت اگر ترامیل است بی تامل پی عبادت شب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050451153_759" custom="readingOrder {index:1;}">
+                <Coords points="215,678 548,678 548,738 215,738" /><Baseline points="215,715 548,715" />
+                <TextEquiv>
+                    <Unicode>برقع ازرخ چنان فروهل و خیز که مکر برتو نیش زدعقرب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بسعادت اگر ترامیل است بی تامل پی عبادت شب
+برقع ازرخ چنان فروهل و خیز که مکر برتو نیش زدعقرب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782050563489_763" custom="readingOrder {index:4;}">
+            <Coords points="294,737 478,737 476,843 294,838" />
+            <TextLine id="line_1782050570834_766" custom="readingOrder {index:0;}">
+                <Coords points="294,736 476,736 475,790 294,789" /><Baseline points="294,769 476,769" />
+                <TextEquiv>
+                    <Unicode>بشاشه المعطی عطیه ثانتیه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050680265_770" custom="readingOrder {index:1;}">
+                <Coords points="294,790 479,790 479,843 294,839" /><Baseline points="294,823 479,823" />
+                <TextEquiv>
+                    <Unicode>گشاده رویی عطا کننده عطای دوباره است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بشاشه المعطی عطیه ثانتیه
+گشاده رویی عطا کننده عطای دوباره است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782050790615_779" custom="readingOrder {index:5;}">
+            <Coords points="214,838 547,838 547,949 214,949" />
+            <TextLine id="line_1782050807656_782" custom="readingOrder {index:0;}">
+                <Coords points="215,838 549,838 549,901 215,901" /><Baseline points="215,877 549,877" />
+                <TextEquiv>
+                    <Unicode>بارخ منبسط ثواب زجود باشد و هست از انقباض خراب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782050868502_786" custom="readingOrder {index:1;}">
+                <Coords points="215,900 547,900 547,948 215,948" /><Baseline points="215,930 547,930" />
+                <TextEquiv>
+                    <Unicode>با سخاوت بشاشت معطی است بهر سایل عطا دوباره حساب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بارخ منبسط ثواب زجود باشد و هست از انقباض خراب
+با سخاوت بشاشت معطی است بهر سایل عطا دوباره حساب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

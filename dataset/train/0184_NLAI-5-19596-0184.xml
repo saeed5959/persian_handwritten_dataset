@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.059+04:30</Created>
+        <LastChange>2026-06-21T10:19:58.130+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="5" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0184_NLAI-5-19596-0184.jpg" imageWidth="1506" imageHeight="2826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782020998131" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782020159561_75" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782020159561_75" custom="readingOrder {index:0;}">
+            <Coords points="1131,423 101,423 101,2635 1131,2635" />
+            <TextLine id="line_1782020168263_78" custom="readingOrder {index:0;}">
+                <Coords points="1113,569 106,569 106,431 1113,431" /><Baseline points="106,517 1113,517" />
+                <Baseline points="129,544 1083,548" />
+                <TextEquiv>
+                    <Unicode>زلف هندوی تو گفتم کخ دگر ره نزند سالها رفت و بدان سیرت و سان است که بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020173908_81" custom="readingOrder {index:1;}">
+                <Coords points="98,568 1113,568 1113,720 98,720" /><Baseline points="98,662 1113,662" />
+                <Baseline points="127,692 1078,693" />
+                <TextEquiv>
+                    <Unicode>زنگ خون دل ما را که نهان میکردی همچنان در لب لعل تو عیان است که بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020177649_84" custom="readingOrder {index:2;}">
+                <Coords points="881,758 386,758 386,876 881,876" /><Baseline points="386,831 881,831" />
+                <Baseline points="431,853 850,839" />
+                <TextEquiv>
+                    <Unicode>حافظا بازنما قصه خونابه چشم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020179682_87" custom="readingOrder {index:3;}">
+                <Coords points="386,876 853,876 853,1017 386,1017" /><Baseline points="386,963 853,963" />
+                <Baseline points="415,964 838,978" />
+                <TextEquiv>
+                    <Unicode>که در این چشمه همان آب روان است که بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020185192_90" custom="readingOrder {index:4;}">
+                <Coords points="1111,1163 120,1163 120,1009 1111,1009" /><Baseline points="120,1104 1111,1104" />
+                <Baseline points="131,1136 1089,1143" />
+                <TextEquiv>
+                    <Unicode>قتل این خسته به شمشیر تو تقدیر نبود ور نه هیچ از دل بی رحم تو تقصیر نبود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020187994_93" custom="readingOrder {index:5;}">
+                <Coords points="114,1163 1112,1163 1112,1320 114,1320" /><Baseline points="114,1260 1112,1260" />
+                <Baseline points="139,1278 1090,1280" />
+                <TextEquiv>
+                    <Unicode>یا رب این آینه حسن چه جوهر دارد که در او آه مرا قوت تاثیر نبود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020190776_96" custom="readingOrder {index:6;}">
+                <Coords points="1098,1317 112,1317 112,1459 1098,1459" /><Baseline points="112,1405 1098,1405" />
+                <Baseline points="136,1422 1084,1432" />
+                <TextEquiv>
+                    <Unicode>من دیوانه چو زلف تو رها میکردم هیچ لایق ترم از حلقه زنجیر نبود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020196176_99" custom="readingOrder {index:7;}">
+                <Coords points="98,1604 1104,1604 1104,1450 98,1450" /><Baseline points="98,1545 1104,1545" />
+                <Baseline points="156,1563 1081,1580" />
+                <TextEquiv>
+                    <Unicode>سر ز حسرت به در میکده ها برکردم چون شناسای تو در صومعه یک پیر نبود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020199768_102" custom="readingOrder {index:8;}">
+                <Coords points="1119,1606 100,1606 100,1764 1119,1764" /><Baseline points="100,1704 1119,1704" />
+                <Baseline points="139,1712 1091,1722" />
+                <TextEquiv>
+                    <Unicode>نازنین تر ز قدت در چمن ناز نرست خوشتر از نقش تو در عالم تصویر نبود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020203575_105" custom="readingOrder {index:9;}">
+                <Coords points="100,1757 1108,1757 1108,1892 100,1892" /><Baseline points="100,1841 1108,1841" />
+                <Baseline points="132,1839 1091,1866" />
+                <TextEquiv>
+                    <Unicode>تا مگر همچو صبا باز به کوی تو رسم حاصلم دوش به جز ناله شبگیر نبود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020208466_108" custom="readingOrder {index:10;}">
+                <Coords points="1111,1888 103,1888 103,2031 1111,2031" /><Baseline points="103,1977 1111,1977" />
+                <Baseline points="143,1991 1087,2004" />
+                <TextEquiv>
+                    <Unicode>آن کشیدم ز تو ای آتش هجران که چو شمع جز فنای خودم از دست تو تدبیر نبود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020212459_111" custom="readingOrder {index:11;}">
+                <Coords points="851,2194 395,2194 395,2043 851,2043" /><Baseline points="395,2137 851,2137" />
+                <Baseline points="408,2145 816,2165" />
+                <TextEquiv>
+                    <Unicode>آیتی بود عذاب انده حافظ بی تو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020214925_114" custom="readingOrder {index:12;}">
+                <Coords points="397,2202 843,2202 843,2344 397,2344" /><Baseline points="397,2290 843,2290" />
+                <Baseline points="435,2302 818,2302" />
+                <TextEquiv>
+                    <Unicode>که بر هیچ گسش حاجت تفسیر نبود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020218635_117" custom="readingOrder {index:13;}">
+                <Coords points="1119,2482 102,2482 102,2335 1119,2335" /><Baseline points="102,2426 1119,2426" />
+                <Baseline points="124,2429 1079,2447" />
+                <TextEquiv>
+                    <Unicode>یاد باد آن که نهانت نظری با ما بود رقم مهر تو بر چهره ما پیدا بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782020221081_120" custom="readingOrder {index:14;}">
+                <Coords points="108,2475 1095,2475 1095,2642 108,2642" /><Baseline points="108,2579 1095,2579" />
+                <Baseline points="127,2568 1072,2590" />
+                <TextEquiv>
+                    <Unicode>یاد باد آن که خرابات نشین بودم و مست و آنچه در مسجدم امروز کم است آنجا بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>زلف هندوی تو گفتم کخ دگر ره نزند سالها رفت و بدان سیرت و سان است که بود
+زنگ خون دل ما را که نهان میکردی همچنان در لب لعل تو عیان است که بود
+حافظا بازنما قصه خونابه چشم
+که در این چشمه همان آب روان است که بود
+قتل این خسته به شمشیر تو تقدیر نبود ور نه هیچ از دل بی رحم تو تقصیر نبود
+یا رب این آینه حسن چه جوهر دارد که در او آه مرا قوت تاثیر نبود
+من دیوانه چو زلف تو رها میکردم هیچ لایق ترم از حلقه زنجیر نبود
+سر ز حسرت به در میکده ها برکردم چون شناسای تو در صومعه یک پیر نبود
+نازنین تر ز قدت در چمن ناز نرست خوشتر از نقش تو در عالم تصویر نبود
+تا مگر همچو صبا باز به کوی تو رسم حاصلم دوش به جز ناله شبگیر نبود
+آن کشیدم ز تو ای آتش هجران که چو شمع جز فنای خودم از دست تو تدبیر نبود
+آیتی بود عذاب انده حافظ بی تو
+که بر هیچ گسش حاجت تفسیر نبود
+یاد باد آن که نهانت نظری با ما بود رقم مهر تو بر چهره ما پیدا بود
+یاد باد آن که خرابات نشین بودم و مست و آنچه در مسجدم امروز کم است آنجا بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

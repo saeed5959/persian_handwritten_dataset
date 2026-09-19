@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T19:59:33.404+03:30</Created>
+        <LastChange>2026-06-27T18:13:32.361+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0104_NLAI-5-19596-0104.jpg" imageWidth="1591" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782571412392" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782569801473_921" />
+                <RegionRefIndexed index="1" regionRef="region_1782569908072_937" />
+                <RegionRefIndexed index="2" regionRef="region_1782570022367_952" />
+                <RegionRefIndexed index="3" regionRef="region_1782570911583_1034" />
+                <RegionRefIndexed index="4" regionRef="region_1782571077938_1049" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782569801473_921" custom="readingOrder {index:0;}">
+            <Coords points="108,449 1092,449 1092,617 108,617" />
+            <TextLine id="line_1782569878156_930" custom="readingOrder {index:0;}">
+                <Coords points="121,465 571,465 571,618 121,618" /><Baseline points="121,560 571,560" />
+                <Baseline points="132,517 546,544" />
+                <TextEquiv>
+                    <Unicode>کآن کس که پخته شد می چون ارغوان گرفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782569809221_924" custom="readingOrder {index:1;}">
+                <Coords points="616,473 1076,473 1076,608 616,608" /><Baseline points="616,557 1076,557" />
+                <Baseline points="631,527 1067,548" />
+                <TextEquiv>
+                    <Unicode>بر برگ گل بخون شقایق نوشته اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کآن کس که پخته شد می چون ارغوان گرفت
+بر برگ گل بخون شقایق نوشته اند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782569908072_937" custom="readingOrder {index:1;}">
+            <Coords points="386,624 853,624 853,883 386,883" />
+            <TextLine id="line_1782569918304_940" custom="readingOrder {index:0;}">
+                <Coords points="392,628 841,628 841,762 392,762" /><Baseline points="392,711 841,711" />
+                <Baseline points="408,713 832,682" />
+                <TextEquiv>
+                    <Unicode>حافظ چو آب لطف ز نظم تو می چکد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782569951242_946" custom="readingOrder {index:1;}">
+                <Coords points="396,769 843,769 843,886 396,886" /><Baseline points="396,842 843,842" />
+                <Baseline points="408,819 814,825" />
+                <TextEquiv>
+                    <Unicode>حاسد چگونه نکته تواند بر آن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ چو آب لطف ز نظم تو می چکد
+حاسد چگونه نکته تواند بر آن</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782570022367_952" custom="readingOrder {index:2;}">
+            <Coords points="111,882 1124,882 1124,1764 111,1764" />
+            <TextLine id="line_1782570116728_961" custom="readingOrder {index:0;}">
+                <Coords points="122,902 570,902 570,1034 122,1034" /><Baseline points="122,984 570,984" />
+                <Baseline points="128,969 540,966" />
+                <TextEquiv>
+                    <Unicode>کنج میخانه در خانه ارادت رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782570038879_955" custom="readingOrder {index:1;}">
+                <Coords points="636,915 1083,915 1083,1037 636,1037" /><Baseline points="636,991 1083,991" />
+                <Baseline points="659,965 1068,975" />
+                <TextEquiv>
+                    <Unicode>هرآن خجسته نظر که بی سعادت رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782570162827_967" custom="readingOrder {index:2;}">
+                <Coords points="641,1052 1077,1052 1077,1185 641,1185" /><Baseline points="641,1134 1077,1134" />
+                <Baseline points="654,1107 1068,1110" />
+                <TextEquiv>
+                    <Unicode>بر طل نیمه شبی کشف کرد سالک راه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782570305057_973" custom="readingOrder {index:3;}">
+                <Coords points="122,1053 558,1053 558,1173 122,1173" /><Baseline points="122,1127 558,1127" />
+                <Baseline points="129,1095 540,1124" />
+                <TextEquiv>
+                    <Unicode>رموز عشق که در عالم شهادت رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782570420000_990" custom="readingOrder {index:4;}">
+                <Coords points="122,1183 558,1183 558,1327 122,1327" /><Baseline points="122,1272 558,1272" />
+                <Baseline points="129,1240 543,1263" />
+                <TextEquiv>
+                    <Unicode>ز فیض روح قدس نکته از سعادت رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782570355327_979" custom="readingOrder {index:5;}">
+                <Coords points="645,1189 1091,1189 1091,1333 645,1333" /><Baseline points="645,1278 1091,1278" />
+                <Baseline points="665,1261 1071,1264" />
+                <TextEquiv>
+                    <Unicode>بیا و معرفت از من شنوکه در سخنم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782570598580_1002" custom="readingOrder {index:6;}">
+                <Coords points="128,1330 572,1330 572,1470 128,1470" /><Baseline points="128,1417 572,1417" />
+                <Baseline points="134,1384 554,1393" />
+                <TextEquiv>
+                    <Unicode>که این معامله با کوکب ولادت رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782570556089_996" custom="readingOrder {index:7;}">
+                <Coords points="645,1342 1092,1342 1092,1467 645,1467" /><Baseline points="645,1420 1092,1420" />
+                <Baseline points="660,1389 1082,1396" />
+                <TextEquiv>
+                    <Unicode>محجور ز طالع مولود من به جز رندی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782570669768_1014" custom="readingOrder {index:8;}">
+                <Coords points="132,1479 569,1479 569,1618 132,1618" /><Baseline points="132,1565 569,1565" />
+                <Baseline points="141,1539 551,1549" />
+                <TextEquiv>
+                    <Unicode>وظیفه می دوشین مگر ز یادت رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782570632386_1008" custom="readingOrder {index:9;}">
+                <Coords points="651,1485 1091,1485 1091,1611 651,1611" /><Baseline points="651,1563 1091,1563" />
+                <Baseline points="662,1554 1082,1552" />
+                <TextEquiv>
+                    <Unicode>ز بامداد و به طرز دگر برآمده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782570815038_1020" custom="readingOrder {index:10;}">
+                <Coords points="644,1627 1109,1627 1109,1749 644,1749" /><Baseline points="644,1703 1109,1703" />
+                <Baseline points="666,1711 1086,1677" />
+                <TextEquiv>
+                    <Unicode>مگر به معجزه او شد طبیب عیسی دم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782570867531_1026" custom="readingOrder {index:11;}">
+                <Coords points="132,1630 569,1630 569,1764 132,1764" /><Baseline points="132,1713 569,1713" />
+                <Baseline points="144,1687 546,1696" />
+                <TextEquiv>
+                    <Unicode>چرا که کار من خسته از عیادت رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کنج میخانه در خانه ارادت رفت
+هرآن خجسته نظر که بی سعادت رفت
+بر طل نیمه شبی کشف کرد سالک راه
+رموز عشق که در عالم شهادت رفت
+ز فیض روح قدس نکته از سعادت رفت
+بیا و معرفت از من شنوکه در سخنم
+که این معامله با کوکب ولادت رفت
+محجور ز طالع مولود من به جز رندی
+وظیفه می دوشین مگر ز یادت رفت
+ز بامداد و به طرز دگر برآمده
+مگر به معجزه او شد طبیب عیسی دم
+چرا که کار من خسته از عیادت رفت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782570911583_1034" custom="readingOrder {index:3;}">
+            <Coords points="333,1768 858,1768 858,2064 333,2064" />
+            <TextLine id="line_1782570921582_1037" custom="readingOrder {index:0;}">
+                <Coords points="339,1779 846,1779 846,1902 339,1902" /><Baseline points="339,1855 846,1855" />
+                <Baseline points="348,1846 833,1840" />
+                <TextEquiv>
+                    <Unicode>هر از شکر که حافظ ز راه میکده دوش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782571036587_1043" custom="readingOrder {index:1;}">
+                <Coords points="342,1914 849,1914 849,2058 342,2058" /><Baseline points="342,2003 849,2003" />
+                <Baseline points="351,1999 806,1984" />
+                <TextEquiv>
+                    <Unicode>به کنج زاویه و خانه عبادت رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>هر از شکر که حافظ ز راه میکده دوش
+به کنج زاویه و خانه عبادت رفت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782571077938_1049" custom="readingOrder {index:4;}">
+            <Coords points="134,2064 1131,2064 1131,2627 134,2627" />
+            <TextLine id="line_1782571168717_1060" custom="readingOrder {index:0;}">
+                <Coords points="143,2069 589,2069 589,2202 143,2202" /><Baseline points="143,2151 589,2151" />
+                <Baseline points="162,2115 561,2129" />
+                <TextEquiv>
+                    <Unicode>هجر ما را نیست پایان الغیاث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782571087951_1052" custom="readingOrder {index:1;}">
+                <Coords points="645,2086 1107,2086 1107,2190 645,2190" /><Baseline points="645,2150 1107,2150" />
+                <Baseline points="669,2135 1098,2133" />
+                <TextEquiv>
+                    <Unicode>درد ما را نیست درمان الغیاث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782571207825_1066" custom="readingOrder {index:2;}">
+                <Coords points="650,2192 1114,2192 1114,2343 650,2343" /><Baseline points="650,2286 1114,2286" />
+                <Baseline points="675,2262 1104,2275" />
+                <TextEquiv>
+                    <Unicode>دین و دل بردند و قصد جان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782571239878_1072" custom="readingOrder {index:3;}">
+                <Coords points="148,2212 585,2212 585,2331 148,2331" /><Baseline points="148,2286 585,2286" />
+                <Baseline points="160,2256 576,2267" />
+                <TextEquiv>
+                    <Unicode>الغیاث از جور خوبان الغیاث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782571316870_1084" custom="readingOrder {index:4;}">
+                <Coords points="155,2344 587,2344 587,2494 155,2494" /><Baseline points="155,2437 587,2437" />
+                <Baseline points="171,2404 569,2416" />
+                <TextEquiv>
+                    <Unicode>می کنند این دلستانان الغیاث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782571277761_1078" custom="readingOrder {index:5;}">
+                <Coords points="669,2372 1118,2372 1118,2477 669,2477" /><Baseline points="669,2437 1118,2437" />
+                <Baseline points="697,2430 1106,2418" />
+                <TextEquiv>
+                    <Unicode>در بهای بوسه جانی طلب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782571353206_1090" custom="readingOrder {index:6;}">
+                <Coords points="677,2483 1127,2483 1127,2620 677,2620" /><Baseline points="677,2568 1127,2568" />
+                <Baseline points="697,2545 1113,2547" />
+                <TextEquiv>
+                    <Unicode>خون ما خوردند این کافردلان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782571385157_1096" custom="readingOrder {index:7;}">
+                <Coords points="155,2496 592,2496 592,2618 155,2618" /><Baseline points="155,2572 592,2572" />
+                <Baseline points="163,2542 576,2554" />
+                <TextEquiv>
+                    <Unicode>ای مسلمانان چه درمان الغیاث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>هجر ما را نیست پایان الغیاث
+درد ما را نیست درمان الغیاث
+دین و دل بردند و قصد جان کنند
+الغیاث از جور خوبان الغیاث
+می کنند این دلستانان الغیاث
+در بهای بوسه جانی طلب
+خون ما خوردند این کافردلان
+ای مسلمانان چه درمان الغیاث</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

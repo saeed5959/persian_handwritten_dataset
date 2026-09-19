@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-27T18:30:08.957+03:30</Created>
+        <LastChange>2026-07-01T12:51:43.203+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0016_NLAI-5-15801-0016.jpg" imageWidth="1067" imageHeight="1776">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782897703214" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782896454046_689" />
+                <RegionRefIndexed index="1" regionRef="region_1782896470818_698" />
+                <RegionRefIndexed index="2" regionRef="region_1782896485832_707" />
+                <RegionRefIndexed index="3" regionRef="region_1782896509506_718" />
+                <RegionRefIndexed index="4" regionRef="region_1782896530776_727" />
+                <RegionRefIndexed index="5" regionRef="region_1782896595038_745" />
+                <RegionRefIndexed index="6" regionRef="region_1782896613398_754" />
+                <RegionRefIndexed index="7" regionRef="region_1782896632966_763" />
+                <RegionRefIndexed index="8" regionRef="region_1782896650138_772" />
+                <RegionRefIndexed index="9" regionRef="region_1782896670573_781" />
+                <RegionRefIndexed index="10" regionRef="region_1782896689015_790" />
+                <RegionRefIndexed index="11" regionRef="region_1782896706829_799" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782896454046_689" custom="readingOrder {index:0;}">
+            <Coords points="60,202 934,202 934,318 60,318" />
+            <TextLine id="line_1782896459207_692" custom="readingOrder {index:0;}">
+                <Coords points="53,196 947,196 947,320 53,320" /><Baseline points="53,273 947,273" />
+                <Baseline points="87,266 879,275" />
+                <TextEquiv>
+                    <Unicode>و برمان ولا یخفی لطفه یعنی مخفی نیست خوبی این حل دقیق که از برای الحمدالله کرده شده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و برمان ولا یخفی لطفه یعنی مخفی نیست خوبی این حل دقیق که از برای الحمدالله کرده شده</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782896470818_698" custom="readingOrder {index:1;}">
+            <Coords points="69,331 930,331 930,443 69,443" />
+            <TextLine id="line_1782896474871_701" custom="readingOrder {index:0;}">
+                <Coords points="71,335 917,335 917,447 71,447" /><Baseline points="71,404 917,404" />
+                <Baseline points="94,391 883,387" />
+                <TextEquiv>
+                    <Unicode>چه از سیاق قضیه الحمدالله حکم و علت حکم و اختصاص حکم هر سه معلوم شده است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چه از سیاق قضیه الحمدالله حکم و علت حکم و اختصاص حکم هر سه معلوم شده است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782896485832_707" custom="readingOrder {index:2;}">
+            <Coords points="43,448 915,448 915,566 43,566" />
+            <TextLine id="line_1782896489790_710" custom="readingOrder {index:0;}">
+                <Coords points="38,455 853,455 853,575 38,575" /><Baseline points="38,529 853,529" />
+                <Baseline points="86,478 648,514" />
+                <TextEquiv>
+                    <Unicode>حاصل دلیل این است که اگر هدایت در این ایه به معنی ایصال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حاصل دلیل این است که اگر هدایت در این ایه به معنی ایصال</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782896509506_718" custom="readingOrder {index:3;}">
+            <Coords points="94,600 901,600 901,703 94,703" />
+            <TextLine id="line_1782896514387_721" custom="readingOrder {index:0;}">
+                <Coords points="76,592 904,592 904,704 76,704" /><Baseline points="76,661 904,661" />
+                <Baseline points="110,629 893,617" />
+                <TextEquiv>
+                    <Unicode>مطلوب باشد درست نیست زیرا که معقول نیست کفر وضلال بعد از در یافتن ایمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مطلوب باشد درست نیست زیرا که معقول نیست کفر وضلال بعد از در یافتن ایمان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782896530776_727" custom="readingOrder {index:4;}">
+            <Coords points="83,715 899,715 899,817 83,817" />
+            <TextLine id="line_1782896566939_739" custom="readingOrder {index:0;}">
+                <Coords points="78,711 898,711 898,816 78,816" /><Baseline points="78,776 898,776" />
+                <Baseline points="104,780 889,754" />
+                <TextEquiv>
+                    <Unicode>و حال انکه مضمون ایه بنابر این این است که ما قوم ثمود را هدایت کردیم یعنی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و حال انکه مضمون ایه بنابر این این است که ما قوم ثمود را هدایت کردیم یعنی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782896595038_745" custom="readingOrder {index:5;}">
+            <Coords points="72,843 940,843 940,949 72,949" />
+            <TextLine id="line_1782896599762_748" custom="readingOrder {index:0;}">
+                <Coords points="75,839 943,839 943,956 75,956" /><Baseline points="75,912 943,912" />
+                <Baseline points="110,885 916,874" />
+                <TextEquiv>
+                    <Unicode>یعنی بدین حق رساندیم و ایشان کفر را که عمی کنایه از داست اختیار کرده اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یعنی بدین حق رساندیم و ایشان کفر را که عمی کنایه از داست اختیار کرده اند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782896613398_754" custom="readingOrder {index:6;}">
+            <Coords points="59,924 920,924 920,1076 59,1076" />
+            <TextLine id="line_1782896617480_757" custom="readingOrder {index:0;}">
+                <Coords points="52,913 935,913 935,1074 52,1074" /><Baseline points="52,1013 935,1013" />
+                <Baseline points="87,992 908,990" />
+                <TextEquiv>
+                    <Unicode>طریق و محشی در حاشیه اش بر حاشیه تهذیب علامه دوانی بحث کرده که لانم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>طریق و محشی در حاشیه اش بر حاشیه تهذیب علامه دوانی بحث کرده که لانم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782896632966_763" custom="readingOrder {index:7;}">
+            <Coords points="94,1083 923,1083 923,1183 94,1183" />
+            <TextLine id="line_1782896638768_766" custom="readingOrder {index:0;}">
+                <Coords points="78,1088 919,1088 919,1187 78,1187" /><Baseline points="78,1149 919,1149" />
+                <Baseline points="111,1127 900,1120" />
+                <TextEquiv>
+                    <Unicode>که ضلال بعد از وصول مقصورنیت زیرا که ضلال بعد از هدایت ممکن است که حاصل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که ضلال بعد از وصول مقصورنیت زیرا که ضلال بعد از هدایت ممکن است که حاصل</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782896650138_772" custom="readingOrder {index:8;}">
+            <Coords points="90,1197 907,1197 907,1302 90,1302" />
+            <TextLine id="line_1782896656404_775" custom="readingOrder {index:0;}">
+                <Coords points="93,1198 906,1198 906,1303 93,1303" /><Baseline points="93,1263 906,1263" />
+                <Baseline points="104,1266 903,1247" />
+                <TextEquiv>
+                    <Unicode>شود با غوا شیطان چنانکه میباشم که مومن مرتد میشود و جواب از این بحث انکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شود با غوا شیطان چنانکه میباشم که مومن مرتد میشود و جواب از این بحث انکه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782896670573_781" custom="readingOrder {index:9;}">
+            <Coords points="86,1312 889,1312 889,1427 86,1427" />
+            <TextLine id="line_1782896676406_784" custom="readingOrder {index:0;}">
+                <Coords points="84,1312 911,1312 911,1431 84,1431" /><Baseline points="84,1386 911,1386" />
+                <Baseline points="101,1384 904,1363" />
+                <TextEquiv>
+                    <Unicode>مراد از ضلال بعد از وصول این است که هر که را خدای تعالی هدایت کند و سبب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مراد از ضلال بعد از وصول این است که هر که را خدای تعالی هدایت کند و سبب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782896689015_790" custom="readingOrder {index:10;}">
+            <Coords points="57,1435 929,1435 929,1544 57,1544" />
+            <TextLine id="line_1782896694084_793" custom="readingOrder {index:0;}">
+                <Coords points="43,1432 937,1432 937,1545 43,1545" /><Baseline points="43,1502 937,1502" />
+                <Baseline points="92,1506 907,1475" />
+                <TextEquiv>
+                    <Unicode>هدایت او بحق واصل شود بضلالت نمی افتد این سخن از ایه کریمه و من یهدی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>هدایت او بحق واصل شود بضلالت نمی افتد این سخن از ایه کریمه و من یهدی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782896706829_799" custom="readingOrder {index:11;}">
+            <Coords points="88,1559 934,1559 934,1639 88,1639" />
+            <TextLine id="line_1782896712838_802" custom="readingOrder {index:0;}">
+                <Coords points="86,1557 929,1557 929,1644 86,1644" /><Baseline points="86,1611 929,1611" />
+                <Baseline points="110,1610 902,1590" />
+                <TextEquiv>
+                    <Unicode>الله فما له من مضل مستنبط است پس بنابر این ان کسانی که مرتد میشوند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>الله فما له من مضل مستنبط است پس بنابر این ان کسانی که مرتد میشوند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

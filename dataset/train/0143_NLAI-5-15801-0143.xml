@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-23T17:33:01.331+04:30</Created>
+        <LastChange>2026-06-23T17:53:29.669+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0143_NLAI-5-15801-0143.jpg" imageWidth="1117" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782221009670" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782219829291_1479" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782219829291_1479" custom="readingOrder {index:0;}">
+            <Coords points="149,1655 1028,1655 1028,171 149,171" />
+            <TextLine id="line_1782219858820_1482" custom="readingOrder {index:0;}">
+                <Coords points="172,174 1017,174 1017,305 172,305" /><Baseline points="172,255 1017,255" />
+                <Baseline points="989,264 192,252" />
+                <TextEquiv>
+                    <Unicode>کرده اند و بنابر این آنچه محشی و دیگران در سند منع ذکر کرده اند وقتی درست است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782220188218_1488" custom="readingOrder {index:1;}">
+                <Coords points="175,313 1022,313 1022,415 175,415" /><Baseline points="175,376 1022,376" />
+                <Baseline points="992,375 198,371" />
+                <TextEquiv>
+                    <Unicode>که قضیه را که در حالت افراد عکس ندارد ثابت کنند که در حالت جز بودن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782220247978_1499" custom="readingOrder {index:2;}">
+                <Coords points="187,433 999,433 999,549 187,549" /><Baseline points="187,505 999,505" />
+                <Baseline points="982,502 208,504" />
+                <TextEquiv>
+                    <Unicode>میتوان عکس داشت و این محال است بالبدیهه و سال بهای مطلقه عامه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782220380197_1506" custom="readingOrder {index:3;}">
+                <Coords points="186,560 1012,560 1012,676 186,676" /><Baseline points="186,632 1012,632" />
+                <Baseline points="988,638 197,625" />
+                <TextEquiv>
+                    <Unicode>که جز خاصتین واقع میشود در حالت افراد نیز عکس دارد هر چند بعضی از</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782220427864_1512" custom="readingOrder {index:4;}">
+                <Coords points="167,683 1012,683 1012,789 167,789" /><Baseline points="167,749 1012,749" />
+                <Baseline points="994,744 177,743" />
+                <TextEquiv>
+                    <Unicode>مطلقهای عامه سالبه عکس ندارد مثل لا شی من القمر بمنخسف بالفعل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782220493234_1518" custom="readingOrder {index:5;}">
+                <Coords points="166,801 991,801 991,912 166,912" /><Baseline points="166,870 991,870" />
+                <Baseline points="982,887 180,862" />
+                <TextEquiv>
+                    <Unicode>و فرض است که برساند ماده را که در وقت جز بودن عکس داشته باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782220658457_1524" custom="readingOrder {index:6;}">
+                <Coords points="168,920 997,920 997,1045 168,1045" /><Baseline points="168,998 997,998" />
+                <Baseline points="985,1010 184,979" />
+                <TextEquiv>
+                    <Unicode>و در حالت افراد عکس نداشته باشد تدبر وله مع بقا الصدق آه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782220780033_1532" custom="readingOrder {index:7;}">
+                <Coords points="171,1050 995,1050 995,1161 171,1161" /><Baseline points="171,1119 995,1119" />
+                <Baseline points="985,1129 178,1108" />
+                <TextEquiv>
+                    <Unicode>اعتبار نکرده اند بقای کذب را زیرا که هر گاه اصل کاذب است و عکس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782220818340_1538" custom="readingOrder {index:8;}">
+                <Coords points="161,1172 1002,1172 1002,1283 161,1283" /><Baseline points="161,1241 1002,1241" />
+                <Baseline points="988,1239 165,1232" />
+                <TextEquiv>
+                    <Unicode>نقیض صادق مثل لا شی من الحیوان بلاانسان که کاذب است وعکس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782220868260_1546" custom="readingOrder {index:9;}">
+                <Coords points="161,1291 996,1291 996,1415 161,1415" /><Baseline points="161,1368 996,1368" />
+                <Baseline points="977,1370 175,1358" />
+                <TextEquiv>
+                    <Unicode>نقیضش که لیس بعض الانسان بلا حیوان باشد صادق است و مراد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782220903801_1552" custom="readingOrder {index:10;}">
+                <Coords points="165,1423 998,1423 998,1521 165,1521" /><Baseline points="165,1484 998,1484" />
+                <Baseline points="986,1484 182,1479" />
+                <TextEquiv>
+                    <Unicode>از عکس نقیض اینجا نیز اخص قضیه است که حاصل شود از تبدیل نقیض طرفین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782220961226_1560" custom="readingOrder {index:11;}">
+                <Coords points="164,1536 998,1536 998,1656 164,1656" /><Baseline points="164,1610 998,1610" />
+                <Baseline points="985,1618 179,1593" />
+                <TextEquiv>
+                    <Unicode>و لازم الصدق باشد همچنانکه مذکور شد در عکس مستوی موله لجواز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کرده اند و بنابر این آنچه محشی و دیگران در سند منع ذکر کرده اند وقتی درست است
+که قضیه را که در حالت افراد عکس ندارد ثابت کنند که در حالت جز بودن
+میتوان عکس داشت و این محال است بالبدیهه و سال بهای مطلقه عامه
+که جز خاصتین واقع میشود در حالت افراد نیز عکس دارد هر چند بعضی از
+مطلقهای عامه سالبه عکس ندارد مثل لا شی من القمر بمنخسف بالفعل
+و فرض است که برساند ماده را که در وقت جز بودن عکس داشته باشد
+و در حالت افراد عکس نداشته باشد تدبر وله مع بقا الصدق آه
+اعتبار نکرده اند بقای کذب را زیرا که هر گاه اصل کاذب است و عکس
+نقیض صادق مثل لا شی من الحیوان بلاانسان که کاذب است وعکس
+نقیضش که لیس بعض الانسان بلا حیوان باشد صادق است و مراد
+از عکس نقیض اینجا نیز اخص قضیه است که حاصل شود از تبدیل نقیض طرفین
+و لازم الصدق باشد همچنانکه مذکور شد در عکس مستوی موله لجواز</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

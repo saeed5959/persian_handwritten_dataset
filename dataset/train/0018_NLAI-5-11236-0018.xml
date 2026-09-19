@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.477+03:30</Created>
+        <LastChange>2026-06-14T19:52:51.583+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0018_NLAI-5-11236-0018.jpg" imageWidth="1179" imageHeight="1964">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781454171597" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781452981160_542" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781452981160_542" custom="readingOrder {index:0;}">
+            <Coords points="155,487 902,487 902,1694 155,1694" />
+            <TextLine id="line_1781452986712_545" custom="readingOrder {index:0;}">
+                <Coords points="552,651 868,651 868,530 552,530" /><Baseline points="552,605 868,605" />
+                <Baseline points="566,593 844,595" />
+                <TextEquiv>
+                    <Unicode>از آهو همان کش سپید است مو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452989272_548" custom="readingOrder {index:1;}">
+                <Coords points="209,654 525,654 525,537 209,537" /><Baseline points="209,610 525,610" />
+                <Baseline points="220,586 506,585" />
+                <TextEquiv>
+                    <Unicode>بجوید جز این مردم عیب جو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452997576_554" custom="readingOrder {index:2;}">
+                <Coords points="199,779 520,779 520,641 199,641" /><Baseline points="199,727 520,727" />
+                <Baseline points="222,710 506,712" />
+                <TextEquiv>
+                    <Unicode>تو گویی که دلها فریبد همی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452992832_551" custom="readingOrder {index:3;}">
+                <Coords points="563,787 865,787 865,667 563,667" /><Baseline points="563,741 865,741" />
+                <Baseline points="559,723 843,717" />
+                <TextEquiv>
+                    <Unicode>سپیدی مویش بزیبد همی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781453003791_560" custom="readingOrder {index:4;}">
+                <Coords points="203,884 514,884 514,773 203,773" /><Baseline points="203,842 514,842" />
+                <Baseline points="212,834 507,840" />
+                <TextEquiv>
+                    <Unicode>برافروخت و گلنارگون کرد روی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452999831_557" custom="readingOrder {index:5;}">
+                <Coords points="556,897 850,897 850,775 556,775" /><Baseline points="556,851 850,851" />
+                <Baseline points="566,851 844,848" />
+                <TextEquiv>
+                    <Unicode>چو بشنید رودابه آن گفتگوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781453011831_566" custom="readingOrder {index:6;}">
+                <Coords points="198,1029 518,1029 518,887 198,887" /><Baseline points="198,975 518,975" />
+                <Baseline points="212,969 499,962" />
+                <TextEquiv>
+                    <Unicode>از او دور شد خورد و آرام و حال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781453007327_563" custom="readingOrder {index:7;}">
+                <Coords points="555,1019 856,1019 856,900 555,900" /><Baseline points="555,974 856,974" />
+                <Baseline points="562,973 840,969" />
+                <TextEquiv>
+                    <Unicode>دلش گشت پرآتش مهر زال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781453015360_569" custom="readingOrder {index:8;}">
+                <Coords points="544,1140 856,1140 856,1022 544,1022" /><Baseline points="544,1095 856,1095" />
+                <Baseline points="556,1087 857,1088" />
+                <TextEquiv>
+                    <Unicode>چو بگرفت جای خرد آرزو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781453019728_572" custom="readingOrder {index:9;}">
+                <Coords points="205,1156 521,1156 521,1024 205,1024" /><Baseline points="205,1106 521,1106" />
+                <Baseline points="214,1086 499,1088" />
+                <TextEquiv>
+                    <Unicode>دگر گونه بر شد بآیین و خو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781453027536_578" custom="readingOrder {index:10;}">
+                <Coords points="202,1268 513,1268 513,1147 202,1147" /><Baseline points="202,1222 513,1222" />
+                <Baseline points="212,1216 499,1219" />
+                <TextEquiv>
+                    <Unicode>زمردان مکن یاد در پیش زن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781453024472_575" custom="readingOrder {index:11;}">
+                <Coords points="552,1270 843,1270 843,1152 552,1152" /><Baseline points="552,1225 843,1225" />
+                <Baseline points="560,1214 837,1216" />
+                <TextEquiv>
+                    <Unicode>چه نیکو سخن گفت آن رای زن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781453030864_581" custom="readingOrder {index:12;}">
+                <Coords points="549,1409 854,1409 854,1273 549,1273" /><Baseline points="549,1357 854,1357" />
+                <Baseline points="555,1343 851,1336" />
+                <TextEquiv>
+                    <Unicode>دل زن همان دیو راهست جای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781453033736_584" custom="readingOrder {index:13;}">
+                <Coords points="195,1399 531,1399 531,1274 195,1274" /><Baseline points="195,1352 531,1352" />
+                <Baseline points="212,1343 501,1339" />
+                <TextEquiv>
+                    <Unicode>ز گفتار باشند جوینده رای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781453047536_591" custom="readingOrder {index:14;}">
+                <Coords points="207,1520 503,1520 503,1402 207,1402" /><Baseline points="207,1475 503,1475" />
+                <Baseline points="214,1465 501,1462" />
+                <TextEquiv>
+                    <Unicode>پرستنده و مهربان بنده بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781453041967_588" custom="readingOrder {index:15;}">
+                <Coords points="552,1526 843,1526 843,1420 552,1420" /><Baseline points="552,1486 843,1486" />
+                <Baseline points="558,1469 840,1468" />
+                <TextEquiv>
+                    <Unicode>ورا پنج ترک پرستنده بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781453050112_594" custom="readingOrder {index:16;}">
+                <Coords points="551,1640 846,1640 846,1510 551,1510" /><Baseline points="551,1591 846,1591" />
+                <Baseline points="566,1579 835,1586" />
+                <TextEquiv>
+                    <Unicode>بدان بندگان خردمند گفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781453053175_597" custom="readingOrder {index:17;}">
+                <Coords points="206,1634 513,1634 513,1516 206,1516" /><Baseline points="206,1589 513,1589" />
+                <Baseline points="214,1589 499,1582" />
+                <TextEquiv>
+                    <Unicode>که بگشاد خواهم نهان از نهفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>از آهو همان کش سپید است مو
+بجوید جز این مردم عیب جو
+تو گویی که دلها فریبد همی
+سپیدی مویش بزیبد همی
+برافروخت و گلنارگون کرد روی
+چو بشنید رودابه آن گفتگوی
+از او دور شد خورد و آرام و حال
+دلش گشت پرآتش مهر زال
+چو بگرفت جای خرد آرزو
+دگر گونه بر شد بآیین و خو
+زمردان مکن یاد در پیش زن
+چه نیکو سخن گفت آن رای زن
+دل زن همان دیو راهست جای
+ز گفتار باشند جوینده رای
+پرستنده و مهربان بنده بود
+ورا پنج ترک پرستنده بود
+بدان بندگان خردمند گفت
+که بگشاد خواهم نهان از نهفت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

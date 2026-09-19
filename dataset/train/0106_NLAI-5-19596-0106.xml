@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T19:59:33.451+03:30</Created>
+        <LastChange>2026-06-27T19:29:18.666+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0106_NLAI-5-19596-0106.jpg" imageWidth="1591" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782575958697" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782574249519_1372" />
+                <RegionRefIndexed index="1" regionRef="region_1782575420276_1471" />
+                <RegionRefIndexed index="2" regionRef="region_1782574849377_1411" />
+                <RegionRefIndexed index="3" regionRef="region_1782573609293_1333" />
+                <RegionRefIndexed index="4" regionRef="region_1782574987717_1426" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782574249519_1372" custom="readingOrder {index:0;}">
+            <Coords points="78,479 563,479 563,1362 78,1362" />
+            <TextLine id="line_1782574366131_1375" custom="readingOrder {index:0;}">
+                <Coords points="88,490 556,490 556,646 88,646" /><Baseline points="88,587 556,587" />
+                <Baseline points="110,543 540,573" />
+                <TextEquiv>
+                    <Unicode>آنچنان راحی که او را هست با جان ازواج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782574416021_1381" custom="readingOrder {index:1;}">
+                <Coords points="101,653 550,653 550,765 101,765" /><Baseline points="101,722 550,722" />
+                <Baseline points="120,693 540,707" />
+                <TextEquiv>
+                    <Unicode>بر ثباتم رو ازین ره تا به وقت آید زاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782574468066_1387" custom="readingOrder {index:2;}">
+                <Coords points="112,771 555,771 555,905 112,905" /><Baseline points="112,854 555,854" />
+                <Baseline points="128,811 536,854" />
+                <TextEquiv>
+                    <Unicode>دوستان را دستگیری کن به وقت احتیاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782574512962_1393" custom="readingOrder {index:3;}">
+                <Coords points="105,912 554,912 554,1057 105,1057" /><Baseline points="105,1002 554,1002" />
+                <Baseline points="115,983 537,997" />
+                <TextEquiv>
+                    <Unicode>که اهل دل را کار عشرت زود همی گیرد رواج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782574558243_1399" custom="readingOrder {index:4;}">
+                <Coords points="110,1063 556,1063 556,1205 110,1205" /><Baseline points="110,1151 556,1151" />
+                <Baseline points="117,1121 540,1142" />
+                <TextEquiv>
+                    <Unicode>تازه گل که از وی ربایی باد شبگیری دواج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782574774243_1405" custom="readingOrder {index:5;}">
+                <Coords points="120,1211 549,1211 549,1358 120,1358" /><Baseline points="120,1302 549,1302" />
+                <Baseline points="134,1265 535,1291" />
+                <TextEquiv>
+                    <Unicode>وین چنین شهرا کجا باشد نظر برگشت واج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>آنچنان راحی که او را هست با جان ازواج
+بر ثباتم رو ازین ره تا به وقت آید زاج
+دوستان را دستگیری کن به وقت احتیاج
+که اهل دل را کار عشرت زود همی گیرد رواج
+تازه گل که از وی ربایی باد شبگیری دواج
+وین چنین شهرا کجا باشد نظر برگشت واج</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782575420276_1471" custom="readingOrder {index:1;}">
+            <Coords points="115,1632 589,1632 589,2639 115,2639" />
+            <TextLine id="line_1782575437314_1474" custom="readingOrder {index:0;}">
+                <Coords points="121,1639 557,1639 557,1785 121,1785" /><Baseline points="121,1730 557,1730" />
+                <Baseline points="141,1685 544,1721" />
+                <TextEquiv>
+                    <Unicode>صلاح ما همه آن است کآن تو راست صلاح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782575481986_1480" custom="readingOrder {index:1;}">
+                <Coords points="127,1793 561,1793 561,1930 127,1930" /><Baseline points="127,1878 561,1878" />
+                <Baseline points="145,1842 551,1878" />
+                <TextEquiv>
+                    <Unicode>بیاض روی توبگشود فالق الاصباح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782575543262_1486" custom="readingOrder {index:2;}">
+                <Coords points="135,1936 560,1936 560,2070 135,2070" /><Baseline points="135,2019 560,2019" />
+                <Baseline points="148,1988 547,2013" />
+                <TextEquiv>
+                    <Unicode>دلم چو آتش و اندر میان او ملاح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782575610138_1492" custom="readingOrder {index:3;}">
+                <Coords points="144,2080 575,2080 575,2199 144,2199" /><Baseline points="144,2154 575,2154" />
+                <Baseline points="157,2127 555,2147" />
+                <TextEquiv>
+                    <Unicode>که آشنا بکند در میان او ملاح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782575679689_1498" custom="readingOrder {index:4;}">
+                <Coords points="139,2205 570,2205 570,2354 139,2354" /><Baseline points="139,2297 570,2297" />
+                <Baseline points="147,2258 561,2295" />
+                <TextEquiv>
+                    <Unicode>وجود خاکی ما را از اوست قوت رواح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782575763791_1504" custom="readingOrder {index:5;}">
+                <Coords points="139,2367 567,2367 567,2503 139,2503" /><Baseline points="139,2451 567,2451" />
+                <Baseline points="155,2419 554,2451" />
+                <TextEquiv>
+                    <Unicode>نه از کمانچه ابروی تیز غمزه صباح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782575887718_1510" custom="readingOrder {index:6;}">
+                <Coords points="154,2508 582,2508 582,2636 154,2636" /><Baseline points="154,2587 582,2587" />
+                <TextEquiv>
+                    <Unicode>دگر به مذهب تو خون عاشق است مباح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>صلاح ما همه آن است کآن تو راست صلاح
+بیاض روی توبگشود فالق الاصباح
+دلم چو آتش و اندر میان او ملاح
+که آشنا بکند در میان او ملاح
+وجود خاکی ما را از اوست قوت رواح
+نه از کمانچه ابروی تیز غمزه صباح
+دگر به مذهب تو خون عاشق است مباح</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782574849377_1411" custom="readingOrder {index:2;}">
+            <Coords points="311,1367 872,1367 872,1645 311,1645" />
+            <TextLine id="line_1782574856453_1414" custom="readingOrder {index:0;}">
+                <Coords points="316,1379 847,1379 847,1486 316,1486" /><Baseline points="316,1445 847,1445" />
+                <Baseline points="353,1426 828,1412" />
+                <TextEquiv>
+                    <Unicode>بشنو از حافظ تو این نکته که باشد سودمند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782574902547_1420" custom="readingOrder {index:1;}">
+                <Coords points="320,1493 842,1493 842,1631 320,1631" /><Baseline points="320,1579 842,1579" />
+                <Baseline points="333,1550 821,1572" />
+                <TextEquiv>
+                    <Unicode>باده نوش و خیر کن کین به که بودن بر جاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بشنو از حافظ تو این نکته که باشد سودمند
+باده نوش و خیر کن کین به که بودن بر جاج</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782573609293_1333" custom="readingOrder {index:3;}">
+            <Coords points="619,505 1089,505 1089,1356 619,1356" />
+            <TextLine id="line_1782573632345_1336" custom="readingOrder {index:0;}">
+                <Coords points="631,515 1064,515 1064,637 631,637" /><Baseline points="631,591 1064,591" />
+                <Baseline points="642,562 1054,567" />
+                <TextEquiv>
+                    <Unicode>ساقیا درده ز بهرروح راح اهل دل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782573860770_1342" custom="readingOrder {index:1;}">
+                <Coords points="638,645 1070,645 1070,774 638,774" /><Baseline points="638,725 1070,725" />
+                <Baseline points="645,693 1055,699" />
+                <TextEquiv>
+                    <Unicode>من چنین زآغاز فطرت عاشق و رند آمدم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782573908375_1348" custom="readingOrder {index:2;}">
+                <Coords points="634,786 1071,786 1071,906 634,906" /><Baseline points="634,860 1071,860" />
+                <Baseline points="645,849 1056,848" />
+                <TextEquiv>
+                    <Unicode>احتیاج من به وقت خویشتن دانسته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782573983234_1354" custom="readingOrder {index:3;}">
+                <Coords points="637,912 1080,912 1080,1058 637,1058" /><Baseline points="637,1003 1080,1003" />
+                <Baseline points="643,976 1069,986" />
+                <TextEquiv>
+                    <Unicode>از کف آزادگان غایب بدار آن جام را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782574055108_1360" custom="readingOrder {index:4;}">
+                <Coords points="643,1071 1076,1071 1076,1208 643,1208" /><Baseline points="643,1156 1076,1156" />
+                <Baseline points="649,1128 1066,1133" />
+                <TextEquiv>
+                    <Unicode>برفکن به رفع زرح که از ناز کی مانی بدان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782574191569_1366" custom="readingOrder {index:5;}">
+                <Coords points="642,1213 1081,1213 1081,1351 642,1351" /><Baseline points="642,1299 1081,1299" />
+                <Baseline points="649,1269 1066,1281" />
+                <TextEquiv>
+                    <Unicode>عاشقان کوی جانان با گدایی سرخوشند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ساقیا درده ز بهرروح راح اهل دل
+من چنین زآغاز فطرت عاشق و رند آمدم
+احتیاج من به وقت خویشتن دانسته
+از کف آزادگان غایب بدار آن جام را
+برفکن به رفع زرح که از ناز کی مانی بدان
+عاشقان کوی جانان با گدایی سرخوشند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782574987717_1426" custom="readingOrder {index:4;}">
+            <Coords points="626,1645 1124,1645 1124,2653 626,2653" />
+            <TextLine id="line_1782575041236_1429" custom="readingOrder {index:0;}">
+                <Coords points="645,1658 1086,1658 1086,1772 645,1772" /><Baseline points="645,1729 1086,1729" />
+                <Baseline points="662,1695 1076,1712" />
+                <TextEquiv>
+                    <Unicode>اگر به مذهب تو خون عاشق است مباح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782575079750_1435" custom="readingOrder {index:1;}">
+                <Coords points="650,1782 1096,1782 1096,1919 650,1919" /><Baseline points="650,1867 1096,1867" />
+                <Baseline points="675,1840 1081,1864" />
+                <TextEquiv>
+                    <Unicode>سواد زلف توتفسیر جاعل الظلمات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782575118194_1441" custom="readingOrder {index:2;}">
+                <Coords points="648,1931 1097,1931 1097,2074 648,2074" /><Baseline points="648,2020 1097,2020" />
+                <Baseline points="656,1992 1085,2009" />
+                <TextEquiv>
+                    <Unicode>دو دیده ام صفت حال مجمع البحرین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782575205312_1447" custom="readingOrder {index:3;}">
+                <Coords points="648,2082 1097,2082 1097,2217 648,2217" /><Baseline points="648,2166 1097,2166" />
+                <Baseline points="660,2133 1087,2158" />
+                <TextEquiv>
+                    <Unicode>ز دیده ام شده صد چشمه در کنار روان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782575253687_1453" custom="readingOrder {index:4;}">
+                <Coords points="660,2223 1098,2223 1098,2364 660,2364" /><Baseline points="660,2310 1098,2310" />
+                <Baseline points="667,2277 1086,2291" />
+                <TextEquiv>
+                    <Unicode>لب چو آب حیات تو هست قوت روح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782575311468_1459" custom="readingOrder {index:5;}">
+                <Coords points="664,2371 1114,2371 1114,2496 664,2496" /><Baseline points="664,2448 1114,2448" />
+                <Baseline points="671,2427 1102,2433" />
+                <TextEquiv>
+                    <Unicode>ز چنگ زلف کمندت کسی نیافت نجات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782575366154_1465" custom="readingOrder {index:6;}">
+                <Coords points="662,2505 1120,2505 1120,2647 662,2647" /><Baseline points="662,2593 1120,2593" />
+                <Baseline points="685,2584 1104,2584" />
+                <TextEquiv>
+                    <Unicode>بیا که خوت من خویشتن سجل کردم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اگر به مذهب تو خون عاشق است مباح
+سواد زلف توتفسیر جاعل الظلمات
+دو دیده ام صفت حال مجمع البحرین
+ز دیده ام شده صد چشمه در کنار روان
+لب چو آب حیات تو هست قوت روح
+ز چنگ زلف کمندت کسی نیافت نجات
+بیا که خوت من خویشتن سجل کردم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

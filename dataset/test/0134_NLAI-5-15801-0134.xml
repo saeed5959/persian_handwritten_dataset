@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T17:45:58.434+04:30</Created>
+        <LastChange>2026-06-21T18:10:54.604+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0134_NLAI-5-15801-0134.jpg" imageWidth="1090" imageHeight="1795">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782049254608" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782047804335_608" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782047804335_608" custom="readingOrder {index:0;}">
+            <Coords points="59,1744 907,1744 907,137 59,137" />
+            <TextLine id="line_1782047832438_611" custom="readingOrder {index:0;}">
+                <Coords points="59,146 893,146 893,275 59,275" /><Baseline points="59,226 893,226" />
+                <Baseline points="877,228 73,224" />
+                <TextEquiv>
+                    <Unicode>بر اینجا وارد است زیرا که نقیض موجبه جزییه مرکبه موجبه واقع شده است و جوابش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047898114_617" custom="readingOrder {index:1;}">
+                <Coords points="64,282 895,282 895,388 64,388" /><Baseline points="64,348 895,348" />
+                <Baseline points="884,341 61,342" />
+                <TextEquiv>
+                    <Unicode>بهمان طریق است که پیشتر گذشت قوله کل یطلق علی القضیه الحاصله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047967188_624" custom="readingOrder {index:2;}">
+                <Coords points="65,397 899,397 899,508 65,508" /><Baseline points="65,466 899,466" />
+                <Baseline points="889,471 82,461" />
+                <TextEquiv>
+                    <Unicode>من التبدیل اگرچه مقسم در منطق عکس بمعنی ثانیست اما متعارف شده است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048124480_630" custom="readingOrder {index:3;}">
+                <Coords points="69,516 904,516 904,634 69,634" /><Baseline points="69,589 904,589" />
+                <Baseline points="893,586 86,591" />
+                <TextEquiv>
+                    <Unicode>که تعریف میکنند عکس بمعنی مصدری را تا فهمیده شود قضیه حاصله از آن که مقسم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048209141_636" custom="readingOrder {index:4;}">
+                <Coords points="66,645 894,645 894,740 66,740" /><Baseline points="66,704 894,704" />
+                <Baseline points="886,707 68,701" />
+                <TextEquiv>
+                    <Unicode>است و وجهش آن است که بنابرین هم معنی اصلی با معنی مجازی بخلاف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048309179_653" custom="readingOrder {index:5;}">
+                <Coords points="60,741 902,741 902,870 60,870" /><Baseline points="60,821 902,821" />
+                <Baseline points="890,823 165,827 66,794" />
+                <TextEquiv>
+                    <Unicode>وقتی که تعریف معنی مجازی کنند زیرا که اگر چنین میگویند که قضیه است که حاصل است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048394794_665" custom="readingOrder {index:6;}">
+                <Coords points="61,873 902,873 902,999 61,999" /><Baseline points="61,951 902,951" />
+                <Baseline points="889,955 402,965 344,942 70,957" />
+                <TextEquiv>
+                    <Unicode>از تبدیل طرفین مشخص نمیشود که عکس در اصل چه معنی دارد و اگر بجای لفظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048485683_672" custom="readingOrder {index:7;}">
+                <Coords points="66,1015 903,1015 903,1134 66,1134" /><Baseline points="66,1089 903,1089" />
+                <Baseline points="894,1072 83,1081" />
+                <TextEquiv>
+                    <Unicode>بتبدیل لفظ عکس بیاورند محتاج خواهند بود بوجوه عکس تا بعد از آن هم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048621028_690" custom="readingOrder {index:8;}">
+                <Coords points="67,1140 901,1140 901,1255 67,1255" /><Baseline points="67,1211 901,1211" />
+                <Baseline points="893,1194 75,1205" />
+                <TextEquiv>
+                    <Unicode>معنی اصل هم معنی مجازی فهمیده شود اثراما معنی مجازی که مقسم است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048825643_718" custom="readingOrder {index:9;}">
+                <Coords points="68,1255 903,1255 903,1369 68,1369" /><Baseline points="68,1326 903,1326" />
+                <TextEquiv>
+                    <Unicode>بامناسبت میانه معنی اصلی و معنی مجازی قوله لانه یجب صدقها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048936898_727" custom="readingOrder {index:10;}">
+                <Coords points="73,1384 898,1384 898,1485 73,1485" /><Baseline points="73,1447 898,1447" />
+                <Baseline points="889,1434 89,1442" />
+                <TextEquiv>
+                    <Unicode>فی الواقع اه زیرا که گاه است هر دو کاذبند مثل کل انسان حجر و بعض الحجر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048998580_733" custom="readingOrder {index:11;}">
+                <Coords points="71,1492 906,1492 906,1606 71,1606" /><Baseline points="71,1563 906,1563" />
+                <Baseline points="896,1560 65,1559" />
+                <TextEquiv>
+                    <Unicode>انسان و گاهی کذب را اختیار نکرده اند از برای آنکه گاه اصل کاذب است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049225365_740" custom="readingOrder {index:12;}">
+                <Coords points="170,1632 298,1632 298,1747 170,1747" /><Baseline points="170,1703 298,1703" />
+                <Baseline points="289,1668 181,1739" />
+                <TextEquiv>
+                    <Unicode>و عکس حق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بر اینجا وارد است زیرا که نقیض موجبه جزییه مرکبه موجبه واقع شده است و جوابش
+بهمان طریق است که پیشتر گذشت قوله کل یطلق علی القضیه الحاصله
+من التبدیل اگرچه مقسم در منطق عکس بمعنی ثانیست اما متعارف شده است
+که تعریف میکنند عکس بمعنی مصدری را تا فهمیده شود قضیه حاصله از آن که مقسم
+است و وجهش آن است که بنابرین هم معنی اصلی با معنی مجازی بخلاف
+وقتی که تعریف معنی مجازی کنند زیرا که اگر چنین میگویند که قضیه است که حاصل است
+از تبدیل طرفین مشخص نمیشود که عکس در اصل چه معنی دارد و اگر بجای لفظ
+بتبدیل لفظ عکس بیاورند محتاج خواهند بود بوجوه عکس تا بعد از آن هم
+معنی اصل هم معنی مجازی فهمیده شود اثراما معنی مجازی که مقسم است
+بامناسبت میانه معنی اصلی و معنی مجازی قوله لانه یجب صدقها
+فی الواقع اه زیرا که گاه است هر دو کاذبند مثل کل انسان حجر و بعض الحجر
+انسان و گاهی کذب را اختیار نکرده اند از برای آنکه گاه اصل کاذب است
+و عکس حق</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

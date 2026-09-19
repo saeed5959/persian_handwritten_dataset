@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:28.812-07:00</Created>
+        <LastChange>2026-06-18T15:51:35.813-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0050_NLAI-5-15801-0050.jpg" imageWidth="1089" imageHeight="1776">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781823099328" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781782390882_53" />
+                <RegionRefIndexed index="1" regionRef="region_1781821546369_296" />
+                <RegionRefIndexed index="2" regionRef="region_1781821696520_317" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781782390882_53" custom="readingOrder {index:0;}">
+            <Coords points="956,1665 83,1665 83,192 956,192" />
+            <TextLine id="line_1781782455708_66" custom="readingOrder {index:0;}">
+                <Coords points="922,195 94,195 94,301 922,301" /><Baseline points="94,261 922,261" />
+                <Baseline points="108,247 905,258" />
+                <TextEquiv>
+                    <Unicode>و حال انکه در اول مباحث قضایا اشاره کرده است بر اینکه اجزا قضیه است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781821104025_237" custom="readingOrder {index:1;}">
+                <Coords points="97,315 925,315 925,416 97,416" /><Baseline points="97,378 925,378" />
+                <Baseline points="114,370 578,358 910,373" />
+                <TextEquiv>
+                    <Unicode>و دیگر بدانکه تصدیق اگر باعتقاد ثابت و جازم باشد و تشکیک زایل نکند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781821251708_274" custom="readingOrder {index:2;}">
+                <Coords points="103,419 919,419 919,542 103,542" /><Baseline points="103,495 919,495" />
+                <Baseline points="117,487 902,496 905,493" />
+                <TextEquiv>
+                    <Unicode>از آن یقین گویند اگر مطابق واقع باشد و جهل مرکب گویند اگر مطابق واقع نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781821432233_289" custom="readingOrder {index:3;}">
+                <Coords points="98,559 909,559 909,657 98,657" /><Baseline points="98,620 909,620" />
+                <Baseline points="118,603 901,624" />
+                <TextEquiv>
+                    <Unicode>و اگر ثابت و جازم نباشد بلکه خلافش احتمال داشته باشد انرا ظن میگویند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781821561244_300" custom="readingOrder {index:4;}">
+                <Coords points="101,664 914,664 914,784 101,784" /><Baseline points="101,738 914,738" />
+                <Baseline points="900,736 117,731" />
+                <TextEquiv>
+                    <Unicode>و گاه یقین بدلیل حاصل میشود مثل یقین بوجود واجب و گاه بتقلید مثل اعتقاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781821710207_321" custom="readingOrder {index:5;}">
+                <Coords points="921,915 88,915 88,781 921,781" /><Baseline points="88,864 921,864" />
+                <Baseline points="907,856 110,864" />
+                <TextEquiv>
+                    <Unicode>بخبر انبیا و اوصیا قوله کما فی صوره التخیل تخیل تصور نسبت به چیزیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781822257110_333" custom="readingOrder {index:6;}">
+                <Coords points="932,1021 86,1021 86,917 932,917" /><Baseline points="86,981 932,981" />
+                <Baseline points="915,981 100,973" />
+                <TextEquiv>
+                    <Unicode>بچیزی که تاثیری در نفس کند هرچند خلافش از نسبت ثابت باشد نزد عقل مثل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781822374934_344" custom="readingOrder {index:7;}">
+                <Coords points="925,1154 94,1154 94,1045 925,1045" /><Baseline points="94,1113 925,1113" />
+                <Baseline points="916,1103 108,1103" />
+                <TextEquiv>
+                    <Unicode>خیالات شعریه هم چنانکه میگویند دل دریای اتش است و سیلاب اشک عالمرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781822535616_365" custom="readingOrder {index:8;}">
+                <Coords points="87,1283 925,1283 925,1163 87,1163" /><Baseline points="87,1237 925,1237" />
+                <Baseline points="911,1225 101,1232" />
+                <TextEquiv>
+                    <Unicode>بطوفانداد و امثال اینها و شک عبارت است از تصور نسبت جزییه بحیثیتی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781822637221_375" custom="readingOrder {index:9;}">
+                <Coords points="91,1415 940,1415 940,1283 91,1283" /><Baseline points="91,1365 940,1365" />
+                <Baseline points="906,1345 105,1359" />
+                <TextEquiv>
+                    <Unicode>که عقل در ان متردد باشد و بهیچک از وقوع و لا وقوع ان نسبت راجح نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781822649221_378" custom="readingOrder {index:10;}">
+                <Coords points="91,1515 933,1515 933,1404 91,1404" /><Baseline points="91,1473 933,1473" />
+                <Baseline points="911,1454 101,1457" />
+                <TextEquiv>
+                    <Unicode>بلکه مساوی باشد نزد عقل و وهم عبارت است از تصور طرف مرجوح پس نسبت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781822663470_381" custom="readingOrder {index:11;}">
+                <Coords points="940,1654 91,1654 91,1508 940,1508" /><Baseline points="91,1599 940,1599" />
+                <Baseline points="915,1579 108,1584" />
+                <TextEquiv>
+                    <Unicode>درین سه قسم اگر چه نسبت چیزیست بچیزی زیرا که قایل انرا میتوان گفتن که صادق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و حال انکه در اول مباحث قضایا اشاره کرده است بر اینکه اجزا قضیه است
+و دیگر بدانکه تصدیق اگر باعتقاد ثابت و جازم باشد و تشکیک زایل نکند
+از آن یقین گویند اگر مطابق واقع باشد و جهل مرکب گویند اگر مطابق واقع نباشد
+و اگر ثابت و جازم نباشد بلکه خلافش احتمال داشته باشد انرا ظن میگویند
+و گاه یقین بدلیل حاصل میشود مثل یقین بوجود واجب و گاه بتقلید مثل اعتقاد
+بخبر انبیا و اوصیا قوله کما فی صوره التخیل تخیل تصور نسبت به چیزیست
+بچیزی که تاثیری در نفس کند هرچند خلافش از نسبت ثابت باشد نزد عقل مثل
+خیالات شعریه هم چنانکه میگویند دل دریای اتش است و سیلاب اشک عالمرا
+بطوفانداد و امثال اینها و شک عبارت است از تصور نسبت جزییه بحیثیتی
+که عقل در ان متردد باشد و بهیچک از وقوع و لا وقوع ان نسبت راجح نباشد
+بلکه مساوی باشد نزد عقل و وهم عبارت است از تصور طرف مرجوح پس نسبت
+درین سه قسم اگر چه نسبت چیزیست بچیزی زیرا که قایل انرا میتوان گفتن که صادق</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781821546369_296" custom="readingOrder {index:1;}">
+            <Coords points="97,659" />
+        </TextRegion>
+        <TextRegion id="region_1781821696520_317" custom="readingOrder {index:2;}">
+            <Coords points="236,876" />
+        </TextRegion>
+    </Page>
+</PcGts>

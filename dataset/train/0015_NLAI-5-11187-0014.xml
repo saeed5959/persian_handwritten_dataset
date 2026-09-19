@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:43.150+03:30</Created>
+        <LastChange>2026-06-21T18:42:47.278+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0015_NLAI-5-11187-0014.jpg" imageWidth="859" imageHeight="1505">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782054767356" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782053247463_312" />
+                <RegionRefIndexed index="1" regionRef="region_1782053466903_336" />
+                <RegionRefIndexed index="2" regionRef="region_1782053669807_355" />
+                <RegionRefIndexed index="3" regionRef="region_1782053880455_386" />
+                <RegionRefIndexed index="4" regionRef="region_1782054145740_401" />
+                <RegionRefIndexed index="5" regionRef="region_1782054263478_412" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782053247463_312" custom="readingOrder {index:0;}">
+            <Coords points="145,397 428,400 427,550 142,544" />
+            <TextLine id="line_1782053255603_315" custom="readingOrder {index:0;}">
+                <Coords points="145,398 428,398 428,479 145,479" /><Baseline points="145,448 428,448" />
+                <TextEquiv>
+                    <Unicode>بکره الخمیس و البسیت برکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053311433_319" custom="readingOrder {index:1;}">
+                <Coords points="145,478 428,477 427,549 145,544" /><Baseline points="145,522 428,522" />
+                <TextEquiv>
+                    <Unicode>بامداد پنجشنبه و شنبه برکت است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بکره الخمیس و البسیت برکه
+بامداد پنجشنبه و شنبه برکت است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782053466903_336" custom="readingOrder {index:1;}">
+            <Coords points="28,541 509,552 509,723 28,710" />
+            <TextLine id="line_1782053498637_341" custom="readingOrder {index:0;}">
+                <Coords points="29,540 507,553 509,645 28,632" /><Baseline points="28,605 509,605" />
+                <TextEquiv>
+                    <Unicode>بهر تحصیل رزق اگر چه بود اول روز سعی کردن خوب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053598820_351" custom="readingOrder {index:1;}">
+                <Coords points="27,631 508,645 508,724 27,707" /><Baseline points="27,689 508,689" />
+                <TextEquiv>
+                    <Unicode>بکره پنج شنبه و شنبه برکت را ولی بود منسوب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بهر تحصیل رزق اگر چه بود اول روز سعی کردن خوب
+بکره پنج شنبه و شنبه برکت را ولی بود منسوب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782053669807_355" custom="readingOrder {index:2;}">
+            <Coords points="137,714 406,723 402,876 134,870" />
+            <TextLine id="line_1782053679666_358" custom="readingOrder {index:0;}">
+                <Coords points="137,715 407,722 404,797 139,795" /><Baseline points="137,766 407,766" />
+                <TextEquiv>
+                    <Unicode>بع الدنیا بالاخره ترنج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053730951_363" custom="readingOrder {index:1;}">
+                <Coords points="137,793 401,797 397,874 133,874" /><Baseline points="133,843 401,843" />
+                <TextEquiv>
+                    <Unicode>بفروش دنیا را بآخرت تا شود بیابانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بع الدنیا بالاخره ترنج
+بفروش دنیا را بآخرت تا شود بیابانی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782053880455_386" custom="readingOrder {index:3;}">
+            <Coords points="20,870 498,881 495,1055 20,1040" />
+            <TextLine id="line_1782053902080_390" custom="readingOrder {index:0;}">
+                <Coords points="20,868 498,882 496,970 21,962" /><Baseline points="20,931 498,931" />
+                <TextEquiv>
+                    <Unicode>بیع دنیا به آخرت جاهل گرچه از نقد ونسیه داند عیب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782054023855_394" custom="readingOrder {index:1;}">
+                <Coords points="21,960 496,971 493,1058 17,1038" /><Baseline points="17,1021 496,1021" />
+                <TextEquiv>
+                    <Unicode>بگذر از بهر باقی از فانی تا بیابی تو سود و بشک و ریب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بیع دنیا به آخرت جاهل گرچه از نقد ونسیه داند عیب
+بگذر از بهر باقی از فانی تا بیابی تو سود و بشک و ریب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782054145740_401" custom="readingOrder {index:4;}">
+            <Coords points="130,1044 396,1050 391,1200 128,1200" />
+            <TextLine id="line_1782054153927_404" custom="readingOrder {index:0;}">
+                <Coords points="129,1045 394,1055 395,1126 129,1125" /><Baseline points="129,1095 395,1095" />
+                <TextEquiv>
+                    <Unicode>بلا النسان من اللسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782054219679_408" custom="readingOrder {index:1;}">
+                <Coords points="128,1123 394,1126 388,1198 126,1191" /><Baseline points="126,1170 394,1170" />
+                <TextEquiv>
+                    <Unicode>بلای آدمی زاد از زبان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بلا النسان من اللسان
+بلای آدمی زاد از زبان است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782054263478_412" custom="readingOrder {index:5;}">
+            <Coords points="14,1190 492,1207 493,1363 14,1363" />
+            <TextLine id="line_1782054413896_437" custom="readingOrder {index:0;}">
+                <Coords points="13,1188 493,1208 494,1290 14,1276" /><Baseline points="13,1251 494,1251" />
+                <TextEquiv>
+                    <Unicode>بی سبب هر بلا که مردم را میرسد زان بمال و جان سبب آن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782054508164_441" custom="readingOrder {index:1;}">
+                <Coords points="14,1276 491,1289 492,1364 14,1364" /><Baseline points="14,1331 492,1331" />
+                <TextEquiv>
+                    <Unicode>پیش و پس را چو بنگری بینی کز فلک آورد زبانش بشیب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بی سبب هر بلا که مردم را میرسد زان بمال و جان سبب آن
+پیش و پس را چو بنگری بینی کز فلک آورد زبانش بشیب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

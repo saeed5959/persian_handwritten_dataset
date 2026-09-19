@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.259+04:30</Created>
+        <LastChange>2026-06-21T12:40:10.483+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="8" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0187_NLAI-5-19596-0187.jpg" imageWidth="1506" imageHeight="2759">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782029410483" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782028210047_450" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782028210047_450" custom="readingOrder {index:0;}">
+            <Coords points="1413,434 430,434 430,2515 1413,2515" />
+            <TextLine id="line_1782028231070_453" custom="readingOrder {index:0;}">
+                <Coords points="1406,563 437,563 437,401 1406,401" /><Baseline points="437,501 1406,501" />
+                <Baseline points="450,537 1391,526" />
+                <TextEquiv>
+                    <Unicode>ظریق عشق پرآشوب و فتنه است ای دل بیفتد آن که در این راه با شتاب رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028234121_456" custom="readingOrder {index:1;}">
+                <Coords points="449,570 1402,570 1402,700 449,700" /><Baseline points="449,651 1402,651" />
+                <Baseline points="447,668 1397,657" />
+                <TextEquiv>
+                    <Unicode>خباب را چو فتد باد نخوت اندر سر کلاه داریش اندر سر شراب رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028236894_459" custom="readingOrder {index:2;}">
+                <Coords points="1418,703 435,703 435,828 1418,828" /><Baseline points="435,780 1418,780" />
+                <Baseline points="452,803 1390,788" />
+                <TextEquiv>
+                    <Unicode>گدایی در جانان یه سلطنت مفروش کسی ز سایه این در به آفتاب رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028239979_462" custom="readingOrder {index:3;}">
+                <Coords points="1407,967 439,967 439,838 1407,838" /><Baseline points="439,918 1407,918" />
+                <Baseline points="455,947 1395,934" />
+                <TextEquiv>
+                    <Unicode>سواد نامه موی سیاه چون طی شد بیاض کم نشود گر صد انتخاب رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028243670_465" custom="readingOrder {index:4;}">
+                <Coords points="1413,1104 432,1104 432,990 1413,990" /><Baseline points="432,1061 1413,1061" />
+                <Baseline points="453,1091 1397,1074" />
+                <TextEquiv>
+                    <Unicode>دلا چو پر شدی حسن و ناز که مفروش که این معامله در عالم شباب رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028246549_468" custom="readingOrder {index:5;}">
+                <Coords points="439,1123 1415,1123 1415,1251 439,1251" /><Baseline points="439,1202 1415,1202" />
+                <Baseline points="462,1216 1397,1213" />
+                <TextEquiv>
+                    <Unicode>مرا بعهد شکن خوانده و میرستم که ما تو روز قیامت میهن خطاب رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028249704_471" custom="readingOrder {index:6;}">
+                <Coords points="1169,1368 698,1368 698,1253 1169,1253" /><Baseline points="698,1324 1169,1324" />
+                <Baseline points="706,1346 1157,1339" />
+                <TextEquiv>
+                    <Unicode>خحاب راه تویی خافظ از میان برخیز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028251766_474" custom="readingOrder {index:7;}">
+                <Coords points="695,1411 1146,1411 1146,1526 695,1526" /><Baseline points="695,1482 1146,1482" />
+                <Baseline points="707,1497 1129,1487" />
+                <TextEquiv>
+                    <Unicode>خوشا کسی که درین راه بی حجاب رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028257064_477" custom="readingOrder {index:8;}">
+                <Coords points="1410,1665 456,1665 456,1566 1410,1566" /><Baseline points="456,1627 1410,1627" />
+                <Baseline points="476,1657 1411,1644" />
+                <TextEquiv>
+                    <Unicode>ساقی حدیث سرو و گل و لاله میرود وین بحث با ثلاثه غساله میرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028260654_480" custom="readingOrder {index:9;}">
+                <Coords points="1413,1800 444,1800 444,1694 1413,1694" /><Baseline points="444,1760 1413,1760" />
+                <Baseline points="450,1780 1396,1782" />
+                <TextEquiv>
+                    <Unicode>می ده که نوعروس چمن حد حسن یافت کار این زمان ز صنعت دلاله میرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028265608_483" custom="readingOrder {index:10;}">
+                <Coords points="1419,1957 454,1957 454,1810 1419,1810" /><Baseline points="454,1901 1419,1901" />
+                <Baseline points="457,1919 1413,1911" />
+                <TextEquiv>
+                    <Unicode>آنچشم جاودانه عابدفریب بین کش کاروان سحر ز دنباله میرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028269824_486" custom="readingOrder {index:11;}">
+                <Coords points="1426,2090 446,2090 446,1969 1426,1969" /><Baseline points="446,2044 1426,2044" />
+                <Baseline points="466,2061 1410,2048" />
+                <TextEquiv>
+                    <Unicode>باد بهاد میوزد از بوستان شاه وز ژاله باده در قدح لاله میرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028273115_489" custom="readingOrder {index:12;}">
+                <Coords points="437,2106 1423,2106 1423,2234 437,2234" /><Baseline points="437,2185 1423,2185" />
+                <Baseline points="462,2211 1401,2198" />
+                <TextEquiv>
+                    <Unicode>شکرشکن شوند همه طوطیان هند زین قند پارسی که به بنگاله میرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028277027_492" custom="readingOrder {index:13;}">
+                <Coords points="1415,2387 445,2387 445,2252 1415,2252" /><Baseline points="445,2336 1415,2336" />
+                <Baseline points="463,2342 1381,2356" />
+                <TextEquiv>
+                    <Unicode>طی زمان به چمن و مکان در سلوک شعر کین طفل بکشید کین طفل یکشبه ره یک ساله میرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782028279460_495" custom="readingOrder {index:14;}">
+                <Coords points="447,2399 1420,2399 1420,2509 447,2509" /><Baseline points="447,2467 1420,2467" />
+                <Baseline points="486,2490 1374,2488" />
+                <TextEquiv>
+                    <Unicode>از ره مرو به عشوه دنیا که این عجوز مکاره می نشیند و محتاله میرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ظریق عشق پرآشوب و فتنه است ای دل بیفتد آن که در این راه با شتاب رود
+خباب را چو فتد باد نخوت اندر سر کلاه داریش اندر سر شراب رود
+گدایی در جانان یه سلطنت مفروش کسی ز سایه این در به آفتاب رود
+سواد نامه موی سیاه چون طی شد بیاض کم نشود گر صد انتخاب رود
+دلا چو پر شدی حسن و ناز که مفروش که این معامله در عالم شباب رود
+مرا بعهد شکن خوانده و میرستم که ما تو روز قیامت میهن خطاب رود
+خحاب راه تویی خافظ از میان برخیز
+خوشا کسی که درین راه بی حجاب رود
+ساقی حدیث سرو و گل و لاله میرود وین بحث با ثلاثه غساله میرود
+می ده که نوعروس چمن حد حسن یافت کار این زمان ز صنعت دلاله میرود
+آنچشم جاودانه عابدفریب بین کش کاروان سحر ز دنباله میرود
+باد بهاد میوزد از بوستان شاه وز ژاله باده در قدح لاله میرود
+شکرشکن شوند همه طوطیان هند زین قند پارسی که به بنگاله میرود
+طی زمان به چمن و مکان در سلوک شعر کین طفل بکشید کین طفل یکشبه ره یک ساله میرود
+از ره مرو به عشوه دنیا که این عجوز مکاره می نشیند و محتاله میرود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

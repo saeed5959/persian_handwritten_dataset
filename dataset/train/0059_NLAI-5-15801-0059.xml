@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:30.218-07:00</Created>
+        <LastChange>2026-06-20T11:42:51.200-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0059_NLAI-5-15801-0059.jpg" imageWidth="1090" imageHeight="1789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781980971262" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="TextRegion_1781979196861_394" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1781979196861_394" custom="readingOrder {index:1;}">
+            <Coords points="134,209 973,209 973,1647 134,1647" />
+            <TextLine id="line_1781979211705_400" custom="readingOrder {index:0;}">
+                <Coords points="158,215 971,215 971,300 158,300" /><Baseline points="158,268 971,268" />
+                <Baseline points="961,276 168,261" />
+                <TextEquiv>
+                    <Unicode>اولا و بالذات عارض انسان میشود ثانیا و بالعرض حیوان و واسطه در نبوت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979224798_403" custom="readingOrder {index:1;}">
+                <Coords points="154,309 963,309 963,413 154,413" /><Baseline points="154,373 963,373" />
+                <Baseline points="956,388 174,379" />
+                <TextEquiv>
+                    <Unicode>ان است که واسطه باشد از برای ثبوت عارض خواه خودش در عروض العارض واسطه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979234688_406" custom="readingOrder {index:2;}">
+                <Coords points="158,435 965,435 965,540 158,540" /><Baseline points="158,500 965,500" />
+                <Baseline points="959,511 175,509" />
+                <TextEquiv>
+                    <Unicode>باشد چنانکه گذشت در مثال سابق و خواه نباشد مثل تحرک اصابع که واسطه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979540287_411" custom="readingOrder {index:3;}">
+                <Coords points="157,538 965,538 965,667 157,667" /><Baseline points="157,618 965,618" />
+                <Baseline points="955,639 168,624" />
+                <TextEquiv>
+                    <Unicode>در ثبوت است از برای کتابت بالفعل انسان وجودش صلاحیت اتصاف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979560864_414" custom="readingOrder {index:4;}">
+                <Coords points="148,658 969,658 969,814 148,814" /><Baseline points="148,755 969,755" />
+                <Baseline points="959,761 156,737" />
+                <TextEquiv>
+                    <Unicode>ندارد و واسطه در اثبات ان است که علت علم بشی باشد مثل تغیر که علت علم بحدوث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979573848_417" custom="readingOrder {index:5;}">
+                <Coords points="145,775 966,775 966,935 145,935" /><Baseline points="145,874 966,874" />
+                <Baseline points="959,880 151,867" />
+                <TextEquiv>
+                    <Unicode>عالم است و گاه با هم جمع میشوند در یک ماده مثل انسان که هم واسطه در عروض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979585442_420" custom="readingOrder {index:6;}">
+                <Coords points="965,1040 143,1040 143,914 965,914" /><Baseline points="143,992 965,992" />
+                <Baseline points="959,1003 150,989" />
+                <TextEquiv>
+                    <Unicode>و ثبوت کتابت است از برای حیوان باینطریق که بعض الحیوان انسان و کل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979598941_423" custom="readingOrder {index:7;}">
+                <Coords points="149,1062 959,1062 959,1154 149,1154" /><Baseline points="149,1119 959,1119" />
+                <Baseline points="953,1118 158,1113" />
+                <TextEquiv>
+                    <Unicode>انسان کاتب فبعض الحیوان کاتب و گاه باشد شی واحد واسطه در اثبات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979614644_426" custom="readingOrder {index:8;}">
+                <Coords points="146,1163 966,1163 966,1272 146,1272" /><Baseline points="146,1231 966,1231" />
+                <Baseline points="958,1247 155,1224" />
+                <TextEquiv>
+                    <Unicode>باشد اما نه واسطه در عروض و نه واسطه در ثبوت باشد و آن جا ییست که از معلول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979645986_435" custom="readingOrder {index:9;}">
+                <Coords points="150,1286 963,1286 963,1408 150,1408" /><Baseline points="150,1362 963,1362" />
+                <Baseline points="955,1375 158,1353" />
+                <TextEquiv>
+                    <Unicode>دلیل گفته میشود بر علت مثل انکه از تب استدلال میکنند بر بعض اخلاط و ازین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979656955_438" custom="readingOrder {index:10;}">
+                <Coords points="141,1419 969,1419 969,1527 141,1527" /><Baseline points="141,1486 969,1486" />
+                <Baseline points="148,1466 384,1481 962,1482" />
+                <TextEquiv>
+                    <Unicode>ظاهر شد که واسطه در عروض دانستن شی لازم ندارد و بدیهی بودن ثبوت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781979666501_441" custom="readingOrder {index:11;}">
+                <Coords points="144,1507 964,1507 964,1640 144,1640" /><Baseline points="144,1589 964,1589" />
+                <Baseline points="956,1601 158,1589" />
+                <TextEquiv>
+                    <Unicode>انشی از برای موضوع بلکه بسیاری از محمولات مسایل که واسطه در عروض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اولا و بالذات عارض انسان میشود ثانیا و بالعرض حیوان و واسطه در نبوت
+ان است که واسطه باشد از برای ثبوت عارض خواه خودش در عروض العارض واسطه
+باشد چنانکه گذشت در مثال سابق و خواه نباشد مثل تحرک اصابع که واسطه
+در ثبوت است از برای کتابت بالفعل انسان وجودش صلاحیت اتصاف
+ندارد و واسطه در اثبات ان است که علت علم بشی باشد مثل تغیر که علت علم بحدوث
+عالم است و گاه با هم جمع میشوند در یک ماده مثل انسان که هم واسطه در عروض
+و ثبوت کتابت است از برای حیوان باینطریق که بعض الحیوان انسان و کل
+انسان کاتب فبعض الحیوان کاتب و گاه باشد شی واحد واسطه در اثبات
+باشد اما نه واسطه در عروض و نه واسطه در ثبوت باشد و آن جا ییست که از معلول
+دلیل گفته میشود بر علت مثل انکه از تب استدلال میکنند بر بعض اخلاط و ازین
+ظاهر شد که واسطه در عروض دانستن شی لازم ندارد و بدیهی بودن ثبوت
+انشی از برای موضوع بلکه بسیاری از محمولات مسایل که واسطه در عروض</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

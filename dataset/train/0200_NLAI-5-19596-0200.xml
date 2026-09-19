@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:22.143+04:30</Created>
+        <LastChange>2026-06-21T21:43:39.312+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="21" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0200_NLAI-5-19596-0200.jpg" imageWidth="1506" imageHeight="2826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782062019313" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782061406463_1964" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782061406463_1964" custom="readingOrder {index:0;}">
+            <Coords points="93,2637 1118,2637 1118,458 93,458" />
+            <TextLine id="line_1782061418730_1967" custom="readingOrder {index:0;}">
+                <Coords points="150,594 1119,594 1119,449 150,449" /><Baseline points="150,539 1119,539" />
+                <Baseline points="158,566 1100,581" />
+                <TextEquiv>
+                    <Unicode>ای عروس هنر از بخت شکایت منما حجله حسن بیارای که داماد آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061422359_1970" custom="readingOrder {index:1;}">
+                <Coords points="1110,747 141,747 141,607 1110,607" /><Baseline points="141,694 1110,694" />
+                <Baseline points="149,693 1089,724" />
+                <TextEquiv>
+                    <Unicode>دلفریبان نباتی همه زیور بستند دلبر ماست که با حسن خداداد آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061425404_1973" custom="readingOrder {index:2;}">
+                <Coords points="1099,898 130,898 130,710 1099,710" /><Baseline points="130,827 1099,827" />
+                <Baseline points="163,826 1088,858" />
+                <TextEquiv>
+                    <Unicode>زیر بارند درختان که تعلق دارند ای خوش آن سرو که از بار غم آزاد آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061427884_1976" custom="readingOrder {index:3;}">
+                <Coords points="903,1050 428,1050 428,904 903,904" /><Baseline points="428,995 903,995" />
+                <Baseline points="474,1005 878,1003" />
+                <TextEquiv>
+                    <Unicode>مطرب از گفته حافظ غزلی نغز بخوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061429683_1979" custom="readingOrder {index:4;}">
+                <Coords points="884,1190 427,1190 427,1037 884,1037" /><Baseline points="427,1132 884,1132" />
+                <Baseline points="459,1126 853,1148" />
+                <TextEquiv>
+                    <Unicode>تا بگویم که ز عهد طربم یاد آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061432781_1982" custom="readingOrder {index:5;}">
+                <Coords points="1103,1347 120,1347 120,1171 1103,1171" /><Baseline points="120,1280 1103,1280" />
+                <Baseline points="128,1284 1082,1309" />
+                <TextEquiv>
+                    <Unicode>چو آفتاب می از مشرق پیاله برآید ز باغ عارض ساقی هزار لاله برآید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061435116_1985" custom="readingOrder {index:6;}">
+                <Coords points="1106,1493 111,1493 111,1304 1106,1304" /><Baseline points="111,1421 1106,1421" />
+                <Baseline points="129,1424 1071,1451" />
+                <TextEquiv>
+                    <Unicode>نسیم در سر گل بشکند کلاله سنبل چو از میان چمن بوی آن کلاله برآید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061437720_1988" custom="readingOrder {index:7;}">
+                <Coords points="1086,1624 106,1624 106,1473 1086,1473" /><Baseline points="106,1567 1086,1567" />
+                <Baseline points="116,1563 1067,1594" />
+                <TextEquiv>
+                    <Unicode>حکایت شب هجران نه آن حکایت حالیست که شمه ای ز بیانش به صد رساله برآید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061442706_1991" custom="readingOrder {index:8;}">
+                <Coords points="1088,1758 97,1758 97,1594 1088,1594" /><Baseline points="97,1696 1088,1696" />
+                <Baseline points="124,1714 1070,1728" />
+                <TextEquiv>
+                    <Unicode>ز گرد خوان نگون فلک طمع نتوان داشت که بی ملامت صد غصه یک نواله برآید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061446231_1994" custom="readingOrder {index:9;}">
+                <Coords points="1080,1913 131,1913 131,1752 1080,1752" /><Baseline points="131,1852 1080,1852" />
+                <Baseline points="139,1863 1068,1884" />
+                <TextEquiv>
+                    <Unicode>گرت چو نوح نبی صبر هست در غم طوفان بلا بگردد و کام هزارساله برآید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061448716_1997" custom="readingOrder {index:10;}">
+                <Coords points="1075,2047 110,2047 110,1892 1075,1892" /><Baseline points="110,1988 1075,1988" />
+                <Baseline points="131,1996 1070,2021" />
+                <TextEquiv>
+                    <Unicode>بسعی خود نتوان یافت ره بگوهر مقصود خیال باشد که این کار بی حواله برآید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061451396_2000" custom="readingOrder {index:11;}">
+                <Coords points="875,2183 374,2183 374,2061 875,2061" /><Baseline points="374,2137 875,2137" />
+                <Baseline points="407,2148 844,2147" />
+                <TextEquiv>
+                    <Unicode>نسیم وصل تو گر بگذرد به تربت حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061453524_2003" custom="readingOrder {index:12;}">
+                <Coords points="844,2327 359,2327 359,2199 844,2199" /><Baseline points="359,2278 844,2278" />
+                <Baseline points="381,2287 826,2303" />
+                <TextEquiv>
+                    <Unicode>ز خاک کالبدش صد هزار لاله برآید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061457295_2006" custom="readingOrder {index:13;}">
+                <Coords points="1076,2487 88,2487 88,2308 1076,2308" /><Baseline points="88,2419 1076,2419" />
+                <Baseline points="107,2435 1055,2462" />
+                <TextEquiv>
+                    <Unicode>نفس برآمد و کام از تو بر نمی آید فعان که بحث من از خواب بر نمی آید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782061459992_2009" custom="readingOrder {index:14;}">
+                <Coords points="1087,2638 104,2638 104,2461 1087,2461" /><Baseline points="104,2571 1087,2571" />
+                <Baseline points="126,2576 1045,2584" />
+                <TextEquiv>
+                    <Unicode>صبا به چشم من انداخت خاکی از کویش که آب زندگیم در نظر نمی آید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ای عروس هنر از بخت شکایت منما حجله حسن بیارای که داماد آمد
+دلفریبان نباتی همه زیور بستند دلبر ماست که با حسن خداداد آمد
+زیر بارند درختان که تعلق دارند ای خوش آن سرو که از بار غم آزاد آمد
+مطرب از گفته حافظ غزلی نغز بخوان
+تا بگویم که ز عهد طربم یاد آمد
+چو آفتاب می از مشرق پیاله برآید ز باغ عارض ساقی هزار لاله برآید
+نسیم در سر گل بشکند کلاله سنبل چو از میان چمن بوی آن کلاله برآید
+حکایت شب هجران نه آن حکایت حالیست که شمه ای ز بیانش به صد رساله برآید
+ز گرد خوان نگون فلک طمع نتوان داشت که بی ملامت صد غصه یک نواله برآید
+گرت چو نوح نبی صبر هست در غم طوفان بلا بگردد و کام هزارساله برآید
+بسعی خود نتوان یافت ره بگوهر مقصود خیال باشد که این کار بی حواله برآید
+نسیم وصل تو گر بگذرد به تربت حافظ
+ز خاک کالبدش صد هزار لاله برآید
+نفس برآمد و کام از تو بر نمی آید فعان که بحث من از خواب بر نمی آید
+صبا به چشم من انداخت خاکی از کویش که آب زندگیم در نظر نمی آید</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

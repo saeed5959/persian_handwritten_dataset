@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.133+03:30</Created>
+        <LastChange>2026-06-12T22:16:18.886+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0011_NLAI-5-11236-0011.jpg" imageWidth="1217" imageHeight="1991">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781289978900" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781288594015_264" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781288594015_264" custom="readingOrder {index:0;}">
+            <Coords points="293,487 1049,487 1049,1701 293,1701" />
+            <TextLine id="line_1781289113680_273" custom="readingOrder {index:0;}">
+                <Coords points="336,648 647,648 647,524 336,524" /><Baseline points="336,601 647,601" />
+                <Baseline points="360,592 629,589" />
+                <TextEquiv>
+                    <Unicode>مژه تیرگی برده از پر زاغ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781288600711_267" custom="readingOrder {index:1;}">
+                <Coords points="686,554 992,554 992,652 686,652" /><Baseline points="686,615 992,615" />
+                <Baseline points="708,601 990,601" />
+                <TextEquiv>
+                    <Unicode>دو چشمش بسان دو نرگس بباغ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289140624_285" custom="readingOrder {index:2;}">
+                <Coords points="336,773 644,773 644,651 336,651" /><Baseline points="336,727 644,727" />
+                <Baseline points="355,713 632,720" />
+                <TextEquiv>
+                    <Unicode>بر او توز پوشیده از مشک ناز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289129080_279" custom="readingOrder {index:3;}">
+                <Coords points="699,777 995,777 995,665 699,665" /><Baseline points="699,734 995,734" />
+                <Baseline points="708,722 987,728" />
+                <TextEquiv>
+                    <Unicode>دو ابرو به سان کمان طراز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289176080_297" custom="readingOrder {index:4;}">
+                <Coords points="345,892 644,892 644,783 345,783" /><Baseline points="345,851 644,851" />
+                <Baseline points="352,838 628,841" />
+                <TextEquiv>
+                    <Unicode>و گر مشک بویی همه بوی اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289161744_291" custom="readingOrder {index:5;}">
+                <Coords points="698,902 1004,902 1004,785 698,785" /><Baseline points="698,858 1004,858" />
+                <Baseline points="698,852 992,857" />
+                <TextEquiv>
+                    <Unicode>اگر ماه جویی همه روی اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289202183_309" custom="readingOrder {index:6;}">
+                <Coords points="341,1020 650,1020 650,908 341,908" /><Baseline points="341,977 650,977" />
+                <Baseline points="348,972 644,971" />
+                <TextEquiv>
+                    <Unicode>فکنده است گویی گره بر گره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289189377_303" custom="readingOrder {index:7;}">
+                <Coords points="692,1032 995,1032 995,914 692,914" /><Baseline points="692,987 995,987" />
+                <Baseline points="696,983 995,978" />
+                <TextEquiv>
+                    <Unicode>سر زلف و جعدش چو مشکین زره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289236223_321" custom="readingOrder {index:8;}">
+                <Coords points="348,1144 639,1144 639,1026 348,1026" /><Baseline points="348,1099 639,1099" />
+                <Baseline points="360,1093 628,1090" />
+                <TextEquiv>
+                    <Unicode>برو کرده از غالیه صد رقم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289218488_315" custom="readingOrder {index:9;}">
+                <Coords points="690,1165 992,1165 992,1042 690,1042" /><Baseline points="690,1118 992,1118" />
+                <Baseline points="699,1099 987,1103" />
+                <TextEquiv>
+                    <Unicode>ده انگشت بر سان سیمین قلم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289270368_333" custom="readingOrder {index:10;}">
+                <Coords points="345,1278 641,1278 641,1159 345,1159" /><Baseline points="345,1233 641,1233" />
+                <Baseline points="354,1233 632,1230" />
+                <TextEquiv>
+                    <Unicode>پر آرایش و رامش و خواسته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289251592_327" custom="readingOrder {index:11;}">
+                <Coords points="692,1299 995,1299 995,1169 692,1169" /><Baseline points="692,1250 995,1250" />
+                <Baseline points="690,1236 989,1236" />
+                <TextEquiv>
+                    <Unicode>بهشتی است سر تا سر اراسته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289299016_345" custom="readingOrder {index:12;}">
+                <Coords points="350,1398 657,1398 657,1287 350,1287" /><Baseline points="350,1356 657,1356" />
+                <Baseline points="364,1348 632,1350" />
+                <TextEquiv>
+                    <Unicode>که مانند ماهست بر آسمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289286696_339" custom="readingOrder {index:13;}">
+                <Coords points="689,1411 990,1411 990,1302 689,1302" /><Baseline points="689,1370 990,1370" />
+                <Baseline points="703,1363 993,1358" />
+                <TextEquiv>
+                    <Unicode>ترا زیبد ای نامور پهلوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289331125_357" custom="readingOrder {index:14;}">
+                <Coords points="335,1523 636,1523 636,1422 335,1422" /><Baseline points="335,1485 636,1485" />
+                <Baseline points="347,1482 634,1476" />
+                <TextEquiv>
+                    <Unicode>بجنبید مهرش برآن ماه روی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289315535_351" custom="readingOrder {index:15;}">
+                <Coords points="687,1535 992,1535 992,1424 687,1424" /><Baseline points="687,1493 992,1493" />
+                <Baseline points="699,1481 982,1488" />
+                <TextEquiv>
+                    <Unicode>چو بشنید زال این سخنها ازوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289366136_369" custom="readingOrder {index:16;}">
+                <Coords points="345,1636 632,1636 632,1533 345,1533" /><Baseline points="345,1597 632,1597" />
+                <Baseline points="354,1587 634,1602" />
+                <TextEquiv>
+                    <Unicode>چنان شد کزو رفت آرام وهوش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781289343799_363" custom="readingOrder {index:17;}">
+                <Coords points="689,1651 998,1651 998,1553 689,1553" /><Baseline points="689,1614 998,1614" />
+                <Baseline points="705,1603 987,1607" />
+                <TextEquiv>
+                    <Unicode>برآورد مر زال را دل به جوش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مژه تیرگی برده از پر زاغ
+دو چشمش بسان دو نرگس بباغ
+بر او توز پوشیده از مشک ناز
+دو ابرو به سان کمان طراز
+و گر مشک بویی همه بوی اوست
+اگر ماه جویی همه روی اوست
+فکنده است گویی گره بر گره
+سر زلف و جعدش چو مشکین زره
+برو کرده از غالیه صد رقم
+ده انگشت بر سان سیمین قلم
+پر آرایش و رامش و خواسته
+بهشتی است سر تا سر اراسته
+که مانند ماهست بر آسمان
+ترا زیبد ای نامور پهلوان
+بجنبید مهرش برآن ماه روی
+چو بشنید زال این سخنها ازوی
+چنان شد کزو رفت آرام وهوش
+برآورد مر زال را دل به جوش</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

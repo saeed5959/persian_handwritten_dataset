@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T11:45:56.924+03:30</Created>
+        <LastChange>2026-06-26T00:01:13.868+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0177_NLAI-5-19596-0177.jpg" imageWidth="1519" imageHeight="2740">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782419473945" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782412282159_3750" />
+                <RegionRefIndexed index="1" regionRef="region_1782414302597_3837" />
+                <RegionRefIndexed index="2" regionRef="region_1782411965845_3688" />
+                <RegionRefIndexed index="3" regionRef="region_1782414047527_3793" />
+                <RegionRefIndexed index="4" regionRef="region_1782412078647_3703" />
+                <RegionRefIndexed index="5" regionRef="region_1782414167536_3810" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782412282159_3750" custom="readingOrder {index:0;}">
+            <Coords points="404,692 868,692 868,1676 404,1676" />
+            <TextLine id="line_1782412285890_3753" custom="readingOrder {index:0;}">
+                <Coords points="400,684 872,684 872,804 400,804" /><Baseline points="400,758 872,758" />
+                <Baseline points="421,776 845,768" />
+                <TextEquiv>
+                    <Unicode>تا کجا باز دل غمزده ای سوخته بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782412312403_3759" custom="readingOrder {index:1;}">
+                <Coords points="419,833 876,833 876,961 419,961" /><Baseline points="419,912 876,912" />
+                <Baseline points="425,904 864,900" />
+                <TextEquiv>
+                    <Unicode>و آتش چهره بدین کار برافروخته بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782412335030_3765" custom="readingOrder {index:2;}">
+                <Coords points="398,966 878,966 878,1106 398,1106" /><Baseline points="398,1053 878,1053" />
+                <Baseline points="443,1051 847,1068" />
+                <TextEquiv>
+                    <Unicode>جامه ای بود که بر قامت او دوخته بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782413867365_3771" custom="readingOrder {index:3;}">
+                <Coords points="419,1155 878,1155 878,1243 419,1243" /><Baseline points="419,1210 878,1210" />
+                <Baseline points="435,1198 853,1200" />
+                <TextEquiv>
+                    <Unicode>در پی اش مشعلی از چهره برافروخته بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782413901158_3777" custom="readingOrder {index:4;}">
+                <Coords points="419,1268 866,1268 866,1390 419,1390" /><Baseline points="419,1344 866,1344" />
+                <Baseline points="435,1306 858,1341" />
+                <TextEquiv>
+                    <Unicode>که نهانش نظری با من دلسوخته بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782413992860_3783" custom="readingOrder {index:5;}">
+                <Coords points="404,1398 876,1398 876,1533 404,1533" /><Baseline points="404,1482 876,1482" />
+                <TextEquiv>
+                    <Unicode>الله الله که تلف کرد و که اندوخته بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414017294_3787" custom="readingOrder {index:6;}">
+                <Coords points="398,1572 874,1572 874,1680 398,1680" /><Baseline points="398,1639 874,1639" />
+                <Baseline points="439,1615 856,1602" />
+                <TextEquiv>
+                    <Unicode>آن که یوسف به زر ناسره بفروخته بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تا کجا باز دل غمزده ای سوخته بود
+و آتش چهره بدین کار برافروخته بود
+جامه ای بود که بر قامت او دوخته بود
+در پی اش مشعلی از چهره برافروخته بود
+که نهانش نظری با من دلسوخته بود
+الله الله که تلف کرد و که اندوخته بود
+آن که یوسف به زر ناسره بفروخته بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782414302597_3837" custom="readingOrder {index:1;}">
+            <Coords points="418,1939 867,1939 867,2502 418,2502" />
+            <TextLine id="line_1782414308923_3840" custom="readingOrder {index:0;}">
+                <Coords points="422,1945 874,1945 874,2109 422,2109" /><Baseline points="422,2047 874,2047" />
+                <Baseline points="420,2009 844,2036" />
+                <TextEquiv>
+                    <Unicode>که جوش شاهد و ساقی و شمع و مشعله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414334428_3846" custom="readingOrder {index:1;}">
+                <Coords points="407,2113 869,2113 869,2258 407,2258" /><Baseline points="407,2203 869,2203" />
+                <Baseline points="404,2165 845,2204" />
+                <TextEquiv>
+                    <Unicode>به ناله دف و نی در خروش و ولوله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414359541_3852" custom="readingOrder {index:2;}">
+                <Coords points="404,2270 856,2270 856,2417 404,2417" /><Baseline points="404,2361 856,2361" />
+                <Baseline points="436,2340 844,2329" />
+                <TextEquiv>
+                    <Unicode>ورای مدرسه و قال و قیل مساله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414429479_3858" custom="readingOrder {index:3;}">
+                <Coords points="413,2420 860,2420 860,2488 413,2488" /><Baseline points="413,2462 860,2462" />
+                <Baseline points="438,2451 838,2458" />
+                <TextEquiv>
+                    <Unicode>ز نامساعدی بختش اندکی گله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که جوش شاهد و ساقی و شمع و مشعله بود
+به ناله دف و نی در خروش و ولوله بود
+ورای مدرسه و قال و قیل مساله بود
+ز نامساعدی بختش اندکی گله بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782411965845_3688" custom="readingOrder {index:2;}">
+            <Coords points="706,416 1166,416 1166,670 706,670" />
+            <TextLine id="line_1782411986505_3691" custom="readingOrder {index:0;}">
+                <Coords points="726,430 1163,430 1163,553 726,553" /><Baseline points="726,506 1163,506" />
+                <Baseline points="723,500 1130,512" />
+                <TextEquiv>
+                    <Unicode>هر گنج سعادت که خدا داد به حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782412015062_3697" custom="readingOrder {index:1;}">
+                <Coords points="723,563 1139,563 1139,678 723,678" /><Baseline points="723,634 1139,634" />
+                <Baseline points="737,606 1135,636" />
+                <TextEquiv>
+                    <Unicode>از یمن دعای شب وروز سحری بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>هر گنج سعادت که خدا داد به حافظ
+از یمن دعای شب وروز سحری بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782414047527_3793" custom="readingOrder {index:3;}">
+            <Coords points="672,1687 1164,1687 1164,1929 672,1929" />
+            <TextLine id="line_1782414051243_3796" custom="readingOrder {index:0;}">
+                <Coords points="676,1697 1172,1697 1172,1802 676,1802" /><Baseline points="676,1762 1172,1762" />
+                <Baseline points="709,1728 1139,1726" />
+                <TextEquiv>
+                    <Unicode>گفت و خوش گفت برو خرقه بسوزان حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414140197_3804" custom="readingOrder {index:1;}">
+                <Coords points="672,1807 1158,1807 1158,1922 672,1922" /><Baseline points="672,1878 1158,1878" />
+                <Baseline points="715,1880 1140,1880" />
+                <TextEquiv>
+                    <Unicode>یا رب این قلب شناسی ز که آموخته بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گفت و خوش گفت برو خرقه بسوزان حافظ
+یا رب این قلب شناسی ز که آموخته بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782412078647_3703" custom="readingOrder {index:4;}">
+            <Coords points="958,688 1398,688 1398,1682 958,1682" />
+            <TextLine id="line_1782412081915_3706" custom="readingOrder {index:0;}">
+                <Coords points="960,688 1394,688 1394,825 960,825" /><Baseline points="960,773 1394,773" />
+                <Baseline points="980,753 1374,790" />
+                <TextEquiv>
+                    <Unicode>دوش می آمد و رخساره برافروخته بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782412105085_3712" custom="readingOrder {index:1;}">
+                <Coords points="958,833 1378,833 1378,980 958,980" /><Baseline points="958,924 1378,924" />
+                <Baseline points="986,906 1366,917" />
+                <TextEquiv>
+                    <Unicode>جان عشاق سپند رخ خود می دانست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782412126558_3718" custom="readingOrder {index:2;}">
+                <Coords points="962,992 1378,992 1378,1108 962,1108" /><Baseline points="962,1064 1378,1064" />
+                <Baseline points="968,1049 1347,1061" />
+                <TextEquiv>
+                    <Unicode>رسم عاشق کشی و شیوه شهرآشوبی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782412150771_3726" custom="readingOrder {index:3;}">
+                <Coords points="953,1131 1378,1131 1378,1243 953,1243" /><Baseline points="953,1200 1378,1200" />
+                <Baseline points="929,1164 1368,1188" />
+                <TextEquiv>
+                    <Unicode>کفر زلفش ره دین می زد و آن سنگین دل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782412169439_3732" custom="readingOrder {index:4;}">
+                <Coords points="949,1266 1392,1266 1392,1374 949,1374" /><Baseline points="949,1333 1392,1333" />
+                <Baseline points="972,1339 1372,1333" />
+                <TextEquiv>
+                    <Unicode>گر چه می گفت که زارت بکشم می دیدم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782412206800_3738" custom="readingOrder {index:5;}">
+                <Coords points="935,1402 1392,1402 1392,1513 935,1513" /><Baseline points="935,1471 1392,1471" />
+                <Baseline points="964,1453 1364,1466" />
+                <TextEquiv>
+                    <Unicode>دل بسی خون به کف آورد ولی دیده بریخت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782412254304_3744" custom="readingOrder {index:6;}">
+                <Coords points="966,1541 1388,1541 1388,1660 966,1660" /><Baseline points="966,1615 1388,1615" />
+                <Baseline points="970,1600 1374,1619" />
+                <TextEquiv>
+                    <Unicode>یار مفروش به دنیا که بسی سود نکرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دوش می آمد و رخساره برافروخته بود
+جان عشاق سپند رخ خود می دانست
+رسم عاشق کشی و شیوه شهرآشوبی
+کفر زلفش ره دین می زد و آن سنگین دل
+گر چه می گفت که زارت بکشم می دیدم
+دل بسی خون به کف آورد ولی دیده بریخت
+یار مفروش به دنیا که بسی سود نکرد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782414167536_3810" custom="readingOrder {index:5;}">
+            <Coords points="955,1929 1385,1929 1385,2483 955,2483" />
+            <TextLine id="line_1782414173632_3813" custom="readingOrder {index:0;}">
+                <Coords points="944,1937 1385,1937 1385,2086 944,2086" /><Baseline points="944,2029 1385,2029" />
+                <Baseline points="951,2041 1375,2048" />
+                <TextEquiv>
+                    <Unicode>به کوی میکده یا رب سحر چه مشغله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414241531_3819" custom="readingOrder {index:1;}">
+                <Coords points="963,2093 1375,2093 1375,2231 963,2231" /><Baseline points="963,2179 1375,2179" />
+                <Baseline points="963,2161 1350,2190" />
+                <TextEquiv>
+                    <Unicode>حدیث عشق که از حرف و صوت مستغنیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414261418_3825" custom="readingOrder {index:2;}">
+                <Coords points="958,2256 1378,2256 1378,2367 958,2367" /><Baseline points="958,2325 1378,2325" />
+                <Baseline points="951,2338 1366,2336" />
+                <TextEquiv>
+                    <Unicode>مباحثی که در آن مجلس جنون می رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414283327_3831" custom="readingOrder {index:3;}">
+                <Coords points="940,2381 1376,2381 1376,2481 940,2481" /><Baseline points="940,2443 1376,2443" />
+                <Baseline points="974,2445 1378,2451" />
+                <TextEquiv>
+                    <Unicode>دل از کرشمه ساقی به شکر بود ولی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>به کوی میکده یا رب سحر چه مشغله بود
+حدیث عشق که از حرف و صوت مستغنیست
+مباحثی که در آن مجلس جنون می رفت
+دل از کرشمه ساقی به شکر بود ولی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

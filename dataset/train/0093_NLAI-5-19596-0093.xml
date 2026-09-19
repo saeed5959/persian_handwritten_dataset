@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:31.325+03:30</Created>
+        <LastChange>2026-06-20T20:16:11.009+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0093_NLAI-5-19596-0093.jpg" imageWidth="1553" imageHeight="2905">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781973971067" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781973313533_251" />
+                <RegionRefIndexed index="1" regionRef="region_1781973496817_283" />
+                <RegionRefIndexed index="2" regionRef="region_1781973587105_305" />
+                <RegionRefIndexed index="3" regionRef="region_1781973921493_362" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781973313533_251" custom="readingOrder {index:0;}">
+            <Coords points="430,506 1472,506 1472,1119 430,1119" />
+            <TextLine id="line_1781973323987_257" custom="readingOrder {index:0;}">
+                <Coords points="497,558 1425,614 1422,664 494,608" /><Baseline points="494,624 1425,624" />
+                <Baseline points="494,603 1422,659" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973317734_254" custom="readingOrder {index:1;}">
+                <Coords points="480,561 1444,561 1444,706 480,706" /><Baseline points="480,651 1444,651" />
+                <TextEquiv>
+                    <Unicode>غم کهن به می سالخورده دفع کنید که تخم خوشدلی این است پیر دهقان گفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973350642_263" custom="readingOrder {index:2;}">
+                <Coords points="454,716 1448,716 1448,833 454,833" /><Baseline points="454,789 1448,789" />
+                <Baseline points="496,746 1430,786" />
+                <TextEquiv>
+                    <Unicode>گره به باد مزن گر چه بر مراد رود که این سخن به مثل باد با سلیمان گفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973382985_269" custom="readingOrder {index:3;}">
+                <Coords points="460,851 1442,851 1442,972 460,972" /><Baseline points="460,926 1442,926" />
+                <Baseline points="500,875 1434,925" />
+                <TextEquiv>
+                    <Unicode>به عشوه که سپهرت دهد زراهه مرو ترا که کشف که این زال ترک دستان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973462889_276" custom="readingOrder {index:4;}">
+                <Coords points="460,990 1462,990 1462,1109 460,1109" /><Baseline points="460,1064 1462,1064" />
+                <Baseline points="480,1036 1416,1065" />
+                <TextEquiv>
+                    <Unicode>مزن ز چون و چرا دم که بنده مقبل قبول کرد به جان هر سخن که جانان گفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>غم کهن به می سالخورده دفع کنید که تخم خوشدلی این است پیر دهقان گفت
+گره به باد مزن گر چه بر مراد رود که این سخن به مثل باد با سلیمان گفت
+به عشوه که سپهرت دهد زراهه مرو ترا که کشف که این زال ترک دستان
+مزن ز چون و چرا دم که بنده مقبل قبول کرد به جان هر سخن که جانان گفت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781973496817_283" custom="readingOrder {index:1;}">
+            <Coords points="667,1133 1252,1133 1252,1416 667,1416" />
+            <TextLine id="line_1781973502977_286" custom="readingOrder {index:0;}">
+                <Coords points="684,1148 1208,1148 1208,1406 684,1406" /><Baseline points="684,1308 1208,1308" />
+                <Baseline points="718,1198 1180,1188" />
+                <TextEquiv>
+                    <Unicode>که گفت حافظ از اندیشه تو آمد باز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973549934_296" custom="readingOrder {index:1;}">
+                <Coords points="702,1262 1175,1262 1175,1393 702,1393" /><Baseline points="702,1343 1175,1343" />
+                <Baseline points="724,1337 1145,1347" />
+                <TextEquiv>
+                    <Unicode>من این نگفته ام آن کس که گفت بهتان گفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که گفت حافظ از اندیشه تو آمد باز
+من این نگفته ام آن کس که گفت بهتان گفت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781973587105_305" custom="readingOrder {index:2;}">
+            <Coords points="441,1376 1440,1376 1440,2404 441,2404" />
+            <TextLine id="line_1781973593465_308" custom="readingOrder {index:0;}">
+                <Coords points="462,1401 1426,1401 1426,1548 462,1548" /><Baseline points="462,1492 1426,1492" />
+                <Baseline points="473,1462 1415,1501" />
+                <TextEquiv>
+                    <Unicode>صبحدم مرغ چمن با گل نوخاسته گفت ناز کم کن که در این باغ بسی چون تو شکفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973665397_314" custom="readingOrder {index:1;}">
+                <Coords points="451,1558 1462,1558 1462,1684 451,1684" /><Baseline points="451,1636 1462,1636" />
+                <Baseline points="477,1603 1417,1636" />
+                <TextEquiv>
+                    <Unicode>گل بخندید که از راست نرنجیم ولی هیچ عاشق سخن سخت به معشوق نگفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973707338_330" custom="readingOrder {index:2;}">
+                <Coords points="440,1696 1444,1696 1444,1815 440,1815" /><Baseline points="440,1770 1444,1770" />
+                <Baseline points="476,1755 1414,1765" />
+                <TextEquiv>
+                    <Unicode>گر طمع داری از آن جام مرصع می لعل ای بسا در که به نوک مژه ات باید سفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973735450_336" custom="readingOrder {index:3;}">
+                <Coords points="445,1827 1443,1827 1443,1963 445,1963" /><Baseline points="445,1911 1443,1911" />
+                <Baseline points="477,1891 1410,1918" />
+                <TextEquiv>
+                    <Unicode>تا ابد بوی محبت به مشامش نرسد هر که خاک در میخانه به رخساره نرفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973796210_343" custom="readingOrder {index:4;}">
+                <Coords points="434,1975 1441,1975 1441,2096 434,2096" /><Baseline points="434,2050 1441,2050" />
+                <Baseline points="462,2036 1407,2048" />
+                <TextEquiv>
+                    <Unicode>در گلستان ارم دوش چو از لطف هوا زلف سنبل به نسیم سحری می آشفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973836734_350" custom="readingOrder {index:5;}">
+                <Coords points="440,2110 1434,2110 1434,2261 440,2261" /><Baseline points="440,2204 1434,2204" />
+                <Baseline points="469,2169 1398,2198" />
+                <TextEquiv>
+                    <Unicode>گفتم ای مسند جم جام جهان بینت کو گفت افسوس که آن دولت بیدار بخفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973860378_356" custom="readingOrder {index:6;}">
+                <Coords points="456,2274 1414,2274 1414,2400 456,2400" /><Baseline points="456,2352 1414,2352" />
+                <Baseline points="464,2311 1416,2342" />
+                <TextEquiv>
+                    <Unicode>سخن عشق نه آن است که آید به زبان ساقیا می ده و کوتاه کن این گفت و شنفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>صبحدم مرغ چمن با گل نوخاسته گفت ناز کم کن که در این باغ بسی چون تو شکفت
+گل بخندید که از راست نرنجیم ولی هیچ عاشق سخن سخت به معشوق نگفت
+گر طمع داری از آن جام مرصع می لعل ای بسا در که به نوک مژه ات باید سفت
+تا ابد بوی محبت به مشامش نرسد هر که خاک در میخانه به رخساره نرفت
+در گلستان ارم دوش چو از لطف هوا زلف سنبل به نسیم سحری می آشفت
+گفتم ای مسند جم جام جهان بینت کو گفت افسوس که آن دولت بیدار بخفت
+سخن عشق نه آن است که آید به زبان ساقیا می ده و کوتاه کن این گفت و شنفت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781973921493_362" custom="readingOrder {index:3;}">
+            <Coords points="626,2408 1238,2408 1238,2662 626,2662" />
+            <TextLine id="line_1781973925782_365" custom="readingOrder {index:0;}">
+                <Coords points="647,2418 1208,2418 1208,2532 647,2532" /><Baseline points="647,2489 1208,2489" />
+                <Baseline points="680,2477 1169,2465" />
+                <TextEquiv>
+                    <Unicode>اشک حافظ خرد و صبر به دریا انداخت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973930003_368" custom="readingOrder {index:1;}">
+                <Coords points="658,2554 1226,2554 1226,2661 658,2661" /><Baseline points="658,2620 1226,2620" />
+                <Baseline points="697,2610 1181,2598" />
+                <TextEquiv>
+                    <Unicode>چه کند سوز غم عشق نیارست نهفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اشک حافظ خرد و صبر به دریا انداخت
+چه کند سوز غم عشق نیارست نهفت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

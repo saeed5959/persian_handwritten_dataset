@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-16T21:33:27.481+03:30</Created>
+        <LastChange>2013-01-01T01:01:48.955+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0299_NLAI-5-21417-0299.jpg" imageWidth="1266" imageHeight="1834">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1356989509049" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1356988891631_850" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1356988891631_850" custom="readingOrder {index:0;}">
+            <Coords points="343,258 1149,258 1149,1636 343,1636" />
+            <TextLine id="line_1356988899446_853" custom="readingOrder {index:0;}">
+                <Coords points="354,250 1149,250 1149,433 354,433" /><Baseline points="354,363 1149,363" />
+                <Baseline points="375,347 1102,351" />
+                <TextEquiv>
+                    <Unicode>و فک حیث مد غم فیه تکین لکونه بمضر الرقع قران</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356988962190_859" custom="readingOrder {index:1;}">
+                <Coords points="365,483 1113,483 1113,648 365,648" /><Baseline points="365,585 1113,585" />
+                <Baseline points="404,580 1084,587" />
+                <TextEquiv>
+                    <Unicode>نحو خللت ما حلا تسترو فی و خبرم و شبیه الخرم تخیر قفی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356989175083_865" custom="readingOrder {index:2;}">
+                <Coords points="372,741 1113,741 1113,898 372,898" /><Baseline points="372,838 1113,838" />
+                <Baseline points="386,820 1095,809" />
+                <TextEquiv>
+                    <Unicode>و فک افعل فی التعجب الشرم و الشرم الاد غام ایضا فی هسپم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356989275594_872" custom="readingOrder {index:3;}">
+                <Coords points="393,952 1109,952 1109,1127 393,1127" /><Baseline points="393,1060 1109,1060" />
+                <Baseline points="404,1056 1095,1045" />
+                <TextEquiv>
+                    <Unicode>و ما بجمه غیلت قد کمک نظا علی حمل المهمات شیمک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356989352549_878" custom="readingOrder {index:4;}">
+                <Coords points="397,1228 1131,1228 1131,1385 397,1385" /><Baseline points="397,1325 1131,1325" />
+                <Baseline points="411,1292 1109,1299" />
+                <TextEquiv>
+                    <Unicode>احصی من الکافیه الخلاصه کااقصی نفی بلا خلاصه یا علی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356989441625_884" custom="readingOrder {index:5;}">
+                <Coords points="386,1464 1131,1464 1131,1611 386,1611" /><Baseline points="386,1555 1131,1555" />
+                <Baseline points="408,1532 1102,1528" />
+                <TextEquiv>
+                    <Unicode>ف حمد الله مصلیا علی محمد خیر نبی ادسلا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و فک حیث مد غم فیه تکین لکونه بمضر الرقع قران
+نحو خللت ما حلا تسترو فی و خبرم و شبیه الخرم تخیر قفی
+و فک افعل فی التعجب الشرم و الشرم الاد غام ایضا فی هسپم
+و ما بجمه غیلت قد کمک نظا علی حمل المهمات شیمک
+احصی من الکافیه الخلاصه کااقصی نفی بلا خلاصه یا علی
+ف حمد الله مصلیا علی محمد خیر نبی ادسلا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

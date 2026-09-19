@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:42.713+03:30</Created>
+        <LastChange>2026-06-21T18:05:59.417+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0011_NLAI-5-11187-0010.jpg" imageWidth="859" imageHeight="1505">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782052559495" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782046919013_419" />
+                <RegionRefIndexed index="1" regionRef="region_1782047037179_430" />
+                <RegionRefIndexed index="2" regionRef="region_1782047152285_441" />
+                <RegionRefIndexed index="3" regionRef="region_1782047246742_452" />
+                <RegionRefIndexed index="4" regionRef="region_1782047364175_463" />
+                <RegionRefIndexed index="5" regionRef="region_1782047443886_474" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782046919013_419" custom="readingOrder {index:0;}">
+            <Coords points="166,398 432,398 432,534 166,534" />
+            <TextLine id="line_1782046924982_422" custom="readingOrder {index:0;}">
+                <Coords points="165,398 432,398 432,455 165,455" /><Baseline points="165,433 432,433" />
+                <TextEquiv>
+                    <Unicode>احسن الی المسی قده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046987329_426" custom="readingOrder {index:1;}">
+                <Coords points="166,456 431,455 432,533 166,534" /><Baseline points="166,504 432,504" />
+                <TextEquiv>
+                    <Unicode>نیکویی کن بد اندیش خود را تا بزرگ ان باشی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>احسن الی المسی قده
+نیکویی کن بد اندیش خود را تا بزرگ ان باشی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782047037179_430" custom="readingOrder {index:1;}">
+            <Coords points="48,537 535,537 534,707 47,707" />
+            <TextLine id="line_1782047049758_433" custom="readingOrder {index:0;}">
+                <Coords points="48,534 535,534 536,623 49,623" /><Baseline points="48,589 536,589" />
+                <TextEquiv>
+                    <Unicode>ایکه خواهی که جهان یابی حرمت وعزت بزرگان را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047097947_437" custom="readingOrder {index:1;}">
+                <Coords points="51,621 536,621 536,712 51,712" /><Baseline points="51,677 536,677" />
+                <TextEquiv>
+                    <Unicode>آنکه بد کرد باتو نیکی کن در عوض تا شوی بزرگ آن را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ایکه خواهی که جهان یابی حرمت وعزت بزرگان را
+آنکه بد کرد باتو نیکی کن در عوض تا شوی بزرگ آن را</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782047152285_441" custom="readingOrder {index:2;}">
+            <Coords points="165,707 432,707 432,866 165,866" />
+            <TextLine id="line_1782047157848_444" custom="readingOrder {index:0;}">
+                <Coords points="164,708 431,708 432,778 165,778" /><Baseline points="164,751 432,751" />
+                <TextEquiv>
+                    <Unicode>ادا الدین من الدین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047206727_448" custom="readingOrder {index:1;}">
+                <Coords points="164,777 432,777 432,866 164,866" /><Baseline points="164,832 432,832" />
+                <TextEquiv>
+                    <Unicode>ادا نمودن قرض از دین داری است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ادا الدین من الدین
+ادا نمودن قرض از دین داری است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782047246742_452" custom="readingOrder {index:3;}">
+            <Coords points="51,863 532,863 532,1031 51,1031" />
+            <TextLine id="line_1782047251884_455" custom="readingOrder {index:0;}">
+                <Coords points="54,865 530,865 530,950 54,950" /><Baseline points="54,918 530,918" />
+                <TextEquiv>
+                    <Unicode>ایکه اندر عبادت شب و روز نیست کارت بجز قضا و ادا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047303032_459" custom="readingOrder {index:1;}">
+                <Coords points="52,952 536,952 536,1031 52,1031" /><Baseline points="52,1001 536,1001" />
+                <TextEquiv>
+                    <Unicode>اول ار دین ادا کنی شاید که ز دین برزنی ببام لوا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ایکه اندر عبادت شب و روز نیست کارت بجز قضا و ادا
+اول ار دین ادا کنی شاید که ز دین برزنی ببام لوا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782047364175_463" custom="readingOrder {index:4;}">
+            <Coords points="164,1031 427,1031 427,1186 164,1186" />
+            <TextLine id="line_1782047371815_466" custom="readingOrder {index:0;}">
+                <Coords points="164,1033 427,1033 427,1116 164,1116" /><Baseline points="164,1084 427,1084" />
+                <TextEquiv>
+                    <Unicode>افضل الزهد اخفاوه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047406240_470" custom="readingOrder {index:1;}">
+                <Coords points="165,1116 426,1116 425,1184 164,1185" /><Baseline points="164,1159 426,1159" />
+                <TextEquiv>
+                    <Unicode>بهترین زهد پنهان نمودن آنست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>افضل الزهد اخفاوه
+بهترین زهد پنهان نمودن آنست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782047443886_474" custom="readingOrder {index:5;}">
+            <Coords points="49,1184 537,1184 542,1333 54,1333" />
+            <TextLine id="line_1782047451356_477" custom="readingOrder {index:0;}">
+                <Coords points="52,1184 540,1184 538,1264 50,1264" /><Baseline points="50,1234 540,1234" />
+                <TextEquiv>
+                    <Unicode>الم و زحمت عبث باشد زهد مومن اگر بود بملا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047528378_481" custom="readingOrder {index:1;}">
+                <Coords points="49,1263 539,1263 540,1332 50,1332" /><Baseline points="49,1306 540,1306" />
+                <TextEquiv>
+                    <Unicode>از ریا چون رسد بزهد زیان به بود زهد کش کنی اخفا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>الم و زحمت عبث باشد زهد مومن اگر بود بملا
+از ریا چون رسد بزهد زیان به بود زهد کش کنی اخفا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

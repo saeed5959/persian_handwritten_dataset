@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:16.899+03:30</Created>
+        <LastChange>2026-06-19T13:58:26.125+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0016_NLAI-5-19596-0016.jpg" imageWidth="1598" imageHeight="2833">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781864906157" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781859723098_2516" />
+                <RegionRefIndexed index="1" regionRef="region_1781859727321_2519" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781859723098_2516" custom="readingOrder {index:0;}">
+            <Coords points="361,503 920,503 920,765 361,765" />
+            <TextLine id="line_1781859744143_2522" custom="readingOrder {index:0;}">
+                <Coords points="393,510 908,510 908,615 393,615" /><Baseline points="393,575 908,575" />
+                <Baseline points="417,559 898,546" />
+                <TextEquiv>
+                    <Unicode>حافظ بجان حجت رسولت و آل او</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781859752159_2528" custom="readingOrder {index:1;}">
+                <Coords points="392,631 875,631 875,761 392,761" /><Baseline points="392,712 875,712" />
+                <Baseline points="420,715 867,700" />
+                <TextEquiv>
+                    <Unicode>بر این سخن کواست خداوند اکرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ بجان حجت رسولت و آل او
+بر این سخن کواست خداوند اکرم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781859727321_2519" custom="readingOrder {index:1;}">
+            <Coords points="134,784 1179,784 1179,2628 134,2628" />
+            <TextLine id="line_1781863908218_2552" custom="readingOrder {index:0;}">
+                <Coords points="678,785 1115,785 1115,912 678,912" /><Baseline points="678,864 1115,864" />
+                <Baseline points="701,864 1110,850" />
+                <TextEquiv>
+                    <Unicode>شد عرص زمین چو بساط ارم جوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781863895093_2544" custom="readingOrder {index:1;}">
+                <Coords points="164,795 587,795 587,910 164,910" /><Baseline points="164,866 587,866" />
+                <Baseline points="183,868 586,864" />
+                <TextEquiv>
+                    <Unicode>از پرتو سعادت شاه جهانیان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781863927778_2561" custom="readingOrder {index:2;}">
+                <Coords points="157,912 589,912 589,1032 157,1032" /><Baseline points="157,986 589,986" />
+                <Baseline points="171,983 582,989" />
+                <TextEquiv>
+                    <Unicode>صاحبقران خسرو و شاه خدایگان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781863938968_2568" custom="readingOrder {index:3;}">
+                <Coords points="691,926 1115,926 1115,1059 691,1059" /><Baseline points="691,1008 1115,1008" />
+                <Baseline points="695,990 1109,989" />
+                <TextEquiv>
+                    <Unicode>خاقان شرق و غرب که در شرق و غرب اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781863949228_2576" custom="readingOrder {index:4;}">
+                <Coords points="164,1038 597,1038 597,1184 164,1184" /><Baseline points="164,1129 597,1129" />
+                <Baseline points="178,1127 593,1124" />
+                <TextEquiv>
+                    <Unicode>دارای دادگستر و دارای یکی نشان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781863957358_2582" custom="readingOrder {index:5;}">
+                <Coords points="695,1060 1120,1060 1120,1177 695,1177" /><Baseline points="695,1133 1120,1133" />
+                <Baseline points="703,1128 1110,1127" />
+                <TextEquiv>
+                    <Unicode>خورشید ملک پرور و سلطان دادگر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781863966548_2588" custom="readingOrder {index:6;}">
+                <Coords points="165,1195 594,1195 594,1339 165,1339" /><Baseline points="165,1284 594,1284" />
+                <Baseline points="175,1278 587,1275" />
+                <TextEquiv>
+                    <Unicode>بالانشین مسند کیوان لامکان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781863974848_2594" custom="readingOrder {index:7;}">
+                <Coords points="692,1198 1129,1198 1129,1356 692,1356" /><Baseline points="692,1296 1129,1296" />
+                <Baseline points="708,1293 1116,1289" />
+                <TextEquiv>
+                    <Unicode>سلطان نشان عرص اقلیم سلطنت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781863993643_2606" custom="readingOrder {index:8;}">
+                <Coords points="698,1357 1127,1357 1127,1501 698,1501" /><Baseline points="698,1446 1127,1446" />
+                <Baseline points="703,1431 1120,1430" />
+                <TextEquiv>
+                    <Unicode>اعظم جلال و دین آنکه رفعتش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781863984018_2600" custom="readingOrder {index:9;}">
+                <Coords points="159,1360 606,1360 606,1493 159,1493" /><Baseline points="159,1442 606,1442" />
+                <Baseline points="172,1429 590,1427" />
+                <TextEquiv>
+                    <Unicode>دارد و همیشه توسن ایام زیر ران</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864008287_2612" custom="readingOrder {index:10;}">
+                <Coords points="157,1502 599,1502 599,1620 157,1620" /><Baseline points="157,1575 599,1575" />
+                <Baseline points="176,1566 587,1562" />
+                <TextEquiv>
+                    <Unicode>خاقان کامگار و شهنشاه نوجوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864018088_2619" custom="readingOrder {index:11;}">
+                <Coords points="701,1503 1129,1503 1129,1629 701,1629" /><Baseline points="701,1581 1129,1581" />
+                <Baseline points="719,1564 1137,1564" />
+                <TextEquiv>
+                    <Unicode>دارای دهر شاه شجاع آفتاب ملک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864028007_2625" custom="readingOrder {index:12;}">
+                <Coords points="164,1625 599,1625 599,1767 164,1767" /><Baseline points="164,1713 599,1713" />
+                <Baseline points="175,1700 593,1699" />
+                <TextEquiv>
+                    <Unicode>شاهی که شد ز همتش افراخته زمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864040527_2633" custom="readingOrder {index:13;}">
+                <Coords points="687,1640 1140,1640 1140,1773 687,1773" /><Baseline points="687,1722 1140,1722" />
+                <Baseline points="709,1714 1123,1703" />
+                <TextEquiv>
+                    <Unicode>ماهی که شد بطلعتش افروخته زمین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864053029_2639" custom="readingOrder {index:14;}">
+                <Coords points="165,1771 604,1771 604,1921 165,1921" /><Baseline points="165,1864 604,1864" />
+                <Baseline points="183,1844 599,1845" />
+                <TextEquiv>
+                    <Unicode>آنجا که باز همت او سازد آشیان به</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864069597_2645" custom="readingOrder {index:15;}">
+                <Coords points="692,1781 1148,1781 1148,1931 692,1931" /><Baseline points="692,1874 1148,1874" />
+                <Baseline points="708,1851 1123,1851" />
+                <TextEquiv>
+                    <Unicode>سیمرغ وهم را نبود قوت عروج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864085457_2657" custom="readingOrder {index:16;}">
+                <Coords points="696,1921 1142,1921 1142,2050 696,2050" /><Baseline points="696,2001 1142,2001" />
+                <Baseline points="715,1973 1141,1972" />
+                <TextEquiv>
+                    <Unicode>گر در خیال چرخ فتد عکس تیغ او</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864077378_2651" custom="readingOrder {index:17;}">
+                <Coords points="165,1924 597,1924 597,2057 165,2057" /><Baseline points="165,2006 597,2006" />
+                <Baseline points="194,1997 585,2001" />
+                <TextEquiv>
+                    <Unicode>از یکدگر جدا شود اجزای آسمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864097997_2663" custom="readingOrder {index:18;}">
+                <Coords points="165,2064 604,2064 604,2194 165,2194" /><Baseline points="165,2145 604,2145" />
+                <Baseline points="175,2131 587,2123" />
+                <TextEquiv>
+                    <Unicode>مهرش روان چو روح بر اعضای انس و جان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864108389_2670" custom="readingOrder {index:19;}">
+                <Coords points="701,2069 1140,2069 1140,2199 701,2199" /><Baseline points="701,2150 1140,2150" />
+                <Baseline points="703,2139 1127,2139" />
+                <TextEquiv>
+                    <Unicode>حکمش روان چو باد بر اطراف بحر و بر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864122866_2676" custom="readingOrder {index:20;}">
+                <Coords points="169,2198 610,2198 610,2328 169,2328" /><Baseline points="169,2279 610,2279" />
+                <Baseline points="193,2258 604,2253" />
+                <TextEquiv>
+                    <Unicode>وی طلعت تو جان جهان و جهان جان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864132836_2682" custom="readingOrder {index:21;}">
+                <Coords points="703,2199 1142,2199 1142,2348 703,2348" /><Baseline points="703,2291 1142,2291" />
+                <Baseline points="715,2270 1132,2261" />
+                <TextEquiv>
+                    <Unicode>ایصورت تو ملک جهان و جهان ملک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864146386_2689" custom="readingOrder {index:22;}">
+                <Coords points="166,2343 612,2343 612,2481 166,2481" /><Baseline points="166,2429 612,2429" />
+                <Baseline points="181,2409 596,2412" />
+                <TextEquiv>
+                    <Unicode>تاج تو عین افسر دارا و داوران</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864155117_2695" custom="readingOrder {index:23;}">
+                <Coords points="717,2361 1131,2361 1131,2488 717,2488" /><Baseline points="717,2440 1131,2440" />
+                <Baseline points="731,2417 1129,2409" />
+                <TextEquiv>
+                    <Unicode>تخت نو رشک مسند جمشید و کیقباد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864165786_2701" custom="readingOrder {index:24;}">
+                <Coords points="170,2488 616,2488 616,2620 170,2620" /><Baseline points="170,2570 616,2570" />
+                <Baseline points="174,2543 610,2540" />
+                <TextEquiv>
+                    <Unicode>چون سایه از قفای تو دولت بود دوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781864177771_2707" custom="readingOrder {index:25;}">
+                <Coords points="699,2488 1154,2488 1154,2615 699,2615" /><Baseline points="699,2567 1154,2567" />
+                <Baseline points="712,2545 1138,2547" />
+                <TextEquiv>
+                    <Unicode>تو آفتاب ملکی و هر جا که میروی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شد عرص زمین چو بساط ارم جوان
+از پرتو سعادت شاه جهانیان
+صاحبقران خسرو و شاه خدایگان
+خاقان شرق و غرب که در شرق و غرب اوست
+دارای دادگستر و دارای یکی نشان
+خورشید ملک پرور و سلطان دادگر
+بالانشین مسند کیوان لامکان
+سلطان نشان عرص اقلیم سلطنت
+اعظم جلال و دین آنکه رفعتش
+دارد و همیشه توسن ایام زیر ران
+خاقان کامگار و شهنشاه نوجوان
+دارای دهر شاه شجاع آفتاب ملک
+شاهی که شد ز همتش افراخته زمان
+ماهی که شد بطلعتش افروخته زمین
+آنجا که باز همت او سازد آشیان به
+سیمرغ وهم را نبود قوت عروج
+گر در خیال چرخ فتد عکس تیغ او
+از یکدگر جدا شود اجزای آسمان
+مهرش روان چو روح بر اعضای انس و جان
+حکمش روان چو باد بر اطراف بحر و بر
+وی طلعت تو جان جهان و جهان جان
+ایصورت تو ملک جهان و جهان ملک
+تاج تو عین افسر دارا و داوران
+تخت نو رشک مسند جمشید و کیقباد
+چون سایه از قفای تو دولت بود دوان
+تو آفتاب ملکی و هر جا که میروی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

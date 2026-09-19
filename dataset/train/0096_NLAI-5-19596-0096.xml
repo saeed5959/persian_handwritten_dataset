@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:31.661+03:30</Created>
+        <LastChange>2026-06-20T21:20:50.618+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0096_NLAI-5-19596-0096.jpg" imageWidth="1543" imageHeight="2914">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781977850667" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781977159860_641" />
+                <RegionRefIndexed index="1" regionRef="region_1781977340657_678" />
+                <RegionRefIndexed index="2" regionRef="region_1781977385328_695" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781977159860_641" custom="readingOrder {index:0;}">
+            <Coords points="98,497 1117,497 1117,950 98,950" />
+            <TextLine id="line_1781977164317_644" custom="readingOrder {index:0;}">
+                <Coords points="141,538 1102,538 1102,657 141,657" /><Baseline points="141,612 1102,612" />
+                <TextEquiv>
+                    <Unicode>صد گونه جادویی بکنم تا بیارمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977178703_653" custom="readingOrder {index:1;}">
+                <Coords points="149,538 1058,562 1057,612 148,588" /><Baseline points="148,584 1058,584" />
+                <Baseline points="148,583 1057,607" />
+                <TextEquiv>
+                    <Unicode>بر بوی تخم مهر که در دل بکارمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977168081_647" custom="readingOrder {index:2;}">
+                <Coords points="115,667 1088,667 1088,793 115,793" /><Baseline points="115,745 1088,745" />
+                <TextEquiv>
+                    <Unicode>بارم ده از کرم سوی خود تا به سوز دل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977187772_658" custom="readingOrder {index:3;}">
+                <Coords points="161,688 1084,703 1083,753 160,738" /><Baseline points="160,728 1084,728" />
+                <Baseline points="160,733 1083,748" />
+                <TextEquiv>
+                    <Unicode>در پای دم به دم گهر از دیده بارمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977203965_665" custom="readingOrder {index:4;}">
+                <Coords points="157,805 1059,836 1057,886 155,855" /><Baseline points="155,855 1059,855" />
+                <Baseline points="155,850 1057,881" />
+                <TextEquiv>
+                    <Unicode>می گریم و مرادم از این سیل اشکبار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977171908_650" custom="readingOrder {index:5;}">
+                <Coords points="115,810 1145,810 1145,948 115,948" /><Baseline points="115,896 1145,896" />
+                <TextEquiv>
+                    <Unicode>تخم محبت است که در دل بکارمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>صد گونه جادویی بکنم تا بیارمت
+بر بوی تخم مهر که در دل بکارمت
+بارم ده از کرم سوی خود تا به سوز دل
+در پای دم به دم گهر از دیده بارمت
+می گریم و مرادم از این سیل اشکبار
+تخم محبت است که در دل بکارمت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781977340657_678" custom="readingOrder {index:1;}">
+            <Coords points="306,955 883,955 883,1210 306,1210" />
+            <TextLine id="line_1781977344725_681" custom="readingOrder {index:0;}">
+                <Coords points="318,979 838,979 838,1084 318,1084" /><Baseline points="318,1044 838,1044" />
+                <Baseline points="344,1012 816,1020" />
+                <TextEquiv>
+                    <Unicode>حافظ شراب و شاهد و رندی نه وضع توست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977348692_684" custom="readingOrder {index:1;}">
+                <Coords points="327,1108 845,1108 845,1201 327,1201" /><Baseline points="327,1166 845,1166" />
+                <Baseline points="349,1151 790,1144" />
+                <TextEquiv>
+                    <Unicode>فی الجمله می کنی و فرو می گذارمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ شراب و شاهد و رندی نه وضع توست
+فی الجمله می کنی و فرو می گذارمت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781977385328_695" custom="readingOrder {index:2;}">
+            <Coords points="51,1220 1146,1220 1146,2689 51,2689" />
+            <TextLine id="line_1781977390188_698" custom="readingOrder {index:0;}">
+                <Coords points="105,1230 1078,1230 1078,1378 105,1378" /><Baseline points="105,1322 1078,1322" />
+                <Baseline points="137,1303 1061,1310" />
+                <TextEquiv>
+                    <Unicode>چه لطف بود که ناگاه رشحه قلمت حقوق خدمت ما عرضه کرد بر کرمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977394629_701" custom="readingOrder {index:1;}">
+                <Coords points="99,1412 1085,1412 1085,1515 99,1515" /><Baseline points="99,1476 1085,1476" />
+                <Baseline points="144,1446 1065,1466" />
+                <TextEquiv>
+                    <Unicode>به نوک خامه رقم کرده ای سلام مرا که کارخانه دوران مباد بی رقمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977401709_704" custom="readingOrder {index:2;}">
+                <Coords points="102,1525 1098,1525 1098,1655 102,1655" /><Baseline points="102,1606 1098,1606" />
+                <Baseline points="119,1576 1060,1611" />
+                <TextEquiv>
+                    <Unicode>نگویم از من بی دل به سهو کردی یاد که در حساب خرد نیست سهو بر قلمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977404704_707" custom="readingOrder {index:3;}">
+                <Coords points="92,1662 1088,1662 1088,1789 92,1789" /><Baseline points="92,1741 1088,1741" />
+                <Baseline points="127,1734 1079,1734" />
+                <TextEquiv>
+                    <Unicode>مرا ذلیل مگردان به شکر این نعمت که داشت دولت سرمد عزیز و محترمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977407076_710" custom="readingOrder {index:4;}">
+                <Coords points="92,1809 1074,1809 1074,1949 92,1949" /><Baseline points="92,1896 1074,1896" />
+                <Baseline points="137,1876 1061,1889" />
+                <TextEquiv>
+                    <Unicode>بیا که با سر زلفت قرار خواهم کرد که گر سرم برود برندارم از قدمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977409209_713" custom="readingOrder {index:5;}">
+                <Coords points="105,1970 1085,1970 1085,2086 105,2086" /><Baseline points="105,2042 1085,2042" />
+                <TextEquiv>
+                    <Unicode>ز حال ما دلت آگه شود مگر وقتی که لاله بردمد از خاک کشتگان غمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977411645_716" custom="readingOrder {index:6;}">
+                <Coords points="81,2107 1146,2107 1146,2227 81,2227" /><Baseline points="81,2181 1146,2181" />
+                <Baseline points="125,2166 1067,2176" />
+                <TextEquiv>
+                    <Unicode>روان تشنه ما را به جرعه ای دریاب چو می دهند زلال خضر ز جام جمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977414285_719" custom="readingOrder {index:7;}">
+                <Coords points="78,2247 1091,2247 1091,2384 78,2384" /><Baseline points="78,2332 1091,2332" />
+                <Baseline points="112,2319 1065,2328" />
+                <TextEquiv>
+                    <Unicode>صبا ز بوی تو با هر گلی حدیثی گو رقیب که غماز داد در حرمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977416833_722" custom="readingOrder {index:8;}">
+                <Coords points="75,2412 1146,2412 1146,2514 75,2514" /><Baseline points="75,2475 1146,2475" />
+                <Baseline points="114,2433 1072,2466" />
+                <TextEquiv>
+                    <Unicode>دلم مقیم درست حرمتش می دارد انکه خدا داشته است محرم توست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977419660_725" custom="readingOrder {index:9;}">
+                <Coords points="85,2497 1119,2497 1119,2651 85,2651" /><Baseline points="85,2592 1119,2592" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781977742693_770" custom="readingOrder {index:10;}">
+                <Coords points="88,2525 1096,2525 1096,2657 88,2657" /><Baseline points="88,2607 1096,2607" />
+                <Baseline points="108,2585 1051,2607" />
+                <TextEquiv>
+                    <Unicode>مکن کهت تو خوش میروی جانا مکن که کرد بر آید اندیشه خدمت تست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چه لطف بود که ناگاه رشحه قلمت حقوق خدمت ما عرضه کرد بر کرمت
+به نوک خامه رقم کرده ای سلام مرا که کارخانه دوران مباد بی رقمت
+نگویم از من بی دل به سهو کردی یاد که در حساب خرد نیست سهو بر قلمت
+مرا ذلیل مگردان به شکر این نعمت که داشت دولت سرمد عزیز و محترمت
+بیا که با سر زلفت قرار خواهم کرد که گر سرم برود برندارم از قدمت
+ز حال ما دلت آگه شود مگر وقتی که لاله بردمد از خاک کشتگان غمت
+روان تشنه ما را به جرعه ای دریاب چو می دهند زلال خضر ز جام جمت
+صبا ز بوی تو با هر گلی حدیثی گو رقیب که غماز داد در حرمت
+دلم مقیم درست حرمتش می دارد انکه خدا داشته است محرم توست
+مکن کهت تو خوش میروی جانا مکن که کرد بر آید اندیشه خدمت تست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

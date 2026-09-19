@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T11:45:57.086+03:30</Created>
+        <LastChange>2026-06-26T00:00:56.928+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0179_NLAI-5-19596-0179.jpg" imageWidth="1512" imageHeight="2766">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782419456980" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782418969662_4152" />
+                <RegionRefIndexed index="1" regionRef="region_1782418139635_4063" />
+                <RegionRefIndexed index="2" regionRef="region_1782418973777_4155" />
+                <RegionRefIndexed index="3" regionRef="region_1782419340765_4241" />
+                <RegionRefIndexed index="4" regionRef="region_1782418329243_4075" />
+                <RegionRefIndexed index="5" regionRef="region_1782419182291_4205" />
+                <RegionRefIndexed index="6" regionRef="region_1782418105595_4054" />
+                <RegionRefIndexed index="7" regionRef="region_1782418443813_4103" />
+                <RegionRefIndexed index="8" regionRef="region_1782419233364_4220" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782418969662_4152" custom="readingOrder {index:0;}">
+            <Coords points="418,885 418,883" />
+        </TextRegion>
+        <TextRegion id="region_1782418139635_4063" custom="readingOrder {index:1;}">
+            <Coords points="465,484 465,629 886,629 886,484" />
+            <TextLine id="line_1782418139657_4066" custom="readingOrder {index:0;}">
+                <Coords points="465,484 886,484 886,629 465,629" /><Baseline points="465,574 886,574" />
+                <Baseline points="460,546 881,581" />
+                <TextEquiv>
+                    <Unicode>یک بیت از این سفینه به از صد رساله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یک بیت از این سفینه به از صد رساله بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782418973777_4155" custom="readingOrder {index:2;}">
+            <Coords points="447,869 891,869 891,1899 447,1899" />
+            <TextLine id="line_1782418977743_4158" custom="readingOrder {index:0;}">
+                <Coords points="424,875 879,875 879,1029 424,1029" /><Baseline points="424,970 879,970" />
+                <Baseline points="442,954 866,996" />
+                <TextEquiv>
+                    <Unicode>وز لب ساقی شرابم در مذاق افتاده بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782419000490_4164" custom="readingOrder {index:1;}">
+                <Coords points="432,1031 875,1031 875,1183 432,1183" /><Baseline points="432,1125 875,1125" />
+                <Baseline points="437,1114 866,1129" />
+                <TextEquiv>
+                    <Unicode>رجعتی می خواستم لیکن طلاق افتاده بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782419026491_4170" custom="readingOrder {index:2;}">
+                <Coords points="429,1203 881,1203 881,1321 429,1321" /><Baseline points="429,1276 881,1276" />
+                <Baseline points="437,1272 855,1275" />
+                <TextEquiv>
+                    <Unicode>هر که عاشق وش نیامد در نفاق افتاده بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782419052502_4176" custom="readingOrder {index:3;}">
+                <Coords points="433,1323 869,1323 869,1448 433,1448" /><Baseline points="433,1400 869,1400" />
+                <Baseline points="437,1410 853,1417" />
+                <TextEquiv>
+                    <Unicode>طاقت و صبر از خم ابروش طاق افتاده بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782419077149_4182" custom="readingOrder {index:4;}">
+                <Coords points="437,1467 878,1467 878,1624 437,1624" /><Baseline points="437,1564 878,1564" />
+                <Baseline points="440,1490 856,1550" />
+                <TextEquiv>
+                    <Unicode>در شکرخواب صبوحی هم وثاق افتاده بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782419132408_4188" custom="readingOrder {index:5;}">
+                <Coords points="430,1620 880,1620 880,1763 430,1763" /><Baseline points="430,1709 880,1709" />
+                <Baseline points="431,1679 861,1697" />
+                <TextEquiv>
+                    <Unicode>عافیت را با نظربازی فراق افتاده بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782419153643_4195" custom="readingOrder {index:6;}">
+                <Coords points="436,1751 874,1751 874,1872 436,1872" /><Baseline points="436,1826 874,1826" />
+                <Baseline points="453,1800 856,1837" />
+                <TextEquiv>
+                    <Unicode>کار ملک و دین ز نظم و اتساق افتاده بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>وز لب ساقی شرابم در مذاق افتاده بود
+رجعتی می خواستم لیکن طلاق افتاده بود
+هر که عاشق وش نیامد در نفاق افتاده بود
+طاقت و صبر از خم ابروش طاق افتاده بود
+در شکرخواب صبوحی هم وثاق افتاده بود
+عافیت را با نظربازی فراق افتاده بود
+کار ملک و دین ز نظم و اتساق افتاده بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782419340765_4241" custom="readingOrder {index:3;}">
+            <Coords points="421,2160 873,2160 873,2565 421,2565" />
+            <TextLine id="line_1782419366604_4244" custom="readingOrder {index:0;}">
+                <Coords points="419,2163 877,2163 877,2310 419,2310" /><Baseline points="419,2254 877,2254" />
+                <Baseline points="425,2234 888,2259" />
+                <TextEquiv>
+                    <Unicode>سر ما خاک ره پیر مغان خواهد بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782419398438_4250" custom="readingOrder {index:1;}">
+                <Coords points="412,2316 885,2316 885,2458 412,2458" /><Baseline points="412,2404 885,2404" />
+                <Baseline points="402,2393 867,2406" />
+                <TextEquiv>
+                    <Unicode>ما همانیم که بودیم و همان خواهد بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782419435811_4256" custom="readingOrder {index:2;}">
+                <Coords points="408,2460 890,2460 890,2557 408,2557" /><Baseline points="408,2520 890,2520" />
+                <Baseline points="403,2482 864,2506" />
+                <TextEquiv>
+                    <Unicode>که زیارتگه رندان جهان خواهد بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سر ما خاک ره پیر مغان خواهد بود
+ما همانیم که بودیم و همان خواهد بود
+که زیارتگه رندان جهان خواهد بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782418329243_4075" custom="readingOrder {index:4;}">
+            <Coords points="717,643 1184,643 1184,887 717,887" />
+            <TextLine id="line_1782418334004_4078" custom="readingOrder {index:0;}">
+                <Coords points="727,638 1184,638 1184,766 727,766" /><Baseline points="727,717 1184,717" />
+                <Baseline points="726,704 1153,705" />
+                <TextEquiv>
+                    <Unicode>آن شاه تندحمله که خورشید شیرگیر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782418437827_4100" custom="readingOrder {index:1;}">
+                <Coords points="729,756 1167,756 1167,888 729,888" /><Baseline points="729,838 1167,838" />
+                <Baseline points="745,829 1135,836" />
+                <TextEquiv>
+                    <Unicode>پیشش به روز معرکه کمتر غزاله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>آن شاه تندحمله که خورشید شیرگیر
+پیشش به روز معرکه کمتر غزاله بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782419182291_4205" custom="readingOrder {index:5;}">
+            <Coords points="723,1902 1172,1902 1172,2151 723,2151" />
+            <TextLine id="line_1782419185670_4208" custom="readingOrder {index:0;}">
+                <Coords points="730,1898 1175,1898 1175,2028 730,2028" /><Baseline points="730,1979 1175,1979" />
+                <Baseline points="740,1978 1168,1972" />
+                <TextEquiv>
+                    <Unicode>حافظ آن ساعت که این نظم پریشان می نوشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782419213126_4214" custom="readingOrder {index:1;}">
+                <Coords points="723,2028 1168,2028 1168,2163 723,2163" /><Baseline points="723,2112 1168,2112" />
+                <Baseline points="741,2104 1160,2112" />
+                <TextEquiv>
+                    <Unicode>طایر فکرش به دام اشتیاق افتاده بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ آن ساعت که این نظم پریشان می نوشت
+طایر فکرش به دام اشتیاق افتاده بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782418105595_4054" custom="readingOrder {index:6;}">
+            <Coords points="958,500 1402,500 1402,646 958,646" />
+            <TextLine id="line_1782418110371_4057" custom="readingOrder {index:0;}">
+                <Coords points="973,517 1401,517 1401,647 973,647" /><Baseline points="973,598 1401,598" />
+                <Baseline points="988,573 1382,571" />
+                <TextEquiv>
+                    <Unicode>دیدیم شعردلکش حافظ بمدح شاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دیدیم شعردلکش حافظ بمدح شاه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782418443813_4103" custom="readingOrder {index:7;}">
+            <Coords points="968,920 1404,920 1404,1863 968,1863" />
+            <TextLine id="line_1782418448585_4106" custom="readingOrder {index:0;}">
+                <Coords points="973,947 1406,947 1406,1053 973,1053" /><Baseline points="973,1013 1406,1013" />
+                <Baseline points="974,974 1401,993" />
+                <TextEquiv>
+                    <Unicode>یک دو جامم دی سحرگه اتفاق افتاده بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782418636750_4116" custom="readingOrder {index:1;}">
+                <Coords points="976,1064 1392,1064 1392,1176 976,1176" /><Baseline points="976,1133 1392,1133" />
+                <Baseline points="978,1131 1371,1136" />
+                <TextEquiv>
+                    <Unicode>از سرمستی دگر با شاهد عهد شباب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782418680022_4122" custom="readingOrder {index:2;}">
+                <Coords points="954,1191 1400,1191 1400,1325 954,1325" /><Baseline points="954,1274 1400,1274" />
+                <Baseline points="951,1266 1371,1280" />
+                <TextEquiv>
+                    <Unicode>ساقیا جام دمادم ده که در سیر طریق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782418710637_4128" custom="readingOrder {index:3;}">
+                <Coords points="961,1327 1386,1327 1386,1476 961,1476" /><Baseline points="961,1419 1386,1419" />
+                <Baseline points="968,1429 1355,1426" />
+                <TextEquiv>
+                    <Unicode>نقش می بستم که گیرم گوشه زان چشم مست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782418759713_4134" custom="readingOrder {index:4;}">
+                <Coords points="965,1486 1379,1486 1379,1624 965,1624" /><Baseline points="965,1572 1379,1572" />
+                <Baseline points="973,1547 1374,1557" />
+                <TextEquiv>
+                    <Unicode>ای معبر مژده ای فرما که دوشم آفتاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782418844751_4140" custom="readingOrder {index:5;}">
+                <Coords points="944,1624 1377,1624 1377,1739 944,1739" /><Baseline points="944,1695 1377,1695" />
+                <Baseline points="977,1695 1357,1695" />
+                <TextEquiv>
+                    <Unicode>در مقامات طریقت هر کجا کردیم سیر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782418868872_4146" custom="readingOrder {index:6;}">
+                <Coords points="970,1751 1393,1751 1393,1867 970,1867" /><Baseline points="970,1823 1393,1823" />
+                <Baseline points="982,1826 1379,1821" />
+                <TextEquiv>
+                    <Unicode>گر نکردی نصرت دین شاه یحیی از کرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یک دو جامم دی سحرگه اتفاق افتاده بود
+از سرمستی دگر با شاهد عهد شباب
+ساقیا جام دمادم ده که در سیر طریق
+نقش می بستم که گیرم گوشه زان چشم مست
+ای معبر مژده ای فرما که دوشم آفتاب
+در مقامات طریقت هر کجا کردیم سیر
+گر نکردی نصرت دین شاه یحیی از کرم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782419233364_4220" custom="readingOrder {index:8;}">
+            <Coords points="960,2167 1365,2167 1365,2576 960,2576" />
+            <TextLine id="line_1782419237934_4223" custom="readingOrder {index:0;}">
+                <Coords points="965,2160 1388,2160 1388,2306 965,2306" /><Baseline points="965,2251 1388,2251" />
+                <Baseline points="969,2264 1362,2245" />
+                <TextEquiv>
+                    <Unicode>تا ز میخانه و می نام و نشان خواهد بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782419294318_4229" custom="readingOrder {index:1;}">
+                <Coords points="966,2314 1357,2314 1357,2438 966,2438" /><Baseline points="966,2391 1357,2391" />
+                <Baseline points="981,2381 1356,2384" />
+                <TextEquiv>
+                    <Unicode>حلقه پیر مغان از ازلم در گوش است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782419320130_4235" custom="readingOrder {index:2;}">
+                <Coords points="950,2441 1371,2441 1371,2579 950,2579" /><Baseline points="950,2527 1371,2527" />
+                <Baseline points="957,2506 1363,2528" />
+                <TextEquiv>
+                    <Unicode>بر سر تربت ما چون گذری همت خواه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تا ز میخانه و می نام و نشان خواهد بود
+حلقه پیر مغان از ازلم در گوش است
+بر سر تربت ما چون گذری همت خواه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

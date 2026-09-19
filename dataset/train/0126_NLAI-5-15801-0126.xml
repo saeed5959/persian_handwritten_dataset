@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.208+03:30</Created>
+        <LastChange>2026-06-26T17:07:05.316+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0126_NLAI-5-15801-0126.jpg" imageWidth="1091" imageHeight="1793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782481025328" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782331049882_645" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782331049882_645" custom="readingOrder {index:0;}">
+            <Coords points="98,144 1006,144 1006,1702 98,1702" />
+            <TextLine id="line_1782331053251_648" custom="readingOrder {index:0;}">
+                <Coords points="126,191 973,191 973,300 126,300" /><Baseline points="126,259 973,259" />
+                <Baseline points="149,264 947,268" />
+                <TextEquiv>
+                    <Unicode>که حکم در ان بحسب طبیعه اوقات و اوضاع باشد و شکی نیست که حکم بحسب طبیعت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331055090_651" custom="readingOrder {index:1;}">
+                <Coords points="157,331 973,331 973,422 157,422" /><Baseline points="157,387 973,387" />
+                <Baseline points="163,388 947,384" />
+                <TextEquiv>
+                    <Unicode>اوقات و اوضاع مفهوم محصل معقولی ندارد ولهذ طبیعیه در شرطیه منعقد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331056719_654" custom="readingOrder {index:2;}">
+                <Coords points="143,441 976,441 976,556 143,556" /><Baseline points="143,512 976,512" />
+                <Baseline points="173,512 943,504" />
+                <TextEquiv>
+                    <Unicode>نمیشود و حوله والاقسام سته مثال خمیله و متصله کلمه کانت الشمس عله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331058594_657" custom="readingOrder {index:3;}">
+                <Coords points="149,567 982,567 982,697 149,697" /><Baseline points="149,648 982,648" />
+                <Baseline points="151,636 947,642" />
+                <TextEquiv>
+                    <Unicode>لوجود النهار فکلا لم یکن الشمس طالعه لم یکن النهار موجود امثال حمیله منفصله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331060253_660" custom="readingOrder {index:4;}">
+                <Coords points="120,680 967,680 967,790 120,790" /><Baseline points="120,748 967,748" />
+                <Baseline points="151,749 951,751" />
+                <TextEquiv>
+                    <Unicode>کلما کانت هذا الشی عدد افدایما اما ان یکون زوجا او یکون زوجا و یکون فردا امثال متصله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331061833_663" custom="readingOrder {index:5;}">
+                <Coords points="136,804 973,804 973,926 136,926" /><Baseline points="136,880 973,880" />
+                <Baseline points="169,867 949,857" />
+                <TextEquiv>
+                    <Unicode>و منفصله اذا کان کلما کان هذا العدوز و جا کان منقسما بمتساویین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331063556_666" custom="readingOrder {index:6;}">
+                <Coords points="126,940 967,940 967,1062 126,1062" /><Baseline points="126,1016 967,1016" />
+                <Baseline points="140,997 931,1011" />
+                <TextEquiv>
+                    <Unicode>فذاهما اما ان یکون العدد منقسما بمتساویین او فردا حوله خرج بهذا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331065488_669" custom="readingOrder {index:7;}">
+                <Coords points="140,1062 984,1062 984,1172 140,1172" /><Baseline points="140,1130 984,1130" />
+                <Baseline points="161,1129 949,1135" />
+                <TextEquiv>
+                    <Unicode>القید الاختلافات الواقع اه و هم چنین بیرون میرود و از تناقض بقید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331067092_672" custom="readingOrder {index:8;}">
+                <Coords points="126,1192 986,1192 986,1288 126,1288" /><Baseline points="126,1252 986,1252" />
+                <Baseline points="161,1245 943,1255" />
+                <TextEquiv>
+                    <Unicode>مثل زید انسان و زید لیس بناطق بواسطه انکه اگر چه از صدق هر یک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331068859_675" custom="readingOrder {index:9;}">
+                <Coords points="136,1304 971,1304 971,1416 136,1416" /><Baseline points="136,1373 971,1373" />
+                <Baseline points="157,1371 947,1365" />
+                <TextEquiv>
+                    <Unicode>کذب دیگری و از کذب هر یک صدق دیگری دیگری لازم می آید از ذات اختلاف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331070487_678" custom="readingOrder {index:10;}">
+                <Coords points="126,1418 955,1418 955,1521 126,1521" /><Baseline points="126,1482 955,1482" />
+                <Baseline points="147,1479 945,1479" />
+                <TextEquiv>
+                    <Unicode>لازم نیامده است بلکه از این حیثیت که ناطق مساوی انسان است و سلبش در قوه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331072820_681" custom="readingOrder {index:11;}">
+                <Coords points="130,1532 980,1532 980,1662 130,1662" /><Baseline points="130,1613 980,1613" />
+                <Baseline points="149,1599 959,1601" />
+                <TextEquiv>
+                    <Unicode>سلب انساب است لازم میاید نیست قوله در تناقض هشت وحدت شرط دان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که حکم در ان بحسب طبیعه اوقات و اوضاع باشد و شکی نیست که حکم بحسب طبیعت
+اوقات و اوضاع مفهوم محصل معقولی ندارد ولهذ طبیعیه در شرطیه منعقد
+نمیشود و حوله والاقسام سته مثال خمیله و متصله کلمه کانت الشمس عله
+لوجود النهار فکلا لم یکن الشمس طالعه لم یکن النهار موجود امثال حمیله منفصله
+کلما کانت هذا الشی عدد افدایما اما ان یکون زوجا او یکون زوجا و یکون فردا امثال متصله
+و منفصله اذا کان کلما کان هذا العدوز و جا کان منقسما بمتساویین
+فذاهما اما ان یکون العدد منقسما بمتساویین او فردا حوله خرج بهذا
+القید الاختلافات الواقع اه و هم چنین بیرون میرود و از تناقض بقید
+مثل زید انسان و زید لیس بناطق بواسطه انکه اگر چه از صدق هر یک
+کذب دیگری و از کذب هر یک صدق دیگری دیگری لازم می آید از ذات اختلاف
+لازم نیامده است بلکه از این حیثیت که ناطق مساوی انسان است و سلبش در قوه
+سلب انساب است لازم میاید نیست قوله در تناقض هشت وحدت شرط دان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

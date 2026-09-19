@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-16T21:33:27.345+03:30</Created>
+        <LastChange>2013-01-01T01:55:25.493+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0295_NLAI-5-21417-0295.jpg" imageWidth="1311" imageHeight="1835">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1356992725556" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1356991910829_1142" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1356991910829_1142" custom="readingOrder {index:0;}">
+            <Coords points="257,275 1188,275 1188,1697 257,1697" />
+            <TextLine id="line_1356991918488_1145" custom="readingOrder {index:0;}">
+                <Coords points="261,268 1177,268 1177,476 261,476" /><Baseline points="261,397 1177,397" />
+                <Baseline points="275,379 1145,372" />
+                <TextEquiv>
+                    <Unicode>دان پن تفاعل من فقل والفین داو سلمت و لم تعل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356992009483_1156" custom="readingOrder {index:1;}">
+                <Coords points="286,505 1174,505 1174,687 286,687" /><Baseline points="286,618 1174,618" />
+                <Baseline points="300,601 1145,598" />
+                <TextEquiv>
+                    <Unicode>وان لخرفین والاعلال استحق صحح اول و عکس قد یحق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356992087858_1162" custom="readingOrder {index:2;}">
+                <Coords points="336,752 1166,752 1166,913 336,913" /><Baseline points="336,852 1166,852" />
+                <Baseline points="343,845 1141,841" />
+                <TextEquiv>
+                    <Unicode>و عین ما اخره قد زید ما یحض الاسم واحب ان للسیما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356992173081_1169" custom="readingOrder {index:3;}">
+                <Coords points="365,966 1159,966 1159,1156 365,1156" /><Baseline points="365,1084 1159,1084" />
+                <Baseline points="397,1059 1113,1063" />
+                <TextEquiv>
+                    <Unicode>وجتل با اقلب میماالنون اذا کان مسکنا کمن ابتدا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356992454505_1185" custom="readingOrder {index:4;}">
+                <Coords points="375,1235 1127,1235 1127,1410 375,1410" /><Baseline points="375,1344 1127,1344" />
+                <Baseline points="397,1299 1120,1299" />
+                <TextEquiv>
+                    <Unicode>ساکن ضح القل الحریک من ذی لین آتت عین فعل کابن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356992573003_1197" custom="readingOrder {index:5;}">
+                <Coords points="397,1475 1131,1475 1131,1643 397,1643" /><Baseline points="397,1579 1131,1579" />
+                <Baseline points="422,1553 1113,1546" />
+                <TextEquiv>
+                    <Unicode>مالم یکن فعل تعجب و لا کاپض وا هوی بلام عللا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دان پن تفاعل من فقل والفین داو سلمت و لم تعل
+وان لخرفین والاعلال استحق صحح اول و عکس قد یحق
+و عین ما اخره قد زید ما یحض الاسم واحب ان للسیما
+وجتل با اقلب میماالنون اذا کان مسکنا کمن ابتدا
+ساکن ضح القل الحریک من ذی لین آتت عین فعل کابن
+مالم یکن فعل تعجب و لا کاپض وا هوی بلام عللا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

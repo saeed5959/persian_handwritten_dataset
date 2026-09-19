@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.946+04:30</Created>
+        <LastChange>2026-06-21T20:50:35.882+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="18" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0197_NLAI-5-19596-0197.jpg" imageWidth="1559" imageHeight="2753">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782058835883" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782058203633_1619" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782058203633_1619" custom="readingOrder {index:0;}">
+            <Coords points="1495,2510 498,2510 498,448 1495,448" />
+            <TextLine id="line_1782058211056_1622" custom="readingOrder {index:0;}">
+                <Coords points="1460,548 505,548 505,453 1460,453" /><Baseline points="505,512 1460,512" />
+                <Baseline points="539,528 1454,521" />
+                <TextEquiv>
+                    <Unicode>نه وصل بماند و نه واصل انجا که خیال حیرت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058215482_1625" custom="readingOrder {index:1;}">
+                <Coords points="1461,699 515,699 515,582 1461,582" /><Baseline points="515,655 1461,655" />
+                <Baseline points="530,656 1434,657" />
+                <TextEquiv>
+                    <Unicode>شد منهزم و کمال غیرت آنرا که جلال حیرت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058218013_1628" custom="readingOrder {index:2;}">
+                <Coords points="1230,833 824,833 824,725 1230,725" /><Baseline points="824,792 1230,792" />
+                <Baseline points="841,795 1207,786" />
+                <TextEquiv>
+                    <Unicode>سر تا قدم وجود حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058221216_1631" custom="readingOrder {index:3;}">
+                <Coords points="1163,964 815,964 815,850 1163,850" /><Baseline points="815,921 1163,921" />
+                <Baseline points="828,934 1158,929" />
+                <TextEquiv>
+                    <Unicode>در عشق نهال حیرت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058227685_1634" custom="readingOrder {index:4;}">
+                <Coords points="1469,1104 508,1104 508,974 1469,974" /><Baseline points="508,1055 1469,1055" />
+                <Baseline points="533,1074 1452,1076" />
+                <TextEquiv>
+                    <Unicode>دوش از جناب آصف پیک بشارت آمد کز حضرت سلیمان عشرت اشارت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058231667_1637" custom="readingOrder {index:5;}">
+                <Coords points="1469,1241 510,1241 510,1104 1469,1104" /><Baseline points="510,1189 1469,1189" />
+                <Baseline points="529,1208 1446,1210" />
+                <TextEquiv>
+                    <Unicode>خاک وجود ما را از آب دیده گل کن ویران سرای دلرا گاه عمارت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058235181_1640" custom="readingOrder {index:6;}">
+                <Coords points="1477,1403 513,1403 513,1237 1477,1237" /><Baseline points="513,1340 1477,1340" />
+                <Baseline points="526,1361 1466,1363" />
+                <TextEquiv>
+                    <Unicode>عیبم بپوش زنهار ای خرقه می آلود کان شیخ پاک دامن بهر زیارت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058239649_1643" custom="readingOrder {index:7;}">
+                <Coords points="1471,1533 511,1533 511,1382 1471,1382" /><Baseline points="511,1476 1471,1476" />
+                <Baseline points="523,1488 1454,1498" />
+                <TextEquiv>
+                    <Unicode>این شرح بینهایت کز حسن دوست گفتند خرفی است از هزاران کاندر عبارت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058243521_1646" custom="readingOrder {index:8;}">
+                <Coords points="1481,1681 516,1681 516,1509 1481,1509" /><Baseline points="516,1616 1481,1616" />
+                <Baseline points="518,1632 1461,1635" />
+                <TextEquiv>
+                    <Unicode>از چشم شوخش ایدل ایمان خود نگهدار کان جادوی کمانکش بر غزم غارت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058248341_1649" custom="readingOrder {index:9;}">
+                <Coords points="1471,1792 520,1792 520,1674 1471,1674" /><Baseline points="520,1747 1471,1747" />
+                <Baseline points="535,1781 1449,1774" />
+                <TextEquiv>
+                    <Unicode>امروز جای خوبان پیدا شود ز خوبان کان ماه مجلس افروز اند صدارت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058252717_1652" custom="readingOrder {index:10;}">
+                <Coords points="1479,1953 516,1953 516,1810 1479,1810" /><Baseline points="516,1899 1479,1899" />
+                <Baseline points="536,1920 1454,1914" />
+                <TextEquiv>
+                    <Unicode>دریاست مجلس شاه دریاب وقت و در یاب هان ای زیان رسیده وقت تجارت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058256443_1655" custom="readingOrder {index:11;}">
+                <Coords points="1231,2101 797,2101 797,1976 1231,1976" /><Baseline points="797,2054 1231,2054" />
+                <Baseline points="809,2066 1202,2060" />
+                <TextEquiv>
+                    <Unicode>آلوده ای تو حافظ فیضی ز شاه درخواه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058259076_1658" custom="readingOrder {index:12;}">
+                <Coords points="1224,2246 833,2246 833,2092 1224,2092" /><Baseline points="833,2187 1224,2187" />
+                <Baseline points="848,2199 1205,2197" />
+                <TextEquiv>
+                    <Unicode>کان عنصر سماحت بهر طهارت آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058263092_1661" custom="readingOrder {index:13;}">
+                <Coords points="1494,2385 505,2385 505,2255 1494,2255" /><Baseline points="505,2336 1494,2336" />
+                <Baseline points="535,2341 1458,2335" />
+                <TextEquiv>
+                    <Unicode>صبا به تهنیت پیر می فروش آمد که موسم طرب و عیش و ناز و نوش آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058266414_1664" custom="readingOrder {index:14;}">
+                <Coords points="1488,2538 523,2538 523,2384 1488,2384" /><Baseline points="523,2479 1488,2479" />
+                <Baseline points="539,2483 1471,2469" />
+                <TextEquiv>
+                    <Unicode>هوا مسیح نفس گشت و باد نافه گشای درخت سبز شد و مرغ در خروس آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>نه وصل بماند و نه واصل انجا که خیال حیرت آمد
+شد منهزم و کمال غیرت آنرا که جلال حیرت آمد
+سر تا قدم وجود حافظ
+در عشق نهال حیرت آمد
+دوش از جناب آصف پیک بشارت آمد کز حضرت سلیمان عشرت اشارت آمد
+خاک وجود ما را از آب دیده گل کن ویران سرای دلرا گاه عمارت آمد
+عیبم بپوش زنهار ای خرقه می آلود کان شیخ پاک دامن بهر زیارت آمد
+این شرح بینهایت کز حسن دوست گفتند خرفی است از هزاران کاندر عبارت آمد
+از چشم شوخش ایدل ایمان خود نگهدار کان جادوی کمانکش بر غزم غارت آمد
+امروز جای خوبان پیدا شود ز خوبان کان ماه مجلس افروز اند صدارت آمد
+دریاست مجلس شاه دریاب وقت و در یاب هان ای زیان رسیده وقت تجارت آمد
+آلوده ای تو حافظ فیضی ز شاه درخواه
+کان عنصر سماحت بهر طهارت آمد
+صبا به تهنیت پیر می فروش آمد که موسم طرب و عیش و ناز و نوش آمد
+هوا مسیح نفس گشت و باد نافه گشای درخت سبز شد و مرغ در خروس آمد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

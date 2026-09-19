@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.066+03:30</Created>
+        <LastChange>2026-06-12T14:37:33.320+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0008_NLAI-5-11236-0008.jpg" imageWidth="1210" imageHeight="1977">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781262453348" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781246908090_24" />
+                <RegionRefIndexed index="1" regionRef="region_1781247076873_39" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781246908090_24" custom="readingOrder {index:0;}">
+            <Coords points="351,755 709,755 709,666 351,666" />
+            <TextLine id="line_1781246936244_28" custom="readingOrder {index:0;}">
+                <Coords points="366,740 699,740 699,671 366,671" /><Baseline points="366,714 699,714" />
+                <Baseline points="375,717 687,719" />
+                <TextEquiv>
+                    <Unicode>مختصریست از عیش رودابه و زال از شاهنامه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مختصریست از عیش رودابه و زال از شاهنامه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781247076873_39" custom="readingOrder {index:1;}">
+            <Coords points="138,1699 903,1699 903,768 138,768" />
+            <TextLine id="line_1781248544656_210" custom="readingOrder {index:0;}">
+                <Coords points="207,911 508,911 508,789 207,789" /><Baseline points="207,865 508,865" />
+                <Baseline points="222,851 498,854" />
+                <TextEquiv>
+                    <Unicode>زبردست و با گنج و گسترده کام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781248873647_224" custom="readingOrder {index:1;}">
+                <Coords points="541,912 874,912 874,816 541,816" /><Baseline points="541,876 874,876" />
+                <Baseline points="568,863 838,869" />
+                <TextEquiv>
+                    <Unicode>یکی پادشا بود مهراب نام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781248965408_236" custom="readingOrder {index:2;}">
+                <Coords points="206,1018 508,1018 508,923 206,923" /><Baseline points="206,982 508,982" />
+                <Baseline points="220,953 238,968 489,983" />
+                <TextEquiv>
+                    <Unicode>برخ چون بهار و برفتن تذرو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781248916000_230" custom="readingOrder {index:3;}">
+                <Coords points="552,1033 849,1033 849,929 552,929" /><Baseline points="552,993 849,993" />
+                <Baseline points="570,981 833,994" />
+                <TextEquiv>
+                    <Unicode>ببالا به کردار آزاده سرو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781261371291_32" custom="readingOrder {index:4;}">
+                <Coords points="528,1136 851,1136 851,1033 528,1033" /><Baseline points="528,1097 851,1097" />
+                <Baseline points="564,1096 830,1105" />
+                <TextEquiv>
+                    <Unicode>دل بخردان داشت مغز روان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781261459647_43" custom="readingOrder {index:5;}">
+                <Coords points="204,1134 498,1134 498,1036 204,1036" /><Baseline points="204,1097 498,1097" />
+                <Baseline points="217,1096 493,1098" />
+                <TextEquiv>
+                    <Unicode>دو گفت یلان و کش موبدان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781261616176_67" custom="readingOrder {index:6;}">
+                <Coords points="199,1270 503,1270 503,1157 199,1157" /><Baseline points="199,1227 503,1227" />
+                <Baseline points="212,1223 487,1223" />
+                <TextEquiv>
+                    <Unicode>زکابل همه بوم بر داشتی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781261549240_61" custom="readingOrder {index:7;}">
+                <Coords points="548,1282 843,1282 843,1169 548,1169" /><Baseline points="548,1239 843,1239" />
+                <Baseline points="554,1225 829,1235" />
+                <TextEquiv>
+                    <Unicode>زضحاک تازی گهر داشتی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781261705896_73" custom="readingOrder {index:8;}">
+                <Coords points="536,1429 847,1429 847,1290 536,1290" /><Baseline points="536,1376 847,1376" />
+                <Baseline points="564,1334 584,1362 825,1355" />
+                <TextEquiv>
+                    <Unicode>همی داد هر سال با سام ساو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781261868192_79" custom="readingOrder {index:9;}">
+                <Coords points="190,1401 522,1401 522,1292 190,1292" /><Baseline points="190,1360 522,1360" />
+                <Baseline points="203,1346 481,1350" />
+                <TextEquiv>
+                    <Unicode>که با وی برزمش نبود ایچ تاو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781262099288_93" custom="readingOrder {index:10;}">
+                <Coords points="179,1533 492,1533 492,1418 179,1418" /><Baseline points="179,1489 492,1489" />
+                <Baseline points="199,1480 484,1480" />
+                <TextEquiv>
+                    <Unicode>زکابل بیامد بهنگام بام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781262006447_87" custom="readingOrder {index:11;}">
+                <Coords points="527,1534 830,1534 830,1424 527,1424" /><Baseline points="527,1492 830,1492" />
+                <Baseline points="556,1448 579,1485 828,1485" />
+                <TextEquiv>
+                    <Unicode>چو آگه شد از کار دستان سام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781262267176_105" custom="readingOrder {index:12;}">
+                <Coords points="187,1653 492,1653 492,1536 187,1536" /><Baseline points="187,1609 492,1609" />
+                <Baseline points="203,1587 479,1605" />
+                <TextEquiv>
+                    <Unicode>غلامان و هرگونه خواسته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781262190840_99" custom="readingOrder {index:13;}">
+                <Coords points="540,1656 828,1656 828,1539 540,1539" /><Baseline points="540,1612 828,1612" />
+                <Baseline points="554,1607 815,1603" />
+                <TextEquiv>
+                    <Unicode>ابا گنج و اسبان آراسته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>زبردست و با گنج و گسترده کام
+یکی پادشا بود مهراب نام
+برخ چون بهار و برفتن تذرو
+ببالا به کردار آزاده سرو
+دل بخردان داشت مغز روان
+دو گفت یلان و کش موبدان
+زکابل همه بوم بر داشتی
+زضحاک تازی گهر داشتی
+همی داد هر سال با سام ساو
+که با وی برزمش نبود ایچ تاو
+زکابل بیامد بهنگام بام
+چو آگه شد از کار دستان سام
+غلامان و هرگونه خواسته
+ابا گنج و اسبان آراسته</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

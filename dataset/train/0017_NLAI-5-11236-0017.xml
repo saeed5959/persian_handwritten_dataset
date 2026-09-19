@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.444+03:30</Created>
+        <LastChange>2026-06-14T19:32:46.306+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0017_NLAI-5-11236-0017.jpg" imageWidth="1190" imageHeight="1969">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781452966323" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781452240071_408" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781452240071_408" custom="readingOrder {index:0;}">
+            <Coords points="290,518 1051,518 1051,1689 290,1689" />
+            <TextLine id="line_1781452247104_414" custom="readingOrder {index:0;}">
+                <Coords points="313,649 664,649 664,525 313,525" /><Baseline points="313,602 664,602" />
+                <Baseline points="344,579 625,583" />
+                <TextEquiv>
+                    <Unicode>که ای سرو سیمین بر ماه روی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452244823_411" custom="readingOrder {index:1;}">
+                <Coords points="673,655 1001,655 1001,536 673,536" /><Baseline points="673,610 1001,610" />
+                <Baseline points="690,593 987,596" />
+                <TextEquiv>
+                    <Unicode>چنین داد مهراب پاسخ بدوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452253560_420" custom="readingOrder {index:2;}">
+                <Coords points="314,772 630,772 630,642 314,642" /><Baseline points="314,723 630,723" />
+                <Baseline points="332,703 624,711" />
+                <TextEquiv>
+                    <Unicode>پی زال زر کس نیارد سپرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452249760_417" custom="readingOrder {index:3;}">
+                <Coords points="691,772 1011,772 1011,658 691,658" /><Baseline points="691,729 1011,729" />
+                <Baseline points="700,713 987,718" />
+                <TextEquiv>
+                    <Unicode>به گیتی در از پهلوانان گرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452255999_423" custom="readingOrder {index:4;}">
+                <Coords points="683,908 1000,908 1000,766 683,766" /><Baseline points="683,854 1000,854" />
+                <Baseline points="692,836 984,836" />
+                <TextEquiv>
+                    <Unicode>چو دست و عنانش بر ایوان نگار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452259416_426" custom="readingOrder {index:5;}">
+                <Coords points="334,896 635,896 635,774 334,774" /><Baseline points="334,850 635,850" />
+                <Baseline points="340,840 630,835" />
+                <TextEquiv>
+                    <Unicode>نبندد نه بر زین چون او نامدار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452265303_432" custom="readingOrder {index:6;}">
+                <Coords points="311,1002 648,1002 648,890 311,890" /><Baseline points="311,959 648,959" />
+                <Baseline points="339,958 617,958" />
+                <TextEquiv>
+                    <Unicode>دو دستش بکردار دریای نیل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452262191_429" custom="readingOrder {index:7;}">
+                <Coords points="669,1005 1013,1005 1013,911 669,911" /><Baseline points="669,969 1013,969" />
+                <Baseline points="682,961 989,961" />
+                <TextEquiv>
+                    <Unicode>دل شیر نر دارد و زور پیل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452273520_438" custom="readingOrder {index:8;}">
+                <Coords points="316,1137 641,1137 641,1015 316,1015" /><Baseline points="316,1091 641,1091" />
+                <Baseline points="339,1080 624,1078" />
+                <TextEquiv>
+                    <Unicode>چو در جنگ آید سر افشان بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452269967_435" custom="readingOrder {index:9;}">
+                <Coords points="666,1152 993,1152 993,1030 666,1030" /><Baseline points="666,1106 993,1106" />
+                <Baseline points="680,1093 986,1095" />
+                <TextEquiv>
+                    <Unicode>چو بر گاه باشد زر افشان بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452282191_444" custom="readingOrder {index:10;}">
+                <Coords points="318,1270 637,1270 637,1146 318,1146" /><Baseline points="318,1223 637,1223" />
+                <Baseline points="335,1211 632,1213" />
+                <TextEquiv>
+                    <Unicode>جوان سال و بیدار و دولت جوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452278015_441" custom="readingOrder {index:11;}">
+                <Coords points="670,1268 999,1268 999,1158 670,1158" /><Baseline points="670,1226 999,1226" />
+                <Baseline points="682,1216 997,1206" />
+                <TextEquiv>
+                    <Unicode>رخش سرخ ماننده ارغوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452288207_450" custom="readingOrder {index:12;}">
+                <Coords points="335,1390 630,1390 630,1281 335,1281" /><Baseline points="335,1349 630,1349" />
+                <Baseline points="344,1343 630,1346" />
+                <TextEquiv>
+                    <Unicode>ولیکن بمردی بدرد نهنگ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452285007_447" custom="readingOrder {index:13;}">
+                <Coords points="665,1401 1006,1401 1006,1283 665,1283" /><Baseline points="665,1356 1006,1356" />
+                <Baseline points="679,1346 987,1345" />
+                <TextEquiv>
+                    <Unicode>اگرچه سپیدست مویش برنگ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452297960_456" custom="readingOrder {index:14;}">
+                <Coords points="332,1522 630,1522 630,1395 332,1395" /><Baseline points="332,1474 630,1474" />
+                <Baseline points="339,1468 625,1472" />
+                <TextEquiv>
+                    <Unicode>به زین اندرون تیز چنگ اژدهاست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452292807_453" custom="readingOrder {index:15;}">
+                <Coords points="677,1533 1002,1533 1002,1408 677,1408" /><Baseline points="677,1486 1002,1486" />
+                <Baseline points="679,1470 989,1485" />
+                <TextEquiv>
+                    <Unicode>به کین اندرون چون نهنگ بلاست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452306703_462" custom="readingOrder {index:16;}">
+                <Coords points="337,1642 647,1642 647,1528 337,1528" /><Baseline points="337,1599 647,1599" />
+                <Baseline points="364,1592 627,1590" />
+                <TextEquiv>
+                    <Unicode>فشاننده خنجر آبگون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781452302504_459" custom="readingOrder {index:17;}">
+                <Coords points="684,1643 994,1643 994,1537 684,1537" /><Baseline points="684,1603 994,1603" />
+                <Baseline points="694,1588 986,1590" />
+                <TextEquiv>
+                    <Unicode>نشاننده خاک در کین بخون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که ای سرو سیمین بر ماه روی
+چنین داد مهراب پاسخ بدوی
+پی زال زر کس نیارد سپرد
+به گیتی در از پهلوانان گرد
+چو دست و عنانش بر ایوان نگار
+نبندد نه بر زین چون او نامدار
+دو دستش بکردار دریای نیل
+دل شیر نر دارد و زور پیل
+چو در جنگ آید سر افشان بود
+چو بر گاه باشد زر افشان بود
+جوان سال و بیدار و دولت جوان
+رخش سرخ ماننده ارغوان
+ولیکن بمردی بدرد نهنگ
+اگرچه سپیدست مویش برنگ
+به زین اندرون تیز چنگ اژدهاست
+به کین اندرون چون نهنگ بلاست
+فشاننده خنجر آبگون
+نشاننده خاک در کین بخون</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

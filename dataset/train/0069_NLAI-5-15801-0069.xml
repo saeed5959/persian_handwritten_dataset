@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:31.155-07:00</Created>
+        <LastChange>2026-06-22T04:06:11.179-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0069_NLAI-5-15801-0069.jpg" imageWidth="1090" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782126371242" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782083612303_1798" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782083612303_1798" custom="readingOrder {index:0;}">
+            <Coords points="980,198 132,198 132,1650 980,1650" />
+            <TextLine id="line_1782083647974_1806" custom="readingOrder {index:0;}">
+                <Coords points="975,200 160,200 160,320 975,320" /><Baseline points="160,274 975,274" />
+                <Baseline points="966,263 167,272" />
+                <TextEquiv>
+                    <Unicode>موضوع از برای کلرا بگویند و جز معنی یا خارج معنی موضوع له را بخواهند و موضوع له</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782083655692_1809" custom="readingOrder {index:1;}">
+                <Coords points="157,304 972,304 972,445 157,445" /><Baseline points="157,391 972,391" />
+                <Baseline points="963,381 165,370" />
+                <TextEquiv>
+                    <Unicode>فهمیده نشود بسبب شهرت در جز لفظ یا معنی در خارج تضمن و التزام مستحق خواهد شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782083665332_1812" custom="readingOrder {index:2;}">
+                <Coords points="148,443 970,443 970,571 148,571" /><Baseline points="148,522 970,522" />
+                <Baseline points="964,502 180,513" />
+                <TextEquiv>
+                    <Unicode>بمطابقع و لهذا لزوم را اعم از تحقیقی و تقدیری اعتبار کرده چنانکه محشی بیان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782083676051_1815" custom="readingOrder {index:3;}">
+                <Coords points="965,564 157,564 157,678 965,678" /><Baseline points="157,635 965,635" />
+                <Baseline points="955,629 165,633" />
+                <TextEquiv>
+                    <Unicode>فرموده است قوله ولا لازم له فیتحقق اگر کسی بگوید که هرچه هست لازم دارد و اقلا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782083687300_1818" custom="readingOrder {index:4;}">
+                <Coords points="157,666 963,666 963,796 157,796" /><Baseline points="157,747 963,747" />
+                <Baseline points="952,743 176,749" />
+                <TextEquiv>
+                    <Unicode>این معنیرا که اگه نیست غیر خودش و هم چنین هر معنی یا واحد است یا کثیر پس محال است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782083695894_1821" custom="readingOrder {index:5;}">
+                <Coords points="150,787 979,787 979,932 150,932" /><Baseline points="150,877 979,877" />
+                <Baseline points="957,873 162,873" />
+                <TextEquiv>
+                    <Unicode>که معنی باشد پی لازم جواب گفته میشود که مراداز لازم آن است که از تعقل ان معنی لازم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782083714831_1824" custom="readingOrder {index:6;}">
+                <Coords points="155,900 966,900 966,1043 155,1043" /><Baseline points="155,989 966,989" />
+                <Baseline points="954,995 169,989" />
+                <TextEquiv>
+                    <Unicode>نیز در ذهن آید و دانسته شود و بسیار میشود که معنی در ذهن میآید و هیچ خارج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782083730346_1827" custom="readingOrder {index:7;}">
+                <Coords points="150,1018 965,1018 965,1157 150,1157" /><Baseline points="150,1104 965,1104" />
+                <Baseline points="954,1125 167,1107" />
+                <TextEquiv>
+                    <Unicode>لازم ندارد که با او فهمیده شود هرچند صفات بسیار در نفس الامر داشته باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782083737970_1830" custom="readingOrder {index:8;}">
+                <Coords points="155,1137 965,1137 965,1291 155,1291" /><Baseline points="155,1232 965,1232" />
+                <Baseline points="954,1240 170,1230" />
+                <TextEquiv>
+                    <Unicode>قوله ان ارید بجز منه بدانکه مراد از جز اعم از تحقیقی و تقدیری است و الا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782083745439_1833" custom="readingOrder {index:9;}">
+                <Coords points="157,1269 966,1269 966,1421 157,1421" /><Baseline points="157,1363 966,1363" />
+                <Baseline points="958,1368 178,1357" />
+                <TextEquiv>
+                    <Unicode>بیرون از تعریف مرکب صیغه امر مثل اضرب و قم که عبارت است از مجموع ملفوظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782083753564_1836" custom="readingOrder {index:10;}">
+                <Coords points="142,1371 965,1371 965,1546 142,1546" /><Baseline points="142,1480 965,1480" />
+                <Baseline points="954,1487 150,1467" />
+                <TextEquiv>
+                    <Unicode>و ضمیر مستتر و هم چنین مراد از جز غیر هییه است و الا لازم میآید دخول فعل که از</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782083761548_1839" custom="readingOrder {index:11;}">
+                <Coords points="146,1514 965,1514 965,1653 146,1653" /><Baseline points="146,1600 965,1600" />
+                <Baseline points="952,1619 160,1598" />
+                <TextEquiv>
+                    <Unicode>اقسام مفرد است در مرکب زیرا که بمادته دلالت بر حدث میکند و هییه دلاله بر زمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>موضوع از برای کلرا بگویند و جز معنی یا خارج معنی موضوع له را بخواهند و موضوع له
+فهمیده نشود بسبب شهرت در جز لفظ یا معنی در خارج تضمن و التزام مستحق خواهد شد
+بمطابقع و لهذا لزوم را اعم از تحقیقی و تقدیری اعتبار کرده چنانکه محشی بیان
+فرموده است قوله ولا لازم له فیتحقق اگر کسی بگوید که هرچه هست لازم دارد و اقلا
+این معنیرا که اگه نیست غیر خودش و هم چنین هر معنی یا واحد است یا کثیر پس محال است
+که معنی باشد پی لازم جواب گفته میشود که مراداز لازم آن است که از تعقل ان معنی لازم
+نیز در ذهن آید و دانسته شود و بسیار میشود که معنی در ذهن میآید و هیچ خارج
+لازم ندارد که با او فهمیده شود هرچند صفات بسیار در نفس الامر داشته باشد
+قوله ان ارید بجز منه بدانکه مراد از جز اعم از تحقیقی و تقدیری است و الا
+بیرون از تعریف مرکب صیغه امر مثل اضرب و قم که عبارت است از مجموع ملفوظ
+و ضمیر مستتر و هم چنین مراد از جز غیر هییه است و الا لازم میآید دخول فعل که از
+اقسام مفرد است در مرکب زیرا که بمادته دلالت بر حدث میکند و هییه دلاله بر زمان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

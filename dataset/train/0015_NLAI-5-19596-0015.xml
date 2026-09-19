@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:16.796+03:30</Created>
+        <LastChange>2026-06-19T12:31:37.914+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0015_NLAI-5-19596-0015.jpg" imageWidth="1534" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781859697968" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781800123209_2241" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781800123209_2241" custom="readingOrder {index:0;}">
+            <Coords points="437,485 1488,485 1488,2637 437,2637" />
+            <TextLine id="line_1781800153711_2250" custom="readingOrder {index:0;}">
+                <Coords points="1033,501 1451,501 1451,618 1033,618" /><Baseline points="1033,574 1451,574" />
+                <Baseline points="1047,559 1434,562" />
+                <TextEquiv>
+                    <Unicode>شاهین صفت چو طعمه چشیدم ز دست شاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800144559_2244" custom="readingOrder {index:1;}">
+                <Coords points="481,517 930,517 930,625 481,625" /><Baseline points="481,584 930,584" />
+                <Baseline points="495,574 914,574" />
+                <TextEquiv>
+                    <Unicode>کی باشد التفات به صید کبوترم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800171167_2262" custom="readingOrder {index:2;}">
+                <Coords points="1021,634 1439,634 1439,763 1021,763" /><Baseline points="1021,714 1439,714" />
+                <Baseline points="1026,707 1427,713" />
+                <TextEquiv>
+                    <Unicode>ایشاه شیرگیر چه کم گردد ار شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800163499_2256" custom="readingOrder {index:3;}">
+                <Coords points="479,653 932,653 932,758 479,758" /><Baseline points="479,718 932,718" />
+                <Baseline points="484,707 925,709" />
+                <TextEquiv>
+                    <Unicode>در سایه تو ملک فراغت میسرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800194090_2279" custom="readingOrder {index:4;}">
+                <Coords points="1000,777 1448,777 1448,926 1000,926" /><Baseline points="1000,869 1448,869" />
+                <Baseline points="1023,852 1437,852" />
+                <TextEquiv>
+                    <Unicode>بال و پری ندارم این طرفه ترکه نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800185949_2273" custom="readingOrder {index:5;}">
+                <Coords points="477,805 923,805 923,917 477,917" /><Baseline points="477,874 923,874" />
+                <Baseline points="484,856 921,858" />
+                <TextEquiv>
+                    <Unicode>غیر از هوای منزل سیمرغ در سرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800204863_2285" custom="readingOrder {index:6;}">
+                <Coords points="481,916 927,916 927,1065 481,1065" /><Baseline points="481,1008 927,1008" />
+                <Baseline points="491,996 913,998" />
+                <TextEquiv>
+                    <Unicode>گویی که تیغ تست زبان سخنورم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800213119_2291" custom="readingOrder {index:7;}">
+                <Coords points="1004,932 1448,932 1448,1059 1004,1059" /><Baseline points="1004,1011 1448,1011" />
+                <Baseline points="1004,995 1432,996" />
+                <TextEquiv>
+                    <Unicode>شعرم ز یمن مدح تو صد ملک دل گرفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800222179_2297" custom="readingOrder {index:8;}">
+                <Coords points="472,1079 927,1079 927,1198 472,1198" /><Baseline points="472,1153 927,1153" />
+                <Baseline points="479,1142 911,1147" />
+                <TextEquiv>
+                    <Unicode>نه عشق سرو بود نه برگ صنوبرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800230285_2303" custom="readingOrder {index:9;}">
+                <Coords points="1011,1080 1437,1080 1437,1192 1011,1192" /><Baseline points="1011,1149 1437,1149" />
+                <Baseline points="1019,1131 1421,1133" />
+                <TextEquiv>
+                    <Unicode>بر گلشنی اگر بگذشتم چو باد صبح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800245944_2315" custom="readingOrder {index:10;}">
+                <Coords points="1011,1210 1451,1210 1451,1336 1011,1336" /><Baseline points="1011,1288 1451,1288" />
+                <Baseline points="1021,1275 1439,1275" />
+                <TextEquiv>
+                    <Unicode>بوی تو می شنیدم و بر یاد روی تو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800238854_2309" custom="readingOrder {index:11;}">
+                <Coords points="474,1215 932,1215 932,1336 474,1336" /><Baseline points="474,1290 932,1290" />
+                <Baseline points="474,1280 921,1284" />
+                <TextEquiv>
+                    <Unicode>دادند ساقیان طرب یکدو ساغرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800262394_2328" custom="readingOrder {index:12;}">
+                <Coords points="1014,1346 1451,1346 1451,1479 1014,1479" /><Baseline points="1014,1428 1451,1428" />
+                <Baseline points="1012,1406 1427,1406" />
+                <TextEquiv>
+                    <Unicode>مستی بآب یک دو عنب وضع بنده نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800253284_2321" custom="readingOrder {index:13;}">
+                <Coords points="468,1380 923,1380 923,1474 468,1474" /><Baseline points="468,1438 923,1438" />
+                <Baseline points="479,1429 909,1434" />
+                <TextEquiv>
+                    <Unicode>من سالخورده پیر خرابات پرورم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800280838_2340" custom="readingOrder {index:14;}">
+                <Coords points="1016,1488 1451,1488 1451,1616 1016,1616" /><Baseline points="1016,1567 1451,1567" />
+                <Baseline points="1021,1542 1435,1556" />
+                <TextEquiv>
+                    <Unicode>با سیر اختر فلکم داوری بسی ست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800272934_2334" custom="readingOrder {index:15;}">
+                <Coords points="474,1499 939,1499 939,1623 474,1623" /><Baseline points="474,1576 939,1576" />
+                <Baseline points="489,1576 911,1577" />
+                <TextEquiv>
+                    <Unicode>انصاف شاه باد درین قصه یاورم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800295935_2352" custom="readingOrder {index:16;}">
+                <Coords points="1012,1623 1441,1623 1441,1756 1012,1756" /><Baseline points="1012,1705 1441,1705" />
+                <Baseline points="1023,1693 1442,1698" />
+                <TextEquiv>
+                    <Unicode>شکر خدا که باز درین اوج بارگاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800288574_2346" custom="readingOrder {index:17;}">
+                <Coords points="475,1651 932,1651 932,1771 475,1771" /><Baseline points="475,1725 932,1725" />
+                <Baseline points="470,1703 923,1712" />
+                <TextEquiv>
+                    <Unicode>طاووس عرش می شنود صیت شهپرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800305038_2358" custom="readingOrder {index:18;}">
+                <Coords points="475,1787 927,1787 927,1901 475,1901" /><Baseline points="475,1858 927,1858" />
+                <Baseline points="484,1866 911,1862" />
+                <TextEquiv>
+                    <Unicode>گر جز محبت تو بود شغل دیگرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800315574_2365" custom="readingOrder {index:19;}">
+                <Coords points="1019,1792 1448,1792 1448,1910 1019,1910" /><Baseline points="1019,1865 1448,1865" />
+                <Baseline points="1023,1855 1441,1857" />
+                <TextEquiv>
+                    <Unicode>نامم ز کارخانه عشاق محو باد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800324374_2371" custom="readingOrder {index:20;}">
+                <Coords points="468,1906 920,1906 920,2044 468,2044" /><Baseline points="468,1992 920,1992" />
+                <Baseline points="479,1973 906,1980" />
+                <TextEquiv>
+                    <Unicode>گر لاغرم وگرنه شکار غضنفرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800332434_2377" custom="readingOrder {index:21;}">
+                <Coords points="1016,1920 1453,1920 1453,2048 1016,2048" /><Baseline points="1016,1999 1453,1999" />
+                <Baseline points="1023,1980 1439,1983" />
+                <TextEquiv>
+                    <Unicode>شبل الاسد بصید دلم حمله کرد و من</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800349334_2389" custom="readingOrder {index:22;}">
+                <Coords points="1014,2053 1458,2053 1458,2191 1014,2191" /><Baseline points="1014,2139 1458,2139" />
+                <Baseline points="1021,2114 1446,2126" />
+                <TextEquiv>
+                    <Unicode>ای عاشقان روی تو از ذره بیشتر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800341004_2383" custom="readingOrder {index:23;}">
+                <Coords points="468,2058 918,2058 918,2189 468,2189" /><Baseline points="468,2139 918,2139" />
+                <Baseline points="477,2118 916,2125" />
+                <TextEquiv>
+                    <Unicode>من کی رسم بوصل تو کز ذره کمترم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800359302_2395" custom="readingOrder {index:24;}">
+                <Coords points="468,2198 923,2198 923,2341 468,2341" /><Baseline points="468,2287 923,2287" />
+                <Baseline points="474,2270 920,2277" />
+                <TextEquiv>
+                    <Unicode>تا دیده اش بگزلک غیرت برآورم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800367224_2401" custom="readingOrder {index:25;}">
+                <Coords points="1016,2201 1460,2201 1460,2353 1016,2353" /><Baseline points="1016,2295 1460,2295" />
+                <Baseline points="1012,2278 1442,2273" />
+                <TextEquiv>
+                    <Unicode>بنما بمن که منکر حسن رخ تو کیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800374524_2407" custom="readingOrder {index:26;}">
+                <Coords points="463,2341 925,2341 925,2478 463,2478" /><Baseline points="463,2426 925,2426" />
+                <Baseline points="465,2395 920,2390" />
+                <TextEquiv>
+                    <Unicode>نه جلوه میفروشم و نه عشوه میخرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800384069_2413" custom="readingOrder {index:27;}">
+                <Coords points="1021,2357 1465,2357 1465,2485 1021,2485" /><Baseline points="1021,2436 1465,2436" />
+                <Baseline points="1016,2413 1451,2411" />
+                <TextEquiv>
+                    <Unicode>مقصود از اینمعامله بازارتیزی است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800393453_2419" custom="readingOrder {index:28;}">
+                <Coords points="472,2481 927,2481 927,2600 472,2600" /><Baseline points="472,2555 927,2555" />
+                <Baseline points="486,2549 916,2549" />
+                <TextEquiv>
+                    <Unicode>اکنون فراغت است ز خورشید خاورم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781800402494_2425" custom="readingOrder {index:29;}">
+                <Coords points="1021,2490 1462,2490 1462,2595 1021,2595" /><Baseline points="1021,2555 1462,2555" />
+                <Baseline points="1024,2537 1456,2539" />
+                <TextEquiv>
+                    <Unicode>بر من فتاد سایه خورشید سلطنت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شاهین صفت چو طعمه چشیدم ز دست شاه
+کی باشد التفات به صید کبوترم
+ایشاه شیرگیر چه کم گردد ار شود
+در سایه تو ملک فراغت میسرم
+بال و پری ندارم این طرفه ترکه نیست
+غیر از هوای منزل سیمرغ در سرم
+گویی که تیغ تست زبان سخنورم
+شعرم ز یمن مدح تو صد ملک دل گرفت
+نه عشق سرو بود نه برگ صنوبرم
+بر گلشنی اگر بگذشتم چو باد صبح
+بوی تو می شنیدم و بر یاد روی تو
+دادند ساقیان طرب یکدو ساغرم
+مستی بآب یک دو عنب وضع بنده نیست
+من سالخورده پیر خرابات پرورم
+با سیر اختر فلکم داوری بسی ست
+انصاف شاه باد درین قصه یاورم
+شکر خدا که باز درین اوج بارگاه
+طاووس عرش می شنود صیت شهپرم
+گر جز محبت تو بود شغل دیگرم
+نامم ز کارخانه عشاق محو باد
+گر لاغرم وگرنه شکار غضنفرم
+شبل الاسد بصید دلم حمله کرد و من
+ای عاشقان روی تو از ذره بیشتر
+من کی رسم بوصل تو کز ذره کمترم
+تا دیده اش بگزلک غیرت برآورم
+بنما بمن که منکر حسن رخ تو کیست
+نه جلوه میفروشم و نه عشوه میخرم
+مقصود از اینمعامله بازارتیزی است
+اکنون فراغت است ز خورشید خاورم
+بر من فتاد سایه خورشید سلطنت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

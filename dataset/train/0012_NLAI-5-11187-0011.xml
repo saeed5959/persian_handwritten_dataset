@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:42.838+03:30</Created>
+        <LastChange>2026-06-21T18:09:48.885+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0012_NLAI-5-11187-0011.jpg" imageWidth="587" imageHeight="1071">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782052788963" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782047684538_496" />
+                <RegionRefIndexed index="1" regionRef="region_1782047782970_507" />
+                <RegionRefIndexed index="2" regionRef="region_1782047891778_518" />
+                <RegionRefIndexed index="3" regionRef="region_1782048032195_529" />
+                <RegionRefIndexed index="4" regionRef="region_1782048268296_558" />
+                <RegionRefIndexed index="5" regionRef="region_1782048360832_569" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782047684538_496" custom="readingOrder {index:0;}">
+            <Coords points="280,285 480,285 480,384 280,384" />
+            <TextLine id="line_1782047691012_499" custom="readingOrder {index:0;}">
+                <Coords points="280,284 481,284 481,334 280,334" /><Baseline points="280,315 481,315" />
+                <TextEquiv>
+                    <Unicode>اخفا الشداید من الموه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047745078_503" custom="readingOrder {index:1;}">
+                <Coords points="281,333 482,333 482,385 281,385" /><Baseline points="281,365 482,365" />
+                <TextEquiv>
+                    <Unicode>پنهان داشتن شداید ازمردانگی است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اخفا الشداید من الموه
+پنهان داشتن شداید ازمردانگی است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782047782970_507" custom="readingOrder {index:1;}">
+            <Coords points="213,384 555,384 555,505 213,505" />
+            <TextLine id="line_1782047789612_510" custom="readingOrder {index:0;}">
+                <Coords points="211,383 555,383 555,449 211,449" /><Baseline points="211,424 555,424" />
+                <TextEquiv>
+                    <Unicode>آنکه از رزق و صحت و امن است در جهان کامیاب مطلبها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047840197_514" custom="readingOrder {index:1;}">
+                <Coords points="216,449 556,449 556,503 216,503" /><Baseline points="216,482 556,482" />
+                <TextEquiv>
+                    <Unicode>از مروت بود که در سختی بشکایت بجنبدش لبها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>آنکه از رزق و صحت و امن است در جهان کامیاب مطلبها
+از مروت بود که در سختی بشکایت بجنبدش لبها</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782047891778_518" custom="readingOrder {index:2;}">
+            <Coords points="286,503 480,503 480,615 286,615" />
+            <TextLine id="line_1782047897388_521" custom="readingOrder {index:0;}">
+                <Coords points="283,503 482,503 482,564 283,564" /><Baseline points="283,541 482,541" />
+                <TextEquiv>
+                    <Unicode>ادب عیالک تنفعهم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782047949609_525" custom="readingOrder {index:1;}">
+                <Coords points="287,563 480,565 479,614 287,614" /><Baseline points="287,595 480,595" />
+                <TextEquiv>
+                    <Unicode>ادب بیاموز زعیال خود را تانفع برسانی ایشانرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ادب عیالک تنفعهم
+ادب بیاموز زعیال خود را تانفع برسانی ایشانرا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782048032195_529" custom="readingOrder {index:3;}">
+            <Coords points="215,617 554,616 551,734 216,730" />
+            <TextLine id="line_1782048043117_532" custom="readingOrder {index:0;}">
+                <Coords points="214,616 555,616 555,677 214,677" /><Baseline points="214,654 555,654" />
+                <TextEquiv>
+                    <Unicode>از ادب بهره ده باهل و عیال که ازان نیست بهتر انسان را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048101135_536" custom="readingOrder {index:1;}">
+                <Coords points="215,676 552,676 552,733 216,732" /><Baseline points="215,711 552,711" />
+                <TextEquiv>
+                    <Unicode>ادب آموزی عیال تو هست نفع بهر معیشت ایشان را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>از ادب بهره ده باهل و عیال که ازان نیست بهتر انسان را
+ادب آموزی عیال تو هست نفع بهر معیشت ایشان را</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782048268296_558" custom="readingOrder {index:4;}">
+            <Coords points="287,731 480,731 480,843 287,843" />
+            <TextLine id="line_1782048275390_561" custom="readingOrder {index:0;}">
+                <Coords points="288,732 480,732 480,795 288,795" /><Baseline points="288,771 480,771" />
+                <TextEquiv>
+                    <Unicode>استراحه النفس فی الیاس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048312548_565" custom="readingOrder {index:1;}">
+                <Coords points="289,794 480,794 481,841 290,841" /><Baseline points="289,823 481,823" />
+                <TextEquiv>
+                    <Unicode>طلب راحت نمودن دریاس است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>استراحه النفس فی الیاس
+طلب راحت نمودن دریاس است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782048360832_569" custom="readingOrder {index:5;}">
+            <Coords points="215,840 558,840 560,946 217,946" />
+            <TextLine id="line_1782048367019_572" custom="readingOrder {index:0;}">
+                <Coords points="217,840 559,840 559,903 217,903" /><Baseline points="217,879 559,879" />
+                <TextEquiv>
+                    <Unicode>آتش آرزو که شدت ان در تعب دارد بصیف و شتا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048420309_576" custom="readingOrder {index:1;}">
+                <Coords points="216,901 558,901 559,946 217,946" /><Baseline points="216,929 559,929" />
+                <TextEquiv>
+                    <Unicode>آخر از یاس چون شود خاموش یاس تورااحسنت ورخا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>آتش آرزو که شدت ان در تعب دارد بصیف و شتا
+آخر از یاس چون شود خاموش یاس تورااحسنت ورخا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

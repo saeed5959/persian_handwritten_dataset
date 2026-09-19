@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:30.343-07:00</Created>
+        <LastChange>2026-06-20T14:05:23.987-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0060_NLAI-5-15801-0060.jpg" imageWidth="1089" imageHeight="1757">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781989524034" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781980998543_499" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781980998543_499" custom="readingOrder {index:0;}">
+            <Coords points="949,187 72,187 72,1628 949,1628" />
+            <TextLine id="line_1781981027917_507" custom="readingOrder {index:0;}">
+                <Coords points="102,200 927,200 927,288 102,288" /><Baseline points="102,255 927,255" />
+                <Baseline points="920,255 108,252" />
+                <TextEquiv>
+                    <Unicode>ندارند اما محتاج است ثبوتش از برای موضوع بدلیل مثل تناهی مقدار که عارض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781981037338_510" custom="readingOrder {index:1;}">
+                <Coords points="101,289 930,289 930,433 101,433" /><Baseline points="101,378 930,378" />
+                <Baseline points="922,366 115,374" />
+                <TextEquiv>
+                    <Unicode>جسم است لذاته لکن ثبوتش از برای جسم بدیهی نیست بلکه محتاج است بدلیل و محشی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781981048806_513" custom="readingOrder {index:2;}">
+                <Coords points="104,423 927,423 927,527 104,527" /><Baseline points="104,487 927,487" />
+                <Baseline points="919,484 112,482" />
+                <TextEquiv>
+                    <Unicode>نیز در واسطه طریقه شارح مطالع را در رد چنانکه ظاهر است در تعریفش اعراض ذاتیرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781981056322_516" custom="readingOrder {index:3;}">
+                <Coords points="98,533 929,533 929,672 98,672" /><Baseline points="98,619 929,619" />
+                <Baseline points="923,611 106,613" />
+                <TextEquiv>
+                    <Unicode>و در حواشی دیگرش نیز تصریح نموده و اما انچه از کلام و طایفه دیگر از منطقیین مثل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781981070696_519" custom="readingOrder {index:4;}">
+                <Coords points="97,676 936,676 936,792 97,792" /><Baseline points="97,748 936,748" />
+                <Baseline points="926,729 112,741" />
+                <TextEquiv>
+                    <Unicode>صاحب قسطاس و غیره مفهوم میشود آن است که واسطه در عروض همین واسطه در</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781981083837_522" custom="readingOrder {index:5;}">
+                <Coords points="96,795 931,795 931,907 96,907" /><Baseline points="96,864 931,864" />
+                <Baseline points="923,846 109,863" />
+                <TextEquiv>
+                    <Unicode>ثبوت است و بنابر طریقه شارح مطالع در بعضی مواضع مشکل میشود مثل اینکه متعجبرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781981093633_525" custom="readingOrder {index:6;}">
+                <Coords points="96,913 931,913 931,1027 96,1027" /><Baseline points="96,984 931,984" />
+                <Baseline points="924,977 106,982" />
+                <TextEquiv>
+                    <Unicode>واسطه در عروض ضحک گرفته اند و ازینقرار بایستی که اتصاف انسان بضحک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781981105773_528" custom="readingOrder {index:7;}">
+                <Coords points="937,1044 106,1044 106,1145 937,1145" /><Baseline points="106,1107 937,1107" />
+                <Baseline points="929,1104 114,1114" />
+                <TextEquiv>
+                    <Unicode>حقیقه معروض ضحک باشد چنانکه ظاهر است بالبدیهه و متعجب متصف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781981117867_531" custom="readingOrder {index:8;}">
+                <Coords points="103,1160 934,1160 934,1286 103,1286" /><Baseline points="103,1238 934,1238" />
+                <Baseline points="927,1232 122,1233" />
+                <TextEquiv>
+                    <Unicode>بضحک بالعرض زیرا که مراد از متعجب مفهوم است نه ماصدق چنانکه تصریح بان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781981135132_534" custom="readingOrder {index:9;}">
+                <Coords points="950,1290 101,1290 101,1411 950,1411" /><Baseline points="101,1365 950,1365" />
+                <Baseline points="925,1349 111,1360" />
+                <TextEquiv>
+                    <Unicode>کرده اند محققین مثل میرسید شریف و غیره والا لازم میآید که خودش واسطه در عروض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781981143616_537" custom="readingOrder {index:10;}">
+                <Coords points="93,1411 936,1411 936,1519 93,1519" /><Baseline points="93,1478 936,1478" />
+                <Baseline points="930,1467 103,1475" />
+                <TextEquiv>
+                    <Unicode>باشد از برای خودش و این محال است و شکی نیست که مفهوم متعجب صلاحیت التصاف بضحک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781981157397_540" custom="readingOrder {index:11;}">
+                <Coords points="82,1508 925,1508 925,1626 82,1626" /><Baseline points="82,1581 925,1581" />
+                <Baseline points="919,1574 96,1579" />
+                <TextEquiv>
+                    <Unicode>ندارد الا بالعرض و به تبعیت حملش بر انسان و بهمین طریقست حال در واسطه در عروض بعضی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ندارند اما محتاج است ثبوتش از برای موضوع بدلیل مثل تناهی مقدار که عارض
+جسم است لذاته لکن ثبوتش از برای جسم بدیهی نیست بلکه محتاج است بدلیل و محشی
+نیز در واسطه طریقه شارح مطالع را در رد چنانکه ظاهر است در تعریفش اعراض ذاتیرا
+و در حواشی دیگرش نیز تصریح نموده و اما انچه از کلام و طایفه دیگر از منطقیین مثل
+صاحب قسطاس و غیره مفهوم میشود آن است که واسطه در عروض همین واسطه در
+ثبوت است و بنابر طریقه شارح مطالع در بعضی مواضع مشکل میشود مثل اینکه متعجبرا
+واسطه در عروض ضحک گرفته اند و ازینقرار بایستی که اتصاف انسان بضحک
+حقیقه معروض ضحک باشد چنانکه ظاهر است بالبدیهه و متعجب متصف است
+بضحک بالعرض زیرا که مراد از متعجب مفهوم است نه ماصدق چنانکه تصریح بان
+کرده اند محققین مثل میرسید شریف و غیره والا لازم میآید که خودش واسطه در عروض
+باشد از برای خودش و این محال است و شکی نیست که مفهوم متعجب صلاحیت التصاف بضحک
+ندارد الا بالعرض و به تبعیت حملش بر انسان و بهمین طریقست حال در واسطه در عروض بعضی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

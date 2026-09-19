@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:20.985+04:30</Created>
+        <LastChange>2026-06-21T10:04:47.394+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="4" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0183_NLAI-5-19596-0183.jpg" imageWidth="1512" imageHeight="2766">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782020087428" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781963164528_130" />
+                <RegionRefIndexed index="1" regionRef="region_1781963177957_139" />
+                <RegionRefIndexed index="2" regionRef="region_1781963187553_145" />
+                <RegionRefIndexed index="3" regionRef="region_1781963196504_151" />
+                <RegionRefIndexed index="4" regionRef="region_1781963202250_157" />
+                <RegionRefIndexed index="5" regionRef="region_1781963220891_166" />
+                <RegionRefIndexed index="6" regionRef="region_1781963229172_172" />
+                <RegionRefIndexed index="7" regionRef="region_1781963243437_181" />
+                <RegionRefIndexed index="8" regionRef="region_1781963252693_190" />
+                <RegionRefIndexed index="9" regionRef="region_1781963264299_199" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781963164528_130" custom="readingOrder {index:0;}">
+            <Coords points="430,442 430,573 1447,573 1447,442" />
+            <TextLine id="line_1781963164535_133" custom="readingOrder {index:0;}">
+                <Coords points="430,442 1447,442 1447,573 430,573" /><Baseline points="430,523 1447,523" />
+                <Baseline points="1421,526 434,493" />
+                <TextEquiv>
+                    <Unicode>پیش از این کاین سقف سبز و طاق مینا برکشند منظر چشم مرا ابروی جانان طاق بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781963171381_136" custom="readingOrder {index:1;}">
+                <Coords points="429,572 1433,572 1433,711 429,711" /><Baseline points="429,658 1433,658" />
+                <Baseline points="445,645 1422,659" />
+                <TextEquiv>
+                    <Unicode>یاد باد آن صحبت شبها که با زلف تو ام بحث سر عشق و دکر حلقه عشاق بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>پیش از این کاین سقف سبز و طاق مینا برکشند منظر چشم مرا ابروی جانان طاق بود
+یاد باد آن صحبت شبها که با زلف تو ام بحث سر عشق و دکر حلقه عشاق بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781963177957_139" custom="readingOrder {index:1;}">
+            <Coords points="431,717 431,853 1430,853 1430,717" />
+            <TextLine id="line_1781963177962_142" custom="readingOrder {index:0;}">
+                <Coords points="431,717 1430,717 1430,853 431,853" /><Baseline points="431,801 1430,801" />
+                <Baseline points="454,803 1417,821" />
+                <TextEquiv>
+                    <Unicode>عشق مه رویان مجلس گرچه دل میبرد و دین عشق ما با لطف طبع و خو بی اخلاق بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>عشق مه رویان مجلس گرچه دل میبرد و دین عشق ما با لطف طبع و خو بی اخلاق بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781963187553_145" custom="readingOrder {index:2;}">
+            <Coords points="435,853 435,986 1430,986 1430,853" />
+            <TextLine id="line_1781963187561_148" custom="readingOrder {index:0;}">
+                <Coords points="1430,853 435,853 435,986 1430,986" /><Baseline points="435,935 1430,935" />
+                <Baseline points="450,943 1421,956" />
+                <TextEquiv>
+                    <Unicode>از دم صبح ازل تا آخر شام ابد دوستی و مهر بر یک عهده و یک میثال بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>از دم صبح ازل تا آخر شام ابد دوستی و مهر بر یک عهده و یک میثال بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781963196504_151" custom="readingOrder {index:3;}">
+            <Coords points="438,990 438,1135 1425,1135 1425,990" />
+            <TextLine id="line_1781963196510_154" custom="readingOrder {index:0;}">
+                <Coords points="438,990 1425,990 1425,1135 438,1135" /><Baseline points="438,1080 1425,1080" />
+                <Baseline points="450,1094 1418,1103" />
+                <TextEquiv>
+                    <Unicode>سایه معشوق اگر افتاد بر عاشق چه شد ما بدو محتاج بودیم او به ما مشتاق بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سایه معشوق اگر افتاد بر عاشق چه شد ما بدو محتاج بودیم او به ما مشتاق بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781963202250_157" custom="readingOrder {index:4;}">
+            <Coords points="432,1135 432,1276 1425,1276 1425,1135" />
+            <TextLine id="line_1781963202258_160" custom="readingOrder {index:0;}">
+                <Coords points="1425,1135 432,1135 432,1276 1425,1276" /><Baseline points="432,1222 1425,1222" />
+                <Baseline points="441,1223 1400,1241" />
+                <TextEquiv>
+                    <Unicode>رشته تسبیح اگر بگسست معذورم بدار دستم اندر دامن ساقی سیمین ساق بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781963210773_163" custom="readingOrder {index:1;}">
+                <Coords points="437,1265 1413,1265 1413,1424 437,1424" /><Baseline points="437,1364 1413,1364" />
+                <Baseline points="445,1372 1406,1380" />
+                <TextEquiv>
+                    <Unicode>در شب قدر ار صبوحی کرده ام عیبم مکن سرخوش آمد یار و جامی بر کنار طاق بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>رشته تسبیح اگر بگسست معذورم بدار دستم اندر دامن ساقی سیمین ساق بود
+در شب قدر ار صبوحی کرده ام عیبم مکن سرخوش آمد یار و جامی بر کنار طاق بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781963220891_166" custom="readingOrder {index:5;}">
+            <Coords points="425,1409 425,1562 1411,1562 1411,1409" />
+            <TextLine id="line_1781963220900_169" custom="readingOrder {index:0;}">
+                <Coords points="425,1409 1411,1409 1411,1562 425,1562" /><Baseline points="425,1504 1411,1504" />
+                <Baseline points="455,1516 1405,1533" />
+                <TextEquiv>
+                    <Unicode>بر در شاهم گدایی نکته ای در کار کرد گفت بر هر خوان که بنشستم خدا رزاق بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بر در شاهم گدایی نکته ای در کار کرد گفت بر هر خوان که بنشستم خدا رزاق بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781963229172_172" custom="readingOrder {index:6;}">
+            <Coords points="680,1567 680,1699 1159,1699 1159,1567" />
+            <TextLine id="line_1781963229180_175" custom="readingOrder {index:0;}">
+                <Coords points="680,1699 1159,1699 1159,1567 680,1567" /><Baseline points="680,1649 1159,1649" />
+                <Baseline points="696,1663 1150,1659" />
+                <TextEquiv>
+                    <Unicode>شعر حافظ در زمان آدم اندر باغ خلد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781963233433_178" custom="readingOrder {index:1;}">
+                <Coords points="1162,1696 694,1696 694,1836 1162,1836" /><Baseline points="694,1783 1162,1783" />
+                <Baseline points="711,1807 1142,1802" />
+                <TextEquiv>
+                    <Unicode>دفتر نسرین و گل را زینت اوراق بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شعر حافظ در زمان آدم اندر باغ خلد
+دفتر نسرین و گل را زینت اوراق بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781963243437_181" custom="readingOrder {index:7;}">
+            <Coords points="429,1819 429,1977 1415,1977 1415,1819" />
+            <TextLine id="line_1781963243446_184" custom="readingOrder {index:0;}">
+                <Coords points="429,1819 1415,1819 1415,1977 429,1977" /><Baseline points="429,1917 1415,1917" />
+                <Baseline points="457,1931 1397,1945" />
+                <TextEquiv>
+                    <Unicode>گوهر مخزن اسرار همان است که بود حقه مهر بدان مهر و نشان است که بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781963248983_187" custom="readingOrder {index:1;}">
+                <Coords points="1417,1970 454,1970 454,2125 1417,2125" /><Baseline points="454,2066 1417,2066" />
+                <Baseline points="489,2090 1393,2098" />
+                <TextEquiv>
+                    <Unicode>عاشقان زمره ارباب امانت باشند لاجرم چشم گهربار همان است که بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گوهر مخزن اسرار همان است که بود حقه مهر بدان مهر و نشان است که بود
+عاشقان زمره ارباب امانت باشند لاجرم چشم گهربار همان است که بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781963252693_190" custom="readingOrder {index:8;}">
+            <Coords points="428,2120 428,2276 1412,2276 1412,2120" />
+            <TextLine id="line_1781963252702_193" custom="readingOrder {index:0;}">
+                <Coords points="428,2120 1412,2120 1412,2276 428,2276" /><Baseline points="428,2217 1412,2217" />
+                <TextEquiv>
+                    <Unicode>از صبا پرس که ما را همه شب تا دم صبح بوی زلف تو همان مونس جان است که بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781963260297_196" custom="readingOrder {index:1;}">
+                <Coords points="1418,2411 431,2411 431,2261 1418,2261" /><Baseline points="431,2354 1418,2354" />
+                <TextEquiv>
+                    <Unicode>طالب لعل و گهر نیست وگرنه خورشید همچنان در عمل معدن کان است که بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>از صبا پرس که ما را همه شب تا دم صبح بوی زلف تو همان مونس جان است که بود
+طالب لعل و گهر نیست وگرنه خورشید همچنان در عمل معدن کان است که بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781963264299_199" custom="readingOrder {index:9;}">
+            <Coords points="434,2393 434,2530 1409,2530 1409,2393" />
+            <TextLine id="line_1781963264307_202" custom="readingOrder {index:0;}">
+                <Coords points="434,2393 1409,2393 1409,2530 434,2530" /><Baseline points="434,2478 1409,2478" />
+                <Baseline points="450,2490 1387,2497" />
+                <TextEquiv>
+                    <Unicode>کشته غمزه خود را به زیارت دریاب زانکه بیچاره در لب لعل تو عیان است که بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کشته غمزه خود را به زیارت دریاب زانکه بیچاره در لب لعل تو عیان است که بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

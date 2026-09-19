@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:17.693+03:30</Created>
+        <LastChange>2026-06-21T01:28:50.575+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0023_NLAI-5-19596-0023.jpg" imageWidth="1616" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781992730622" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781908227197_3891" />
+                <RegionRefIndexed index="1" regionRef="region_1781908230155_3894" />
+                <RegionRefIndexed index="2" regionRef="region_1781908233583_3897" />
+                <RegionRefIndexed index="3" regionRef="region_1781908236567_3900" />
+                <RegionRefIndexed index="4" regionRef="region_1781908240410_3903" />
+                <RegionRefIndexed index="5" regionRef="region_1781908242903_3906" />
+                <RegionRefIndexed index="6" regionRef="region_1781908246229_3909" />
+                <RegionRefIndexed index="7" regionRef="region_1781908248229_3912" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781908227197_3891" custom="readingOrder {index:0;}">
+            <Coords points="548,480 1559,480 1559,669 548,669" />
+            <TextLine id="line_1781908478480_4059" custom="readingOrder {index:0;}">
+                <Coords points="581,513 1018,513 1018,635 581,635" /><Baseline points="581,589 1018,589" />
+                <Baseline points="590,574 996,581" />
+                <TextEquiv>
+                    <Unicode>رورضه ات بستان جنت استانت جای نور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908491653_4065" custom="readingOrder {index:1;}">
+                <Coords points="1087,517 1533,517 1533,649 1087,649" /><Baseline points="1087,599 1533,599" />
+                <Baseline points="1115,602 1520,605" />
+                <TextEquiv>
+                    <Unicode>دارد از فیض جمالت روی مهر و ماه نور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>رورضه ات بستان جنت استانت جای نور
+دارد از فیض جمالت روی مهر و ماه نور</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908230155_3894" custom="readingOrder {index:1;}">
+            <Coords points="799,666 1345,666 1345,883 799,883" />
+            <TextLine id="line_1781908500751_4071" custom="readingOrder {index:0;}">
+                <Coords points="819,677 1313,677 1313,786 819,786" /><Baseline points="819,745 1313,745" />
+                <Baseline points="852,733 1292,732" />
+                <TextEquiv>
+                    <Unicode>آمده خلقی بامید شما از راه دور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908509096_4077" custom="readingOrder {index:1;}">
+                <Coords points="832,794 1293,794 1293,890 832,890" /><Baseline points="832,854 1293,854" />
+                <Baseline points="844,851 1267,849" />
+                <TextEquiv>
+                    <Unicode>کالسلام ایحضرت شاه خراسان السلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>آمده خلقی بامید شما از راه دور
+کالسلام ایحضرت شاه خراسان السلام</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908233583_3897" custom="readingOrder {index:2;}">
+            <Coords points="557,886 1562,886 1562,1243 557,1243" />
+            <TextLine id="line_1781908527323_4089" custom="readingOrder {index:0;}">
+                <Coords points="1109,937 1541,937 1541,1068 1109,1068" /><Baseline points="1109,1018 1541,1018" />
+                <Baseline points="1117,1017 1530,1012" />
+                <TextEquiv>
+                    <Unicode>خرده بینانی که ایشان سکه بر زر میزنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908519028_4083" custom="readingOrder {index:1;}">
+                <Coords points="574,944 1024,944 1024,1077 574,1077" /><Baseline points="574,1026 1024,1026" />
+                <Baseline points="594,1018 1011,1021" />
+                <TextEquiv>
+                    <Unicode>سکه در لب بنام آل حیدر میزنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908535289_4095" custom="readingOrder {index:2;}">
+                <Coords points="582,1088 1023,1088 1023,1233 582,1233" /><Baseline points="582,1178 1023,1178" />
+                <Baseline points="583,1174 1009,1164" />
+                <TextEquiv>
+                    <Unicode>مغریان هر صبح و شام الله اکبر میزنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908543597_4101" custom="readingOrder {index:3;}">
+                <Coords points="1115,1089 1534,1089 1534,1223 1115,1223" /><Baseline points="1115,1172 1534,1172" />
+                <Baseline points="1123,1166 1516,1165" />
+                <TextEquiv>
+                    <Unicode>شه نشینان جمله اینجا حلقه بر در میزنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خرده بینانی که ایشان سکه بر زر میزنند
+سکه در لب بنام آل حیدر میزنند
+مغریان هر صبح و شام الله اکبر میزنند
+شه نشینان جمله اینجا حلقه بر در میزنند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908236567_3900" custom="readingOrder {index:3;}">
+            <Coords points="794,1243 1350,1243 1350,1491 794,1491" />
+            <TextLine id="line_1781908556478_4107" custom="readingOrder {index:0;}">
+                <Coords points="818,1258 1320,1258 1320,1377 818,1377" /><Baseline points="818,1332 1320,1332" />
+                <Baseline points="835,1323 1317,1321" />
+                <TextEquiv>
+                    <Unicode>قدسیان از چرخ هر دم این بدار میزنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908568550_4113" custom="readingOrder {index:1;}">
+                <Coords points="814,1390 1312,1390 1312,1481 814,1481" /><Baseline points="814,1446 1312,1446" />
+                <Baseline points="823,1431 1285,1430" />
+                <TextEquiv>
+                    <Unicode>کالسلام ایحضرت شاه خراسان السلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>قدسیان از چرخ هر دم این بدار میزنند
+کالسلام ایحضرت شاه خراسان السلام</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908240410_3903" custom="readingOrder {index:4;}">
+            <Coords points="557,1485 1570,1485 1570,1814 557,1814" />
+            <TextLine id="line_1781908579274_4119" custom="readingOrder {index:0;}">
+                <Coords points="575,1503 1024,1503 1024,1646 575,1646" /><Baseline points="575,1592 1024,1592" />
+                <Baseline points="601,1594 1005,1588" />
+                <TextEquiv>
+                    <Unicode>از فراق آن شهنشا عرب میر شهند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908586469_4125" custom="readingOrder {index:1;}">
+                <Coords points="1121,1510 1554,1510 1563,1655 1130,1655" /><Baseline points="1121,1600 1563,1600" />
+                <Baseline points="1148,1591 1533,1588" />
+                <TextEquiv>
+                    <Unicode>سینه ام پرورده دل در سینه از غم میطپد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908608495_4138" custom="readingOrder {index:2;}">
+                <Coords points="1125,1660 1549,1660 1549,1808 1125,1808" /><Baseline points="1125,1752 1549,1752" />
+                <Baseline points="1151,1743 1537,1743" />
+                <TextEquiv>
+                    <Unicode>در عنب چون زهر خورد از دست ها روان الرسید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908600976_4132" custom="readingOrder {index:3;}">
+                <Coords points="581,1662 1025,1662 1025,1792 581,1792" /><Baseline points="581,1743 1025,1743" />
+                <Baseline points="597,1736 1012,1738" />
+                <TextEquiv>
+                    <Unicode>راز خود با کس نگفت و سر او را کس ندید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>از فراق آن شهنشا عرب میر شهند
+سینه ام پرورده دل در سینه از غم میطپد
+در عنب چون زهر خورد از دست ها روان الرسید
+راز خود با کس نگفت و سر او را کس ندید</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908242903_3906" custom="readingOrder {index:5;}">
+            <Coords points="794,1808 1359,1808 1359,2076 794,2076" />
+            <TextLine id="line_1781908615731_4144" custom="readingOrder {index:0;}">
+                <Coords points="822,1814 1340,1814 1340,1943 822,1943" /><Baseline points="822,1894 1340,1894" />
+                <Baseline points="842,1884 1324,1875" />
+                <TextEquiv>
+                    <Unicode>چون که شد در خانه این آواز ازروزن شنید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908622340_4150" custom="readingOrder {index:1;}">
+                <Coords points="827,1951 1329,1951 1329,2068 827,2068" /><Baseline points="827,2024 1329,2024" />
+                <Baseline points="851,2003 1300,1999" />
+                <TextEquiv>
+                    <Unicode>کالسلام ایحضرت شاه خراسان السلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چون که شد در خانه این آواز ازروزن شنید
+کالسلام ایحضرت شاه خراسان السلام</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908246229_3909" custom="readingOrder {index:6;}">
+            <Coords points="554,2073 1562,2073 1562,2376 554,2376" />
+            <TextLine id="line_1781908638328_4162" custom="readingOrder {index:0;}">
+                <Coords points="1113,2088 1553,2088 1553,2244 1113,2244" /><Baseline points="1113,2185 1553,2185" />
+                <Baseline points="1128,2175 1542,2172" />
+                <TextEquiv>
+                    <Unicode>مرغ روحم با هوای تست یا سلطان دین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908631374_4156" custom="readingOrder {index:1;}">
+                <Coords points="571,2107 1035,2107 1035,2245 571,2245" /><Baseline points="571,2193 1035,2193" />
+                <Baseline points="585,2185 1007,2187" />
+                <TextEquiv>
+                    <Unicode>همچون مرغ نیم بسمل اوفتاد اندر زمین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908652941_4174" custom="readingOrder {index:2;}">
+                <Coords points="1114,2239 1547,2239 1547,2374 1114,2374" /><Baseline points="1114,2323 1547,2323" />
+                <Baseline points="1128,2308 1539,2316" />
+                <TextEquiv>
+                    <Unicode>یکزمان ای شاه من بر حال مسکینان بستن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908645532_4168" custom="readingOrder {index:3;}">
+                <Coords points="580,2248 1017,2248 1017,2380 580,2380" /><Baseline points="580,2330 1017,2330" />
+                <Baseline points="587,2316 1010,2323" />
+                <TextEquiv>
+                    <Unicode>خاصه حافظ را که دارد داغ مهرت بر حسین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مرغ روحم با هوای تست یا سلطان دین
+همچون مرغ نیم بسمل اوفتاد اندر زمین
+یکزمان ای شاه من بر حال مسکینان بستن
+خاصه حافظ را که دارد داغ مهرت بر حسین</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908248229_3912" custom="readingOrder {index:7;}">
+            <Coords points="788,2379 1373,2379 1373,2664 788,2664" />
+            <TextLine id="line_1781908660764_4180" custom="readingOrder {index:0;}">
+                <Coords points="831,2410 1349,2410 1349,2523 831,2523" /><Baseline points="831,2480 1349,2480" />
+                <Baseline points="840,2456 1319,2455" />
+                <TextEquiv>
+                    <Unicode>گوید از صدق و صفا هر دم بآواز حزین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908668156_4186" custom="readingOrder {index:1;}">
+                <Coords points="835,2531 1345,2531 1345,2665 835,2665" /><Baseline points="835,2614 1345,2614" />
+                <Baseline points="844,2589 1295,2600" />
+                <TextEquiv>
+                    <Unicode>کالسلام ایحضرت شاه خراسان السلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گوید از صدق و صفا هر دم بآواز حزین
+کالسلام ایحضرت شاه خراسان السلام</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

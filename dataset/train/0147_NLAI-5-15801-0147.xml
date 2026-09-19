@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T08:51:53.040+04:30</Created>
+        <LastChange>2026-06-25T09:04:51.056+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0147_NLAI-5-15801-0147.jpg" imageWidth="1117" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782362091058" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782361365828_1876" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782361365828_1876" custom="readingOrder {index:0;}">
+            <Coords points="120,1627 997,1627 997,139 120,139" />
+            <TextLine id="line_1782361386416_1882" custom="readingOrder {index:0;}">
+                <Coords points="143,146 980,146 980,278 143,278" /><Baseline points="143,228 980,228" />
+                <Baseline points="967,237 173,226" />
+                <TextEquiv>
+                    <Unicode>بضروریه سالبه و دلیل عکس نقیض بموجبه ضروریه مثل کل انسان حیوان بالضروره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361446109_1893" custom="readingOrder {index:1;}">
+                <Coords points="145,286 981,286 981,389 145,389" /><Baseline points="145,350 981,350" />
+                <Baseline points="968,348 174,348" />
+                <TextEquiv>
+                    <Unicode>اگر صادق نباشد کل لا حیوان لا انسان بالضروره البته نقیضش یعنی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361493191_1899" custom="readingOrder {index:2;}">
+                <Coords points="151,395 975,395 975,517 151,517" /><Baseline points="151,471 975,471" />
+                <Baseline points="965,475 172,473" />
+                <TextEquiv>
+                    <Unicode>بعض اللاحیوان لیس بلا انسان بالامکان العام صادق باشد و لازمش را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361534180_1905" custom="readingOrder {index:3;}">
+                <Coords points="151,525 990,525 990,638 151,638" /><Baseline points="151,595 990,595" />
+                <Baseline points="959,604 158,582" />
+                <TextEquiv>
+                    <Unicode>که بعض اللاحیوان انسان بالامکان العام باشد منعکس میکنیم بعض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361581845_1911" custom="readingOrder {index:4;}">
+                <Coords points="151,643 969,643 969,763 151,763" /><Baseline points="151,717 969,717" />
+                <Baseline points="956,725 159,707" />
+                <TextEquiv>
+                    <Unicode>الانسان لا حیوان بالامکان العام و این منافی اصل است و اگر لازم را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361624784_1917" custom="readingOrder {index:5;}">
+                <Coords points="145,768 969,768 969,897 145,897" /><Baseline points="145,848 969,848" />
+                <Baseline points="959,846 156,816" />
+                <TextEquiv>
+                    <Unicode>با اصل ضم کنیم لازم میآید امکان سلب شیی از نفس و حال آنکه ثبوت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361705333_1925" custom="readingOrder {index:6;}">
+                <Coords points="139,894 977,894 977,1009 139,1009" /><Baseline points="139,965 977,965" />
+                <Baseline points="963,961 147,955" />
+                <TextEquiv>
+                    <Unicode>شیی از برای نفس ضرورت است اما بطریقه شیخ ابوعلی نمیتوان این دلیل را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361746419_1933" custom="readingOrder {index:7;}">
+                <Coords points="142,1014 972,1014 972,1135 142,1135" /><Baseline points="142,1089 972,1089" />
+                <Baseline points="962,1092 162,1078" />
+                <TextEquiv>
+                    <Unicode>جاری کرد زیرا که بمذهب او ممکنه عکس ندارد و صغرای قیاس نیز واقع نمیشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361780070_1939" custom="readingOrder {index:8;}">
+                <Coords points="147,1143 972,1143 972,1254 147,1254" /><Baseline points="147,1212 972,1212" />
+                <Baseline points="960,1218 162,1197" />
+                <TextEquiv>
+                    <Unicode>چنانکه سابق اشاره بآن کرده شد وعامتان موجبه منعکس میشوند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361902237_2017" custom="readingOrder {index:9;}">
+                <Coords points="131,1248 965,1248 965,1378 131,1378" /><Baseline points="131,1329 965,1329" />
+                <Baseline points="952,1336 156,1322" />
+                <TextEquiv>
+                    <Unicode>بعرفیه عامه موجبه مثلا هرگاه صادق خواهد باشد کل ج ب بالضروره یا بالدوام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782361950578_2025" custom="readingOrder {index:10;}">
+                <Coords points="134,1385 967,1385 967,1505 134,1505" /><Baseline points="134,1459 967,1459" />
+                <Baseline points="954,1457 143,1440" />
+                <TextEquiv>
+                    <Unicode>مادام ج میباید صادق باشد کل ما لیس ب لیس ج بالدوام مادام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782362039437_2031" custom="readingOrder {index:11;}">
+                <Coords points="131,1511 970,1511 970,1614 131,1614" /><Baseline points="131,1575 970,1575" />
+                <Baseline points="952,1575 142,1571" />
+                <TextEquiv>
+                    <Unicode>لیس ب و الا صادق خواهد بود نقیضش یعنی لیس بعض ما لیس ب لیس ج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بضروریه سالبه و دلیل عکس نقیض بموجبه ضروریه مثل کل انسان حیوان بالضروره
+اگر صادق نباشد کل لا حیوان لا انسان بالضروره البته نقیضش یعنی
+بعض اللاحیوان لیس بلا انسان بالامکان العام صادق باشد و لازمش را
+که بعض اللاحیوان انسان بالامکان العام باشد منعکس میکنیم بعض
+الانسان لا حیوان بالامکان العام و این منافی اصل است و اگر لازم را
+با اصل ضم کنیم لازم میآید امکان سلب شیی از نفس و حال آنکه ثبوت
+شیی از برای نفس ضرورت است اما بطریقه شیخ ابوعلی نمیتوان این دلیل را
+جاری کرد زیرا که بمذهب او ممکنه عکس ندارد و صغرای قیاس نیز واقع نمیشود
+چنانکه سابق اشاره بآن کرده شد وعامتان موجبه منعکس میشوند
+بعرفیه عامه موجبه مثلا هرگاه صادق خواهد باشد کل ج ب بالضروره یا بالدوام
+مادام ج میباید صادق باشد کل ما لیس ب لیس ج بالدوام مادام
+لیس ب و الا صادق خواهد بود نقیضش یعنی لیس بعض ما لیس ب لیس ج</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

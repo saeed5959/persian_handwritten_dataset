@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:15.995+03:30</Created>
+        <LastChange>2026-06-24T23:50:47.298+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0113_NLAI-5-15801-0113.jpg" imageWidth="1091" imageHeight="1761">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782332447312" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782329644292_225" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782329644292_225" custom="readingOrder {index:0;}">
+            <Coords points="108,195 995,195 995,1683 108,1683" />
+            <TextLine id="line_1782329650231_228" custom="readingOrder {index:0;}">
+                <Coords points="116,215 980,215 980,332 116,332" /><Baseline points="116,288 980,288" />
+                <Baseline points="136,269 961,276" />
+                <TextEquiv>
+                    <Unicode>ضروری است اما در وقت کتابت ضروری نیست و ماده افتراق و قیتتین مطلقتین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329652393_231" custom="readingOrder {index:1;}">
+                <Coords points="125,343 995,343 995,457 125,457" /><Baseline points="125,414 995,414" />
+                <Baseline points="138,398 961,402" />
+                <TextEquiv>
+                    <Unicode>کل قمر منخسف بالضروره وقت الحیلوله یا وقتا ما زیرا که قمر مادامی که قمر است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329654678_234" custom="readingOrder {index:2;}">
+                <Coords points="125,468 978,468 978,574 125,574" /><Baseline points="125,534 978,534" />
+                <Baseline points="145,516 967,522" />
+                <TextEquiv>
+                    <Unicode>منخسف نیست پس عامتین صادق نیست و ممکنه عامه اعم است مطلقا از همه این</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329656906_237" custom="readingOrder {index:3;}">
+                <Coords points="114,572 971,572 971,688 114,688" /><Baseline points="114,644 971,644" />
+                <Baseline points="130,627 950,644" />
+                <TextEquiv>
+                    <Unicode>قضایا زیرا که در همه این قضایا حکم بفعلیت نسبت محمول از برای موضوع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329658975_240" custom="readingOrder {index:4;}">
+                <Coords points="125,694 971,694 971,825 125,825" /><Baseline points="125,775 971,775" />
+                <Baseline points="151,764 943,769" />
+                <TextEquiv>
+                    <Unicode>شده است و هر جا که حکم بفعلیت صادق باشد البته صادق خواهد بود که خلاف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329661685_243" custom="readingOrder {index:5;}">
+                <Coords points="130,832 976,832 976,941 130,941" /><Baseline points="130,900 976,900" />
+                <Baseline points="140,889 958,886" />
+                <TextEquiv>
+                    <Unicode>ان نسبت ضروری نیست زیرا که اگر خلاف نسبت ضروری باشد فعلیت ان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329663746_246" custom="readingOrder {index:6;}">
+                <Coords points="123,950 982,950 982,1054 123,1054" /><Baseline points="123,1014 982,1014" />
+                <Baseline points="147,1009 950,1019" />
+                <TextEquiv>
+                    <Unicode>نسبت کی صادق خواهد بود و سلب ضرورت نسبت مخالف امکان عام است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329667608_249" custom="readingOrder {index:7;}">
+                <Coords points="138,1061 985,1061 985,1194 138,1194" /><Baseline points="138,1143 985,1143" />
+                <Baseline points="167,1139 954,1135" />
+                <TextEquiv>
+                    <Unicode>مثلا هر گاه صادق باشد کل انسان حیوان بیکی از جهات هفتگانه البته صادق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329670664_252" custom="readingOrder {index:8;}">
+                <Coords points="119,1207 976,1207 976,1316 119,1316" /><Baseline points="119,1275 976,1275" />
+                <Baseline points="143,1270 965,1262" />
+                <TextEquiv>
+                    <Unicode>خواهد بود کل انسان حیوان بالامکان یعنی سلب حیوان از انسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329672885_255" custom="readingOrder {index:9;}">
+                <Coords points="125,1320 978,1320 978,1425 125,1425" /><Baseline points="125,1385 978,1385" />
+                <Baseline points="138,1384 965,1384" />
+                <TextEquiv>
+                    <Unicode>ضروری نیست اما هر جا که ممکنه صادث اید لازم نیست ان قضایا صادق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329675434_258" custom="readingOrder {index:10;}">
+                <Coords points="127,1438 978,1438 978,1545 127,1545" /><Baseline points="127,1504 978,1504" />
+                <Baseline points="145,1504 961,1497" />
+                <TextEquiv>
+                    <Unicode>باشد مثلا صادق است که العنقا موجود قی الخارج بالفعل در خارج و حال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329678186_261" custom="readingOrder {index:11;}">
+                <Coords points="130,1552 974,1552 974,1659 130,1659" /><Baseline points="130,1618 974,1618" />
+                <Baseline points="149,1611 954,1608" />
+                <TextEquiv>
+                    <Unicode>انکه عنقا موجود نیست بخلاف ممکنه که صد قش عبارت است از ضروری نبودن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ضروری است اما در وقت کتابت ضروری نیست و ماده افتراق و قیتتین مطلقتین
+کل قمر منخسف بالضروره وقت الحیلوله یا وقتا ما زیرا که قمر مادامی که قمر است
+منخسف نیست پس عامتین صادق نیست و ممکنه عامه اعم است مطلقا از همه این
+قضایا زیرا که در همه این قضایا حکم بفعلیت نسبت محمول از برای موضوع
+شده است و هر جا که حکم بفعلیت صادق باشد البته صادق خواهد بود که خلاف
+ان نسبت ضروری نیست زیرا که اگر خلاف نسبت ضروری باشد فعلیت ان
+نسبت کی صادق خواهد بود و سلب ضرورت نسبت مخالف امکان عام است
+مثلا هر گاه صادق باشد کل انسان حیوان بیکی از جهات هفتگانه البته صادق
+خواهد بود کل انسان حیوان بالامکان یعنی سلب حیوان از انسان
+ضروری نیست اما هر جا که ممکنه صادث اید لازم نیست ان قضایا صادق
+باشد مثلا صادق است که العنقا موجود قی الخارج بالفعل در خارج و حال
+انکه عنقا موجود نیست بخلاف ممکنه که صد قش عبارت است از ضروری نبودن</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

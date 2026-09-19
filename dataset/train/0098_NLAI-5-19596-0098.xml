@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:31.920+03:30</Created>
+        <LastChange>2026-06-20T21:45:07.593+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0098_NLAI-5-19596-0098.jpg" imageWidth="1543" imageHeight="2914">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781979307635" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781978646569_981" />
+                <RegionRefIndexed index="1" regionRef="region_1781978792737_1024" />
+                <RegionRefIndexed index="2" regionRef="region_1781978838334_1041" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781978646569_981" custom="readingOrder {index:0;}">
+            <Coords points="46,506 1065,506 1065,1406 46,1406" />
+            <TextLine id="line_1781978650549_984" custom="readingOrder {index:0;}">
+                <Coords points="93,542 1056,542 1056,669 93,669" /><Baseline points="93,621 1056,621" />
+                <Baseline points="113,600 1029,616" />
+                <TextEquiv>
+                    <Unicode>میر من خوش می روی کاندر سر و پا میرمت خوش خرامان شو که پیش قد رعنا میرمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781978653193_987" custom="readingOrder {index:1;}">
+                <Coords points="66,671 1073,671 1073,795 66,795" /><Baseline points="66,748 1073,748" />
+                <Baseline points="99,721 1023,743" />
+                <TextEquiv>
+                    <Unicode>گفته بودی کی بمیری پیش من تعجیل چیست خوش تقاضا می کنی پیش تقاضا میرمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781978655821_990" custom="readingOrder {index:2;}">
+                <Coords points="68,820 1045,820 1045,936 68,936" /><Baseline points="68,892 1045,892" />
+                <Baseline points="91,856 1010,875" />
+                <TextEquiv>
+                    <Unicode>عاشق و مخمور و مهجورم بت ساقی کجاست گو که بخرامد که پیش سروبالا میرمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781978658417_993" custom="readingOrder {index:3;}">
+                <Coords points="52,941 1029,941 1029,1076 52,1076" /><Baseline points="52,1025 1029,1025" />
+                <Baseline points="74,1004 1018,1032" />
+                <TextEquiv>
+                    <Unicode>آن که عمری شد که تا بیمارم از سودای او گو نگاهی کن که پیش چشم شهلا میرمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781978661382_996" custom="readingOrder {index:4;}">
+                <Coords points="57,1087 1073,1087 1073,1216 57,1216" /><Baseline points="57,1167 1073,1167" />
+                <Baseline points="85,1164 1037,1158" />
+                <TextEquiv>
+                    <Unicode>گفته ای لعل لبم هم درد بخشد هم دوا گاه پیش درد و گه پیش مداوا میرمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781978664562_999" custom="readingOrder {index:5;}">
+                <Coords points="74,1233 1051,1233 1051,1376 74,1376" /><Baseline points="74,1322 1051,1322" />
+                <Baseline points="80,1321 996,1321" />
+                <TextEquiv>
+                    <Unicode>خوش خرامان می روی چشم بد از روی تو دور دارم اندر سر خیال آن که در پا میرمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>میر من خوش می روی کاندر سر و پا میرمت خوش خرامان شو که پیش قد رعنا میرمت
+گفته بودی کی بمیری پیش من تعجیل چیست خوش تقاضا می کنی پیش تقاضا میرمت
+عاشق و مخمور و مهجورم بت ساقی کجاست گو که بخرامد که پیش سروبالا میرمت
+آن که عمری شد که تا بیمارم از سودای او گو نگاهی کن که پیش چشم شهلا میرمت
+گفته ای لعل لبم هم درد بخشد هم دوا گاه پیش درد و گه پیش مداوا میرمت
+خوش خرامان می روی چشم بد از روی تو دور دارم اندر سر خیال آن که در پا میرمت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781978792737_1024" custom="readingOrder {index:1;}">
+            <Coords points="217,1414 919,1414 919,1656 217,1656" />
+            <TextLine id="line_1781978796829_1027" custom="readingOrder {index:0;}">
+                <Coords points="253,1434 831,1434 831,1533 253,1533" /><Baseline points="253,1495 831,1495" />
+                <Baseline points="286,1464 792,1469" />
+                <TextEquiv>
+                    <Unicode>گر چه جای حافظ اندر خلوت وصل تو نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781978798849_1030" custom="readingOrder {index:1;}">
+                <Coords points="225,1552 861,1552 861,1654 225,1654" /><Baseline points="225,1615 861,1615" />
+                <Baseline points="291,1596 770,1610" />
+                <TextEquiv>
+                    <Unicode>ای همه جای تو خوش پیش همه جا میرمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گر چه جای حافظ اندر خلوت وصل تو نیست
+ای همه جای تو خوش پیش همه جا میرمت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781978838334_1041" custom="readingOrder {index:2;}">
+            <Coords points="65,1655 1083,1655 1083,2665 65,2665" />
+            <TextLine id="line_1781978843494_1044" custom="readingOrder {index:0;}">
+                <Coords points="79,1657 1045,1657 1045,1817 79,1817" /><Baseline points="79,1756 1045,1756" />
+                <Baseline points="82,1736 1025,1759" />
+                <TextEquiv>
+                    <Unicode>مدامم مست می دارد نسیم جعد گیسویت خرابم می کند هر دم فریب چشم جادویت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781978847065_1047" custom="readingOrder {index:1;}">
+                <Coords points="81,1817 1033,1817 1033,1938 81,1938" /><Baseline points="81,1892 1033,1892" />
+                <Baseline points="94,1880 1026,1893" />
+                <TextEquiv>
+                    <Unicode>پس از چندین شکیبایی شبی یا رب توان دیدن که شمع دیده افروزیم در محراب ابرویت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781978849781_1050" custom="readingOrder {index:2;}">
+                <Coords points="76,1941 1042,1941 1042,2090 76,2090" /><Baseline points="76,2033 1042,2033" />
+                <Baseline points="97,1999 1025,2046" />
+                <TextEquiv>
+                    <Unicode>سواد لوح بینش را عزیز از بهر آن دارم که جان را نسخه ای باشد ز لوح خال هندویت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781978852962_1053" custom="readingOrder {index:3;}">
+                <Coords points="73,2098 1039,2098 1039,2219 73,2219" /><Baseline points="73,2173 1039,2173" />
+                <Baseline points="102,2158 1032,2174" />
+                <TextEquiv>
+                    <Unicode>تو گر خواهی که جاویدان جهان یک سر بیارایی صبا را گو که بردارد زمانی برقع از رویت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781978856182_1056" custom="readingOrder {index:4;}">
+                <Coords points="56,2230 1031,2230 1031,2362 56,2362" /><Baseline points="56,2312 1031,2312" />
+                <Baseline points="99,2301 1020,2326" />
+                <TextEquiv>
+                    <Unicode>و گر رسم فنا خواهی که از عالم براندازی برافشان تا فروریزد هزاران جان ز هر مویت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781978859258_1059" custom="readingOrder {index:5;}">
+                <Coords points="65,2387 1055,2387 1055,2508 65,2508" /><Baseline points="65,2462 1055,2462" />
+                <Baseline points="102,2442 1028,2462" />
+                <TextEquiv>
+                    <Unicode>من و باد صبا مسکین دو سرگردان بی حاصل من از افسون چشمت مست و او از بوی گیسویت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781978862101_1062" custom="readingOrder {index:6;}">
+                <Coords points="70,2527 1064,2527 1064,2640 70,2640" /><Baseline points="70,2597 1064,2597" />
+                <Baseline points="90,2560 1035,2590" />
+                <TextEquiv>
+                    <Unicode>من از لطف صبا دارم سپاس کنمت جانا و گرنه کی بوی سحر گاهان آیدت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مدامم مست می دارد نسیم جعد گیسویت خرابم می کند هر دم فریب چشم جادویت
+پس از چندین شکیبایی شبی یا رب توان دیدن که شمع دیده افروزیم در محراب ابرویت
+سواد لوح بینش را عزیز از بهر آن دارم که جان را نسخه ای باشد ز لوح خال هندویت
+تو گر خواهی که جاویدان جهان یک سر بیارایی صبا را گو که بردارد زمانی برقع از رویت
+و گر رسم فنا خواهی که از عالم براندازی برافشان تا فروریزد هزاران جان ز هر مویت
+من و باد صبا مسکین دو سرگردان بی حاصل من از افسون چشمت مست و او از بوی گیسویت
+من از لطف صبا دارم سپاس کنمت جانا و گرنه کی بوی سحر گاهان آیدت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

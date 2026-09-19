@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T19:59:33.888+03:30</Created>
+        <LastChange>2026-06-29T11:37:12.316+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0120_NLAI-5-19596-0120.jpg" imageWidth="1506" imageHeight="2759">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782720432357" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782719596145_4180" />
+                <RegionRefIndexed index="1" regionRef="region_1782720242663_4279" />
+                <RegionRefIndexed index="2" regionRef="region_1782719941277_4231" />
+                <RegionRefIndexed index="3" regionRef="region_1782719201590_4116" />
+                <RegionRefIndexed index="4" regionRef="region_1782720019284_4246" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782719596145_4180" custom="readingOrder {index:0;}">
+            <Coords points="74,454 580,454 580,1611 74,1611" />
+            <TextLine id="line_1782719610448_4183" custom="readingOrder {index:0;}">
+                <Coords points="91,468 555,468 555,594 91,594" /><Baseline points="91,546 555,546" />
+                <Baseline points="114,538 545,551" />
+                <TextEquiv>
+                    <Unicode>زان سفر دراز خود عزم وطن نمی کند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719644369_4189" custom="readingOrder {index:1;}">
+                <Coords points="107,601 562,601 562,725 107,725" /><Baseline points="107,678 562,678" />
+                <Baseline points="129,663 546,657" />
+                <TextEquiv>
+                    <Unicode>گفت که آن سیاه کج گوش به من نمی کند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719715585_4195" custom="readingOrder {index:2;}">
+                <Coords points="113,734 562,734 562,868 113,868" /><Baseline points="113,817 562,817" />
+                <Baseline points="126,807 537,805" />
+                <TextEquiv>
+                    <Unicode>کز گذر تو خاک را مشک ختن نمی کند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719759236_4201" custom="readingOrder {index:3;}">
+                <Coords points="112,873 551,873 551,1023 112,1023" /><Baseline points="112,966 551,966" />
+                <Baseline points="119,941 535,962" />
+                <TextEquiv>
+                    <Unicode>وه که دلم چه یاد آن عهدشکن نمی کند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719794588_4207" custom="readingOrder {index:4;}">
+                <Coords points="110,1029 556,1029 556,1169 110,1169" /><Baseline points="110,1116 556,1116" />
+                <Baseline points="130,1083 532,1110" />
+                <TextEquiv>
+                    <Unicode>جان به هوای کوی او خدمت تن نمی کند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719825204_4213" custom="readingOrder {index:5;}">
+                <Coords points="113,1170 567,1170 567,1328 113,1328" /><Baseline points="113,1268 567,1268" />
+                <Baseline points="128,1239 552,1241" />
+                <TextEquiv>
+                    <Unicode>کیست که تن چو جام می جمله دهن نمی کند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719857372_4219" custom="readingOrder {index:6;}">
+                <Coords points="114,1334 554,1334 554,1453 114,1453" /><Baseline points="114,1408 554,1408" />
+                <Baseline points="135,1395 540,1402" />
+                <TextEquiv>
+                    <Unicode>خاک بنفشه زار را مشک ختن نمی کند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719910884_4225" custom="readingOrder {index:7;}">
+                <Coords points="113,1462 558,1462 558,1604 113,1604" /><Baseline points="113,1550 558,1550" />
+                <Baseline points="141,1529 551,1551" />
+                <TextEquiv>
+                    <Unicode>بی مدد سرشک من در عدن نمی کند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>زان سفر دراز خود عزم وطن نمی کند
+گفت که آن سیاه کج گوش به من نمی کند
+کز گذر تو خاک را مشک ختن نمی کند
+وه که دلم چه یاد آن عهدشکن نمی کند
+جان به هوای کوی او خدمت تن نمی کند
+کیست که تن چو جام می جمله دهن نمی کند
+خاک بنفشه زار را مشک ختن نمی کند
+بی مدد سرشک من در عدن نمی کند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782720242663_4279" custom="readingOrder {index:1;}">
+            <Coords points="105,1864 556,1864 556,2638 105,2638" />
+            <TextLine id="line_1782720251684_4282" custom="readingOrder {index:0;}">
+                <Coords points="114,1873 549,1873 549,2045 114,2045" /><Baseline points="114,1980 549,1980" />
+                <Baseline points="138,1965 541,1978" />
+                <TextEquiv>
+                    <Unicode>دعای نیم شبی دفع صد بلا بکند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782720294144_4288" custom="readingOrder {index:1;}">
+                <Coords points="113,2050 551,2050 551,2175 113,2175" /><Baseline points="113,2128 551,2128" />
+                <Baseline points="128,2124 540,2120" />
+                <TextEquiv>
+                    <Unicode>که یک کرشمه تلافی صد جفا بکند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782720331139_4294" custom="readingOrder {index:2;}">
+                <Coords points="117,2181 552,2181 552,2321 117,2321" /><Baseline points="117,2268 552,2268" />
+                <Baseline points="130,2244 540,2257" />
+                <TextEquiv>
+                    <Unicode>هر آن که خدمت جام جهان نما بکند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782720360107_4300" custom="readingOrder {index:3;}">
+                <Coords points="117,2321 555,2321 555,2465 117,2465" /><Baseline points="117,2410 555,2410" />
+                <Baseline points="127,2392 530,2402" />
+                <TextEquiv>
+                    <Unicode>چو درد در تو نبیند که را دوا بکند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782720400711_4306" custom="readingOrder {index:4;}">
+                <Coords points="120,2466 555,2466 555,2614 120,2614" /><Baseline points="120,2558 555,2558" />
+                <Baseline points="134,2548 529,2552" />
+                <TextEquiv>
+                    <Unicode>که رحم ار نکند مدعی خدا بکند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دعای نیم شبی دفع صد بلا بکند
+که یک کرشمه تلافی صد جفا بکند
+هر آن که خدمت جام جهان نما بکند
+چو درد در تو نبیند که را دوا بکند
+که رحم ار نکند مدعی خدا بکند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782719941277_4231" custom="readingOrder {index:2;}">
+            <Coords points="366,1594 879,1594 879,1878 366,1878" />
+            <TextLine id="line_1782719952336_4234" custom="readingOrder {index:0;}">
+                <Coords points="370,1616 874,1616 874,1756 370,1756" /><Baseline points="370,1703 874,1703" />
+                <Baseline points="388,1689 859,1680" />
+                <TextEquiv>
+                    <Unicode>کشته غمزه تو شد حافظ ناشنیده پند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719987876_4240" custom="readingOrder {index:1;}">
+                <Coords points="373,1763 850,1763 850,1875 373,1875" /><Baseline points="373,1832 850,1832" />
+                <Baseline points="379,1839 836,1826" />
+                <TextEquiv>
+                    <Unicode>تیغ سزاست هر که را درد سخن نمی کند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کشته غمزه تو شد حافظ ناشنیده پند
+تیغ سزاست هر که را درد سخن نمی کند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782719201590_4116" custom="readingOrder {index:3;}">
+            <Coords points="605,450 1112,450 1112,1608 605,1608" />
+            <TextLine id="line_1782719216322_4119" custom="readingOrder {index:0;}">
+                <Coords points="619,461 1086,461 1086,608 619,608" /><Baseline points="619,552 1086,552" />
+                <Baseline points="638,539 1067,544" />
+                <TextEquiv>
+                    <Unicode>تا دل هرزه گرد من رفت به چین زلف او</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719251881_4125" custom="readingOrder {index:1;}">
+                <Coords points="622,618 1075,618 1075,733 622,733" /><Baseline points="622,689 1075,689" />
+                <Baseline points="629,667 1067,677" />
+                <TextEquiv>
+                    <Unicode>دی گله ز طره اش کردم و از سر فسوس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719298769_4138" custom="readingOrder {index:2;}">
+                <Coords points="620,738 1080,738 1080,873 620,873" /><Baseline points="620,822 1080,822" />
+                <Baseline points="645,808 1068,819" />
+                <TextEquiv>
+                    <Unicode>با همه عطف دامنت آیدم از صبا عجب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719333981_4144" custom="readingOrder {index:3;}">
+                <Coords points="633,879 1072,879 1072,1042 633,1042" /><Baseline points="633,980 1072,980" />
+                <Baseline points="642,955 1069,969" />
+                <TextEquiv>
+                    <Unicode>چون ز نسیم می شود زلف بنفشه پرشکن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719362997_4150" custom="readingOrder {index:4;}">
+                <Coords points="636,1049 1079,1049 1079,1186 636,1186" /><Baseline points="636,1134 1079,1134" />
+                <Baseline points="650,1097 1067,1110" />
+                <TextEquiv>
+                    <Unicode>دل به امید روی او همدم جان نمی شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719395704_4156" custom="readingOrder {index:5;}">
+                <Coords points="636,1207 1087,1207 1087,1318 636,1318" /><Baseline points="636,1276 1087,1276" />
+                <Baseline points="648,1271 1074,1264" />
+                <TextEquiv>
+                    <Unicode>ساقی سیم ساق من گر همه درد می دهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719441473_4167" custom="readingOrder {index:6;}">
+                <Coords points="631,1338 1089,1338 1089,1465 631,1465" /><Baseline points="631,1417 1089,1417" />
+                <Baseline points="649,1404 1075,1388" />
+                <TextEquiv>
+                    <Unicode>لخلخه سا می شد با دامن پاکت از چه سو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782719546369_4174" custom="readingOrder {index:7;}">
+                <Coords points="630,1475 1096,1475 1096,1619 630,1619" /><Baseline points="630,1564 1096,1564" />
+                <Baseline points="650,1533 1081,1533" />
+                <TextEquiv>
+                    <Unicode>دستکش جفا مکن آب رخم که فیض ابر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تا دل هرزه گرد من رفت به چین زلف او
+دی گله ز طره اش کردم و از سر فسوس
+با همه عطف دامنت آیدم از صبا عجب
+چون ز نسیم می شود زلف بنفشه پرشکن
+دل به امید روی او همدم جان نمی شود
+ساقی سیم ساق من گر همه درد می دهد
+لخلخه سا می شد با دامن پاکت از چه سو
+دستکش جفا مکن آب رخم که فیض ابر</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782720019284_4246" custom="readingOrder {index:4;}">
+            <Coords points="630,1882 1110,1882 1110,2599 630,2599" />
+            <TextLine id="line_1782720033200_4249" custom="readingOrder {index:0;}">
+                <Coords points="635,1894 1088,1894 1088,2033 635,2033" /><Baseline points="635,1980 1088,1980" />
+                <Baseline points="646,1992 1081,1990" />
+                <TextEquiv>
+                    <Unicode>دلا بسوز که سوز تو کارها بکند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782720091844_4255" custom="readingOrder {index:1;}">
+                <Coords points="632,2039 1095,2039 1095,2192 632,2192" /><Baseline points="632,2134 1095,2134" />
+                <Baseline points="639,2117 1081,2114" />
+                <TextEquiv>
+                    <Unicode>عتاب یار پری چهره عاشقانه بکش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782720120868_4261" custom="readingOrder {index:2;}">
+                <Coords points="635,2198 1102,2198 1102,2314 635,2314" /><Baseline points="635,2270 1102,2270" />
+                <Baseline points="642,2264 1081,2267" />
+                <TextEquiv>
+                    <Unicode>ز ملک تا ملکوتش حجاب برگیرند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782720167883_4267" custom="readingOrder {index:3;}">
+                <Coords points="635,2322 1091,2322 1091,2466 635,2466" /><Baseline points="635,2411 1091,2411" />
+                <Baseline points="645,2396 1083,2396" />
+                <TextEquiv>
+                    <Unicode>طبیب عشق مسیحا دم است و مشفق لیک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782720208864_4273" custom="readingOrder {index:4;}">
+                <Coords points="631,2470 1101,2470 1101,2587 631,2587" /><Baseline points="631,2543 1101,2543" />
+                <Baseline points="645,2512 1077,2543" />
+                <TextEquiv>
+                    <Unicode>تو با خدای خود انداز کار و دل خوش دار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دلا بسوز که سوز تو کارها بکند
+عتاب یار پری چهره عاشقانه بکش
+ز ملک تا ملکوتش حجاب برگیرند
+طبیب عشق مسیحا دم است و مشفق لیک
+تو با خدای خود انداز کار و دل خوش دار</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

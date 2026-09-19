@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.009+03:30</Created>
+        <LastChange>2026-06-26T15:29:16.759+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0114_NLAI-5-15801-0114.jpg" imageWidth="1091" imageHeight="1793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782475156786" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782329766637_309" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782329766637_309" custom="readingOrder {index:0;}">
+            <Coords points="75,201 985,201 985,1785 75,1785" />
+            <TextLine id="line_1782329770790_312" custom="readingOrder {index:0;}">
+                <Coords points="88,206 956,206 956,326 88,326" /><Baseline points="88,280 956,280" />
+                <Baseline points="119,282 932,284" />
+                <TextEquiv>
+                    <Unicode>عدم عنقا و ضروری نبودن عدم لازم ندارد بالفعلررابواسطه انکه میتواند شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329773233_315" custom="readingOrder {index:1;}">
+                <Coords points="97,328 956,328 956,457 97,457" /><Baseline points="97,408 956,408" />
+                <Baseline points="110,402 934,393" />
+                <TextEquiv>
+                    <Unicode>که عدم شی ضروری نباشد اما هرگز موجود نشود و مطلقه عامه ازان شش قضیه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329775477_318" custom="readingOrder {index:2;}">
+                <Coords points="90,452 954,452 954,581 90,581" /><Baseline points="90,532 954,532" />
+                <Baseline points="106,520 937,531" />
+                <TextEquiv>
+                    <Unicode>دیگر اعم است بواسطه انکه صدق انها لازم دارد فعلیت نسبت را اما فعلیت نسبت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329778110_321" custom="readingOrder {index:3;}">
+                <Coords points="90,568 948,568 948,690 90,690" /><Baseline points="90,644 948,644" />
+                <Baseline points="108,636 928,644" />
+                <TextEquiv>
+                    <Unicode>لازم ندارد هیچیک ازان قضایا را مثلا صادق است که کل انسان ساکن الاصابع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329780428_324" custom="readingOrder {index:4;}">
+                <Coords points="92,688 952,688 952,814 92,814" /><Baseline points="92,766 952,766" />
+                <Baseline points="119,756 924,747" />
+                <TextEquiv>
+                    <Unicode>بالفعل و هیچ یک ازان موجهات سسته دیگر صادق نیست تامل و احفظ و الله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329782854_327" custom="readingOrder {index:5;}">
+                <Coords points="116,814 958,814 958,941 116,941" /><Baseline points="116,893 958,893" />
+                <Baseline points="130,880 930,873" />
+                <TextEquiv>
+                    <Unicode>اعلم و نسبت میانه مشروطه عامه و عرفیه عامه عموم و خصوص مطلقست زیرا که هر جا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329784785_330" custom="readingOrder {index:6;}">
+                <Coords points="114,941 971,941 971,1078 114,1078" /><Baseline points="114,1026 971,1026" />
+                <Baseline points="147,1009 950,1002" />
+                <TextEquiv>
+                    <Unicode>ضرورت مادام الوصف است دوام مادام الوصف است بخلاف عکس مثلا کل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329786788_333" custom="readingOrder {index:7;}">
+                <Coords points="121,1078 965,1078 965,1200 121,1200" /><Baseline points="121,1154 965,1154" />
+                <Baseline points="140,1144 937,1135" />
+                <TextEquiv>
+                    <Unicode>فلک متحرک بالدوام مادام فلکا صادق است اما بالضروره مادام فلکا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329788916_336" custom="readingOrder {index:8;}">
+                <Coords points="116,1196 958,1196 958,1314 116,1314" /><Baseline points="116,1269 958,1269" />
+                <Baseline points="143,1262 939,1259" />
+                <TextEquiv>
+                    <Unicode>صادق نیست و نسبت میانه مشروطه عامه با عرفیه حاصه عموم من وجه است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329790969_339" custom="readingOrder {index:9;}">
+                <Coords points="99,1316 952,1316 952,1436 99,1436" /><Baseline points="99,1390 952,1390" />
+                <Baseline points="127,1379 937,1379" />
+                <TextEquiv>
+                    <Unicode>ماده افتراق عرفیه خاصه مثل کل خمر مسکر مادام خمرا الا دایما زیرا که دام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329792718_342" custom="readingOrder {index:10;}">
+                <Coords points="103,1443 954,1443 954,1545 103,1545" /><Baseline points="103,1506 954,1506" />
+                <Baseline points="116,1488 932,1497" />
+                <TextEquiv>
+                    <Unicode>وصفی و لا دوام هست پسضرورت و ماده افتراق مشروطه کل انسان حیوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329795174_345" custom="readingOrder {index:11;}">
+                <Coords points="99,1541 952,1541 952,1654 99,1654" /><Baseline points="99,1611 952,1611" />
+                <Baseline points="112,1608 924,1611" />
+                <TextEquiv>
+                    <Unicode>هست و ماده اجتماع کل کاتب متحرک الاصابع بالدوام لا دایما چنانکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329797573_348" custom="readingOrder {index:12;}">
+                <Coords points="101,1676 324,1676 324,1781 101,1781" /><Baseline points="101,1741 324,1741" />
+                <Baseline points="136,1768 271,1726" />
+                <TextEquiv>
+                    <Unicode>گذشت و میانه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>عدم عنقا و ضروری نبودن عدم لازم ندارد بالفعلررابواسطه انکه میتواند شد
+که عدم شی ضروری نباشد اما هرگز موجود نشود و مطلقه عامه ازان شش قضیه
+دیگر اعم است بواسطه انکه صدق انها لازم دارد فعلیت نسبت را اما فعلیت نسبت
+لازم ندارد هیچیک ازان قضایا را مثلا صادق است که کل انسان ساکن الاصابع
+بالفعل و هیچ یک ازان موجهات سسته دیگر صادق نیست تامل و احفظ و الله
+اعلم و نسبت میانه مشروطه عامه و عرفیه عامه عموم و خصوص مطلقست زیرا که هر جا
+ضرورت مادام الوصف است دوام مادام الوصف است بخلاف عکس مثلا کل
+فلک متحرک بالدوام مادام فلکا صادق است اما بالضروره مادام فلکا
+صادق نیست و نسبت میانه مشروطه عامه با عرفیه حاصه عموم من وجه است
+ماده افتراق عرفیه خاصه مثل کل خمر مسکر مادام خمرا الا دایما زیرا که دام
+وصفی و لا دوام هست پسضرورت و ماده افتراق مشروطه کل انسان حیوان
+هست و ماده اجتماع کل کاتب متحرک الاصابع بالدوام لا دایما چنانکه
+گذشت و میانه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

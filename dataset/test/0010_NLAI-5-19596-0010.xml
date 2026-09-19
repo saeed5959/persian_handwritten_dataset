@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:16.228+03:30</Created>
+        <LastChange>2026-06-18T15:00:56.057+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0010_NLAI-5-19596-0010.jpg" imageWidth="1531" imageHeight="2812">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781782256107" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781780378267_977" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781780378267_977" custom="readingOrder {index:0;}">
+            <Coords points="99,470 1122,470 1122,2618 99,2618" />
+            <TextLine id="line_1781780383124_980" custom="readingOrder {index:0;}">
+                <Coords points="117,488 1077,488 1077,607 117,607" /><Baseline points="117,562 1077,562" />
+                <Baseline points="143,536 1053,563" />
+                <TextEquiv>
+                    <Unicode>و ادانی را لایح و ساطع نظم مشهور سحر حلالش عقده در زمان ناطقه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780403386_986" custom="readingOrder {index:1;}">
+                <Coords points="120,605 1078,605 1078,713 120,713" /><Baseline points="120,672 1078,672" />
+                <Baseline points="141,663 1061,679" />
+                <TextEquiv>
+                    <Unicode>افکنده و عقد منظوم فکرتش وزن متاع بحر و کان برده رشحات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780413436_992" custom="readingOrder {index:2;}">
+                <Coords points="122,725 1080,725 1080,897 122,897" /><Baseline points="122,832 1080,832" />
+                <Baseline points="135,800 1069,829" />
+                <TextEquiv>
+                    <Unicode>ینابع ذهن وقادش حدایق مجلس انس را به زلال معین و من الما کل شی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780423384_998" custom="readingOrder {index:3;}">
+                <Coords points="118,902 1080,902 1080,1035 118,1035" /><Baseline points="118,984 1080,984" />
+                <Baseline points="133,953 1064,978" />
+                <TextEquiv>
+                    <Unicode>حی صفت نضارت بخشیده و نفخات گلزار فکرتش در ریاض جانها معنی آیه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780432027_1006" custom="readingOrder {index:4;}">
+                <Coords points="118,1042 1086,1042 1086,1153 118,1153" /><Baseline points="118,1111 1086,1111" />
+                <Baseline points="146,1103 1070,1113" />
+                <TextEquiv>
+                    <Unicode>فانظرو الی آثار رحمه الله کیف تحیی الارض بعد موتها من روحی الی فاش کرده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780440140_1012" custom="readingOrder {index:5;}">
+                <Coords points="114,1158 1096,1158 1096,1301 114,1301" /><Baseline points="114,1247 1096,1247" />
+                <Baseline points="139,1240 1079,1247" />
+                <TextEquiv>
+                    <Unicode>کلمات فصیحش چون انفاس مسیح دل مرده را حیات بخشیده و رشحات اقلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780449004_1018" custom="readingOrder {index:6;}">
+                <Coords points="121,1315 1090,1315 1090,1462 121,1462" /><Baseline points="121,1406 1090,1406" />
+                <Baseline points="128,1401 1072,1408" />
+                <TextEquiv>
+                    <Unicode>خضر خاصیتش بر سریر سخن ید بیضا نموده گویی هوای ربیع کسب لطافت از نسیم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780458076_1024" custom="readingOrder {index:7;}">
+                <Coords points="127,1471 1096,1471 1096,1591 127,1591" /><Baseline points="127,1545 1096,1545" />
+                <Baseline points="142,1530 1086,1538" />
+                <TextEquiv>
+                    <Unicode>اخلاق او کرده و عذار گل و نسرین زیب و طراوت از شعر آبدارش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780467716_1030" custom="readingOrder {index:8;}">
+                <Coords points="127,1599 1100,1599 1100,1750 127,1750" /><Baseline points="127,1693 1100,1693" />
+                <Baseline points="140,1674 1079,1684" />
+                <TextEquiv>
+                    <Unicode>گرفته و قد نیکویی شمشاد و قامت دلجوی سرو آزاد و اعتدال و امتیاز از</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780475757_1036" custom="readingOrder {index:9;}">
+                <Coords points="125,1759 555,1758 555,1893 125,1894" /><Baseline points="125,1842 555,1842" />
+                <Baseline points="147,1840 539,1838" />
+                <TextEquiv>
+                    <Unicode>حسد چه میبری ای سست نظم بر حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780628505_1102" custom="readingOrder {index:10;}">
+                <Coords points="706,1778 1098,1778 1098,1894 706,1894" /><Baseline points="706,1850 1098,1850" />
+                <TextEquiv>
+                    <Unicode>استقامت رای او پذیرفته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780485387_1042" custom="readingOrder {index:11;}">
+                <Coords points="127,1919 596,1919 596,2047 127,2047" /><Baseline points="127,1998 596,1998" />
+                <Baseline points="144,1964 572,1972" />
+                <TextEquiv>
+                    <Unicode>و بی تکلف هر در و گوهر که جوهر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780561635_1084" custom="readingOrder {index:12;}">
+                <Coords points="629,1920 1094,1920 1094,2039 629,2039" /><Baseline points="629,1994 1094,1994" />
+                <Baseline points="641,1977 1082,1987" />
+                <TextEquiv>
+                    <Unicode>قبول خاطر و لطف سخن خداداد است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780494948_1048" custom="readingOrder {index:13;}">
+                <Coords points="132,2059 1100,2059 1100,2184 132,2184" /><Baseline points="132,2136 1100,2136" />
+                <Baseline points="149,2117 1086,2132" />
+                <TextEquiv>
+                    <Unicode>طبیعت موجود بود و از هر زینت و زیب دوشیزگان خلوت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780509236_1054" custom="readingOrder {index:14;}">
+                <Coords points="137,2186 1098,2186 1098,2330 137,2330" /><Baseline points="137,2275 1098,2275" />
+                <Baseline points="154,2259 1095,2266" />
+                <TextEquiv>
+                    <Unicode>سرای ضمیرش در سلک نظم کشیده لاجرم چون خود را به لباس و کسوت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780517947_1060" custom="readingOrder {index:15;}">
+                <Coords points="137,2349 1098,2349 1098,2457 137,2457" /><Baseline points="137,2416 1098,2416" />
+                <Baseline points="149,2399 1093,2417" />
+                <TextEquiv>
+                    <Unicode>و حلیه استعارت آراسته دید زبان بدعوی برگشاد و گفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780526881_1066" custom="readingOrder {index:16;}">
+                <Coords points="128,2477 555,2477 555,2599 128,2599" /><Baseline points="128,2553 555,2553" />
+                <Baseline points="137,2531 538,2538" />
+                <TextEquiv>
+                    <Unicode>هرکسی پنجروزه نوبت اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781780534656_1072" custom="readingOrder {index:17;}">
+                <Coords points="638,2481 1093,2481 1093,2601 638,2601" /><Baseline points="638,2555 1093,2555" />
+                <Baseline points="657,2549 1090,2547" />
+                <TextEquiv>
+                    <Unicode>دور مجنون گذشت و نوبت ماست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و ادانی را لایح و ساطع نظم مشهور سحر حلالش عقده در زمان ناطقه
+افکنده و عقد منظوم فکرتش وزن متاع بحر و کان برده رشحات
+ینابع ذهن وقادش حدایق مجلس انس را به زلال معین و من الما کل شی
+حی صفت نضارت بخشیده و نفخات گلزار فکرتش در ریاض جانها معنی آیه
+فانظرو الی آثار رحمه الله کیف تحیی الارض بعد موتها من روحی الی فاش کرده
+کلمات فصیحش چون انفاس مسیح دل مرده را حیات بخشیده و رشحات اقلام
+خضر خاصیتش بر سریر سخن ید بیضا نموده گویی هوای ربیع کسب لطافت از نسیم
+اخلاق او کرده و عذار گل و نسرین زیب و طراوت از شعر آبدارش
+گرفته و قد نیکویی شمشاد و قامت دلجوی سرو آزاد و اعتدال و امتیاز از
+حسد چه میبری ای سست نظم بر حافظ
+استقامت رای او پذیرفته
+و بی تکلف هر در و گوهر که جوهر
+قبول خاطر و لطف سخن خداداد است
+طبیعت موجود بود و از هر زینت و زیب دوشیزگان خلوت
+سرای ضمیرش در سلک نظم کشیده لاجرم چون خود را به لباس و کسوت
+و حلیه استعارت آراسته دید زبان بدعوی برگشاد و گفت
+هرکسی پنجروزه نوبت اوست
+دور مجنون گذشت و نوبت ماست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:30.861+03:30</Created>
+        <LastChange>2026-06-19T21:38:04.364+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0089_NLAI-5-19596-0089.jpg" imageWidth="1571" imageHeight="2833">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781892484406" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781891017146_1034" />
+                <RegionRefIndexed index="1" regionRef="region_1781892137339_1094" />
+                <RegionRefIndexed index="2" regionRef="region_1781892201748_1109" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781891017146_1034" custom="readingOrder {index:0;}">
+            <Coords points="434,554 1468,554 1468,1808 434,1808" />
+            <TextLine id="line_1781891031117_1040" custom="readingOrder {index:0;}">
+                <Coords points="484,576 1398,563 1399,613 485,626" /><Baseline points="484,602 1399,602" />
+                <Baseline points="485,621 1399,608" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781891022703_1037" custom="readingOrder {index:1;}">
+                <Coords points="469,570 1439,570 1439,680 469,680" /><Baseline points="469,638 1439,638" />
+                <Baseline points="485,755 1396,747" />
+                <TextEquiv>
+                    <Unicode>گو شمع میارید در این جمع که امشب در مجلس ما ماه رخ دوست تمام است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781891058695_1046" custom="readingOrder {index:2;}">
+                <Coords points="447,704 1436,704 1436,801 447,801" /><Baseline points="447,764 1436,764" />
+                <Baseline points="469,900 1420,881" />
+                <TextEquiv>
+                    <Unicode>در مذهب ما باده حلال است ولیکن بی روی تو ای سرو گل اندام حرام است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781891085319_1052" custom="readingOrder {index:3;}">
+                <Coords points="455,819 1434,819 1434,948 455,948" /><Baseline points="455,899 1434,899" />
+                <Baseline points="504,1028 1420,1007" />
+                <TextEquiv>
+                    <Unicode>گوشم همه بر قول نی و نغمه چنگ است چشمم همه بر لعل لب و گردش جام است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781891115347_1058" custom="readingOrder {index:4;}">
+                <Coords points="453,972 1434,972 1434,1079 453,1079" /><Baseline points="453,1038 1434,1038" />
+                <Baseline points="474,1176 1452,1149" />
+                <TextEquiv>
+                    <Unicode>در مجلس ما عطر میامیز که ما را هر لحظه ز گیسوی تو خوش بوی مشام است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781891931088_1064" custom="readingOrder {index:5;}">
+                <Coords points="463,1098 1431,1098 1431,1219 463,1219" /><Baseline points="463,1173 1431,1173" />
+                <Baseline points="490,1331 1428,1299" />
+                <TextEquiv>
+                    <Unicode>از چاشنی قند مگو هیچ و ز شکر زان رو که مرا از لب شیرین تو کام است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781891998667_1070" custom="readingOrder {index:6;}">
+                <Coords points="463,1254 1426,1254 1426,1369 463,1369" /><Baseline points="463,1325 1426,1325" />
+                <Baseline points="487,1463 1436,1441" />
+                <TextEquiv>
+                    <Unicode>تا گنج غمت در دل ویرانه مقیم است همواره مرا کوی خرابات مقام است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781892035436_1076" custom="readingOrder {index:7;}">
+                <Coords points="471,1385 1439,1385 1439,1497 471,1497" /><Baseline points="471,1454 1439,1454" />
+                <Baseline points="506,1602 1450,1589" />
+                <TextEquiv>
+                    <Unicode>از ننگ چه گویی که مرا نام ز ننگ است وز نام چه پرسی که مرا ننگ ز نام است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781892065144_1082" custom="readingOrder {index:8;}">
+                <Coords points="466,1522 1444,1522 1444,1640 466,1640" /><Baseline points="466,1595 1444,1595" />
+                <Baseline points="498,1736 1431,1731" />
+                <TextEquiv>
+                    <Unicode>میخواره و سرگشته و رندیم و نظرباز وان کس که چو ما نیست در این شهر کدام است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781892092352_1088" custom="readingOrder {index:9;}">
+                <Coords points="469,1680 1466,1680 1466,1798 469,1798" /><Baseline points="469,1753 1466,1753" />
+                <Baseline points="753,1888 1209,1877" />
+                <TextEquiv>
+                    <Unicode>با محتسبم عیب مگویید که او نیز پیوسته چو ما در طلب عیش مدام است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گو شمع میارید در این جمع که امشب در مجلس ما ماه رخ دوست تمام است
+در مذهب ما باده حلال است ولیکن بی روی تو ای سرو گل اندام حرام است
+گوشم همه بر قول نی و نغمه چنگ است چشمم همه بر لعل لب و گردش جام است
+در مجلس ما عطر میامیز که ما را هر لحظه ز گیسوی تو خوش بوی مشام است
+از چاشنی قند مگو هیچ و ز شکر زان رو که مرا از لب شیرین تو کام است
+تا گنج غمت در دل ویرانه مقیم است همواره مرا کوی خرابات مقام است
+از ننگ چه گویی که مرا نام ز ننگ است وز نام چه پرسی که مرا ننگ ز نام است
+میخواره و سرگشته و رندیم و نظرباز وان کس که چو ما نیست در این شهر کدام است
+با محتسبم عیب مگویید که او نیز پیوسته چو ما در طلب عیش مدام است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781892137339_1094" custom="readingOrder {index:1;}">
+            <Coords points="713,1821 1286,1821 1286,2083 713,2083" />
+            <TextLine id="line_1781892146496_1097" custom="readingOrder {index:0;}">
+                <Coords points="731,1834 1230,1834 1230,1928 731,1928" /><Baseline points="731,1892 1230,1892" />
+                <Baseline points="726,2038 1179,2027" />
+                <TextEquiv>
+                    <Unicode>حافظ منشین بی می و معشوق زمانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781892177000_1103" custom="readingOrder {index:1;}">
+                <Coords points="739,1979 1225,1979 1225,2075 739,2075" /><Baseline points="739,2039 1225,2039" />
+                <Baseline points="522,2179 1450,2155" />
+                <TextEquiv>
+                    <Unicode>کایام گل و یاسمن و عید صیام است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ منشین بی می و معشوق زمانی
+کایام گل و یاسمن و عید صیام است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781892201748_1109" custom="readingOrder {index:2;}">
+            <Coords points="482,2078 1509,2078 1509,2654 482,2654" />
+            <TextLine id="line_1781892207467_1112" custom="readingOrder {index:0;}">
+                <Coords points="504,2112 1469,2112 1469,2225 504,2225" /><Baseline points="504,2182 1469,2182" />
+                <Baseline points="520,2308 1442,2308" />
+                <TextEquiv>
+                    <Unicode>خلوت گزیده را به تماشا چه حاجت است چون کوی دوست هست به صحرا چه حاجت است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781892377284_1118" custom="readingOrder {index:1;}">
+                <Coords points="490,2238 1482,2238 1482,2359 490,2359" /><Baseline points="490,2313 1482,2313" />
+                <Baseline points="520,2445 1444,2450" />
+                <TextEquiv>
+                    <Unicode>جانا به حاجتی که تو را هست با خدا کآخر دمی بپرس که ما را چه حاجت است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781892410868_1124" custom="readingOrder {index:2;}">
+                <Coords points="509,2383 1471,2383 1471,2498 509,2498" /><Baseline points="509,2454 1471,2454" />
+                <Baseline points="522,2619 1458,2587" />
+                <TextEquiv>
+                    <Unicode>ای پادشاه حسن خدا را بسوختیم آخر سال کن که گدا را چه حاجت است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781892446475_1130" custom="readingOrder {index:3;}">
+                <Coords points="498,2522 1479,2522 1479,2635 498,2635" /><Baseline points="498,2592 1479,2592" />
+                <TextEquiv>
+                    <Unicode>ارباب حاجتیم و زبان سال نیست در حضرت کریم تمنا چه حاجت است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خلوت گزیده را به تماشا چه حاجت است چون کوی دوست هست به صحرا چه حاجت است
+جانا به حاجتی که تو را هست با خدا کآخر دمی بپرس که ما را چه حاجت است
+ای پادشاه حسن خدا را بسوختیم آخر سال کن که گدا را چه حاجت است
+ارباب حاجتیم و زبان سال نیست در حضرت کریم تمنا چه حاجت است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

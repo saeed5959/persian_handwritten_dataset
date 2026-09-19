@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:31.388+03:30</Created>
+        <LastChange>2026-06-20T20:31:45.590+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0094_NLAI-5-19596-0094.jpg" imageWidth="1543" imageHeight="2914">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781974905647" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781974006282_383" />
+                <RegionRefIndexed index="1" regionRef="region_1781974741898_480" />
+                <RegionRefIndexed index="2" regionRef="region_1781974802158_501" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781974006282_383" custom="readingOrder {index:0;}">
+            <Coords points="24,503 1137,503 1137,2140 24,2140" />
+            <TextLine id="line_1781974011734_386" custom="readingOrder {index:0;}">
+                <Coords points="64,553 1087,553 1087,692 64,692" /><Baseline points="64,639 1087,639" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974019202_389" custom="readingOrder {index:1;}">
+                <Coords points="120,597 1048,587 1048,637 120,647" /><Baseline points="120,624 1048,624" />
+                <Baseline points="120,642 1048,632" />
+                <TextEquiv>
+                    <Unicode>زان یار دلنوازم شکریست با شکایت گر نکته دان عشقی بشنو تو این حکایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974136450_395" custom="readingOrder {index:2;}">
+                <Coords points="72,717 1079,717 1079,829 72,829" /><Baseline points="72,786 1079,786" />
+                <Baseline points="106,767 1057,771" />
+                <TextEquiv>
+                    <Unicode>بی مزد بود و منت هر خدمتی که کردم یا رب مباد کس را مخدوم بی عنایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974162598_401" custom="readingOrder {index:3;}">
+                <Coords points="100,848 1093,848 1093,954 100,954" /><Baseline points="100,914 1093,914" />
+                <Baseline points="118,910 1031,914" />
+                <TextEquiv>
+                    <Unicode>رندان تشنه لب را آبی نمی دهد کس گویی ولی شناسان رفتند از این ولایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974180406_408" custom="readingOrder {index:4;}">
+                <Coords points="100,981 1073,981 1073,1136 100,1136" /><Baseline points="100,1077 1073,1077" />
+                <Baseline points="122,1087 1045,1065" />
+                <TextEquiv>
+                    <Unicode>از زلف چون کمندش ای دل مپیچ کانج سرها بریده بینی بی جرم و بی جنایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974195146_418" custom="readingOrder {index:5;}">
+                <Coords points="86,1155 1079,1155 1079,1288 86,1288" /><Baseline points="86,1237 1079,1237" />
+                <Baseline points="128,1216 1066,1220" />
+                <TextEquiv>
+                    <Unicode>این راه را نهایت صورت کجا توان بست کش صد هزار منزل بیش است در بدایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974205746_421" custom="readingOrder {index:6;}">
+                <Coords points="94,1300 1097,1300 1097,1409 94,1409" /><Baseline points="94,1368 1097,1368" />
+                <Baseline points="128,1358 1057,1347" />
+                <TextEquiv>
+                    <Unicode>چشمت به غمزه ما را خون خورد و می پسندی جانا روا نباشد خونریز را حمایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974217362_424" custom="readingOrder {index:7;}">
+                <Coords points="120,1437 1075,1437 1075,1558 120,1558" /><Baseline points="120,1512 1075,1512" />
+                <Baseline points="136,1498 1063,1494" />
+                <TextEquiv>
+                    <Unicode>هر چند بردی آبم روی از درت نتابم جور از حبیب خوشتر کز مدعی رعایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974517618_450" custom="readingOrder {index:8;}">
+                <Coords points="114,1576 1086,1576 1086,1684 114,1684" /><Baseline points="114,1643 1086,1643" />
+                <Baseline points="125,1639 1050,1637" />
+                <TextEquiv>
+                    <Unicode>این عشقبازی ایدلبا جاب دیگرانند کز کشته می مانند معشوق با جانت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974522991_453" custom="readingOrder {index:9;}">
+                <Coords points="119,1731 1064,1731 1064,1836 119,1836" /><Baseline points="119,1796 1064,1796" />
+                <Baseline points="125,1796 1055,1784" />
+                <TextEquiv>
+                    <Unicode>ای آفتاب خوبان می جوشد اندرونم یک ساعتم بگنجان در سایه عنایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974527798_456" custom="readingOrder {index:10;}">
+                <Coords points="91,1859 1096,1859 1096,1990 91,1990" /><Baseline points="91,1940 1096,1940" />
+                <Baseline points="1068,1921 131,1939" />
+                <TextEquiv>
+                    <Unicode>در این شب سیاهم گم گشت راه مقصود از گوشه ای برون آی ای کوکب هدایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974534054_459" custom="readingOrder {index:11;}">
+                <Coords points="80,2006 1102,2006 1102,2122 80,2122" /><Baseline points="80,2078 1102,2078" />
+                <Baseline points="152,2073 1072,2068" />
+                <TextEquiv>
+                    <Unicode>از هر طرف که رفتم جز وحشتم نیفزود زنهار از این بیابان وین راه بی نهایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>زان یار دلنوازم شکریست با شکایت گر نکته دان عشقی بشنو تو این حکایت
+بی مزد بود و منت هر خدمتی که کردم یا رب مباد کس را مخدوم بی عنایت
+رندان تشنه لب را آبی نمی دهد کس گویی ولی شناسان رفتند از این ولایت
+از زلف چون کمندش ای دل مپیچ کانج سرها بریده بینی بی جرم و بی جنایت
+این راه را نهایت صورت کجا توان بست کش صد هزار منزل بیش است در بدایت
+چشمت به غمزه ما را خون خورد و می پسندی جانا روا نباشد خونریز را حمایت
+هر چند بردی آبم روی از درت نتابم جور از حبیب خوشتر کز مدعی رعایت
+این عشقبازی ایدلبا جاب دیگرانند کز کشته می مانند معشوق با جانت
+ای آفتاب خوبان می جوشد اندرونم یک ساعتم بگنجان در سایه عنایت
+در این شب سیاهم گم گشت راه مقصود از گوشه ای برون آی ای کوکب هدایت
+از هر طرف که رفتم جز وحشتم نیفزود زنهار از این بیابان وین راه بی نهایت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781974741898_480" custom="readingOrder {index:1;}">
+            <Coords points="360,2142 842,2142 842,2406 360,2406" />
+            <TextLine id="line_1781974746094_483" custom="readingOrder {index:0;}">
+                <Coords points="367,2155 842,2155 842,2255 367,2255" /><Baseline points="367,2217 842,2217" />
+                <Baseline points="392,2202 809,2202" />
+                <TextEquiv>
+                    <Unicode>عشقت رسد به فریاد ار خود به سان حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974752283_486" custom="readingOrder {index:1;}">
+                <Coords points="378,2277 839,2277 839,2396 378,2396" /><Baseline points="378,2351 839,2351" />
+                <Baseline points="385,2353 817,2349" />
+                <TextEquiv>
+                    <Unicode>قرآن ز بر بخوانی در چارده روایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>عشقت رسد به فریاد ار خود به سان حافظ
+قرآن ز بر بخوانی در چارده روایت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781974802158_501" custom="readingOrder {index:2;}">
+            <Coords points="115,2417 1115,2417 1115,2698 115,2698" />
+            <TextLine id="line_1781974806475_504" custom="readingOrder {index:0;}">
+                <Coords points="139,2432 1101,2432 1101,2556 139,2556" /><Baseline points="139,2509 1101,2509" />
+                <Baseline points="158,2486 1083,2500" />
+                <TextEquiv>
+                    <Unicode>یا رب سببی ساز که یارم به سلامت بازآید و برهاندم از بند ملامت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974813535_507" custom="readingOrder {index:1;}">
+                <Coords points="139,2571 1104,2571 1104,2690 139,2690" /><Baseline points="139,2645 1104,2645" />
+                <Baseline points="160,2631 1086,2628" />
+                <TextEquiv>
+                    <Unicode>خاک ره آن یار سفرکرده بیارید تا چشم جهان بین کنمش جای اقامت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یا رب سببی ساز که یارم به سلامت بازآید و برهاندم از بند ملامت
+خاک ره آن یار سفرکرده بیارید تا چشم جهان بین کنمش جای اقامت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

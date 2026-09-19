@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.117+03:30</Created>
+        <LastChange>2026-06-26T16:31:35.755+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0122_NLAI-5-15801-0122.jpg" imageWidth="1091" imageHeight="1793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782478895791" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782330683733_333" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782330683733_333" custom="readingOrder {index:0;}">
+            <Coords points="112,192 984,192 984,1655 112,1655" />
+            <TextLine id="line_1782330690129_336" custom="readingOrder {index:0;}">
+                <Coords points="135,219 974,219 974,330 135,330" /><Baseline points="135,288 974,288" />
+                <Baseline points="142,276 942,288" />
+                <TextEquiv>
+                    <Unicode>لیس کلما کان الانسان ناطقا کان الحمار ناهقا و گاه باین اعتبار است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330692336_339" custom="readingOrder {index:1;}">
+                <Coords points="140,336 976,336 976,443 140,443" /><Baseline points="140,402 976,402" />
+                <Baseline points="163,387 951,397" />
+                <TextEquiv>
+                    <Unicode>که اتصال بیعلاقه نیست بلکه اتصال با علاقه است مثل لیس کلما کانت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330694453_342" custom="readingOrder {index:2;}">
+                <Coords points="131,460 978,460 978,561 131,561" /><Baseline points="131,523 978,523" />
+                <Baseline points="148,525 965,519" />
+                <TextEquiv>
+                    <Unicode>الشمس طالعه فالنهار موجود بالطریق اتفاقیه حق است زیرا اتصال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330696215_345" custom="readingOrder {index:3;}">
+                <Coords points="127,567 969,567 969,709 127,709" /><Baseline points="127,655 969,655" />
+                <Baseline points="146,645 959,649" />
+                <TextEquiv>
+                    <Unicode>بیعلاقه نست بلکه با علاقه است پس موجبه لزومیع با سالبه اتفاقیه جمع میشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330697954_348" custom="readingOrder {index:4;}">
+                <Coords points="144,691 972,691 972,814 144,814" /><Baseline points="144,767 972,767" />
+                <Baseline points="154,779 961,762" />
+                <TextEquiv>
+                    <Unicode>و ازینجا ظاهر شد که نسبت میانه موجبه لزومیه و موجبه اتفاقیه تباین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330699786_351" custom="readingOrder {index:5;}">
+                <Coords points="133,818 970,818 970,936 133,936" /><Baseline points="133,891 970,891" />
+                <Baseline points="165,890 951,890" />
+                <TextEquiv>
+                    <Unicode>است زیرا که در یکی معتبر است که حکم شده باشد دران باتصال سبب علاقه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330701892_354" custom="readingOrder {index:6;}">
+                <Coords points="125,944 986,944 986,1066 125,1066" /><Baseline points="125,1020 986,1020" />
+                <Baseline points="152,1017 970,1020" />
+                <TextEquiv>
+                    <Unicode>و در دیگری معبر است که حکم شده باشد باتصال بیعلاقه پس در صدق با هم جمع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330703878_357" custom="readingOrder {index:7;}">
+                <Coords points="135,1070 986,1070 986,1164 135,1164" /><Baseline points="135,1128 986,1128" />
+                <Baseline points="158,1126 974,1135" />
+                <TextEquiv>
+                    <Unicode>نمیشوند بلکه هر جا احد هما صادق است دیگری کاذب است مثلا در قضیه کلما کانت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330705854_360" custom="readingOrder {index:8;}">
+                <Coords points="138,1181 974,1181 974,1296 138,1296" /><Baseline points="138,1252 974,1252" />
+                <Baseline points="158,1237 957,1252" />
+                <TextEquiv>
+                    <Unicode>الشمس طالعه فالنهار موجود اگر حکم باتصال ما علاقه میکنند صادق است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330707571_363" custom="readingOrder {index:9;}">
+                <Coords points="135,1307 988,1307 988,1405 135,1405" /><Baseline points="135,1368 988,1368" />
+                <Baseline points="161,1355 961,1367" />
+                <TextEquiv>
+                    <Unicode>اما اگر حکم باتصال بیعلاقه میکنند کاذب است اما نسبت میانه سابتین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330709556_366" custom="readingOrder {index:10;}">
+                <Coords points="125,1416 978,1416 978,1529 125,1529" /><Baseline points="125,1486 978,1486" />
+                <Baseline points="152,1474 957,1491" />
+                <TextEquiv>
+                    <Unicode>متصله لزومیه و اتفاقیه عموم و خصوص من وجه است ماده اجتماع جایی که در</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330712488_369" custom="readingOrder {index:11;}">
+                <Coords points="119,1522 972,1522 972,1640 119,1640" /><Baseline points="119,1595 972,1595" />
+                <Baseline points="148,1585 957,1604" />
+                <TextEquiv>
+                    <Unicode>اصل اتصال نباشد مثل کلما کان النسان ناطقا کان الفرس ناهقا که در اینجا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>لیس کلما کان الانسان ناطقا کان الحمار ناهقا و گاه باین اعتبار است
+که اتصال بیعلاقه نیست بلکه اتصال با علاقه است مثل لیس کلما کانت
+الشمس طالعه فالنهار موجود بالطریق اتفاقیه حق است زیرا اتصال
+بیعلاقه نست بلکه با علاقه است پس موجبه لزومیع با سالبه اتفاقیه جمع میشود
+و ازینجا ظاهر شد که نسبت میانه موجبه لزومیه و موجبه اتفاقیه تباین
+است زیرا که در یکی معتبر است که حکم شده باشد دران باتصال سبب علاقه
+و در دیگری معبر است که حکم شده باشد باتصال بیعلاقه پس در صدق با هم جمع
+نمیشوند بلکه هر جا احد هما صادق است دیگری کاذب است مثلا در قضیه کلما کانت
+الشمس طالعه فالنهار موجود اگر حکم باتصال ما علاقه میکنند صادق است
+اما اگر حکم باتصال بیعلاقه میکنند کاذب است اما نسبت میانه سابتین
+متصله لزومیه و اتفاقیه عموم و خصوص من وجه است ماده اجتماع جایی که در
+اصل اتصال نباشد مثل کلما کان النسان ناطقا کان الفرس ناهقا که در اینجا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

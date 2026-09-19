@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T11:45:56.996+03:30</Created>
+        <LastChange>2026-06-25T22:58:24.915+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0178_NLAI-5-19596-0178.jpg" imageWidth="1506" imageHeight="2826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782415704974" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782414666024_3894" />
+                <RegionRefIndexed index="1" regionRef="region_1782415369607_3994" />
+                <RegionRefIndexed index="2" regionRef="region_1782414844560_3924" />
+                <RegionRefIndexed index="3" regionRef="region_1782414491783_3867" />
+                <RegionRefIndexed index="4" regionRef="region_1782414938969_3937" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782414666024_3894" custom="readingOrder {index:0;}">
+            <Coords points="131,473 572,473 572,1047 131,1047" />
+            <TextLine id="line_1782414671528_3897" custom="readingOrder {index:0;}">
+                <Coords points="129,488 575,488 575,592 129,592" /><Baseline points="129,552 575,552" />
+                <Baseline points="137,531 578,559" />
+                <TextEquiv>
+                    <Unicode>هزار ساحر چون سامریش در گله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414732437_3904" custom="readingOrder {index:1;}">
+                <Coords points="134,609 570,609 570,757 134,757" /><Baseline points="134,701 570,701" />
+                <Baseline points="156,693 539,689" />
+                <TextEquiv>
+                    <Unicode>به خنده گفت کیست با من این معامله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414761455_3911" custom="readingOrder {index:2;}">
+                <Coords points="128,759 562,759 562,910 128,910" /><Baseline points="128,853 562,853" />
+                <Baseline points="136,834 548,830" />
+                <TextEquiv>
+                    <Unicode>بجان مقید آن دلپذیر مایله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414816105_3917" custom="readingOrder {index:3;}">
+                <Coords points="111,902 574,902 574,1032 111,1032" /><Baseline points="111,983 574,983" />
+                <Baseline points="144,976 566,988" />
+                <TextEquiv>
+                    <Unicode>میان ماه و رخ یار من مقابله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>هزار ساحر چون سامریش در گله بود
+به خنده گفت کیست با من این معامله بود
+بجان مقید آن دلپذیر مایله بود
+میان ماه و رخ یار من مقابله بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782415369607_3994" custom="readingOrder {index:1;}">
+            <Coords points="109,1308 574,1308 574,2624 109,2624" />
+            <TextLine id="line_1782415373723_3997" custom="readingOrder {index:0;}">
+                <Coords points="85,1293 563,1293 563,1488 85,1488" /><Baseline points="85,1414 563,1414" />
+                <Baseline points="111,1411 544,1409" />
+                <TextEquiv>
+                    <Unicode>تعبیر رفت و کار به دولت حواله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415417387_4003" custom="readingOrder {index:1;}">
+                <Coords points="79,1492 576,1492 576,1617 79,1617" /><Baseline points="79,1570 576,1570" />
+                <Baseline points="105,1544 546,1565" />
+                <TextEquiv>
+                    <Unicode>تدبیر ما به دست شراب دوساله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415434149_4009" custom="readingOrder {index:2;}">
+                <Coords points="87,1615 561,1615 561,1790 87,1790" /><Baseline points="87,1724 561,1724" />
+                <Baseline points="111,1698 546,1700" />
+                <TextEquiv>
+                    <Unicode>در چین زلف آن بت مشکین کلاله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415450550_4015" custom="readingOrder {index:3;}">
+                <Coords points="111,1797 565,1797 565,1902 111,1902" /><Baseline points="111,1862 565,1862" />
+                <Baseline points="117,1840 559,1855" />
+                <TextEquiv>
+                    <Unicode>دولت مساعد آمد و می در پیاله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415468864_4021" custom="readingOrder {index:4;}">
+                <Coords points="124,1893 563,1893 563,2065 124,2065" /><Baseline points="124,2000 563,2000" />
+                <Baseline points="113,1994 546,1996" />
+                <TextEquiv>
+                    <Unicode>روزی ما ز خوان قدر این نواله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415523482_4027" custom="readingOrder {index:5;}">
+                <Coords points="107,2073 574,2073 574,2206 107,2206" /><Baseline points="107,2155 574,2155" />
+                <Baseline points="141,2108 559,2148" />
+                <TextEquiv>
+                    <Unicode>آن دم که کار مرغ سحر آه و ناله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415549416_4033" custom="readingOrder {index:6;}">
+                <Coords points="107,2215 565,2215 565,2335 107,2335" /><Baseline points="107,2289 565,2289" />
+                <Baseline points="135,2277 531,2279" />
+                <TextEquiv>
+                    <Unicode>در رهگذر باد نگهبان لاله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415587638_4039" custom="readingOrder {index:7;}">
+                <Coords points="109,2350 559,2350 559,2504 109,2504" /><Baseline points="109,2445 559,2445" />
+                <Baseline points="137,2412 550,2429" />
+                <TextEquiv>
+                    <Unicode>کانجا کشاند کار من از اه و ناله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415644020_4045" custom="readingOrder {index:8;}">
+                <Coords points="105,2491 553,2491 553,2601 105,2601" /><Baseline points="105,2559 553,2559" />
+                <Baseline points="130,2547 563,2547" />
+                <TextEquiv>
+                    <Unicode>زان ذاغ سر بمهر که در جان لاله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تعبیر رفت و کار به دولت حواله بود
+تدبیر ما به دست شراب دوساله بود
+در چین زلف آن بت مشکین کلاله بود
+دولت مساعد آمد و می در پیاله بود
+روزی ما ز خوان قدر این نواله بود
+آن دم که کار مرغ سحر آه و ناله بود
+در رهگذر باد نگهبان لاله بود
+کانجا کشاند کار من از اه و ناله بود
+زان ذاغ سر بمهر که در جان لاله بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782414844560_3924" custom="readingOrder {index:2;}">
+            <Coords points="366,1035 855,1035 855,1306 366,1306" />
+            <TextLine id="line_1782414848678_3927" custom="readingOrder {index:0;}">
+                <Coords points="362,1039 864,1039 864,1189 362,1189" /><Baseline points="362,1132 864,1132" />
+                <TextEquiv>
+                    <Unicode>دهان یار که درمان درد حافظ داشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414867579_3931" custom="readingOrder {index:1;}">
+                <Coords points="370,1189 861,1189 861,1309 370,1309" /><Baseline points="370,1263 861,1263" />
+                <Baseline points="397,1259 834,1264" />
+                <TextEquiv>
+                    <Unicode>فغان که وقت مروت چه تنگ حوصله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دهان یار که درمان درد حافظ داشت
+فغان که وقت مروت چه تنگ حوصله بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782414491783_3867" custom="readingOrder {index:3;}">
+            <Coords points="638,477 1102,477 1102,1036 638,1036" />
+            <TextLine id="line_1782414496753_3870" custom="readingOrder {index:0;}">
+                <Coords points="644,482 1096,482 1096,595 644,595" /><Baseline points="644,552 1096,552" />
+                <Baseline points="646,567 1062,554" />
+                <TextEquiv>
+                    <Unicode>قیاس کردم و آن چشم جادوانه مست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414548932_3876" custom="readingOrder {index:1;}">
+                <Coords points="652,614 1093,614 1093,752 652,752" /><Baseline points="652,700 1093,700" />
+                <Baseline points="676,699 1071,660 1071,666" />
+                <TextEquiv>
+                    <Unicode>بگفتمش به لبت بوسه ای حوالت کن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414588965_3882" custom="readingOrder {index:2;}">
+                <Coords points="647,765 1096,765 1096,898 647,898" /><Baseline points="647,847 1096,847" />
+                <Baseline points="660,851 1068,848" />
+                <TextEquiv>
+                    <Unicode>دلم به بوی نسیمی که یابد ار زلفش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414643128_3888" custom="readingOrder {index:3;}">
+                <Coords points="649,897 1096,897 1096,1038 649,1038" /><Baseline points="649,984 1096,984" />
+                <Baseline points="636,962 1079,978" />
+                <TextEquiv>
+                    <Unicode>ز اخترم نظری سعد در ره است که دوش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>قیاس کردم و آن چشم جادوانه مست
+بگفتمش به لبت بوسه ای حوالت کن
+دلم به بوی نسیمی که یابد ار زلفش
+ز اخترم نظری سعد در ره است که دوش</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782414938969_3937" custom="readingOrder {index:4;}">
+            <Coords points="643,1330 1136,1330 1136,2626 643,2626" />
+            <TextLine id="line_1782414942582_3940" custom="readingOrder {index:0;}">
+                <Coords points="655,1321 1112,1321 1112,1490 655,1490" /><Baseline points="655,1426 1112,1426" />
+                <Baseline points="664,1430 1097,1439" />
+                <TextEquiv>
+                    <Unicode>دیدم به خواب خوش که به دستم پیاله بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782414993607_3946" custom="readingOrder {index:1;}">
+                <Coords points="640,1507 1106,1507 1106,1632 640,1632" /><Baseline points="640,1584 1106,1584" />
+                <Baseline points="638,1567 1080,1561" />
+                <TextEquiv>
+                    <Unicode>چل سال رنج و غصه کشیدیم و عاقبت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415022712_3954" custom="readingOrder {index:2;}">
+                <Coords points="638,1647 1097,1647 1097,1771 638,1771" /><Baseline points="638,1724 1097,1724" />
+                <Baseline points="655,1698 1084,1709" />
+                <TextEquiv>
+                    <Unicode>آن نافه مراد که می خواستم ز بخت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415115756_3960" custom="readingOrder {index:3;}">
+                <Coords points="636,1793 1116,1793 1116,1902 636,1902" /><Baseline points="636,1861 1116,1861" />
+                <Baseline points="673,1833 1078,1844" />
+                <TextEquiv>
+                    <Unicode>از دست برده بود خمار غمم سحر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415143056_3966" custom="readingOrder {index:4;}">
+                <Coords points="630,1921 1091,1921 1091,2043 630,2043" /><Baseline points="630,1997 1091,1997" />
+                <Baseline points="653,2009 1076,2007" />
+                <TextEquiv>
+                    <Unicode>در آستان میکده خون می خورم مدام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415191538_3972" custom="readingOrder {index:5;}">
+                <Coords points="638,2050 1110,2050 1110,2204 638,2204" /><Baseline points="638,2145 1110,2145" />
+                <Baseline points="677,2140 1093,2131" />
+                <TextEquiv>
+                    <Unicode>بر طرف گلشنم گذر افتاد وقت صبح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415211215_3978" custom="readingOrder {index:6;}">
+                <Coords points="664,2208 1121,2208 1121,2352 664,2352" /><Baseline points="664,2297 1121,2297" />
+                <Baseline points="664,2275 1082,2283" />
+                <TextEquiv>
+                    <Unicode>هر کو نکاشت مهر و ز خوبی گلی نچید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415235797_3984" custom="readingOrder {index:7;}">
+                <Coords points="660,2367 1106,2367 1106,2478 660,2478" /><Baseline points="660,2436 1106,2436" />
+                <TextEquiv>
+                    <Unicode>نالان و دادخواه به میخانه میروم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782415336856_3988" custom="readingOrder {index:8;}">
+                <Coords points="649,2483 1073,2483 1073,2611 649,2611" /><Baseline points="649,2562 1073,2562" />
+                <Baseline points="640,2575 1067,2568" />
+                <TextEquiv>
+                    <Unicode>آتش فکند در دل بلبل نسیم باغ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دیدم به خواب خوش که به دستم پیاله بود
+چل سال رنج و غصه کشیدیم و عاقبت
+آن نافه مراد که می خواستم ز بخت
+از دست برده بود خمار غمم سحر
+در آستان میکده خون می خورم مدام
+بر طرف گلشنم گذر افتاد وقت صبح
+هر کو نکاشت مهر و ز خوبی گلی نچید
+نالان و دادخواه به میخانه میروم
+آتش فکند در دل بلبل نسیم باغ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

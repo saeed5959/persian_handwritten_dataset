@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:29.827-07:00</Created>
+        <LastChange>2026-06-19T16:28:15.524-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0055_NLAI-5-15801-0055.jpg" imageWidth="1090" imageHeight="1789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781911695602" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781910025005_657" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781910025005_657" custom="readingOrder {index:0;}">
+            <Coords points="114,186 987,186 987,1656 114,1656" />
+            <TextLine id="line_1781910043911_660" custom="readingOrder {index:0;}">
+                <Coords points="135,208 963,208 963,309 135,309" /><Baseline points="135,271 963,271" />
+                <Baseline points="953,267 142,264" />
+                <TextEquiv>
+                    <Unicode>مختص است بیقین دون ظن و در بعضی مختص است بتصدیق چنانکه معرفت به تصور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781910051973_663" custom="readingOrder {index:1;}">
+                <Coords points="960,413 131,413 131,300 960,300" /><Baseline points="131,370 960,370" />
+                <Baseline points="945,373 138,373" />
+                <TextEquiv>
+                    <Unicode>و در بعضی مخصوصست بمرکب چنانچه معرفت بسیط و ازینجاست که عرف الله میگویند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781910064269_666" custom="readingOrder {index:2;}">
+                <Coords points="966,438 140,438 140,559 966,559" /><Baseline points="140,513 966,513" />
+                <Baseline points="951,504 151,504" />
+                <TextEquiv>
+                    <Unicode>و علمت الله نمیگویند پس لفظ معلوم که مشتق ازواست نیز مشترک خواهد بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781910074206_669" custom="readingOrder {index:3;}">
+                <Coords points="143,565 973,565 973,690 143,690" /><Baseline points="143,642 973,642" />
+                <Baseline points="953,619 151,622" />
+                <TextEquiv>
+                    <Unicode>میانه معانی متعدده چنانکه ظاهراست و اند امحشی حکم باشتراک انکرده است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781910108518_672" custom="readingOrder {index:4;}">
+                <Coords points="132,787 947,787 947,665 132,665" /><Baseline points="132,741 947,741" />
+                <Baseline points="933,742 144,736" />
+                <TextEquiv>
+                    <Unicode>قوله فان الجزیی لا یکون کاسبا و لا مکتسبا غرض این است که جزیی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781910117502_675" custom="readingOrder {index:5;}">
+                <Coords points="152,793 959,793 959,909 152,909" /><Baseline points="152,865 959,865" />
+                <Baseline points="650,861 947,865 160,857" />
+                <TextEquiv>
+                    <Unicode>ازین حیثیت که جزییست نه معرف واقع میشود و نه معرف اما بواسطه انکه جزیی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781910126158_678" custom="readingOrder {index:6;}">
+                <Coords points="142,910 964,910 964,1041 142,1041" /><Baseline points="142,991 964,991" />
+                <Baseline points="954,993 155,991" />
+                <TextEquiv>
+                    <Unicode>یا محسوس است بحواس ظاهر یا بحواس باطن و در ترتیبات محسوسات متعدده نه احساس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781910133470_681" custom="readingOrder {index:7;}">
+                <Coords points="135,1050 968,1050 968,1183 135,1183" /><Baseline points="135,1132 968,1132" />
+                <Baseline points="957,1114 142,1116" />
+                <TextEquiv>
+                    <Unicode>چیزی دیگر حاصل میشود نه ادراک کلی چنانکه ظاهر است نزد عقل سلیم و اما ثانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781910153907_689" custom="readingOrder {index:8;}">
+                <Coords points="964,1278 152,1278 152,1171 964,1171" /><Baseline points="152,1237 964,1237" />
+                <Baseline points="955,1243 163,1237" />
+                <TextEquiv>
+                    <Unicode>بواسطه انکه اگر مکتب باشد محتاج خواهد بود و بمعرف و حال انکه معرفش نه جزیی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781910171578_692" custom="readingOrder {index:9;}">
+                <Coords points="143,1271 971,1271 971,1426 143,1426" /><Baseline points="143,1367 971,1367" />
+                <Baseline points="961,1353 150,1362" />
+                <TextEquiv>
+                    <Unicode>میتواند بود چنانکه گذشت و نه کلی که ضم کلی بکلی افاده جزییت نمیکند بلکه عقل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781910182546_695" custom="readingOrder {index:10;}">
+                <Coords points="148,1385 971,1385 971,1515 148,1515" /><Baseline points="148,1466 971,1466" />
+                <Baseline points="959,1473 162,1461" />
+                <TextEquiv>
+                    <Unicode>تجویز صدقش بر کثیرین میکند و هرگاه جزیی نه کاسب باشد و نه مکتسب پس فکر جاری</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781910190952_698" custom="readingOrder {index:11;}">
+                <Coords points="160,1497 977,1497 977,1641 160,1641" /><Baseline points="160,1586 977,1586" />
+                <Baseline points="962,1598 177,1598" />
+                <TextEquiv>
+                    <Unicode>نخواهد بود مگر در کلیات و لفظ معقول که میتعل است در کلی دون جزیی اشاره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مختص است بیقین دون ظن و در بعضی مختص است بتصدیق چنانکه معرفت به تصور
+و در بعضی مخصوصست بمرکب چنانچه معرفت بسیط و ازینجاست که عرف الله میگویند
+و علمت الله نمیگویند پس لفظ معلوم که مشتق ازواست نیز مشترک خواهد بود
+میانه معانی متعدده چنانکه ظاهراست و اند امحشی حکم باشتراک انکرده است
+قوله فان الجزیی لا یکون کاسبا و لا مکتسبا غرض این است که جزیی
+ازین حیثیت که جزییست نه معرف واقع میشود و نه معرف اما بواسطه انکه جزیی
+یا محسوس است بحواس ظاهر یا بحواس باطن و در ترتیبات محسوسات متعدده نه احساس
+چیزی دیگر حاصل میشود نه ادراک کلی چنانکه ظاهر است نزد عقل سلیم و اما ثانی
+بواسطه انکه اگر مکتب باشد محتاج خواهد بود و بمعرف و حال انکه معرفش نه جزیی
+میتواند بود چنانکه گذشت و نه کلی که ضم کلی بکلی افاده جزییت نمیکند بلکه عقل
+تجویز صدقش بر کثیرین میکند و هرگاه جزیی نه کاسب باشد و نه مکتسب پس فکر جاری
+نخواهد بود مگر در کلیات و لفظ معقول که میتعل است در کلی دون جزیی اشاره</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

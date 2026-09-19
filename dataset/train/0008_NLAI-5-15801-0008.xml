@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-27T18:30:08.596+03:30</Created>
+        <LastChange>2026-06-28T18:51:37.698+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0008_NLAI-5-15801-0008.jpg" imageWidth="1068" imageHeight="1731">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782660097711" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782656447538_10" />
+                <RegionRefIndexed index="1" regionRef="region_1782656718177_19" />
+                <RegionRefIndexed index="2" regionRef="region_1782657952498_29" />
+                <RegionRefIndexed index="3" regionRef="region_1782658148119_38" />
+                <RegionRefIndexed index="4" regionRef="region_1782658251287_47" />
+                <RegionRefIndexed index="5" regionRef="region_1782658345367_56" />
+                <RegionRefIndexed index="6" regionRef="region_1782658465280_65" />
+                <RegionRefIndexed index="7" regionRef="region_1782658633927_76" />
+                <RegionRefIndexed index="8" regionRef="region_1782659019149_85" />
+                <RegionRefIndexed index="9" regionRef="region_1782659149559_95" />
+                <RegionRefIndexed index="10" regionRef="region_1782659309404_104" />
+                <RegionRefIndexed index="11" regionRef="region_1782659958109_113" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782656447538_10" custom="readingOrder {index:0;}">
+            <Coords points="47,184 890,184 890,310 47,310" />
+            <TextLine id="line_1782656453163_13" custom="readingOrder {index:0;}">
+                <Coords points="51,184 890,184 890,315 51,315" /><Baseline points="51,265 890,265" />
+                <Baseline points="63,260 873,262" />
+                <TextEquiv>
+                    <Unicode>اعم از انکه چیزی بر ان مقدم باشد یا نه نسبت میان آن حقیقی عموم و خصوص</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اعم از انکه چیزی بر ان مقدم باشد یا نه نسبت میان آن حقیقی عموم و خصوص</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782656718177_19" custom="readingOrder {index:1;}">
+            <Coords points="39,320 905,320 905,426 39,426" />
+            <TextLine id="line_1782657644568_22" custom="readingOrder {index:0;}">
+                <Coords points="36,320 910,320 910,424 36,424" /><Baseline points="36,384 910,384" />
+                <Baseline points="59,357 866,362" />
+                <TextEquiv>
+                    <Unicode>مطلق است بسبب اینکه هر ابتدا حقیقتی بنابراین ابتدا اضافیت بدون عکس لکن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مطلق است بسبب اینکه هر ابتدا حقیقتی بنابراین ابتدا اضافیت بدون عکس لکن</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782657952498_29" custom="readingOrder {index:2;}">
+            <Coords points="44,453 894,453 894,542 44,542" />
+            <TextLine id="line_1782657958660_32" custom="readingOrder {index:0;}">
+                <Coords points="48,451 890,451 890,542 48,542" /><Baseline points="48,507 890,507" />
+                <Baseline points="67,494 871,498" />
+                <TextEquiv>
+                    <Unicode>مراد از ابتدا اضافی در اصطلاح علما معنی اول است و معنی ثانی برمیکردد و بابتدا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مراد از ابتدا اضافی در اصطلاح علما معنی اول است و معنی ثانی برمیکردد و بابتدا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782658148119_38" custom="readingOrder {index:3;}">
+            <Coords points="46,563 902,563 902,672 46,672" />
+            <TextLine id="line_1782658157072_41" custom="readingOrder {index:0;}">
+                <Coords points="50,565 905,565 905,678 50,678" /><Baseline points="50,635 905,635" />
+                <Baseline points="73,619 872,630" />
+                <TextEquiv>
+                    <Unicode>عرفی نمیتواند بود که مراد از ابتدا یر حدیث تحمید ابتدا حقیقتی باشد زیرا که وقتی که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>عرفی نمیتواند بود که مراد از ابتدا یر حدیث تحمید ابتدا حقیقتی باشد زیرا که وقتی که</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782658251287_47" custom="readingOrder {index:4;}">
+            <Coords points="50,685 906,685 906,788 50,788" />
+            <TextLine id="line_1782658259833_50" custom="readingOrder {index:0;}">
+                <Coords points="53,689 914,689 914,791 53,791" /><Baseline points="53,752 914,752" />
+                <Baseline points="81,737 876,742" />
+                <TextEquiv>
+                    <Unicode>ابتدا حقیقتی میتواند بود که جایز باشد تقدیم حمد بر بسن الله و تقدیم حمد بر بسم الله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ابتدا حقیقتی میتواند بود که جایز باشد تقدیم حمد بر بسن الله و تقدیم حمد بر بسم الله</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782658345367_56" custom="readingOrder {index:5;}">
+            <Coords points="289,812 910,812 910,899 289,899" />
+            <TextLine id="line_1782658350182_59" custom="readingOrder {index:0;}">
+                <Coords points="288,806 920,806 920,905 288,905" /><Baseline points="288,867 920,867" />
+                <Baseline points="327,869 881,859" />
+                <TextEquiv>
+                    <Unicode>در عرف املشرع و اطلاثات ایشان واقع نشده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>در عرف املشرع و اطلاثات ایشان واقع نشده</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782658465280_65" custom="readingOrder {index:6;}">
+            <Coords points="74,899 914,899 914,1027 74,1027" />
+            <TextLine id="line_1782658471055_68" custom="readingOrder {index:0;}">
+                <Coords points="80,900 905,900 905,1033 80,1033" /><Baseline points="80,982 905,982" />
+                <Baseline points="87,952 873,986" />
+                <TextEquiv>
+                    <Unicode>مراد از جمیل اختیاری بنابر مشهور صفات خوبی است که اختیاری صاحبش باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مراد از جمیل اختیاری بنابر مشهور صفات خوبی است که اختیاری صاحبش باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782658633927_76" custom="readingOrder {index:7;}">
+            <Coords points="89,1059 915,1059 915,1158 89,1158" />
+            <TextLine id="line_1782658642628_79" custom="readingOrder {index:0;}">
+                <Coords points="90,1062 911,1062 911,1155 90,1155" /><Baseline points="90,1120 911,1120" />
+                <Baseline points="91,1105 887,1100" />
+                <TextEquiv>
+                    <Unicode>یعنی به اختیار و اراده از صاحبش ناشی شود و مراد از نعمت انخوپا باشد که در</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یعنی به اختیار و اراده از صاحبش ناشی شود و مراد از نعمت انخوپا باشد که در</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782659019149_85" custom="readingOrder {index:8;}">
+            <Coords points="70,1161 905,1161 905,1277 70,1277" />
+            <TextLine id="line_1782659025641_88" custom="readingOrder {index:0;}">
+                <Coords points="73,1167 907,1167 907,1282 73,1282" /><Baseline points="73,1238 907,1238" />
+                <Baseline points="83,1242 888,1220" />
+                <TextEquiv>
+                    <Unicode>مضمون ان تعدی بغیر معتبر باشد مثل انعام و اعطا و احسان و غیر نعمت انخوپا است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مضمون ان تعدی بغیر معتبر باشد مثل انعام و اعطا و احسان و غیر نعمت انخوپا است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782659149559_95" custom="readingOrder {index:9;}">
+            <Coords points="76,1288 914,1288 914,1403 76,1403" />
+            <TextLine id="line_1782659156279_98" custom="readingOrder {index:0;}">
+                <Coords points="72,1288 913,1288 913,1408 72,1408" /><Baseline points="72,1362 913,1362" />
+                <Baseline points="86,1353 885,1344" />
+                <TextEquiv>
+                    <Unicode>که در مفهوم او تعدی بغیر معتبر نباشد مثل علم و قدرت و حیوت و غیر اینها دکثه اند که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که در مفهوم او تعدی بغیر معتبر نباشد مثل علم و قدرت و حیوت و غیر اینها دکثه اند که</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782659309404_104" custom="readingOrder {index:10;}">
+            <Coords points="73,1420 896,1420 896,1512 73,1512" />
+            <TextLine id="line_1782659315034_107" custom="readingOrder {index:0;}">
+                <Coords points="79,1420 901,1420 901,1515 79,1515" /><Baseline points="79,1479 901,1479" />
+                <Baseline points="91,1471 882,1462" />
+                <TextEquiv>
+                    <Unicode>مدع ثنا بلسان است بر جمیل خواه اختیاری باشد خواه غیر اختیاری و راز نهفته است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مدع ثنا بلسان است بر جمیل خواه اختیاری باشد خواه غیر اختیاری و راز نهفته است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782659958109_113" custom="readingOrder {index:11;}">
+            <Coords points="71,1526 908,1526 908,1626 71,1626" />
+            <TextLine id="line_1782659963910_116" custom="readingOrder {index:0;}">
+                <Coords points="73,1527 915,1527 915,1630 73,1630" /><Baseline points="73,1591 915,1591" />
+                <Baseline points="77,1573 881,1580" />
+                <TextEquiv>
+                    <Unicode>که میگویند مدح اللولو علی صفاتا و نمیگویند که حمدت الولو علی صفاتها و خواه بحمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که میگویند مدح اللولو علی صفاتا و نمیگویند که حمدت الولو علی صفاتها و خواه بحمد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

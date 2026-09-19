@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.285+03:30</Created>
+        <LastChange>2026-06-12T23:20:47.197+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0014_NLAI-5-11236-0014.jpg" imageWidth="1152" imageHeight="1941">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781293847214" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781293259255_673" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781293259255_673" custom="readingOrder {index:0;}">
+            <Coords points="134,507 867,507 867,1688 134,1688" />
+            <TextLine id="line_1781293263839_676" custom="readingOrder {index:0;}">
+                <Coords points="529,632 825,632 825,513 529,513" /><Baseline points="529,587 825,587" />
+                <Baseline points="549,580 814,576" />
+                <TextEquiv>
+                    <Unicode>بر او هیچکس چشم نگماشتند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293266375_679" custom="readingOrder {index:1;}">
+                <Coords points="162,637 476,637 476,522 162,522" /><Baseline points="162,593 476,593" />
+                <Baseline points="189,574 462,570" />
+                <TextEquiv>
+                    <Unicode>مر او را ز بیگانگان داشتند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293269215_682" custom="readingOrder {index:2;}">
+                <Coords points="539,762 825,762 825,630 539,630" /><Baseline points="539,712 825,712" />
+                <Baseline points="545,687 806,702" />
+                <TextEquiv>
+                    <Unicode>از آن کو نه هم دین و همراه بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293272135_685" custom="readingOrder {index:3;}">
+                <Coords points="172,759 474,759 474,639 172,639" /><Baseline points="172,713 474,713" />
+                <Baseline points="187,699 470,704" />
+                <TextEquiv>
+                    <Unicode>زبان از ستودنش کوتاه بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293274120_688" custom="readingOrder {index:4;}">
+                <Coords points="508,881 840,881 840,762 508,762" /><Baseline points="508,836 840,836" />
+                <Baseline points="531,833 820,831" />
+                <TextEquiv>
+                    <Unicode>چو دستان سام از پسش بنگرید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293276919_691" custom="readingOrder {index:5;}">
+                <Coords points="157,893 476,893 476,764 157,764" /><Baseline points="157,844 476,844" />
+                <Baseline points="177,825 470,821" />
+                <TextEquiv>
+                    <Unicode>ستودش فراوان چنان چون سزید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293279823_694" custom="readingOrder {index:6;}">
+                <Coords points="518,1011 835,1011 835,886 518,886" /><Baseline points="518,964 835,964" />
+                <Baseline points="525,956 826,960" />
+                <TextEquiv>
+                    <Unicode>چو روشن دل پهلوانرا بدوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293283472_697" custom="readingOrder {index:7;}">
+                <Coords points="170,1011 494,1011 494,889 170,889" /><Baseline points="170,965 494,965" />
+                <Baseline points="181,950 472,960" />
+                <TextEquiv>
+                    <Unicode>چنان گرم دیدند با گفتگوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293288952_703" custom="readingOrder {index:8;}">
+                <Coords points="165,1151 483,1151 483,1004 165,1004" /><Baseline points="165,1095 483,1095" />
+                <Baseline points="183,1073 460,1078" />
+                <TextEquiv>
+                    <Unicode>همان کز پس پرده بودش نهان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293286375_700" custom="readingOrder {index:9;}">
+                <Coords points="518,1140 822,1140 822,1011 518,1011" /><Baseline points="518,1091 822,1091" />
+                <Baseline points="525,1080 804,1078" />
+                <TextEquiv>
+                    <Unicode>مر او را ستودند یکیک مهان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293292423_706" custom="readingOrder {index:10;}">
+                <Coords points="516,1255 830,1255 830,1143 516,1143" /><Baseline points="516,1212 830,1212" />
+                <Baseline points="557,1213 816,1199" />
+                <TextEquiv>
+                    <Unicode>ز بالا و دیدار و آهستگی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293296391_709" custom="readingOrder {index:11;}">
+                <Coords points="164,1267 498,1267 498,1151 164,1151" /><Baseline points="164,1223 498,1223" />
+                <Baseline points="193,1207 466,1209" />
+                <TextEquiv>
+                    <Unicode>ببایستگی هم ز شایستگی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293301472_715" custom="readingOrder {index:12;}">
+                <Coords points="160,1395 488,1395 488,1267 160,1267" /><Baseline points="160,1346 488,1346" />
+                <Baseline points="191,1334 468,1330" />
+                <TextEquiv>
+                    <Unicode>خرد دور شد عشق فرزانه گشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293298751_712" custom="readingOrder {index:13;}">
+                <Coords points="519,1400 832,1400 832,1270 519,1270" /><Baseline points="519,1351 832,1351" />
+                <Baseline points="537,1330 814,1330" />
+                <TextEquiv>
+                    <Unicode>دل زال یکباره دیوانه گشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293304623_718" custom="readingOrder {index:14;}">
+                <Coords points="528,1510 825,1510 825,1397 528,1397" /><Baseline points="528,1467 825,1467" />
+                <Baseline points="541,1458 816,1445" />
+                <TextEquiv>
+                    <Unicode>سپهدار تازی سر راستان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293307127_721" custom="readingOrder {index:15;}">
+                <Coords points="159,1517 494,1517 494,1402 159,1402" /><Baseline points="159,1473 494,1473" />
+                <Baseline points="175,1460 472,1462" />
+                <TextEquiv>
+                    <Unicode>بگوید بر این بر یکی داستان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293315024_727" custom="readingOrder {index:16;}">
+                <Coords points="172,1627 493,1627 493,1517 172,1517" /><Baseline points="172,1585 493,1585" />
+                <Baseline points="185,1581 470,1579" />
+                <TextEquiv>
+                    <Unicode>خم چرخ گردان نهفت منست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293310671_724" custom="readingOrder {index:17;}">
+                <Coords points="513,1624 850,1624 850,1524 513,1524" /><Baseline points="513,1586 850,1586" />
+                <Baseline points="525,1569 824,1579" />
+                <TextEquiv>
+                    <Unicode>که تا زنده ام چرمه جفت منست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بر او هیچکس چشم نگماشتند
+مر او را ز بیگانگان داشتند
+از آن کو نه هم دین و همراه بود
+زبان از ستودنش کوتاه بود
+چو دستان سام از پسش بنگرید
+ستودش فراوان چنان چون سزید
+چو روشن دل پهلوانرا بدوی
+چنان گرم دیدند با گفتگوی
+همان کز پس پرده بودش نهان
+مر او را ستودند یکیک مهان
+ز بالا و دیدار و آهستگی
+ببایستگی هم ز شایستگی
+خرد دور شد عشق فرزانه گشت
+دل زال یکباره دیوانه گشت
+سپهدار تازی سر راستان
+بگوید بر این بر یکی داستان
+خم چرخ گردان نهفت منست
+که تا زنده ام چرمه جفت منست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

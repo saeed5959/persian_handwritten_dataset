@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:30.124-07:00</Created>
+        <LastChange>2026-06-20T11:12:46.894-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0058_NLAI-5-15801-0058.jpg" imageWidth="1089" imageHeight="1757">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781979166956" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781974788096_222" />
+                <RegionRefIndexed index="1" regionRef="region_1781974981292_281" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781974788096_222" custom="readingOrder {index:0;}">
+            <Coords points="90,145 942,145 942,1618 90,1618" />
+            <TextLine id="line_1781974801830_225" custom="readingOrder {index:0;}">
+                <Coords points="105,162 933,162 933,318 105,318" /><Baseline points="105,259 933,259" />
+                <Baseline points="924,262 112,244" />
+                <TextEquiv>
+                    <Unicode>عاض بواسطه جز اعم نیست قوله کا التعجب اللاحق للانسان بدانکه تعجب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974813470_228" custom="readingOrder {index:1;}">
+                <Coords points="111,288 933,288 933,406 111,406" /><Baseline points="111,361 933,361" />
+                <Baseline points="927,373 132,371" />
+                <TextEquiv>
+                    <Unicode>عارض انسان نمیشود و لذاته بلکه حالتی است که بواسطه ادراک امور غریبه لاحق انسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974820688_231" custom="readingOrder {index:2;}">
+                <Coords points="118,432 929,432 929,539 118,539" /><Baseline points="118,498 929,498" />
+                <Baseline points="920,495 124,494" />
+                <TextEquiv>
+                    <Unicode>میشود چنانکه ظاهر است و تصریح کرده اند باین محققین مثل و غیر پس او را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974828079_234" custom="readingOrder {index:3;}">
+                <Coords points="116,544 930,544 930,659 116,659" /><Baseline points="116,615 930,615" />
+                <Baseline points="921,616 128,613" />
+                <TextEquiv>
+                    <Unicode>مثال از برای عارض لذاته اوردن محتاج است بنحوی از تکلف مثل انکه از</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974835735_237" custom="readingOrder {index:4;}">
+                <Coords points="110,659 927,659 927,775 110,775" /><Baseline points="110,731 927,731" />
+                <Baseline points="916,736 118,728" />
+                <TextEquiv>
+                    <Unicode>تعجب ادراک امور غریبه خواسته شود که مبد تعجب و دیگر بدانکه مراد از</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974967574_275" custom="readingOrder {index:5;}">
+                <Coords points="102,781 927,781 927,918 102,918" /><Baseline points="102,866 927,866" />
+                <Baseline points="916,861 117,847" />
+                <TextEquiv>
+                    <Unicode>تعجب درینمقام متعجب است زیرا که مراد از عارض محمول است و انچه محمول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974977417_278" custom="readingOrder {index:6;}">
+                <Coords points="101,901 924,901 924,1025 101,1025" /><Baseline points="101,978 924,978" />
+                <Baseline points="917,978 108,977" />
+                <TextEquiv>
+                    <Unicode>میشود مثل متعجب است نه تعجب و ذکر مبدا و اراده مشتق شایع است نزد ارباب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974989370_285" custom="readingOrder {index:7;}">
+                <Coords points="101,1011 922,1011 922,1151 101,1151" /><Baseline points="101,1098 922,1098" />
+                <Baseline points="915,1100 110,1103" />
+                <TextEquiv>
+                    <Unicode>این فن قوله ثم نسب عروضه الی الانسان بالعرض و المجاز بدانکه واسطه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974995604_288" custom="readingOrder {index:8;}">
+                <Coords points="104,1164 924,1164 924,1282 104,1282" /><Baseline points="104,1237 924,1237" />
+                <Baseline points="914,1236 128,1226" />
+                <TextEquiv>
+                    <Unicode>همچنانکه فهمیده میشود از کلام شارح مطالع و جمعی دیگر از محققین بر سه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781975003260_291" custom="readingOrder {index:9;}">
+                <Coords points="99,1284 922,1284 922,1385 99,1385" /><Baseline points="99,1347 922,1347" />
+                <Baseline points="912,1341 113,1352" />
+                <TextEquiv>
+                    <Unicode>قسمت واسطه در عروض و واسطه در ثبوت و واسطه در اثبات واسطه در</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781975011791_294" custom="readingOrder {index:10;}">
+                <Coords points="930,1499 102,1499 102,1384 930,1384" /><Baseline points="102,1455 930,1455" />
+                <Baseline points="923,1459 109,1450" />
+                <TextEquiv>
+                    <Unicode>عروض آنست که عارض اولا و بالذات عارض او شود ثانیا و باعرض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781975026947_297" custom="readingOrder {index:11;}">
+                <Coords points="93,1488 920,1488 920,1607 93,1607" /><Baseline points="93,1562 920,1562" />
+                <Baseline points="913,1576 103,1568" />
+                <TextEquiv>
+                    <Unicode>عارض دیگرس مثل انسان که واسطه در عروض کتاب است از برای حیوات چه کتاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>عاض بواسطه جز اعم نیست قوله کا التعجب اللاحق للانسان بدانکه تعجب
+عارض انسان نمیشود و لذاته بلکه حالتی است که بواسطه ادراک امور غریبه لاحق انسان
+میشود چنانکه ظاهر است و تصریح کرده اند باین محققین مثل و غیر پس او را
+مثال از برای عارض لذاته اوردن محتاج است بنحوی از تکلف مثل انکه از
+تعجب ادراک امور غریبه خواسته شود که مبد تعجب و دیگر بدانکه مراد از
+تعجب درینمقام متعجب است زیرا که مراد از عارض محمول است و انچه محمول
+میشود مثل متعجب است نه تعجب و ذکر مبدا و اراده مشتق شایع است نزد ارباب
+این فن قوله ثم نسب عروضه الی الانسان بالعرض و المجاز بدانکه واسطه
+همچنانکه فهمیده میشود از کلام شارح مطالع و جمعی دیگر از محققین بر سه
+قسمت واسطه در عروض و واسطه در ثبوت و واسطه در اثبات واسطه در
+عروض آنست که عارض اولا و بالذات عارض او شود ثانیا و باعرض
+عارض دیگرس مثل انسان که واسطه در عروض کتاب است از برای حیوات چه کتاب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781974981292_281" custom="readingOrder {index:1;}">
+            <Coords points="101,1016" />
+        </TextRegion>
+    </Page>
+</PcGts>

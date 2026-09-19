@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:17.583+03:30</Created>
+        <LastChange>2026-06-21T01:17:14.946+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0022_NLAI-5-19596-0022.jpg" imageWidth="1580" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781992034984" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781908194310_3863" />
+                <RegionRefIndexed index="1" regionRef="region_1781908197640_3866" />
+                <RegionRefIndexed index="2" regionRef="region_1781908200031_3869" />
+                <RegionRefIndexed index="3" regionRef="region_1781908202314_3872" />
+                <RegionRefIndexed index="4" regionRef="region_1781908204375_3875" />
+                <RegionRefIndexed index="5" regionRef="region_1781908213487_3879" />
+                <RegionRefIndexed index="6" regionRef="region_1781908215671_3882" />
+                <RegionRefIndexed index="7" regionRef="region_1781908218383_3885" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781908194310_3863" custom="readingOrder {index:0;}">
+            <Coords points="351,486 879,486 879,760 351,760" />
+            <TextLine id="line_1781908260985_3918" custom="readingOrder {index:0;}">
+                <Coords points="374,489 842,489 842,627 374,627" /><Baseline points="374,575 842,575" />
+                <Baseline points="388,572 812,568" />
+                <TextEquiv>
+                    <Unicode>بعد ذکر حق همیگویم در هر صبح و شام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908269435_3924" custom="readingOrder {index:1;}">
+                <Coords points="374,631 828,631 828,732 374,732" /><Baseline points="374,694 828,694" />
+                <Baseline points="387,687 813,679" />
+                <TextEquiv>
+                    <Unicode>کالسلام اینحضرت شاه خراسان السلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بعد ذکر حق همیگویم در هر صبح و شام
+کالسلام اینحضرت شاه خراسان السلام</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908197640_3866" custom="readingOrder {index:1;}">
+            <Coords points="106,734 1056,734 1056,1040 106,1040" />
+            <TextLine id="line_1781908286500_3936" custom="readingOrder {index:0;}">
+                <Coords points="624,754 1050,754 1050,905 624,905" /><Baseline points="624,848 1050,848" />
+                <Baseline points="630,846 1043,848" />
+                <TextEquiv>
+                    <Unicode>چون تقی از حال باب خویش آگاه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908279321_3930" custom="readingOrder {index:1;}">
+                <Coords points="117,757 536,757 536,886 117,886" /><Baseline points="117,837 536,837" />
+                <Baseline points="133,835 523,833" />
+                <TextEquiv>
+                    <Unicode>نزد باب خویشش آندم ز چندین راه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908294927_3942" custom="readingOrder {index:2;}">
+                <Coords points="117,893 536,893 536,1034 117,1034" /><Baseline points="117,980 536,980" />
+                <Baseline points="152,983 519,974" />
+                <TextEquiv>
+                    <Unicode>بر زبان او ز بعد ذکر الا الله شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908303117_3948" custom="readingOrder {index:3;}">
+                <Coords points="627,912 1064,912 1064,1032 627,1032" /><Baseline points="627,986 1064,986" />
+                <Baseline points="656,990 1053,986" />
+                <TextEquiv>
+                    <Unicode>چون بدید حال پدر با ناله و با آه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چون تقی از حال باب خویش آگاه شد
+نزد باب خویشش آندم ز چندین راه شد
+بر زبان او ز بعد ذکر الا الله شد
+چون بدید حال پدر با ناله و با آه شد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908200031_3869" custom="readingOrder {index:2;}">
+            <Coords points="368,1046 897,1046 897,1323 368,1323" />
+            <TextLine id="line_1781908311596_3954" custom="readingOrder {index:0;}">
+                <Coords points="384,1060 873,1060 873,1189 384,1189" /><Baseline points="384,1140 873,1140" />
+                <Baseline points="398,1134 866,1129" />
+                <TextEquiv>
+                    <Unicode>پیش خود خواندش پدر تا واصل الله شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908319686_3960" custom="readingOrder {index:1;}">
+                <Coords points="387,1195 880,1195 880,1298 387,1298" /><Baseline points="387,1259 880,1259" />
+                <Baseline points="420,1261 860,1255" />
+                <TextEquiv>
+                    <Unicode>کالسلام اینحضرت شاه خراسان السلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>پیش خود خواندش پدر تا واصل الله شد
+کالسلام اینحضرت شاه خراسان السلام</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908202314_3872" custom="readingOrder {index:3;}">
+            <Coords points="97,1294 1079,1294 1079,1605 97,1605" />
+            <TextLine id="line_1781908339128_3972" custom="readingOrder {index:0;}">
+                <Coords points="624,1327 1067,1327 1067,1475 624,1475" /><Baseline points="624,1419 1067,1419" />
+                <Baseline points="636,1418 1058,1408" />
+                <TextEquiv>
+                    <Unicode>چون تقی و عسگری با آرزویت در خیال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908331087_3966" custom="readingOrder {index:1;}">
+                <Coords points="103,1333 539,1333 539,1468 103,1468" /><Baseline points="103,1417 539,1417" />
+                <Baseline points="124,1418 532,1413" />
+                <TextEquiv>
+                    <Unicode>در خیال روی تو گویند ای مقصود حال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908346878_3978" custom="readingOrder {index:2;}">
+                <Coords points="111,1476 542,1476 542,1602 111,1602" /><Baseline points="111,1554 542,1554" />
+                <Baseline points="141,1553 533,1556" />
+                <TextEquiv>
+                    <Unicode>در دریای ولایت بحر علم خوبحلال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908355562_3984" custom="readingOrder {index:3;}">
+                <Coords points="627,1479 1067,1479 1067,1597 627,1597" /><Baseline points="627,1552 1067,1552" />
+                <Baseline points="636,1554 1047,1548" />
+                <TextEquiv>
+                    <Unicode>شاه سلطان خراسان اختر برج کمال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چون تقی و عسگری با آرزویت در خیال
+در خیال روی تو گویند ای مقصود حال
+در دریای ولایت بحر علم خوبحلال
+شاه سلطان خراسان اختر برج کمال</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908204375_3875" custom="readingOrder {index:4;}">
+            <Coords points="366,1608 882,1608 882,1899 366,1899" />
+            <TextLine id="line_1781908364037_3990" custom="readingOrder {index:0;}">
+                <Coords points="390,1627 879,1627 879,1767 390,1767" /><Baseline points="390,1714 879,1714" />
+                <Baseline points="403,1706 853,1701" />
+                <TextEquiv>
+                    <Unicode>دایما گفتیم و میگوییم ما از روی حال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908372070_3996" custom="readingOrder {index:1;}">
+                <Coords points="381,1775 854,1775 854,1882 381,1882" /><Baseline points="381,1841 854,1841" />
+                <Baseline points="391,1834 844,1831" />
+                <TextEquiv>
+                    <Unicode>کالسلام ایحضرت شاه خراسان السلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دایما گفتیم و میگوییم ما از روی حال
+کالسلام ایحضرت شاه خراسان السلام</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908213487_3879" custom="readingOrder {index:5;}">
+            <Coords points="94,1879 1085,1879 1085,2182 94,2182" />
+            <TextLine id="line_1781908380245_4002" custom="readingOrder {index:0;}">
+                <Coords points="114,1891 541,1891 541,2038 114,2038" /><Baseline points="114,1982 541,1982" />
+                <Baseline points="139,1963 533,1964" />
+                <TextEquiv>
+                    <Unicode>آب حیوان شبنمی زان آب کاندر جوی اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908387247_4008" custom="readingOrder {index:1;}">
+                <Coords points="633,1910 1065,1910 1065,2043 633,2043" /><Baseline points="633,1992 1065,1992" />
+                <Baseline points="650,1999 1056,1998" />
+                <TextEquiv>
+                    <Unicode>مهدی هادی که نور کل عالم روی اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908396263_4014" custom="readingOrder {index:2;}">
+                <Coords points="101,2040 538,2040 538,2166 101,2166" /><Baseline points="101,2118 538,2118" />
+                <Baseline points="111,2103 522,2106" />
+                <TextEquiv>
+                    <Unicode>در خراسان روز و شب اندر طواف کی اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908405364_4020" custom="readingOrder {index:3;}">
+                <Coords points="617,2049 1068,2049 1068,2168 617,2168" /><Baseline points="617,2123 1068,2123" />
+                <Baseline points="631,2125 1058,2121" />
+                <TextEquiv>
+                    <Unicode>روضه اش بستان جنت خاطر ما سوی اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>آب حیوان شبنمی زان آب کاندر جوی اوست
+مهدی هادی که نور کل عالم روی اوست
+در خراسان روز و شب اندر طواف کی اوست
+روضه اش بستان جنت خاطر ما سوی اوست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908215671_3882" custom="readingOrder {index:6;}">
+            <Coords points="354,2179 888,2179 888,2447 354,2447" />
+            <TextLine id="line_1781908415992_4026" custom="readingOrder {index:0;}">
+                <Coords points="378,2196 838,2196 838,2325 378,2325" /><Baseline points="378,2276 838,2276" />
+                <Baseline points="409,2279 823,2270" />
+                <TextEquiv>
+                    <Unicode>بر دل ما دایما اینست کشکوی اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908425598_4032" custom="readingOrder {index:1;}">
+                <Coords points="378,2331 809,2331 809,2432 378,2432" /><Baseline points="378,2394 809,2394" />
+                <Baseline points="396,2401 788,2402" />
+                <TextEquiv>
+                    <Unicode>کالسلام ایحضرت شاه خراسان السلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بر دل ما دایما اینست کشکوی اوست
+کالسلام ایحضرت شاه خراسان السلام</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781908218383_3885" custom="readingOrder {index:7;}">
+            <Coords points="94,2419 1085,2419 1085,2622 94,2622" />
+            <TextLine id="line_1781908442457_4044" custom="readingOrder {index:0;}">
+                <Coords points="103,2443 541,2443 541,2596 103,2596" /><Baseline points="103,2538 541,2538" />
+                <Baseline points="139,2521 529,2549" />
+                <TextEquiv>
+                    <Unicode>چون تو موسی نسبتی کردی در آن منزل ظهور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781908450314_4050" custom="readingOrder {index:1;}">
+                <Coords points="630,2452 1080,2452 1080,2602 630,2602" /><Baseline points="630,2545 1080,2545" />
+                <Baseline points="639,2540 1064,2556" />
+                <TextEquiv>
+                    <Unicode>هست این دم کوه طوس از مقدمش چون کوه طور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چون تو موسی نسبتی کردی در آن منزل ظهور
+هست این دم کوه طوس از مقدمش چون کوه طور</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

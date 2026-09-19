@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.512+03:30</Created>
+        <LastChange>2026-06-14T21:01:36.811+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0019_NLAI-5-11236-0019.jpg" imageWidth="1197" imageHeight="1960">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781458296832" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781454187807_685" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781454187807_685" custom="readingOrder {index:0;}">
+            <Coords points="310,505 1049,505 1049,1698 310,1698" />
+            <TextLine id="line_1781454194535_691" custom="readingOrder {index:0;}">
+                <Coords points="340,653 647,653 647,535 340,535" /><Baseline points="340,608 647,608" />
+                <Baseline points="368,595 631,594" />
+                <TextEquiv>
+                    <Unicode>پرستنده و غمگسار منید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454192296_688" custom="readingOrder {index:1;}">
+                <Coords points="686,647 1004,647 1004,546 686,546" /><Baseline points="686,609 1004,609" />
+                <Baseline points="713,588 990,602" />
+                <TextEquiv>
+                    <Unicode>شما یک بیک رازدار منید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454197239_694" custom="readingOrder {index:2;}">
+                <Coords points="686,773 1000,773 1000,660 686,660" /><Baseline points="686,730 1000,730" />
+                <Baseline points="700,729 991,729" />
+                <TextEquiv>
+                    <Unicode>بدانید هر پنج و آگه بید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454200039_697" custom="readingOrder {index:3;}">
+                <Coords points="343,770 640,770 640,668 343,668" /><Baseline points="343,731 640,731" />
+                <Baseline points="355,709 633,719" />
+                <TextEquiv>
+                    <Unicode>همه ساله با بخت همراه بید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454206048_703" custom="readingOrder {index:4;}">
+                <Coords points="327,903 640,903 640,785 327,785" /><Baseline points="327,858 640,858" />
+                <Baseline points="351,849 627,849" />
+                <TextEquiv>
+                    <Unicode>ازو بر شده موج تا آسمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454202631_700" custom="readingOrder {index:5;}">
+                <Coords points="686,898 1004,898 1004,794 686,794" /><Baseline points="686,858 1004,858" />
+                <Baseline points="703,854 990,851" />
+                <TextEquiv>
+                    <Unicode>که من عاشقی ام چو بحر دمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454211479_709" custom="readingOrder {index:6;}">
+                <Coords points="340,1034 656,1034 656,915 340,915" /><Baseline points="340,989 656,989" />
+                <Baseline points="358,970 627,974" />
+                <TextEquiv>
+                    <Unicode>به خواب اندر اندیشه زو نگسلم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454208848_706" custom="readingOrder {index:7;}">
+                <Coords points="675,1040 1001,1040 1001,917 675,917" /><Baseline points="675,993 1001,993" />
+                <Baseline points="703,974 979,978" />
+                <TextEquiv>
+                    <Unicode>پر از مهر زالست روشن دلم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454219142_715" custom="readingOrder {index:8;}">
+                <Coords points="337,1165 638,1165 638,1040 337,1040" /><Baseline points="337,1118 638,1118" />
+                <Baseline points="360,1098 642,1096" />
+                <TextEquiv>
+                    <Unicode>شب و روزم اندیشه چهر اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454214936_712" custom="readingOrder {index:9;}">
+                <Coords points="685,1157 1001,1157 1001,1040 685,1040" /><Baseline points="685,1113 1001,1113" />
+                <Baseline points="692,1103 996,1098" />
+                <TextEquiv>
+                    <Unicode>روانم همیشه پر از مهر اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454222527_718" custom="readingOrder {index:10;}">
+                <Coords points="678,1280 989,1280 989,1159 678,1159" /><Baseline points="678,1234 989,1234" />
+                <Baseline points="694,1231 984,1230" />
+                <TextEquiv>
+                    <Unicode>نداند کسی راز من جز شما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454225951_721" custom="readingOrder {index:11;}">
+                <Coords points="334,1296 655,1296 655,1162 334,1162" /><Baseline points="334,1245 655,1245" />
+                <Baseline points="353,1226 627,1231" />
+                <TextEquiv>
+                    <Unicode>که هم مهربانید و هم پارسا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454231431_727" custom="readingOrder {index:12;}">
+                <Coords points="331,1421 631,1421 631,1295 331,1295" /><Baseline points="331,1373 631,1373" />
+                <Baseline points="347,1362 626,1356" />
+                <TextEquiv>
+                    <Unicode>چه خواهید و با من چه پیمان کنید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454228440_724" custom="readingOrder {index:13;}">
+                <Coords points="680,1416 1020,1416 1020,1299 680,1299" /><Baseline points="680,1372 1020,1372" />
+                <Baseline points="686,1352 993,1362" />
+                <TextEquiv>
+                    <Unicode>کنون این سخن را چه درمان کنید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454233871_730" custom="readingOrder {index:14;}">
+                <Coords points="673,1546 1017,1546 1017,1423 673,1423" /><Baseline points="673,1499 1017,1499" />
+                <Baseline points="687,1487 989,1487" />
+                <TextEquiv>
+                    <Unicode>یکی چاره باید کنون ساختن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454237286_733" custom="readingOrder {index:15;}">
+                <Coords points="337,1551 634,1551 634,1430 337,1430" /><Baseline points="337,1505 634,1505" />
+                <Baseline points="350,1482 626,1487" />
+                <TextEquiv>
+                    <Unicode>دل و جانم از رنج پرداختن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454243927_739" custom="readingOrder {index:16;}">
+                <Coords points="333,1649 658,1649 658,1551 333,1551" /><Baseline points="333,1612 658,1612" />
+                <Baseline points="351,1604 634,1610" />
+                <TextEquiv>
+                    <Unicode>که بدکاری آید ز دخت شهان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781454241016_736" custom="readingOrder {index:17;}">
+                <Coords points="682,1645 997,1645 997,1551 682,1551" /><Baseline points="682,1609 997,1609" />
+                <Baseline points="694,1610 1001,1610" />
+                <TextEquiv>
+                    <Unicode>پرستندگانرا شگفت آمد آن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>پرستنده و غمگسار منید
+شما یک بیک رازدار منید
+بدانید هر پنج و آگه بید
+همه ساله با بخت همراه بید
+ازو بر شده موج تا آسمان
+که من عاشقی ام چو بحر دمان
+به خواب اندر اندیشه زو نگسلم
+پر از مهر زالست روشن دلم
+شب و روزم اندیشه چهر اوست
+روانم همیشه پر از مهر اوست
+نداند کسی راز من جز شما
+که هم مهربانید و هم پارسا
+چه خواهید و با من چه پیمان کنید
+کنون این سخن را چه درمان کنید
+یکی چاره باید کنون ساختن
+دل و جانم از رنج پرداختن
+که بدکاری آید ز دخت شهان
+پرستندگانرا شگفت آمد آن</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-23T16:59:40.588+04:30</Created>
+        <LastChange>2026-06-23T17:14:52.893+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0141_NLAI-5-15801-0141.jpg" imageWidth="1117" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782218692894" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782217837037_1310" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782217837037_1310" custom="readingOrder {index:0;}">
+            <Coords points="123,1659 1025,1659 1025,165 123,165" />
+            <TextLine id="line_1782217860861_1313" custom="readingOrder {index:0;}">
+                <Coords points="191,180 1021,180 1021,300 191,300" /><Baseline points="191,254 1021,254" />
+                <Baseline points="989,274 584,248 213,247" />
+                <TextEquiv>
+                    <Unicode>که هر گاه صادق باشد لا شی من ب ج بالضروره البته صادق خواهد بود که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217928035_1319" custom="readingOrder {index:1;}">
+                <Coords points="185,306 1004,306 1004,418 185,418" /><Baseline points="185,375 1004,375" />
+                <Baseline points="992,384 195,355" />
+                <TextEquiv>
+                    <Unicode>لا شی من ج ب بالضروره و الا صادق خواهد بود نقیضش یعنی بعض ج ب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217987122_1325" custom="readingOrder {index:2;}">
+                <Coords points="183,423 994,423 994,550 183,550" /><Baseline points="183,502 994,502" />
+                <Baseline points="985,517 198,470" />
+                <TextEquiv>
+                    <Unicode>بالامکان العام و این قضیه را ضم میکنیم باصل تا لازم آید سلب شی از</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782218047046_1331" custom="readingOrder {index:3;}">
+                <Coords points="175,550 996,550 996,681 175,681" /><Baseline points="175,631 996,631" />
+                <Baseline points="988,629 186,604" />
+                <TextEquiv>
+                    <Unicode>نفس یا عکس میکنیم تا لازم آید صدق نقیض اصل با اصل والله اعلم وله لانه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782218201115_1337" custom="readingOrder {index:4;}">
+                <Coords points="166,681 1006,681 1006,794 166,794" /><Baseline points="166,751 1006,751" />
+                <Baseline points="985,760 176,707" />
+                <TextEquiv>
+                    <Unicode>یکذب فی مثالنا هذا کل ساکن کاتب بالفعل اه مخفی نماند که چون در مثال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782218270455_1346" custom="readingOrder {index:5;}">
+                <Coords points="154,781 985,781 985,907 154,907" /><Baseline points="154,859 985,859" />
+                <Baseline points="975,884 176,827" />
+                <TextEquiv>
+                    <Unicode>مذکور مراد از محمول ساکن الاصابع است و ارض ساکن بمعنی غیر متحرک از</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782218346889_1352" custom="readingOrder {index:6;}">
+                <Coords points="156,914 985,914 985,1027 156,1027" /><Baseline points="156,984 985,984" />
+                <Baseline points="971,1003 173,957" />
+                <TextEquiv>
+                    <Unicode>مکان است پس بحسب ظاهر ماده نقص نمیشود از برای کل ساکن له لا صابع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782218469526_1358" custom="readingOrder {index:7;}">
+                <Coords points="159,1031 1000,1031 1000,1153 159,1153" /><Baseline points="159,1107 1000,1107" />
+                <Baseline points="972,1128 179,1080" />
+                <TextEquiv>
+                    <Unicode>کاتب بالفعل پس اگر لا شی من الماشی بساکن مادام ماشیا لادایما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782218509567_1364" custom="readingOrder {index:8;}">
+                <Coords points="150,1156 972,1156 972,1273 150,1273" /><Baseline points="150,1229 972,1229" />
+                <Baseline points="962,1251 154,1190" />
+                <TextEquiv>
+                    <Unicode>در مثال آورده شود بهتر است زیرا که درین وقت صادق نیامدن موجبه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782218557884_1371" custom="readingOrder {index:9;}">
+                <Coords points="151,1281 989,1281 989,1406 151,1406" /><Baseline points="151,1358 989,1358" />
+                <Baseline points="964,1376 164,1321" />
+                <TextEquiv>
+                    <Unicode>کلی در عکس لادوام ظاهر است بواسطه آنکه اگر موجبه کلی صادق باشد چنین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782218605286_1377" custom="readingOrder {index:10;}">
+                <Coords points="144,1410 968,1410 968,1523 144,1523" /><Baseline points="144,1480 968,1480" />
+                <Baseline points="959,1489 157,1436" />
+                <TextEquiv>
+                    <Unicode>میشود عکس این قضیه که لا شی من الساکن بماش مادام ساکنا لادایما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782218640791_1383" custom="readingOrder {index:11;}">
+                <Coords points="134,1519 967,1519 967,1644 134,1644" /><Baseline points="134,1596 967,1596" />
+                <Baseline points="954,1613 160,1565" />
+                <TextEquiv>
+                    <Unicode>یعنی کل ساکن ماش بالفعل و این کاذب است زیرا که ارض ساکن است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که هر گاه صادق باشد لا شی من ب ج بالضروره البته صادق خواهد بود که
+لا شی من ج ب بالضروره و الا صادق خواهد بود نقیضش یعنی بعض ج ب
+بالامکان العام و این قضیه را ضم میکنیم باصل تا لازم آید سلب شی از
+نفس یا عکس میکنیم تا لازم آید صدق نقیض اصل با اصل والله اعلم وله لانه
+یکذب فی مثالنا هذا کل ساکن کاتب بالفعل اه مخفی نماند که چون در مثال
+مذکور مراد از محمول ساکن الاصابع است و ارض ساکن بمعنی غیر متحرک از
+مکان است پس بحسب ظاهر ماده نقص نمیشود از برای کل ساکن له لا صابع
+کاتب بالفعل پس اگر لا شی من الماشی بساکن مادام ماشیا لادایما
+در مثال آورده شود بهتر است زیرا که درین وقت صادق نیامدن موجبه
+کلی در عکس لادوام ظاهر است بواسطه آنکه اگر موجبه کلی صادق باشد چنین
+میشود عکس این قضیه که لا شی من الساکن بماش مادام ساکنا لادایما
+یعنی کل ساکن ماش بالفعل و این کاذب است زیرا که ارض ساکن است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

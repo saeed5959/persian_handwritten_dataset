@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:30.671-07:00</Created>
+        <LastChange>2026-06-21T02:49:18.100-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0064_NLAI-5-15801-0064.jpg" imageWidth="1089" imageHeight="1779">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782035358146" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782032777805_1049" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782032777805_1049" custom="readingOrder {index:0;}">
+            <Coords points="968,164 101,164 101,1614 968,1614" />
+            <TextLine id="line_1782032804694_1052" custom="readingOrder {index:0;}">
+                <Coords points="129,160 951,160 951,266 129,266" /><Baseline points="129,226 951,226" />
+                <Baseline points="924,236 138,224" />
+                <TextEquiv>
+                    <Unicode>کما لایخفی اما بعد از اعتبار قید حیثیت هیچیک در تحت دیگری داخل نمیشود مثلا هرگاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032815663_1055" custom="readingOrder {index:1;}">
+                <Coords points="119,256 939,256 939,399 119,399" /><Baseline points="119,345 939,345" />
+                <Baseline points="929,355 143,347" />
+                <TextEquiv>
+                    <Unicode>از لفظ افتاب مجموع جرم وضو خواسته شود دلالت بهر یک از جرم وضو ازین حیثیت است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032830615_1058" custom="readingOrder {index:2;}">
+                <Coords points="119,383 949,383 949,520 119,520" /><Baseline points="119,468 949,468" />
+                <Baseline points="921,477 127,483" />
+                <TextEquiv>
+                    <Unicode>که جز موضوع له لفظ است نه ازین حیثیت که تمام موضوع له است و نه ازین حیثیت که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032842271_1061" custom="readingOrder {index:3;}">
+                <Coords points="117,531 931,531 931,656 117,656" /><Baseline points="117,608 931,608" />
+                <Baseline points="924,596 138,591" />
+                <TextEquiv>
+                    <Unicode>خارج لازم موضوع له است و هم چنین هرگاه یکی از جرم وضو خواسته شود دلالت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032861661_1064" custom="readingOrder {index:4;}">
+                <Coords points="124,631 931,631 931,770 124,770" /><Baseline points="124,717 931,717" />
+                <Baseline points="920,719 135,712" />
+                <TextEquiv>
+                    <Unicode>مطابقه است بواسطه انکه دلالت لفظ است بر تمام موضوع له ازین حیثیت که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032888393_1067" custom="readingOrder {index:5;}">
+                <Coords points="122,757 921,757 921,891 122,891" /><Baseline points="122,840 921,840" />
+                <Baseline points="914,832 129,831" />
+                <TextEquiv>
+                    <Unicode>تمام موضوع له او است و تضمن و التزام نیست دیگر بدانکه درینمقام بحثی دیگر کرده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032901142_1070" custom="readingOrder {index:6;}">
+                <Coords points="125,867 934,867 934,990 125,990" /><Baseline points="125,943 934,943" />
+                <Baseline points="929,960 134,954" />
+                <TextEquiv>
+                    <Unicode>اند که ذکرش از برای تقویت فکر مبتدی مناسب است و ان این است که هرگاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032923579_1073" custom="readingOrder {index:7;}">
+                <Coords points="115,977 947,977 947,1142 115,1142" /><Baseline points="115,1079 947,1079" />
+                <Baseline points="932,1079 137,1083" />
+                <TextEquiv>
+                    <Unicode>لفظ شمس موضوعباشد از برای مجموع جرم وضو که ملزوم و لازم است پس در هنگامیکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032939657_1076" custom="readingOrder {index:8;}">
+                <Coords points="948,1132 127,1132 127,1235 948,1235" /><Baseline points="127,1196 948,1196" />
+                <Baseline points="926,1205 143,1211" />
+                <TextEquiv>
+                    <Unicode>انلفظرا در مجموع استعمال کنند بر ضو دو دلالت دارد یکی باعتبار انکه جز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032956047_1079" custom="readingOrder {index:9;}">
+                <Coords points="948,1261 118,1261 118,1398 948,1398" /><Baseline points="118,1346 948,1346" />
+                <Baseline points="935,1323 129,1341" />
+                <TextEquiv>
+                    <Unicode>موضوع له است و این تضمنست و دیگری باعتبار اینکه لازم جرم است و این</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782032980655_1082" custom="readingOrder {index:10;}">
+                <Coords points="948,1375 117,1375 117,1506 948,1506" /><Baseline points="117,1456 948,1456" />
+                <Baseline points="937,1446 126,1451" />
+                <TextEquiv>
+                    <Unicode>دلالت ثانی در تحت هیچیک از اقسام ثلثه نیست اما مطابقه خود ظاهر است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033020513_1085" custom="readingOrder {index:11;}">
+                <Coords points="117,1488 942,1488 942,1608 117,1608" /><Baseline points="117,1562 942,1562" />
+                <Baseline points="935,1562 129,1556" />
+                <TextEquiv>
+                    <Unicode>اما تضمن بواسطه انکه دلالت بر جز ازین حیثیت که جز است بر آن صادق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کما لایخفی اما بعد از اعتبار قید حیثیت هیچیک در تحت دیگری داخل نمیشود مثلا هرگاه
+از لفظ افتاب مجموع جرم وضو خواسته شود دلالت بهر یک از جرم وضو ازین حیثیت است
+که جز موضوع له لفظ است نه ازین حیثیت که تمام موضوع له است و نه ازین حیثیت که
+خارج لازم موضوع له است و هم چنین هرگاه یکی از جرم وضو خواسته شود دلالت
+مطابقه است بواسطه انکه دلالت لفظ است بر تمام موضوع له ازین حیثیت که
+تمام موضوع له او است و تضمن و التزام نیست دیگر بدانکه درینمقام بحثی دیگر کرده
+اند که ذکرش از برای تقویت فکر مبتدی مناسب است و ان این است که هرگاه
+لفظ شمس موضوعباشد از برای مجموع جرم وضو که ملزوم و لازم است پس در هنگامیکه
+انلفظرا در مجموع استعمال کنند بر ضو دو دلالت دارد یکی باعتبار انکه جز
+موضوع له است و این تضمنست و دیگری باعتبار اینکه لازم جرم است و این
+دلالت ثانی در تحت هیچیک از اقسام ثلثه نیست اما مطابقه خود ظاهر است
+اما تضمن بواسطه انکه دلالت بر جز ازین حیثیت که جز است بر آن صادق</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

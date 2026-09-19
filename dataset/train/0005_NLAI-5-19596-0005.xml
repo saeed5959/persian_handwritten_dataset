@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:15.756+03:30</Created>
+        <LastChange>2026-06-18T14:48:18.335+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0005_NLAI-5-19596-0005.jpg" imageWidth="1580" imageHeight="2816">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781781498374" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781335582426_150" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781335582426_150" custom="readingOrder {index:0;}">
+            <Coords points="498,495 1481,495 1481,2604 498,2604" />
+            <TextLine id="line_1781335595635_153" custom="readingOrder {index:0;}">
+                <Coords points="529,504 1471,504 1471,638 529,638" /><Baseline points="529,587 1471,587" />
+                <Baseline points="569,567 1453,581" />
+                <TextEquiv>
+                    <Unicode>و جواهر منظوم صلوات بی نهایات و زواهر منثور تحیات بی منتهی و غایات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781336503653_178" custom="readingOrder {index:1;}">
+                <Coords points="526,640 1467,640 1467,782 526,782" /><Baseline points="526,728 1467,728" />
+                <Baseline points="592,718 1450,711" />
+                <TextEquiv>
+                    <Unicode>نثار روح پر فتوح و صدر مشروح زبان آوری که ندای جان فزای انا افصح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781336531181_184" custom="readingOrder {index:2;}">
+                <Coords points="526,791 1450,791 1450,914 526,914" /><Baseline points="526,867 1450,867" />
+                <Baseline points="638,852 1459,836" />
+                <TextEquiv>
+                    <Unicode>العرب و العجم بمسامع مجامع سکنه خضرا و مفره مظلمه غبرا عالمیان و آدمیان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781336674148_191" custom="readingOrder {index:3;}">
+                <Coords points="514,928 1465,928 1465,1051 514,1051" /><Baseline points="514,1004 1465,1004" />
+                <Baseline points="547,980 1460,980" />
+                <TextEquiv>
+                    <Unicode>رسانید و از شمیم نسیم روح پرور ان روح القدس نفث فی روعی بمشام جان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781336734931_197" custom="readingOrder {index:4;}">
+                <Coords points="524,1061 1462,1061 1462,1182 524,1182" /><Baseline points="524,1136 1462,1136" />
+                <Baseline points="587,1143 1449,1133" />
+                <TextEquiv>
+                    <Unicode>زنده دلان هر دو جهان را معطر و مروح گردانید و سرزلف عروسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781336788355_203" custom="readingOrder {index:5;}">
+                <Coords points="518,1190 1467,1190 1467,1325 518,1325" /><Baseline points="518,1274 1467,1274" />
+                <Baseline points="547,1273 1454,1276" />
+                <TextEquiv>
+                    <Unicode>سخن را بدست یاری الا انی اوتیت القرآن و مثله معه حسن بیان او پیراست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781336858146_209" custom="readingOrder {index:6;}">
+                <Coords points="523,1319 1470,1319 1470,1466 523,1466" /><Baseline points="523,1410 1470,1410" />
+                <Baseline points="545,1417 1455,1419" />
+                <TextEquiv>
+                    <Unicode>و گردن و گوش دل ها به درر فواید جانفزای و غرر فراید معجز نمای اوتیت بجوامع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781336993089_215" custom="readingOrder {index:7;}">
+                <Coords points="517,1477 1470,1477 1470,1606 517,1606" /><Baseline points="517,1557 1470,1557" />
+                <Baseline points="559,1572 1451,1566" />
+                <TextEquiv>
+                    <Unicode>الکلم لفظ گهربار او آراست اعنی جناب رسالت مآب خواجه کشورگشای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781337170816_223" custom="readingOrder {index:8;}">
+                <Coords points="515,1614 1467,1614 1467,1778 515,1778" /><Baseline points="515,1716 1467,1716" />
+                <Baseline points="533,1699 1464,1706" />
+                <TextEquiv>
+                    <Unicode>دانایی و دیباچه دفتر سخن صادق برهان ص و القرآن ذی الذکر صاحب دیوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781337302440_229" custom="readingOrder {index:9;}">
+                <Coords points="515,1785 1474,1785 1474,1905 515,1905" /><Baseline points="515,1859 1474,1859" />
+                <Baseline points="524,1847 1455,1844" />
+                <TextEquiv>
+                    <Unicode>و ما علمناه الشعر و ماینغی له و صدر جریده انبیا بیت القصیده اصفیا محمد مصطفی صلی الله علیه و آله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781337614101_241" custom="readingOrder {index:10;}">
+                <Coords points="1035,1918 1473,1918 1473,2056 1035,2056" /><Baseline points="1035,2004 1473,2004" />
+                <Baseline points="1060,1994 1452,1997" />
+                <TextEquiv>
+                    <Unicode>چشم و چراغ جمع رسل هادی سبل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781337581917_235" custom="readingOrder {index:11;}">
+                <Coords points="515,1920 962,1920 962,2038 515,2038" /><Baseline points="515,1993 962,1993" />
+                <Baseline points="539,2004 955,1995" />
+                <TextEquiv>
+                    <Unicode>سلطان چار بالش ایوان اصفیا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781781415850_1290" custom="readingOrder {index:12;}">
+                <Coords points="1029,2073 1469,2073 1469,2171 1029,2171" /><Baseline points="1029,2134 1469,2134" />
+                <Baseline points="1052,2124 1457,2126" />
+                <TextEquiv>
+                    <Unicode>گنجینه حقایق اسرار کاینات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781781396654_1284" custom="readingOrder {index:13;}">
+                <Coords points="521,2067 950,2067 950,2166 521,2166" /><Baseline points="521,2128 950,2128" />
+                <Baseline points="548,2127 935,2123" />
+                <TextEquiv>
+                    <Unicode>مجموعه مکارم اخلاق انبیا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781337757537_271" custom="readingOrder {index:14;}">
+                <Coords points="1038,2175 1474,2175 1474,2308 1038,2308" /><Baseline points="1038,2257 1474,2257" />
+                <Baseline points="1062,2239 1452,2245" />
+                <TextEquiv>
+                    <Unicode>دستش محیط جود و دمش کیمیای علم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781337728725_265" custom="readingOrder {index:15;}">
+                <Coords points="526,2179 962,2179 962,2307 526,2307" /><Baseline points="526,2258 962,2258" />
+                <Baseline points="557,2245 937,2252" />
+                <TextEquiv>
+                    <Unicode>نطقش مکان صدق و دلش معدن صفا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781338314679_277" custom="readingOrder {index:16;}">
+                <Coords points="513,2345 1468,2345 1468,2473 513,2473" /><Baseline points="513,2424 1468,2424" />
+                <Baseline points="526,2406 1455,2406" />
+                <TextEquiv>
+                    <Unicode>و درود بی کران و تحیات بی پایان بر ارواح طیبه و اشباح طاهره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781338345742_284" custom="readingOrder {index:17;}">
+                <Coords points="556,2489 1468,2489 1468,2582 556,2582" /><Baseline points="556,2547 1468,2547" />
+                <Baseline points="584,2545 1460,2536" />
+                <TextEquiv>
+                    <Unicode>و جماهیر آل و اصحاب و مشاهیر رجال و احباب او باد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و جواهر منظوم صلوات بی نهایات و زواهر منثور تحیات بی منتهی و غایات
+نثار روح پر فتوح و صدر مشروح زبان آوری که ندای جان فزای انا افصح
+العرب و العجم بمسامع مجامع سکنه خضرا و مفره مظلمه غبرا عالمیان و آدمیان
+رسانید و از شمیم نسیم روح پرور ان روح القدس نفث فی روعی بمشام جان
+زنده دلان هر دو جهان را معطر و مروح گردانید و سرزلف عروسان
+سخن را بدست یاری الا انی اوتیت القرآن و مثله معه حسن بیان او پیراست
+و گردن و گوش دل ها به درر فواید جانفزای و غرر فراید معجز نمای اوتیت بجوامع
+الکلم لفظ گهربار او آراست اعنی جناب رسالت مآب خواجه کشورگشای
+دانایی و دیباچه دفتر سخن صادق برهان ص و القرآن ذی الذکر صاحب دیوان
+و ما علمناه الشعر و ماینغی له و صدر جریده انبیا بیت القصیده اصفیا محمد مصطفی صلی الله علیه و آله
+چشم و چراغ جمع رسل هادی سبل
+سلطان چار بالش ایوان اصفیا
+گنجینه حقایق اسرار کاینات
+مجموعه مکارم اخلاق انبیا
+دستش محیط جود و دمش کیمیای علم
+نطقش مکان صدق و دلش معدن صفا
+و درود بی کران و تحیات بی پایان بر ارواح طیبه و اشباح طاهره
+و جماهیر آل و اصحاب و مشاهیر رجال و احباب او باد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

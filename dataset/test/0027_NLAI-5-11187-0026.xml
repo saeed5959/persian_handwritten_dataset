@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:44.650+03:30</Created>
+        <LastChange>2026-06-21T20:27:30.306+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0027_NLAI-5-11187-0026.jpg" imageWidth="812" imageHeight="1461">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782061050369" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782059923546_944" />
+                <RegionRefIndexed index="1" regionRef="region_1782060037051_959" />
+                <RegionRefIndexed index="2" regionRef="region_1782060256882_982" />
+                <RegionRefIndexed index="3" regionRef="region_1782060349729_995" />
+                <RegionRefIndexed index="4" regionRef="region_1782060634701_1035" />
+                <RegionRefIndexed index="5" regionRef="region_1782060708644_1046" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782059923546_944" custom="readingOrder {index:0;}">
+            <Coords points="189,372 431,372 431,510 187,505" />
+            <TextLine id="line_1782059940970_949" custom="readingOrder {index:0;}">
+                <Coords points="188,373 432,373 432,436 188,436" /><Baseline points="188,412 432,412" />
+                <TextEquiv>
+                    <Unicode>جهد المقل کثیر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782059969439_953" custom="readingOrder {index:1;}">
+                <Coords points="188,435 430,435 431,508 187,506" /><Baseline points="187,480 431,480" />
+                <TextEquiv>
+                    <Unicode>کوشش تنگدست بسیار است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جهد المقل کثیر
+کوشش تنگدست بسیار است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782060037051_959" custom="readingOrder {index:1;}">
+            <Coords points="64,505 544,512 541,683 64,684" />
+            <TextLine id="line_1782060114027_972" custom="readingOrder {index:0;}">
+                <Coords points="65,506 540,506 540,601 65,601" /><Baseline points="65,565 540,565" />
+                <TextEquiv>
+                    <Unicode>چاره نبود فقیر از جهد وز تکاپویی حصول فرج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060167281_976" custom="readingOrder {index:1;}">
+                <Coords points="65,601 539,602 539,682 65,681" /><Baseline points="65,651 539,651" />
+                <TextEquiv>
+                    <Unicode>جرح سعیش مکن که مفلس را جهد لازم بود بر او چه حرج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چاره نبود فقیر از جهد وز تکاپویی حصول فرج
+جرح سعیش مکن که مفلس را جهد لازم بود بر او چه حرج</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782060256882_982" custom="readingOrder {index:2;}">
+            <Coords points="187,681 428,681 428,841 187,841" />
+            <TextLine id="line_1782060262289_985" custom="readingOrder {index:0;}">
+                <Coords points="187,684 430,683 427,771 186,771" /><Baseline points="186,738 430,738" />
+                <TextEquiv>
+                    <Unicode>جلیس المر مثله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060296805_989" custom="readingOrder {index:1;}">
+                <Coords points="187,769 426,769 426,839 187,839" /><Baseline points="187,812 426,812" />
+                <TextEquiv>
+                    <Unicode>همنشین مرد مانند اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جلیس المر مثله
+همنشین مرد مانند اوست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782060349729_995" custom="readingOrder {index:3;}">
+            <Coords points="61,838 537,838 537,1012 61,1012" />
+            <TextLine id="line_1782060418621_1014" custom="readingOrder {index:0;}">
+                <Coords points="61,839 537,839 537,928 61,928" /><Baseline points="61,894 537,894" />
+                <TextEquiv>
+                    <Unicode>جنس را چون ز صبحست اثر مرد را با جلیس او می سنج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060494473_1018" custom="readingOrder {index:1;}">
+                <Coords points="65,927 535,930 533,1012 63,1009" /><Baseline points="63,980 535,980" />
+                <TextEquiv>
+                    <Unicode>جنگ خیزد زجاهلان و بود صحبت عاقلان بهم چون گنج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جنس را چون ز صبحست اثر مرد را با جلیس او می سنج
+جنگ خیزد زجاهلان و بود صحبت عاقلان بهم چون گنج</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782060634701_1035" custom="readingOrder {index:4;}">
+            <Coords points="187,1012 425,1012 425,1163 187,1163" />
+            <TextLine id="line_1782060640311_1038" custom="readingOrder {index:0;}">
+                <Coords points="189,1014 425,1014 425,1086 189,1086" /><Baseline points="189,1059 425,1059" />
+                <TextEquiv>
+                    <Unicode>حسن الخلق عنیمه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060668985_1042" custom="readingOrder {index:1;}">
+                <Coords points="188,1085 425,1087 420,1162 187,1161" /><Baseline points="187,1133 425,1133" />
+                <TextEquiv>
+                    <Unicode>نیکویی غنیمتی باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حسن الخلق عنیمه
+نیکویی غنیمتی باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782060708644_1046" custom="readingOrder {index:5;}">
+            <Coords points="56,1163 535,1163 535,1327 56,1327" />
+            <TextLine id="line_1782060763977_1058" custom="readingOrder {index:0;}">
+                <Coords points="58,1164 533,1164 533,1246 58,1246" /><Baseline points="58,1215 533,1215" />
+                <TextEquiv>
+                    <Unicode>حسن خلق از خدا همی دادت باش شاد و شاکربآن صباح و رواح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782060892690_1062" custom="readingOrder {index:1;}">
+                <Coords points="58,1245 535,1245 535,1325 58,1325" /><Baseline points="58,1295 535,1295" />
+                <TextEquiv>
+                    <Unicode>حاجتت بر غنیمتی نبود حسن خلقت غنیمتی است مباح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حسن خلق از خدا همی دادت باش شاد و شاکربآن صباح و رواح
+حاجتت بر غنیمتی نبود حسن خلقت غنیمتی است مباح</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-23T17:15:22.603+04:30</Created>
+        <LastChange>2026-06-23T17:32:49.586+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0142_NLAI-5-15801-0142.jpg" imageWidth="1089" imageHeight="1794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782219769587" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782218746945_1392" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782218746945_1392" custom="readingOrder {index:0;}">
+            <Coords points="42,133 932,133 932,1757 42,1757" />
+            <TextLine id="line_1782218773519_1395" custom="readingOrder {index:0;}">
+                <Coords points="49,136 908,136 908,315 49,315" /><Baseline points="49,247 908,247" />
+                <Baseline points="899,259 63,256" />
+                <TextEquiv>
+                    <Unicode>و ماشی نیست دایما وله وفیه تامل اذ لیس انعکاس المجموع الی المجموع اه این بحث در کتبهای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782219026017_1402" custom="readingOrder {index:1;}">
+                <Coords points="75,326 910,326 910,418 75,418" /><Baseline points="75,383 910,383" />
+                <Baseline points="897,367 97,374" />
+                <TextEquiv>
+                    <Unicode>دیگر از منطق مذکور است و جواب میتوان گفت از بحث باین طریق که انعکاس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782219088280_1408" custom="readingOrder {index:2;}">
+                <Coords points="81,448 908,448 908,539 81,539" /><Baseline points="81,504 908,504" />
+                <Baseline points="892,493 91,503" />
+                <TextEquiv>
+                    <Unicode>مجموع منوط است بانعکاس اجزا باین معنی که منعکس شدن هر قضیه در</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782219148346_1414" custom="readingOrder {index:3;}">
+                <Coords points="85,554 907,554 907,658 85,658" /><Baseline points="85,618 907,618" />
+                <Baseline points="897,611 433,620 98,616" />
+                <TextEquiv>
+                    <Unicode>حالت جز بودن فرع انعکاس آن قضیه است در حالت جز نبودن عکس ندارد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782219200571_1420" custom="readingOrder {index:4;}">
+                <Coords points="78,670 911,670 911,781 78,781" /><Baseline points="78,739 911,739" />
+                <Baseline points="901,743 87,737" />
+                <TextEquiv>
+                    <Unicode>اگر جز قضیه هم شود و اگر عکس در حالت افراد حق نیست البته در حالت جز بودن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782219271806_1426" custom="readingOrder {index:5;}">
+                <Coords points="84,788 919,788 919,906 84,906" /><Baseline points="84,861 919,861" />
+                <Baseline points="908,858 96,864" />
+                <TextEquiv>
+                    <Unicode>هم حق نیست مثلا بعض الحیوان لیس بانسان هم چنانکه در وقت افراد عکسش حق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782219378805_1432" custom="readingOrder {index:6;}">
+                <Coords points="80,905 916,905 916,1040 80,1040" /><Baseline points="80,989 916,989" />
+                <Baseline points="905,974 462,996 95,996" />
+                <TextEquiv>
+                    <Unicode>نیست اگر جز قضیه شود نیز عکسش حق نخواهد بود و هم چنین کل ماش انسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782219437072_1438" custom="readingOrder {index:7;}">
+                <Coords points="84,1043 918,1043 918,1158 84,1158" /><Baseline points="84,1114 918,1114" />
+                <Baseline points="902,1109 94,1122" />
+                <TextEquiv>
+                    <Unicode>همچنانکه در عکس کل انسان ماش حق نیست هر گاه جز قضیه شود نیز حق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782219486744_1446" custom="readingOrder {index:8;}">
+                <Coords points="89,1170 916,1170 916,1280 89,1280" /><Baseline points="89,1238 916,1238" />
+                <Baseline points="907,1221 102,1237" />
+                <TextEquiv>
+                    <Unicode>نیست پس حاصل سیری که مص و غیر او ذکر کرده اند این است که دوام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782219545521_1450" custom="readingOrder {index:9;}">
+                <Coords points="92,1295 920,1295 920,1405 92,1405" /><Baseline points="92,1363 920,1363" />
+                <Baseline points="913,1354 107,1357" />
+                <TextEquiv>
+                    <Unicode>اصل چون اشاره بموجبه کلی است و موجبه کلی کلیه منعکس بموجبه کلی نمیشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782219607584_1456" custom="readingOrder {index:10;}">
+                <Coords points="93,1412 928,1412 928,1526 93,1526" /><Baseline points="93,1483 928,1483" />
+                <Baseline points="919,1466 101,1480" />
+                <TextEquiv>
+                    <Unicode>پس گاه باشد که لادوام اصل از قسم موجبه کلی باشد که عکسش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782219679362_1464" custom="readingOrder {index:11;}">
+                <Coords points="95,1535 928,1535 928,1651 95,1651" /><Baseline points="95,1607 928,1607" />
+                <Baseline points="919,1587 113,1603" />
+                <TextEquiv>
+                    <Unicode>موجبه جزییه حق است نه موجبه کلیه لهذا عکس لادوام اصل را جزییه اعتبار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و ماشی نیست دایما وله وفیه تامل اذ لیس انعکاس المجموع الی المجموع اه این بحث در کتبهای
+دیگر از منطق مذکور است و جواب میتوان گفت از بحث باین طریق که انعکاس
+مجموع منوط است بانعکاس اجزا باین معنی که منعکس شدن هر قضیه در
+حالت جز بودن فرع انعکاس آن قضیه است در حالت جز نبودن عکس ندارد
+اگر جز قضیه هم شود و اگر عکس در حالت افراد حق نیست البته در حالت جز بودن
+هم حق نیست مثلا بعض الحیوان لیس بانسان هم چنانکه در وقت افراد عکسش حق
+نیست اگر جز قضیه شود نیز عکسش حق نخواهد بود و هم چنین کل ماش انسان
+همچنانکه در عکس کل انسان ماش حق نیست هر گاه جز قضیه شود نیز حق
+نیست پس حاصل سیری که مص و غیر او ذکر کرده اند این است که دوام
+اصل چون اشاره بموجبه کلی است و موجبه کلی کلیه منعکس بموجبه کلی نمیشود
+پس گاه باشد که لادوام اصل از قسم موجبه کلی باشد که عکسش
+موجبه جزییه حق است نه موجبه کلیه لهذا عکس لادوام اصل را جزییه اعتبار</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T15:16:02.732+04:30</Created>
+        <LastChange>2026-06-18T20:01:29.518+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0131_NLAI-5-15801-0131.jpg" imageWidth="1116" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781796689519" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781792214729_283" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781792214729_283" custom="readingOrder {index:0;}">
+            <Coords points="99,1612 1055,1612 1055,154 99,154" />
+            <TextLine id="line_1781792249144_286" custom="readingOrder {index:0;}">
+                <Coords points="191,160 1041,160 1041,286 191,286" /><Baseline points="191,238 1041,238" />
+                <Baseline points="1010,251 589,232 205,223" />
+                <TextEquiv>
+                    <Unicode>یکی سلب ضرورت بشرط وصف یا نقیض مشروطه بشرط وصف باشد و دیگری</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781793363087_298" custom="readingOrder {index:1;}">
+                <Coords points="189,292 1029,292 1029,397 189,397" /><Baseline points="189,357 1029,357" />
+                <Baseline points="1006,355 549,353 204,330" />
+                <TextEquiv>
+                    <Unicode>سلب ضرورت در حین وصف با نقیض مشروطه مادام الوصف باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781794797328_304" custom="readingOrder {index:2;}">
+                <Coords points="177,400 1005,400 1005,517 177,517" /><Baseline points="177,473 1005,473" />
+                <Baseline points="986,485 546,483 171,443" />
+                <TextEquiv>
+                    <Unicode>وله اذ لا یتعلق بذالک غرض فیما سیاتی اه مخفی نیست ناخوشی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781795019373_319" custom="readingOrder {index:3;}">
+                <Coords points="176,524 998,524 998,646 176,646" /><Baseline points="176,600 998,600" />
+                <Baseline points="987,622 180,575" />
+                <TextEquiv>
+                    <Unicode>این نکته زیرا که غرض متعلق نبودن نقیض وقتیه مطلقه و منتشره مطلقه در مباحث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781795192418_325" custom="readingOrder {index:4;}">
+                <Coords points="167,652 1006,652 1006,773 167,773" /><Baseline points="167,727 1006,727" />
+                <Baseline points="982,743 514,718 155,683" />
+                <TextEquiv>
+                    <Unicode>قیاس وعکس پس بایستی که این دو قضیه را داخل در قضایای معتبره نشمارند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781795327984_331" custom="readingOrder {index:5;}">
+                <Coords points="152,779 1003,779 1003,888 152,888" /><Baseline points="152,847 1003,847" />
+                <Baseline points="978,873 147,793" />
+                <TextEquiv>
+                    <Unicode>زیرا که قضایای معتبره را واجب است بیان نقیض وعکس کردن تا در دلایل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781795391590_337" custom="readingOrder {index:6;}">
+                <Coords points="146,871 983,871 983,1010 146,1010" /><Baseline points="146,957 983,957" />
+                <Baseline points="968,997 158,920" />
+                <TextEquiv>
+                    <Unicode>آن قضایا را توان کرد بکار برد و هم چنین بنابرین بایستی که مصنف بیان عکس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781795564559_343" custom="readingOrder {index:7;}">
+                <Coords points="138,1018 978,1018 978,1132 138,1132" /><Baseline points="138,1089 978,1089" />
+                <Baseline points="957,1109 140,1055" />
+                <TextEquiv>
+                    <Unicode>مرکب از این دو قضیه را نکند و حال آنکه عکس وقتیه منتشره را بیان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781795641136_349" custom="readingOrder {index:8;}">
+                <Coords points="132,1120 974,1120 974,1257 132,1257" /><Baseline points="132,1205 974,1205" />
+                <Baseline points="961,1226 140,1164" />
+                <TextEquiv>
+                    <Unicode>خواهد کرد بعد ازین و ممکن است که چنین گفته شود نکته که چون مصنف نقیض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781795715122_355" custom="readingOrder {index:9;}">
+                <Coords points="143,1237 962,1237 962,1388 143,1388" /><Baseline points="143,1331 962,1331" />
+                <Baseline points="951,1357 152,1296" />
+                <TextEquiv>
+                    <Unicode>ضروریه و مشروطه را بیان کرد و فهمیده شد که هر جا حکم بضرورت شده باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781796428390_363" custom="readingOrder {index:10;}">
+                <Coords points="131,1372 965,1372 965,1497 131,1497" /><Baseline points="131,1450 965,1450" />
+                <Baseline points="947,1468 143,1409" />
+                <TextEquiv>
+                    <Unicode>نقیض را سلب ضرورت اعتبار باید کرد پس بادنی توجهی ذهن منتقل میشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781796556542_371" custom="readingOrder {index:11;}">
+                <Coords points="124,1498 968,1498 968,1611 124,1611" /><Baseline points="124,1568 968,1568" />
+                <Baseline points="940,1595 399,1565 132,1520" />
+                <TextEquiv>
+                    <Unicode>که نقیض را وقتیه مطلقه امکان در وقت معین است و نقیض منتشره مطلقه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یکی سلب ضرورت بشرط وصف یا نقیض مشروطه بشرط وصف باشد و دیگری
+سلب ضرورت در حین وصف با نقیض مشروطه مادام الوصف باشد
+وله اذ لا یتعلق بذالک غرض فیما سیاتی اه مخفی نیست ناخوشی
+این نکته زیرا که غرض متعلق نبودن نقیض وقتیه مطلقه و منتشره مطلقه در مباحث
+قیاس وعکس پس بایستی که این دو قضیه را داخل در قضایای معتبره نشمارند
+زیرا که قضایای معتبره را واجب است بیان نقیض وعکس کردن تا در دلایل
+آن قضایا را توان کرد بکار برد و هم چنین بنابرین بایستی که مصنف بیان عکس
+مرکب از این دو قضیه را نکند و حال آنکه عکس وقتیه منتشره را بیان
+خواهد کرد بعد ازین و ممکن است که چنین گفته شود نکته که چون مصنف نقیض
+ضروریه و مشروطه را بیان کرد و فهمیده شد که هر جا حکم بضرورت شده باشد
+نقیض را سلب ضرورت اعتبار باید کرد پس بادنی توجهی ذهن منتقل میشود
+که نقیض را وقتیه مطلقه امکان در وقت معین است و نقیض منتشره مطلقه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

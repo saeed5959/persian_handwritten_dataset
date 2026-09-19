@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T11:45:55.714+03:30</Created>
+        <LastChange>2026-06-25T17:28:10.596+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0169_NLAI-5-19596-0169.jpg" imageWidth="1519" imageHeight="2740">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782395890655" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782394562832_1965" />
+                <RegionRefIndexed index="1" regionRef="region_1782395290855_2052" />
+                <RegionRefIndexed index="3" regionRef="region_1782395837308_2166" />
+                <RegionRefIndexed index="4" regionRef="region_1782394664256_1976" />
+                <RegionRefIndexed index="5" regionRef="region_1782395541201_2120" />
+                <RegionRefIndexed index="6" regionRef="region_1782394522710_1956" />
+                <RegionRefIndexed index="7" regionRef="region_1782394859701_1991" />
+                <RegionRefIndexed index="8" regionRef="region_1782395591819_2135" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782394562832_1965" custom="readingOrder {index:0;}">
+            <Coords points="434,449 861,449 861,590 434,590" />
+            <TextLine id="line_1782394566012_1968" custom="readingOrder {index:0;}">
+                <Coords points="452,451 856,451 856,593 452,593" /><Baseline points="452,539 856,539" />
+                <Baseline points="466,529 842,536" />
+                <TextEquiv>
+                    <Unicode>دوش به یک جرعه می عاقل وفرزانه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دوش به یک جرعه می عاقل وفرزانه شد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782395290855_2052" custom="readingOrder {index:1;}">
+            <Coords points="422,859 880,859 880,1985 422,1985" />
+            <TextLine id="line_1782395316083_2069" custom="readingOrder {index:0;}">
+                <Coords points="436,867 860,867 860,980 436,980" /><Baseline points="436,937 860,937" />
+                <Baseline points="449,944 850,953 847,957" />
+                <TextEquiv>
+                    <Unicode>دوستی کی آخر آمد دوست دار ان را چه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395334919_2075" custom="readingOrder {index:1;}">
+                <Coords points="426,1028 866,1028 866,1128 426,1128" /><Baseline points="426,1090 866,1090" />
+                <Baseline points="426,1094 860,1098" />
+                <TextEquiv>
+                    <Unicode>خون چکید از شاخ گل باد بهار ان را چه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395357350_2081" custom="readingOrder {index:2;}">
+                <Coords points="441,1144 860,1144 860,1295 441,1295" /><Baseline points="441,1238 860,1238" />
+                <Baseline points="450,1223 847,1235" />
+                <TextEquiv>
+                    <Unicode>حق شناسان را چه حال افتاد یاران را چه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395390604_2088" custom="readingOrder {index:3;}">
+                <Coords points="435,1313 875,1313 875,1427 435,1427" /><Baseline points="435,1384 875,1384" />
+                <Baseline points="444,1388 866,1374" />
+                <TextEquiv>
+                    <Unicode>تابش خورشید و سعی باد و باران را چه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395407616_2094" custom="readingOrder {index:4;}">
+                <Coords points="418,1445 870,1445 870,1551 418,1551" /><Baseline points="418,1511 870,1511" />
+                <Baseline points="439,1499 864,1489" />
+                <TextEquiv>
+                    <Unicode>کس به میدان در نمی آید سوار ان را چه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395435168_2100" custom="readingOrder {index:5;}">
+                <Coords points="430,1551 870,1551 870,1707 430,1707" /><Baseline points="430,1648 870,1648" />
+                <Baseline points="445,1635 875,1637" />
+                <TextEquiv>
+                    <Unicode>کس ندارد ذوق مستی می گسار ان را چه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395472922_2108" custom="readingOrder {index:6;}">
+                <Coords points="426,1721 878,1721 878,1845 426,1845" /><Baseline points="426,1798 878,1798" />
+                <Baseline points="466,1800 854,1783" />
+                <TextEquiv>
+                    <Unicode>مهربانی کی سر آمد شهریار ان را چه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395509042_2114" custom="readingOrder {index:7;}">
+                <Coords points="426,1850 873,1850 873,1987 426,1987" /><Baseline points="426,1935 873,1935" />
+                <Baseline points="448,1938 852,1934 846,1934" />
+                <TextEquiv>
+                    <Unicode>عندلیبان را چه پیش آمد هزاران را چه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دوستی کی آخر آمد دوست دار ان را چه شد
+خون چکید از شاخ گل باد بهار ان را چه شد
+حق شناسان را چه حال افتاد یاران را چه شد
+تابش خورشید و سعی باد و باران را چه شد
+کس به میدان در نمی آید سوار ان را چه شد
+کس ندارد ذوق مستی می گسار ان را چه شد
+مهربانی کی سر آمد شهریار ان را چه شد
+عندلیبان را چه پیش آمد هزاران را چه شد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782395837308_2166" custom="readingOrder {index:3;}">
+            <Coords points="435,2273 901,2273 901,2525 435,2525" />
+            <TextLine id="line_1782395854180_2178" custom="readingOrder {index:0;}">
+                <Coords points="441,2281 877,2281 877,2417 441,2417" /><Baseline points="441,2365 877,2365" />
+                <TextEquiv>
+                    <Unicode>قضای آسمان است این و دیگرگون نخواهد شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395874757_2182" custom="readingOrder {index:1;}">
+                <Coords points="429,2423 878,2423 878,2526 429,2526" /><Baseline points="429,2487 878,2487" />
+                <Baseline points="435,2478 865,2484" />
+                <TextEquiv>
+                    <Unicode>مگر آه سحرخیزان سوی گردون نخواهد شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>قضای آسمان است این و دیگرگون نخواهد شد
+مگر آه سحرخیزان سوی گردون نخواهد شد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782394664256_1976" custom="readingOrder {index:4;}">
+            <Coords points="669,591 1132,591 1132,847 669,847" />
+            <TextLine id="line_1782394667959_1979" custom="readingOrder {index:0;}">
+                <Coords points="703,595 1126,595 1126,707 703,707" /><Baseline points="703,664 1126,664" />
+                <Baseline points="737,661 1112,654" />
+                <TextEquiv>
+                    <Unicode>مجلس حافظ کنون بارگه پادشهست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782394796296_1985" custom="readingOrder {index:1;}">
+                <Coords points="699,736 1126,736 1126,852 699,852" /><Baseline points="699,808 1126,808" />
+                <Baseline points="750,801 1114,798" />
+                <TextEquiv>
+                    <Unicode>دل بردلدار رفت جان بر جانانه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مجلس حافظ کنون بارگه پادشهست
+دل بردلدار رفت جان بر جانانه شد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782395541201_2120" custom="readingOrder {index:5;}">
+            <Coords points="707,1988 1137,1988 1137,2270 707,2270" />
+            <TextLine id="line_1782395550288_2123" custom="readingOrder {index:0;}">
+                <Coords points="709,1999 1146,1999 1146,2134 709,2134" /><Baseline points="709,2083 1146,2083" />
+                <Baseline points="722,2083 1134,2066" />
+                <TextEquiv>
+                    <Unicode>حافظ اسرار الهی کس نمی داند خموش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395570020_2129" custom="readingOrder {index:1;}">
+                <Coords points="714,2152 1131,2152 1131,2275 714,2275" /><Baseline points="714,2228 1131,2228" />
+                <Baseline points="734,2212 1108,2205" />
+                <TextEquiv>
+                    <Unicode>از که می پرسی که دور روزگار ان را چه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ اسرار الهی کس نمی داند خموش
+از که می پرسی که دور روزگار ان را چه شد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782394522710_1956" custom="readingOrder {index:6;}">
+            <Coords points="914,438 1399,438 1399,582 914,582" />
+            <TextLine id="line_1782394526707_1959" custom="readingOrder {index:0;}">
+                <Coords points="928,443 1392,443 1392,583 928,583" /><Baseline points="928,530 1392,530" />
+                <Baseline points="963,528 1362,530" />
+                <TextEquiv>
+                    <Unicode>صوفی مجلس که دی جام وقدح می شکست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>صوفی مجلس که دی جام وقدح می شکست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782394859701_1991" custom="readingOrder {index:7;}">
+            <Coords points="917,862 1405,862 1405,1982 917,1982" />
+            <TextLine id="line_1782394864671_1994" custom="readingOrder {index:0;}">
+                <Coords points="936,877 1390,877 1390,987 936,987" /><Baseline points="936,945 1390,945" />
+                <Baseline points="981,941 1367,941" />
+                <TextEquiv>
+                    <Unicode>یاری اندر کس نمی بینیم یاران را چه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782394998746_2009" custom="readingOrder {index:1;}">
+                <Coords points="952,988 1395,988 1395,1127 952,1127" /><Baseline points="952,1074 1395,1074" />
+                <Baseline points="1008,1088 1365,1075" />
+                <TextEquiv>
+                    <Unicode>آب حیوان تیره گون شد خضر فرخ پی کجاست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395034017_2015" custom="readingOrder {index:2;}">
+                <Coords points="942,1151 1382,1151 1382,1264 942,1264" /><Baseline points="942,1221 1382,1221" />
+                <Baseline points="976,1235 1369,1234" />
+                <TextEquiv>
+                    <Unicode>کس نمی گوید که یاری داشت حق دوستی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395090745_2021" custom="readingOrder {index:3;}">
+                <Coords points="955,1309 1392,1309 1392,1405 955,1405" /><Baseline points="955,1369 1392,1369" />
+                <Baseline points="973,1377 1379,1351" />
+                <TextEquiv>
+                    <Unicode>لعلی از کان مروت برنیامد سال هاست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395113783_2027" custom="readingOrder {index:4;}">
+                <Coords points="966,1437 1382,1437 1382,1537 966,1537" /><Baseline points="966,1499 1382,1499" />
+                <Baseline points="962,1486 1369,1495" />
+                <TextEquiv>
+                    <Unicode>گوی توفیق و کرامت در میان افکنده اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395168037_2034" custom="readingOrder {index:5;}">
+                <Coords points="964,1568 1387,1568 1387,1694 964,1694" /><Baseline points="964,1646 1387,1646" />
+                <Baseline points="972,1645 1371,1651" />
+                <TextEquiv>
+                    <Unicode>زهره سازی خوش نمی سازد مگر عود ش بسوخت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395195434_2040" custom="readingOrder {index:6;}">
+                <Coords points="960,1722 1394,1722 1394,1856 960,1856" /><Baseline points="960,1805 1394,1805" />
+                <Baseline points="973,1790 1368,1789" />
+                <TextEquiv>
+                    <Unicode>شهر یاران بود و خاک مهر بانان این دیار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یاری اندر کس نمی بینیم یاران را چه شد
+آب حیوان تیره گون شد خضر فرخ پی کجاست
+کس نمی گوید که یاری داشت حق دوستی
+لعلی از کان مروت برنیامد سال هاست
+گوی توفیق و کرامت در میان افکنده اند
+زهره سازی خوش نمی سازد مگر عود ش بسوخت
+شهر یاران بود و خاک مهر بانان این دیار</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782395591819_2135" custom="readingOrder {index:8;}">
+            <Coords points="948,2271 1402,2271 1402,2524 948,2524" />
+            <TextLine id="line_1782395597022_2138" custom="readingOrder {index:0;}">
+                <Coords points="962,2285 1395,2285 1395,2416 962,2416" /><Baseline points="962,2366 1395,2366" />
+                <Baseline points="956,2346 1384,2354" />
+                <TextEquiv>
+                    <Unicode>مرا مهرسیه چشمان ز سر بیردن نخواهد شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782395644336_2144" custom="readingOrder {index:1;}">
+                <Coords points="945,2421 1401,2421 1401,2532 945,2532" /><Baseline points="945,2490 1401,2490" />
+                <Baseline points="955,2486 1388,2489" />
+                <TextEquiv>
+                    <Unicode>رقیب آزارها فرمود و جای آشتی نگذاشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مرا مهرسیه چشمان ز سر بیردن نخواهد شد
+رقیب آزارها فرمود و جای آشتی نگذاشت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

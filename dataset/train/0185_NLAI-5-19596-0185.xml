@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.125+04:30</Created>
+        <LastChange>2026-06-21T10:38:45.087+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="6" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0185_NLAI-5-19596-0185.jpg" imageWidth="1512" imageHeight="2766">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782022125088" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782021150592_187" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782021150592_187" custom="readingOrder {index:0;}">
+            <Coords points="433,2559 1446,2559 1446,434 433,434" />
+            <TextLine id="line_1782021160922_190" custom="readingOrder {index:0;}">
+                <Coords points="1448,566 464,566 464,423 1448,423" /><Baseline points="464,512 1448,512" />
+                <Baseline points="480,526 1429,535" />
+                <TextEquiv>
+                    <Unicode>یاد باد آنکه رخت شمع طرب می افروخت وین دل سوخته پروانه پا برجا بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021164824_193" custom="readingOrder {index:1;}">
+                <Coords points="466,561 1441,561 1441,695 466,695" /><Baseline points="466,644 1441,644" />
+                <Baseline points="488,669 1436,669" />
+                <TextEquiv>
+                    <Unicode>یاد باد آنکه در آن بزمگه خلق و ادب آن که او خنده مستانه زدی صهبا بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021168220_196" custom="readingOrder {index:2;}">
+                <Coords points="1441,696 469,696 469,843 1441,843" /><Baseline points="469,787 1441,787" />
+                <Baseline points="484,806 1427,810" />
+                <TextEquiv>
+                    <Unicode>یاد باد آنکه چو یاقوت قدح خنده زدی در میان من و لعل تو حکایتها بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021172312_199" custom="readingOrder {index:3;}">
+                <Coords points="469,836 1436,836 1436,988 469,988" /><Baseline points="469,930 1436,930" />
+                <Baseline points="505,948 1425,954" />
+                <TextEquiv>
+                    <Unicode>یاد باد آنکه چو چشمت به عتابم میکشت معجز عیسویت در لب شکرخا بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021176250_202" custom="readingOrder {index:4;}">
+                <Coords points="1436,975 460,975 460,1125 1436,1125" /><Baseline points="460,1068 1436,1068" />
+                <Baseline points="484,1093 1418,1089" />
+                <TextEquiv>
+                    <Unicode>یاد باد آنکه صبوحی زده در مجلس انس جز من و یار نبودیم و خدا با ما بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021183960_205" custom="readingOrder {index:5;}">
+                <Coords points="458,1128 1436,1128 1436,1271 458,1271" /><Baseline points="458,1217 1436,1217" />
+                <Baseline points="474,1230 1427,1237" />
+                <TextEquiv>
+                    <Unicode>یاد باد آنکه با صلاح شما میشد راست نظم هر گوهر ناسفته که حافظ را بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021190337_208" custom="readingOrder {index:6;}">
+                <Coords points="709,1401 1194,1401 1194,1283 709,1283" /><Baseline points="709,1356 1194,1356" />
+                <Baseline points="727,1371 1167,1366" />
+                <TextEquiv>
+                    <Unicode>کنونکه در چمن آمذ گل از عدم بوحود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021193302_211" custom="readingOrder {index:7;}">
+                <Coords points="1180,1404 702,1404 702,1553 1180,1553" /><Baseline points="702,1496 1180,1496" />
+                <Baseline points="723,1518 1157,1510" />
+                <TextEquiv>
+                    <Unicode>بنفشه در قدم او نهاد سر به سجود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021202902_214" custom="readingOrder {index:8;}">
+                <Coords points="1433,1695 461,1695 461,1547 1433,1547" /><Baseline points="461,1639 1433,1639" />
+                <Baseline points="472,1644 1413,1663" />
+                <TextEquiv>
+                    <Unicode>نبوش جام صبوحی به ناله دف و چنگ ببوس غبغب ساقی به نغمه نی و عود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021209833_217" custom="readingOrder {index:9;}">
+                <Coords points="1429,1693 445,1693 445,1836 1429,1836" /><Baseline points="445,1782 1429,1782" />
+                <Baseline points="480,1810 1410,1806" />
+                <TextEquiv>
+                    <Unicode>شد از خروج ریاحین چو آسمان روشن زمین باختر میمون و طالع مسعود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021213221_220" custom="readingOrder {index:10;}">
+                <Coords points="449,1831 1433,1831 1433,1987 449,1987" /><Baseline points="449,1928 1433,1928" />
+                <Baseline points="474,1927 1415,1955" />
+                <TextEquiv>
+                    <Unicode>بباغ تازه کن آیین دین زردشتی کنون که لاله برافروخت آتش نمرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021219929_223" custom="readingOrder {index:11;}">
+                <Coords points="1436,1985 442,1985 442,2112 1436,2112" /><Baseline points="442,2064 1436,2064" />
+                <Baseline points="480,2069 1413,2080" />
+                <TextEquiv>
+                    <Unicode>بدور گل منشین بی شراب و شاهد و چنگ که همچو روز بقا هفته ای بود معدود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021223375_226" custom="readingOrder {index:12;}">
+                <Coords points="433,2098 1410,2098 1410,2255 433,2255" /><Baseline points="433,2195 1410,2195" />
+                <Baseline points="465,2220 1395,2226" />
+                <TextEquiv>
+                    <Unicode>ز دست شاهد نازک عذار عیسی دم شراب نوش و رها کن حدیث عاد و ثمود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021962321_273" custom="readingOrder {index:13;}">
+                <Coords points="449,2247 1417,2247 1417,2401 449,2401" /><Baseline points="449,2342 1417,2342" />
+                <Baseline points="463,2353 1398,2367" />
+                <TextEquiv>
+                    <Unicode>جهان چو خلد برین شد به دور سوسن و گل ولی چه سود که در وی نه ممکن است خلود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782021965677_276" custom="readingOrder {index:14;}">
+                <Coords points="1413,2393 444,2393 444,2546 1413,2546" /><Baseline points="444,2488 1413,2488" />
+                <Baseline points="466,2490 1401,2508" />
+                <TextEquiv>
+                    <Unicode>چو گل سوار شود بر هوا سلیمان وار سحر که مرغ درآید به نغمه داوود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یاد باد آنکه رخت شمع طرب می افروخت وین دل سوخته پروانه پا برجا بود
+یاد باد آنکه در آن بزمگه خلق و ادب آن که او خنده مستانه زدی صهبا بود
+یاد باد آنکه چو یاقوت قدح خنده زدی در میان من و لعل تو حکایتها بود
+یاد باد آنکه چو چشمت به عتابم میکشت معجز عیسویت در لب شکرخا بود
+یاد باد آنکه صبوحی زده در مجلس انس جز من و یار نبودیم و خدا با ما بود
+یاد باد آنکه با صلاح شما میشد راست نظم هر گوهر ناسفته که حافظ را بود
+کنونکه در چمن آمذ گل از عدم بوحود
+بنفشه در قدم او نهاد سر به سجود
+نبوش جام صبوحی به ناله دف و چنگ ببوس غبغب ساقی به نغمه نی و عود
+شد از خروج ریاحین چو آسمان روشن زمین باختر میمون و طالع مسعود
+بباغ تازه کن آیین دین زردشتی کنون که لاله برافروخت آتش نمرود
+بدور گل منشین بی شراب و شاهد و چنگ که همچو روز بقا هفته ای بود معدود
+ز دست شاهد نازک عذار عیسی دم شراب نوش و رها کن حدیث عاد و ثمود
+جهان چو خلد برین شد به دور سوسن و گل ولی چه سود که در وی نه ممکن است خلود
+چو گل سوار شود بر هوا سلیمان وار سحر که مرغ درآید به نغمه داوود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

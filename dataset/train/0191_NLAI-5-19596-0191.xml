@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.519+04:30</Created>
+        <LastChange>2026-06-21T13:58:29.739+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="12" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0191_NLAI-5-19596-0191.jpg" imageWidth="1506" imageHeight="2759">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782034109740" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782033376866_925" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782033376866_925" custom="readingOrder {index:0;}">
+            <Coords points="1386,2530 432,2530 432,453 1386,453" />
+            <TextLine id="line_1782033388551_928" custom="readingOrder {index:0;}">
+                <Coords points="427,598 1372,598 1372,447 427,447" /><Baseline points="427,541 1372,541" />
+                <Baseline points="446,552 1356,549" />
+                <TextEquiv>
+                    <Unicode>در خیال اینهمه لعبت به هوش میبازم بو که صاحب نظری نام تماشا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033393127_931" custom="readingOrder {index:1;}">
+                <Coords points="1376,594 423,594 423,724 1376,724" /><Baseline points="423,675 1376,675" />
+                <Baseline points="441,687 1356,692" />
+                <TextEquiv>
+                    <Unicode>علم و فضلی که به چل سال دلم جمع آورد ترسم آن نرگس مستانه به یغما ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033395967_934" custom="readingOrder {index:2;}">
+                <Coords points="423,724 1364,724 1364,864 423,864" /><Baseline points="423,811 1364,811" />
+                <Baseline points="444,818 1355,824" />
+                <TextEquiv>
+                    <Unicode>راه عشق از چه کمین گاه نظربازان است هر که دانسته رود صرفه ز اعدا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033398865_937" custom="readingOrder {index:3;}">
+                <Coords points="1368,863 418,863 418,1006 1368,1006" /><Baseline points="418,952 1368,952" />
+                <Baseline points="455,960 1348,962" />
+                <TextEquiv>
+                    <Unicode>جام مینایی می سد ره تنگ دلی ست منه از دست که سیل غمت از جا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033405061_940" custom="readingOrder {index:4;}">
+                <Coords points="1378,1162 417,1162 417,997 1378,997" /><Baseline points="417,1099 1378,1099" />
+                <Baseline points="432,1113 1358,1104" />
+                <TextEquiv>
+                    <Unicode>بانگ گاوی چه صدا باز دهد عشوه مخر که سها عکس ز خورشید مصفا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033409615_943" custom="readingOrder {index:5;}">
+                <Coords points="427,1143 1382,1143 1382,1283 427,1283" /><Baseline points="427,1230 1382,1230" />
+                <Baseline points="435,1252 1357,1251" />
+                <TextEquiv>
+                    <Unicode>سحر با معجره پهلو نزند خوش دل باش سامری کیست که دست از ید بیضا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033414545_946" custom="readingOrder {index:6;}">
+                <Coords points="1154,1432 617,1432 617,1314 1154,1314" /><Baseline points="617,1387 1154,1387" />
+                <Baseline points="620,1396 1130,1395" />
+                <TextEquiv>
+                    <Unicode>حافظ از جان طلبد غمزه مستانه یار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033417630_949" custom="readingOrder {index:7;}">
+                <Coords points="617,1461 1108,1461 1108,1577 617,1577" /><Baseline points="617,1533 1108,1533" />
+                <Baseline points="649,1542 1097,1533" />
+                <TextEquiv>
+                    <Unicode>خانه از غیر بپرداز و بهل تا ببرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033421949_952" custom="readingOrder {index:8;}">
+                <Coords points="1391,1705 416,1705 416,1583 1391,1583" /><Baseline points="416,1659 1391,1659" />
+                <Baseline points="437,1665 1366,1674" />
+                <TextEquiv>
+                    <Unicode>هوس باد بهارم به سوی صحرا برد باد بوی تو بیاورد و قرار از ما برد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033425929_955" custom="readingOrder {index:9;}">
+                <Coords points="1393,1838 425,1838 425,1701 1393,1701" /><Baseline points="425,1786 1393,1786" />
+                <Baseline points="439,1801 1378,1799" />
+                <TextEquiv>
+                    <Unicode>هر کجا بود دلی چشم تو برد از راهش نه دل خسته بیمار مرا تنها برد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033430637_958" custom="readingOrder {index:10;}">
+                <Coords points="409,1966 1394,1966 1394,1843 409,1843" /><Baseline points="409,1919 1394,1919" />
+                <Baseline points="441,1945 1362,1945" />
+                <TextEquiv>
+                    <Unicode>آمد و گرم ببرد آب زخم اشک چو سیم زر بزر داد کسی کآمد و این کالا برد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033435059_961" custom="readingOrder {index:11;}">
+                <Coords points="1378,2107 426,2107 426,1988 1378,1988" /><Baseline points="426,2062 1378,2062" />
+                <Baseline points="446,2079 1393,2077" />
+                <TextEquiv>
+                    <Unicode>دوش دست طربم سلسله شوق تو بست پای خیل خردم لشکر غم از جا برد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033438283_964" custom="readingOrder {index:12;}">
+                <Coords points="1393,2258 416,2258 416,2140 1393,2140" /><Baseline points="416,2213 1393,2213" />
+                <Baseline points="424,2214 1375,2216" />
+                <TextEquiv>
+                    <Unicode>دل سنگین ترا اشک من آورد به راه سنگ را سیل تواند به لب دریا برد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033443052_967" custom="readingOrder {index:13;}">
+                <Coords points="1403,2410 408,2410 408,2275 1403,2275" /><Baseline points="408,2359 1403,2359" />
+                <Baseline points="432,2371 1393,2359" />
+                <TextEquiv>
+                    <Unicode>راه غمزه آن ترک کمان ابرو زد رخت ما سنبل آن سرو سهی بالا برد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782033445425_970" custom="readingOrder {index:14;}">
+                <Coords points="399,2401 1397,2401 1397,2564 399,2564" /><Baseline points="399,2502 1397,2502" />
+                <Baseline points="416,2492 1367,2503" />
+                <TextEquiv>
+                    <Unicode>جام می پیش لبت دم ز روان بخشی زد پیش طوطی نتوان نام هزارآوا برد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>در خیال اینهمه لعبت به هوش میبازم بو که صاحب نظری نام تماشا ببرد
+علم و فضلی که به چل سال دلم جمع آورد ترسم آن نرگس مستانه به یغما ببرد
+راه عشق از چه کمین گاه نظربازان است هر که دانسته رود صرفه ز اعدا ببرد
+جام مینایی می سد ره تنگ دلی ست منه از دست که سیل غمت از جا ببرد
+بانگ گاوی چه صدا باز دهد عشوه مخر که سها عکس ز خورشید مصفا ببرد
+سحر با معجره پهلو نزند خوش دل باش سامری کیست که دست از ید بیضا ببرد
+حافظ از جان طلبد غمزه مستانه یار
+خانه از غیر بپرداز و بهل تا ببرد
+هوس باد بهارم به سوی صحرا برد باد بوی تو بیاورد و قرار از ما برد
+هر کجا بود دلی چشم تو برد از راهش نه دل خسته بیمار مرا تنها برد
+آمد و گرم ببرد آب زخم اشک چو سیم زر بزر داد کسی کآمد و این کالا برد
+دوش دست طربم سلسله شوق تو بست پای خیل خردم لشکر غم از جا برد
+دل سنگین ترا اشک من آورد به راه سنگ را سیل تواند به لب دریا برد
+راه غمزه آن ترک کمان ابرو زد رخت ما سنبل آن سرو سهی بالا برد
+جام می پیش لبت دم ز روان بخشی زد پیش طوطی نتوان نام هزارآوا برد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

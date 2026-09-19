@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T11:45:55.460+03:30</Created>
+        <LastChange>2026-06-25T16:02:32.982+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0166_NLAI-5-19596-0166.jpg" imageWidth="1506" imageHeight="2833">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782390753029" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782389711232_1350" />
+                <RegionRefIndexed index="1" regionRef="region_1782390363744_1451" />
+                <RegionRefIndexed index="2" regionRef="region_1782389827004_1377" />
+                <RegionRefIndexed index="3" regionRef="region_1782389489631_1320" />
+                <RegionRefIndexed index="4" regionRef="region_1782389595007_1335" />
+                <RegionRefIndexed index="5" regionRef="region_1782389922772_1400" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782389711232_1350" custom="readingOrder {index:0;}">
+            <Coords points="129,464 557,464 557,1015 129,1015" />
+            <TextLine id="line_1782389720236_1353" custom="readingOrder {index:0;}">
+                <Coords points="116,459 549,459 549,593 116,593" /><Baseline points="116,542 549,542" />
+                <Baseline points="143,519 542,532" />
+                <TextEquiv>
+                    <Unicode>آتش کرا بسوزد گر بولهب نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389746912_1359" custom="readingOrder {index:1;}">
+                <Coords points="135,591 550,591 550,728 135,728" /><Baseline points="135,676 550,676" />
+                <Baseline points="145,678 542,683" />
+                <TextEquiv>
+                    <Unicode>اینجا نسب نگنجد وانجا حسب نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389773392_1365" custom="readingOrder {index:2;}">
+                <Coords points="133,736 547,736 547,878 133,878" /><Baseline points="133,824 547,824" />
+                <Baseline points="135,811 538,825" />
+                <TextEquiv>
+                    <Unicode>خود را بزرگ دیدن شرط ادب نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389799324_1371" custom="readingOrder {index:3;}">
+                <Coords points="141,880 553,880 553,1016 141,1016" /><Baseline points="141,964 553,964" />
+                <Baseline points="155,943 547,954" />
+                <TextEquiv>
+                    <Unicode>جز ماده بهشتی هیچش سبب نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>آتش کرا بسوزد گر بولهب نباشد
+اینجا نسب نگنجد وانجا حسب نباشد
+خود را بزرگ دیدن شرط ادب نباشد
+جز ماده بهشتی هیچش سبب نباشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782390363744_1451" custom="readingOrder {index:1;}">
+            <Coords points="84,1305 530,1305 530,2592 84,2592" />
+            <TextLine id="line_1782390367228_1454" custom="readingOrder {index:0;}">
+                <Coords points="86,1301 545,1301 545,1454 86,1454" /><Baseline points="86,1396 545,1396" />
+                <Baseline points="139,1370 535,1406" />
+                <TextEquiv>
+                    <Unicode>زدم این فال و گذشت اختر و کار آخر شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390414021_1460" custom="readingOrder {index:1;}">
+                <Coords points="108,1463 540,1463 540,1614 108,1614" /><Baseline points="108,1557 540,1557" />
+                <Baseline points="130,1530 529,1556" />
+                <TextEquiv>
+                    <Unicode>عاقبت در قدم باد بهار آخر شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390450132_1466" custom="readingOrder {index:2;}">
+                <Coords points="111,1611 537,1611 537,1730 111,1730" /><Baseline points="111,1685 537,1685" />
+                <Baseline points="124,1664 519,1683" />
+                <TextEquiv>
+                    <Unicode>کو برون آی که کار شب تاز آخر شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390478788_1472" custom="readingOrder {index:3;}">
+                <Coords points="105,1749 543,1749 543,1889 105,1889" /><Baseline points="105,1836 543,1836" />
+                <Baseline points="116,1824 537,1808" />
+                <TextEquiv>
+                    <Unicode>نخوت باد دی و شوکت خا رآخر شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390530737_1478" custom="readingOrder {index:4;}">
+                <Coords points="100,1903 541,1903 541,2035 100,2035" /><Baseline points="100,1985 541,1985" />
+                <Baseline points="116,1955 523,1961" />
+                <TextEquiv>
+                    <Unicode>گل چو برباد شو آن گوهر خار آخر شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390575884_1484" custom="readingOrder {index:5;}">
+                <Coords points="124,2038 535,2038 535,2174 124,2174" /><Baseline points="124,2122 535,2122" />
+                <Baseline points="128,2072 520,2125" />
+                <TextEquiv>
+                    <Unicode>حل این عقده هم از روی نگار آخر شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390620536_1490" custom="readingOrder {index:6;}">
+                <Coords points="106,2177 532,2177 532,2307 106,2307" /><Baseline points="106,2258 532,2258" />
+                <Baseline points="118,2232 525,2253" />
+                <TextEquiv>
+                    <Unicode>همه در سایه گیسوی نگار آخر شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390657017_1498" custom="readingOrder {index:7;}">
+                <Coords points="101,2323 525,2323 525,2465 101,2465" /><Baseline points="101,2411 525,2411" />
+                <Baseline points="114,2367 526,2403 520,2403" />
+                <TextEquiv>
+                    <Unicode>قصه غصه که در وصلت یار آخر شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390680081_1504" custom="readingOrder {index:8;}">
+                <Coords points="101,2468 539,2468 539,2601 101,2601" /><Baseline points="101,2550 539,2550" />
+                <Baseline points="111,2524 528,2545" />
+                <TextEquiv>
+                    <Unicode>که بنند پروتو تشویش خمار آخرشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>زدم این فال و گذشت اختر و کار آخر شد
+عاقبت در قدم باد بهار آخر شد
+کو برون آی که کار شب تاز آخر شد
+نخوت باد دی و شوکت خا رآخر شد
+گل چو برباد شو آن گوهر خار آخر شد
+حل این عقده هم از روی نگار آخر شد
+همه در سایه گیسوی نگار آخر شد
+قصه غصه که در وصلت یار آخر شد
+که بنند پروتو تشویش خمار آخرشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782389827004_1377" custom="readingOrder {index:2;}">
+            <Coords points="287,1031 807,1031 807,1320 287,1320" />
+            <TextLine id="line_1782389836312_1380" custom="readingOrder {index:0;}">
+                <Coords points="301,1026 803,1026 803,1303 301,1303" /><Baseline points="301,1198 803,1198" />
+                <Baseline points="313,1105 806,1121" />
+                <TextEquiv>
+                    <Unicode>حافظ وصال جانان چون با تو تنگدستی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389876224_1386" custom="readingOrder {index:1;}">
+                <Coords points="315,1159 804,1159 804,1310 315,1310" /><Baseline points="315,1253 804,1253" />
+                <Baseline points="354,1248 767,1257" />
+                <TextEquiv>
+                    <Unicode>روزی شود میسر پیود شب نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ وصال جانان چون با تو تنگدستی
+روزی شود میسر پیود شب نباشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782389489631_1320" custom="readingOrder {index:3;}">
+            <Coords points="634,464 1073,464 1073,1003 634,1003" />
+            <TextLine id="line_1782389493011_1323" custom="readingOrder {index:0;}">
+                <Coords points="640,470 1079,470 1079,602 640,602" /><Baseline points="640,552 1079,552" />
+                <Baseline points="692,543 1061,548" />
+                <TextEquiv>
+                    <Unicode>در کار خانه عشق از کفر ناگریز است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389520983_1329" custom="readingOrder {index:1;}">
+                <Coords points="630,603 1086,603 1086,754 630,754" /><Baseline points="630,697 1086,697" />
+                <Baseline points="634,669 1062,681" />
+                <TextEquiv>
+                    <Unicode>در کیش جان فروشان فضل و شرف به رندیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389608572_1338" custom="readingOrder {index:2;}">
+                <Coords points="641,760 1069,760 1069,899 641,899" /><Baseline points="641,846 1069,846" />
+                <Baseline points="656,816 1068,833" />
+                <TextEquiv>
+                    <Unicode>در مجلسی که زخورشید اندر شما ز ذره ست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782389676107_1344" custom="readingOrder {index:3;}">
+                <Coords points="642,895 1071,895 1071,997 642,997" /><Baseline points="642,958 1071,958" />
+                <Baseline points="655,948 1060,961" />
+                <TextEquiv>
+                    <Unicode>می خور که عمر سرمد گر در جهان توان یافت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>در کار خانه عشق از کفر ناگریز است
+در کیش جان فروشان فضل و شرف به رندیست
+در مجلسی که زخورشید اندر شما ز ذره ست
+می خور که عمر سرمد گر در جهان توان یافت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782389595007_1335" custom="readingOrder {index:4;}">
+            <Coords points="636,759 1073,759 1073,884 636,884" />
+        </TextRegion>
+        <TextRegion id="region_1782389922772_1400" custom="readingOrder {index:5;}">
+            <Coords points="610,1329 1078,1329 1078,2621 610,2621" />
+            <TextLine id="line_1782389927016_1403" custom="readingOrder {index:0;}">
+                <Coords points="625,1317 1070,1317 1070,1469 625,1469" /><Baseline points="625,1411 1070,1411" />
+                <Baseline points="640,1402 1052,1422" />
+                <TextEquiv>
+                    <Unicode>روز هجران وشب فرقت یار آخر شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390014744_1411" custom="readingOrder {index:1;}">
+                <Coords points="623,1323 1080,1323 1080,1459 623,1459" /><Baseline points="623,1407 1080,1407" />
+                <Baseline points="637,1528 1061,1555" />
+                <TextEquiv>
+                    <Unicode>اینهه ناز و تنعم که خزان می فرمود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390100877_1419" custom="readingOrder {index:2;}">
+                <Coords points="639,1601 1082,1601 1082,1768 639,1768" /><Baseline points="639,1705 1082,1705" />
+                <Baseline points="642,1681 1064,1688" />
+                <TextEquiv>
+                    <Unicode>صبح امید که بد معتکف پرده عیب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390139308_1425" custom="readingOrder {index:3;}">
+                <Coords points="625,1776 1079,1776 1079,1934 625,1934" /><Baseline points="625,1874 1079,1874" />
+                <Baseline points="640,1827 1084,1843" />
+                <TextEquiv>
+                    <Unicode>شکر ایزد که به اقبال کله گوشه گل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390209896_1433" custom="readingOrder {index:4;}">
+                <Coords points="629,1927 1083,1927 1083,2048 629,2048" /><Baseline points="629,2002 1083,2002" />
+                <Baseline points="643,1964 1062,1997" />
+                <TextEquiv>
+                    <Unicode>خاردر سایه گل دولت تیزمی میراند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390289332_1439" custom="readingOrder {index:5;}">
+                <Coords points="629,2056 1074,2056 1074,2186 629,2186" /><Baseline points="629,2137 1074,2137" />
+                <Baseline points="651,2123 1054,2133" />
+                <TextEquiv>
+                    <Unicode>گرچه آشفتگی کار من از زلف وی است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782390323493_1445" custom="readingOrder {index:6;}">
+                <Coords points="626,2216 1080,2216 1080,2326 626,2326" /><Baseline points="626,2284 1080,2284" />
+                <Baseline points="622,2268 1064,2285" />
+                <TextEquiv>
+                    <Unicode>آن پریشانی شبهای دراز و غم دل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>روز هجران وشب فرقت یار آخر شد
+اینهه ناز و تنعم که خزان می فرمود
+صبح امید که بد معتکف پرده عیب
+شکر ایزد که به اقبال کله گوشه گل
+خاردر سایه گل دولت تیزمی میراند
+گرچه آشفتگی کار من از زلف وی است
+آن پریشانی شبهای دراز و غم دل</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

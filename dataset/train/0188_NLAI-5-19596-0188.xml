@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.325+04:30</Created>
+        <LastChange>2026-06-21T12:51:50.917+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="9" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0188_NLAI-5-19596-0188.jpg" imageWidth="1506" imageHeight="2826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782030110918" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782029483980_571" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782029483980_571" custom="readingOrder {index:0;}">
+            <Coords points="55,2598 1063,2598 1063,438 55,438" />
+            <TextLine id="line_1782029496485_574" custom="readingOrder {index:0;}">
+                <Coords points="1069,602 98,602 98,461 1069,461" /><Baseline points="98,548 1069,548" />
+                <Baseline points="107,535 1057,567" />
+                <TextEquiv>
+                    <Unicode>چون سامری مباش که زر دید و از خری موسی بهشت و از پی گوساله میرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029499644_577" custom="readingOrder {index:1;}">
+                <Coords points="1062,719 104,719 104,572 1062,572" /><Baseline points="104,663 1062,663" />
+                <Baseline points="112,660 1037,701" />
+                <TextEquiv>
+                    <Unicode>خوی کرده میخرامد و بر عارض سمن از شرم روی او عرق ژاله میرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029502606_580" custom="readingOrder {index:2;}">
+                <Coords points="835,872 352,872 352,725 835,725" /><Baseline points="352,816 835,816" />
+                <Baseline points="376,814 815,837" />
+                <TextEquiv>
+                    <Unicode>حافظ ز شوق مجلس سلطان غیاث الدین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029505339_583" custom="readingOrder {index:3;}">
+                <Coords points="832,999 358,999 358,867 832,867" /><Baseline points="358,949 832,949" />
+                <Baseline points="384,968 795,976" />
+                <TextEquiv>
+                    <Unicode>غافل مشو که کار تو از ناله میرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029510305_586" custom="readingOrder {index:4;}">
+                <Coords points="1071,1164 99,1164 99,1025 1071,1025" /><Baseline points="99,1111 1071,1111" />
+                <Baseline points="108,1105 1048,1136" />
+                <TextEquiv>
+                    <Unicode>هرگزم نقش تو از لوح دل و جان نرود هرگز از یاد من آن سرو خرامان نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029513983_589" custom="readingOrder {index:5;}">
+                <Coords points="1069,1306 107,1306 107,1138 1069,1138" /><Baseline points="107,1242 1069,1242" />
+                <Baseline points="130,1232 499,1255 636,1270 1044,1275" />
+                <TextEquiv>
+                    <Unicode>از دماغ من سرگشته خیال دهنت به جفای فلک و غصه دوران نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029517661_592" custom="readingOrder {index:6;}">
+                <Coords points="1056,1434 84,1434 84,1293 1056,1293" /><Baseline points="84,1380 1056,1380" />
+                <Baseline points="91,1377 511,1400 637,1399 1037,1410" />
+                <TextEquiv>
+                    <Unicode>در ازل بست دلم با سر زلفت پیوند تا ابد سر نکشد وز دل من آن نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029521417_595" custom="readingOrder {index:7;}">
+                <Coords points="1052,1590 79,1590 79,1423 1052,1423" /><Baseline points="79,1527 1052,1527" />
+                <Baseline points="79,1530 497,1554 629,1556 1040,1560" />
+                <TextEquiv>
+                    <Unicode>آنچه از بار عمث بر دل مجروح منت برود این دل وز دل من آن بزود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029527236_598" custom="readingOrder {index:8;}">
+                <Coords points="1051,1737 76,1737 76,1579 1051,1579" /><Baseline points="76,1677 1051,1677" />
+                <Baseline points="86,1670 508,1689 627,1701 1040,1706" />
+                <TextEquiv>
+                    <Unicode>آنچنان مهر تو ام در دل و جان جای گرفت که اگر سرم برود از دل و از جان نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029531621_601" custom="readingOrder {index:9;}">
+                <Coords points="1055,1894 76,1894 76,1731 1055,1731" /><Baseline points="76,1832 1055,1832" />
+                <Baseline points="81,1816 506,1845 620,1832 1030,1857" />
+                <TextEquiv>
+                    <Unicode>گر رود از پی خوبان دل من معذور است درد دارد چه کند کز پی درمان نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029535415_604" custom="readingOrder {index:10;}">
+                <Coords points="824,2024 311,2024 311,1870 824,1870" /><Baseline points="311,1965 824,1965" />
+                <Baseline points="317,1966 791,1994" />
+                <TextEquiv>
+                    <Unicode>هر که خواهد حافظ نشود سرگردان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029538684_607" custom="readingOrder {index:11;}">
+                <Coords points="763,2183 315,2183 315,2041 763,2041" /><Baseline points="315,2129 763,2129" />
+                <Baseline points="323,2116 750,2147" />
+                <TextEquiv>
+                    <Unicode>دل به خوبان ندهد وز پی ایشان نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029543535_610" custom="readingOrder {index:12;}">
+                <Coords points="1038,2323 59,2323 59,2186 1038,2186" /><Baseline points="59,2271 1038,2271" />
+                <Baseline points="91,2262 1026,2297" />
+                <TextEquiv>
+                    <Unicode>خوشا دلی که مدام از پی نظر نرود بهر درش که بخوانند بی خبر نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029548063_613" custom="readingOrder {index:13;}">
+                <Coords points="1042,2476 72,2476 72,2302 1042,2302" /><Baseline points="72,2410 1042,2410" />
+                <Baseline points="82,2398 1027,2437" />
+                <TextEquiv>
+                    <Unicode>طمغ در آن لب شیریت نکردنم اولی ولی چگونه مگس از بی شکر نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782029552110_616" custom="readingOrder {index:14;}">
+                <Coords points="1052,2603 63,2603 63,2448 1052,2448" /><Baseline points="63,2544 1052,2544" />
+                <Baseline points="75,2540 1025,2575" />
+                <TextEquiv>
+                    <Unicode>ز من چو باد صبا بوی خود دریغ مدار چرا که بی سر زلف تو ام به سر نرود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چون سامری مباش که زر دید و از خری موسی بهشت و از پی گوساله میرود
+خوی کرده میخرامد و بر عارض سمن از شرم روی او عرق ژاله میرود
+حافظ ز شوق مجلس سلطان غیاث الدین
+غافل مشو که کار تو از ناله میرود
+هرگزم نقش تو از لوح دل و جان نرود هرگز از یاد من آن سرو خرامان نرود
+از دماغ من سرگشته خیال دهنت به جفای فلک و غصه دوران نرود
+در ازل بست دلم با سر زلفت پیوند تا ابد سر نکشد وز دل من آن نرود
+آنچه از بار عمث بر دل مجروح منت برود این دل وز دل من آن بزود
+آنچنان مهر تو ام در دل و جان جای گرفت که اگر سرم برود از دل و از جان نرود
+گر رود از پی خوبان دل من معذور است درد دارد چه کند کز پی درمان نرود
+هر که خواهد حافظ نشود سرگردان
+دل به خوبان ندهد وز پی ایشان نرود
+خوشا دلی که مدام از پی نظر نرود بهر درش که بخوانند بی خبر نرود
+طمغ در آن لب شیریت نکردنم اولی ولی چگونه مگس از بی شکر نرود
+ز من چو باد صبا بوی خود دریغ مدار چرا که بی سر زلف تو ام به سر نرود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

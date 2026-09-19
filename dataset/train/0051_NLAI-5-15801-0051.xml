@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:29.343-07:00</Created>
+        <LastChange>2026-06-19T09:21:48.326-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0051_NLAI-5-15801-0051.jpg" imageWidth="1090" imageHeight="1789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781886108373" caption="Regions reading order">
+                <RegionRefIndexed index="2" regionRef="TextRegion_1781884303468_81" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1781884303468_81" custom="readingOrder {index:2;}">
+            <Coords points="120,207 978,207 978,1681 120,1681" />
+            <TextLine id="line_1781884362013_100" custom="readingOrder {index:0;}">
+                <Coords points="159,209 974,209 974,329 159,329" /><Baseline points="159,283 974,283" />
+                <Baseline points="968,297 173,283" />
+                <TextEquiv>
+                    <Unicode>است یا کاذب اما مدرک بادراک اذعانی وقتی است که احد طرفی نسبت راجح باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781884408527_111" custom="readingOrder {index:1;}">
+                <Coords points="963,465 157,465 157,314 963,314" /><Baseline points="157,408 963,408" />
+                <Baseline points="955,417 172,391" />
+                <TextEquiv>
+                    <Unicode>و خواه به حد جزم رسیده باشد مثل یقین و خواه به حد جزم نرسیده باشد مثل ظن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781884443619_118" custom="readingOrder {index:2;}">
+                <Coords points="153,468 944,468 944,597 153,597" /><Baseline points="153,548 944,548" />
+                <Baseline points="934,536 166,533" />
+                <TextEquiv>
+                    <Unicode>قوله القسام بمعنی القسمه چون درینمقام توهم میشود که اقسام لازم است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781884466525_126" custom="readingOrder {index:3;}">
+                <Coords points="968,711 153,711 153,592 968,592" /><Baseline points="153,666 968,666" />
+                <Baseline points="957,660 166,639" />
+                <TextEquiv>
+                    <Unicode>زیرا که از باب افعال است و حال انکه در عبارت مصر متعدی شده است بقرینه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781884478259_129" custom="readingOrder {index:4;}">
+                <Coords points="144,809 959,809 959,711 144,711" /><Baseline points="144,772 959,772" />
+                <Baseline points="950,778 155,767" />
+                <TextEquiv>
+                    <Unicode>منصوب بودن الضره و الکتاب بالنظری مفعولیه محشی اشاره بدفع این</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781884490508_132" custom="readingOrder {index:5;}">
+                <Coords points="150,813 966,813 966,954 150,954" /><Baseline points="150,900 966,900" />
+                <Baseline points="949,898 666,897 163,879" />
+                <TextEquiv>
+                    <Unicode>توهم کرده و حاصلش این است که اگرچه اقسام از باب افعال است لازم بودست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781884511742_135" custom="readingOrder {index:6;}">
+                <Coords points="141,934 965,934 965,1087 141,1087" /><Baseline points="141,1029 965,1029" />
+                <Baseline points="946,1028 156,1011" />
+                <TextEquiv>
+                    <Unicode>لکن درینمقام کتاب اساس اللغه اقسام بمعنی قسمت که متعددیداست تفسیر کرده است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781884528257_138" custom="readingOrder {index:7;}">
+                <Coords points="960,1196 150,1196 150,1063 960,1063" /><Baseline points="150,1145 960,1145" />
+                <Baseline points="944,1149 735,1154 167,1133" />
+                <TextEquiv>
+                    <Unicode>پس کلام صحیحت قوله فالمذکور فی هذه العباره صریحا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781884557131_146" custom="readingOrder {index:8;}">
+                <Coords points="953,1330 138,1330 138,1190 953,1190" /><Baseline points="138,1277 953,1277" />
+                <Baseline points="942,1278 148,1255" />
+                <TextEquiv>
+                    <Unicode>هوالقسام الضروره بدانکه صریح در عبارت این است که قسمت میکنند تصور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781884571146_149" custom="readingOrder {index:9;}">
+                <Coords points="951,1449 134,1449 134,1284 951,1284" /><Baseline points="134,1386 951,1386" />
+                <Baseline points="945,1402 154,1374" />
+                <TextEquiv>
+                    <Unicode>و تصدیق ضرورت و اکتاب بانظر را پس ضرورت مقسم خواهد شد باکتاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781884586239_152" custom="readingOrder {index:10;}">
+                <Coords points="951,1558 123,1558 123,1398 951,1398" /><Baseline points="123,1497 951,1497" />
+                <Baseline points="939,1517 140,1489" />
+                <TextEquiv>
+                    <Unicode>در تصور و اکتاب در تصدیق و ازینجا دانسته میشود که هر یک از تصور و تصدیق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781884602551_155" custom="readingOrder {index:11;}">
+                <Coords points="945,1681 121,1681 121,1536 945,1536" /><Baseline points="121,1626 945,1626" />
+                <Baseline points="939,1624 132,1612" />
+                <TextEquiv>
+                    <Unicode>منقسم میشوند باضرورت و التاب چنانکه ظاهر است و قول محشی یعنی احسن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>است یا کاذب اما مدرک بادراک اذعانی وقتی است که احد طرفی نسبت راجح باشد
+و خواه به حد جزم رسیده باشد مثل یقین و خواه به حد جزم نرسیده باشد مثل ظن
+قوله القسام بمعنی القسمه چون درینمقام توهم میشود که اقسام لازم است
+زیرا که از باب افعال است و حال انکه در عبارت مصر متعدی شده است بقرینه
+منصوب بودن الضره و الکتاب بالنظری مفعولیه محشی اشاره بدفع این
+توهم کرده و حاصلش این است که اگرچه اقسام از باب افعال است لازم بودست
+لکن درینمقام کتاب اساس اللغه اقسام بمعنی قسمت که متعددیداست تفسیر کرده است
+پس کلام صحیحت قوله فالمذکور فی هذه العباره صریحا
+هوالقسام الضروره بدانکه صریح در عبارت این است که قسمت میکنند تصور
+و تصدیق ضرورت و اکتاب بانظر را پس ضرورت مقسم خواهد شد باکتاب
+در تصور و اکتاب در تصدیق و ازینجا دانسته میشود که هر یک از تصور و تصدیق
+منقسم میشوند باضرورت و التاب چنانکه ظاهر است و قول محشی یعنی احسن</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

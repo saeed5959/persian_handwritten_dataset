@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.261+03:30</Created>
+        <LastChange>2026-06-26T17:34:58.346+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0129_NLAI-5-15801-0129.jpg" imageWidth="1118" imageHeight="1763">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782482698359" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782331313059_897" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782331313059_897" custom="readingOrder {index:0;}">
+            <Coords points="124,101 1041,101 1041,1696 124,1696" />
+            <TextLine id="line_1782331316280_900" custom="readingOrder {index:0;}">
+                <Coords points="201,203 1016,203 1016,321 201,321" /><Baseline points="201,276 1016,276" />
+                <Baseline points="203,241 1008,256" />
+                <TextEquiv>
+                    <Unicode>موضوع این دو قضیه یکی نیست از برای انکه در یکجا موضوع هر یک است از این حیثیت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331318125_903" custom="readingOrder {index:1;}">
+                <Coords points="159,300 1032,300 1032,424 159,424" /><Baseline points="159,377 1032,377" />
+                <Baseline points="187,361 1008,382" />
+                <TextEquiv>
+                    <Unicode>که منظور باشد بخصوصه زیرا که هر یک هر یک را عقل بخصوصه ملاحظه میکند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331319827_906" custom="readingOrder {index:2;}">
+                <Coords points="179,418 1026,418 1026,554 179,554" /><Baseline points="179,502 1026,502" />
+                <Baseline points="199,469 1010,510" />
+                <TextEquiv>
+                    <Unicode>حکم جزم بکفرشان نمیکند پس سبب عدم یقین بکفر انها درین قضیه مشروطه است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331321511_909" custom="readingOrder {index:3;}">
+                <Coords points="147,536 1014,536 1014,674 147,674" /><Baseline points="147,622 1014,622" />
+                <Baseline points="199,599 992,628" />
+                <TextEquiv>
+                    <Unicode>بملاحظه انها بخوصه و حاصل معنی این قضیه ان است که هیچیک انها بشرط</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331323020_912" custom="readingOrder {index:4;}">
+                <Coords points="155,650 1020,650 1020,792 155,792" /><Baseline points="155,738 1020,738" />
+                <Baseline points="177,713 992,747" />
+                <TextEquiv>
+                    <Unicode>اینکه بخصوص منظور نباشد بلکه غقل انرا غیر معین اعتبار کند زیرا که یقین بکفر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331324786_915" custom="readingOrder {index:5;}">
+                <Coords points="169,788 1020,788 1020,918 169,918" /><Baseline points="169,869 1020,869" />
+                <Baseline points="205,843 986,879" />
+                <TextEquiv>
+                    <Unicode>یکی از انها ازان حیثیت که غیر متعین است حاصل میشود پس اتصاف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331326670_918" custom="readingOrder {index:6;}">
+                <Coords points="169,898 1006,898 1006,1044 169,1044" /><Baseline points="169,989 1006,989" />
+                <Baseline points="193,979 980,1009" />
+                <TextEquiv>
+                    <Unicode>بمتیقن الکفر بودن بعض مشروط است بغیر معین بودن اگر گویی که موضوع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331328424_921" custom="readingOrder {index:7;}">
+                <Coords points="171,1044 1002,1044 1002,1180 171,1180" /><Baseline points="171,1128 1002,1128" />
+                <Baseline points="181,1105 986,1142" />
+                <TextEquiv>
+                    <Unicode>هر موجبه جرییه غیر معین است و بنابراین لازم میاید که هیچ موجبه جزییه نقیض سالبه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331330003_924" custom="readingOrder {index:8;}">
+                <Coords points="153,1158 988,1158 988,1292 153,1292" /><Baseline points="153,1241 988,1241" />
+                <Baseline points="167,1221 980,1257" />
+                <TextEquiv>
+                    <Unicode>کلیه نباشد جواب گفته میشود که غیر معین بودن موضوع در موجبه جرییه باین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331331821_927" custom="readingOrder {index:9;}">
+                <Coords points="145,1280 992,1280 992,1398 145,1398" /><Baseline points="145,1353 992,1353" />
+                <Baseline points="173,1351 976,1369" />
+                <TextEquiv>
+                    <Unicode>وجه است که در عقد وضع فسر و معین بخصوص منظور نیست نه اینکه شرط</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331333590_930" custom="readingOrder {index:10;}">
+                <Coords points="134,1389 1002,1389 1002,1534 134,1534" /><Baseline points="134,1479 1002,1479" />
+                <Baseline points="159,1448 971,1493" />
+                <TextEquiv>
+                    <Unicode>اتصاف بمجهول غیر معین بودن است مثلا در بعض الانسان کاتب اگر چه بعض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331335352_933" custom="readingOrder {index:11;}">
+                <Coords points="136,1507 1004,1507 1004,1664 136,1664" /><Baseline points="136,1604 1004,1604" />
+                <Baseline points="155,1576 994,1627" />
+                <TextEquiv>
+                    <Unicode>غیر معین است باین اعتبار که که موضوع این قضیه است اما چنین نیست که اتصاف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>موضوع این دو قضیه یکی نیست از برای انکه در یکجا موضوع هر یک است از این حیثیت
+که منظور باشد بخصوصه زیرا که هر یک هر یک را عقل بخصوصه ملاحظه میکند
+حکم جزم بکفرشان نمیکند پس سبب عدم یقین بکفر انها درین قضیه مشروطه است
+بملاحظه انها بخوصه و حاصل معنی این قضیه ان است که هیچیک انها بشرط
+اینکه بخصوص منظور نباشد بلکه غقل انرا غیر معین اعتبار کند زیرا که یقین بکفر
+یکی از انها ازان حیثیت که غیر متعین است حاصل میشود پس اتصاف
+بمتیقن الکفر بودن بعض مشروط است بغیر معین بودن اگر گویی که موضوع
+هر موجبه جرییه غیر معین است و بنابراین لازم میاید که هیچ موجبه جزییه نقیض سالبه
+کلیه نباشد جواب گفته میشود که غیر معین بودن موضوع در موجبه جرییه باین
+وجه است که در عقد وضع فسر و معین بخصوص منظور نیست نه اینکه شرط
+اتصاف بمجهول غیر معین بودن است مثلا در بعض الانسان کاتب اگر چه بعض
+غیر معین است باین اعتبار که که موضوع این قضیه است اما چنین نیست که اتصاف</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

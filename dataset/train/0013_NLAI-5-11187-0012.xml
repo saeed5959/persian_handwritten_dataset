@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:42.963+03:30</Created>
+        <LastChange>2026-06-21T18:15:48.282+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0013_NLAI-5-11187-0012.jpg" imageWidth="859" imageHeight="1505">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782053148344" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782048576069_591" />
+                <RegionRefIndexed index="1" regionRef="region_1782048683188_602" />
+                <RegionRefIndexed index="2" regionRef="region_1782048817703_614" />
+                <RegionRefIndexed index="3" regionRef="region_1782049102210_656" />
+                <RegionRefIndexed index="4" regionRef="region_1782049295786_669" />
+                <RegionRefIndexed index="5" regionRef="region_1782049428095_680" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782048576069_591" custom="readingOrder {index:0;}">
+            <Coords points="147,401 410,399 410,537 147,539" />
+            <TextLine id="line_1782048590305_594" custom="readingOrder {index:0;}">
+                <Coords points="148,406 412,406 410,468 146,468" /><Baseline points="146,444 412,444" />
+                <TextEquiv>
+                    <Unicode>برالوالدین سلف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048632900_598" custom="readingOrder {index:1;}">
+                <Coords points="146,468 409,468 407,538 144,538" /><Baseline points="144,511 409,511" />
+                <TextEquiv>
+                    <Unicode>نیکویی والدین حق سابقه ایشان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>برالوالدین سلف
+نیکویی والدین حق سابقه ایشان است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782048683188_602" custom="readingOrder {index:1;}">
+            <Coords points="32,539 512,539 512,717 33,712" />
+            <TextLine id="line_1782048701126_606" custom="readingOrder {index:0;}">
+                <Coords points="33,539 514,539 517,623 36,623" /><Baseline points="33,591 517,591" />
+                <TextEquiv>
+                    <Unicode>باش بربروالدین ثابت کرترا میل جنت است ای شباب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048750097_610" custom="readingOrder {index:1;}">
+                <Coords points="33,624 513,624 513,714 33,714" /><Baseline points="33,680 513,680" />
+                <TextEquiv>
+                    <Unicode>باربرکردن تو چون فرض است حق احسانشان یگاه شباب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>باش بربروالدین ثابت کرترا میل جنت است ای شباب
+باربرکردن تو چون فرض است حق احسانشان یگاه شباب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782048817703_614" custom="readingOrder {index:2;}">
+            <Coords points="144,710 404,716 404,870 141,865" />
+            <TextLine id="line_1782048826877_617" custom="readingOrder {index:0;}">
+                <Coords points="144,711 404,715 405,799 143,799" /><Baseline points="143,766 405,766" />
+                <TextEquiv>
+                    <Unicode>برکه العمرفی حسن العمل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782048878128_621" custom="readingOrder {index:1;}">
+                <Coords points="144,797 405,798 403,870 142,866" /><Baseline points="142,842 405,842" />
+                <TextEquiv>
+                    <Unicode>برکت عمر در خوبی عمل است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049038954_649" custom="readingOrder {index:2;}">
+                <Coords points="144,801 405,801 405,871 144,866" /><Baseline points="144,844 405,844" />
+                <TextEquiv>
+                    <Unicode>برکت عمر در خوبی عمل است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>برکه العمرفی حسن العمل
+برکت عمر در خوبی عمل است
+برکت عمر در خوبی عمل است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782049102210_656" custom="readingOrder {index:3;}">
+            <Coords points="34,866 509,872 509,1041 35,1034" />
+            <TextLine id="line_1782049113585_659" custom="readingOrder {index:0;}">
+                <Coords points="34,866 509,870 510,958 34,958" /><Baseline points="34,923 510,923" />
+                <TextEquiv>
+                    <Unicode>بغی و عصیان چو آدمی راهست پشتکی در فنا و فوت سبب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049222079_663" custom="readingOrder {index:1;}">
+                <Coords points="33,957 510,957 510,1040 32,1033" /><Baseline points="32,1008 510,1008" />
+                <TextEquiv>
+                    <Unicode>پس بود عمر را بحسن برکت زان مدار هیچ عجب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بغی و عصیان چو آدمی راهست پشتکی در فنا و فوت سبب
+پس بود عمر را بحسن برکت زان مدار هیچ عجب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782049295786_669" custom="readingOrder {index:4;}">
+            <Coords points="143,1038 401,1038 397,1193 139,1193" />
+            <TextLine id="line_1782049304848_672" custom="readingOrder {index:0;}">
+                <Coords points="138,1037 401,1042 402,1110 140,1111" /><Baseline points="138,1083 402,1083" />
+                <TextEquiv>
+                    <Unicode>بشرنفسک بالظفر بعد الصبر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049373358_676" custom="readingOrder {index:1;}">
+                <Coords points="139,1109 398,1109 398,1194 139,1194" /><Baseline points="139,1162 398,1162" />
+                <TextEquiv>
+                    <Unicode>مژده نفس خودرا بفیروزی بعداز صبر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بشرنفسک بالظفر بعد الصبر
+مژده نفس خودرا بفیروزی بعداز صبر</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782049428095_680" custom="readingOrder {index:5;}">
+            <Coords points="31,1194 505,1194 506,1340 32,1340" />
+            <TextLine id="line_1782049434642_683" custom="readingOrder {index:0;}">
+                <Coords points="32,1192 505,1195 505,1278 32,1275" /><Baseline points="32,1245 505,1245" />
+                <TextEquiv>
+                    <Unicode>مپشک از صبر چو فرج یابی در قضا یا چه جیز به ز شکیب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782049597111_687" custom="readingOrder {index:1;}">
+                <Coords points="32,1276 504,1276 504,1341 32,1341" /><Baseline points="32,1316 504,1316" />
+                <TextEquiv>
+                    <Unicode>بشر الصابرین بشارت تست که ظفر باشدت بصبر نصیب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مپشک از صبر چو فرج یابی در قضا یا چه جیز به ز شکیب
+بشر الصابرین بشارت تست که ظفر باشدت بصبر نصیب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

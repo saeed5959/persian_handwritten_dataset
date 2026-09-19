@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T10:32:15.982+04:30</Created>
+        <LastChange>2026-06-25T10:43:28.936+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0150_NLAI-5-15801-0150.jpg" imageWidth="1089" imageHeight="1794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782368008937" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782367367138_2251" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782367367138_2251" custom="readingOrder {index:0;}">
+            <Coords points="49,144 958,144 958,1734 49,1734" />
+            <TextLine id="line_1782367383922_2257" custom="readingOrder {index:0;}">
+                <Coords points="67,149 905,149 905,276 67,276" /><Baseline points="67,228 905,228" />
+                <Baseline points="891,221 85,230" />
+                <TextEquiv>
+                    <Unicode>زیرا که هرگاه ممکنه عامه که اعم از همه قضایا باشد صادق نباشد البته هیچیک از</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367420830_2263" custom="readingOrder {index:1;}">
+                <Coords points="70,282 917,282 917,401 70,401" /><Baseline points="70,356 917,356" />
+                <Baseline points="905,346 81,357" />
+                <TextEquiv>
+                    <Unicode>قضایای دیگر صادق نخواهد بود و الا لازم میآید صدق اخص بدون اعم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367454872_2269" custom="readingOrder {index:2;}">
+                <Coords points="75,407 914,407 914,521 75,521" /><Baseline points="75,478 914,478" />
+                <Baseline points="897,476 88,479" />
+                <TextEquiv>
+                    <Unicode>این است مختصری از آنچه در بیان عکس نقیض موجبه ذکر کرده اند اما در سالبه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367488750_2275" custom="readingOrder {index:3;}">
+                <Coords points="79,529 906,529 906,643 79,643" /><Baseline points="79,600 906,600" />
+                <Baseline points="891,597 97,603" />
+                <TextEquiv>
+                    <Unicode>پس گفته میشود که سالبه مطلقا منعکس میشود سالبه جزییه نه سالبه کلیه و بیان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367532549_2286" custom="readingOrder {index:4;}">
+                <Coords points="85,648 917,648 917,761 85,761" /><Baseline points="85,718 917,718" />
+                <Baseline points="904,710 94,721" />
+                <TextEquiv>
+                    <Unicode>منعکس شدنش در سالبه کلی در سابق معلوم شد و بیان منعکس شدنش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367572718_2292" custom="readingOrder {index:5;}">
+                <Coords points="86,766 912,766 912,887 86,887" /><Baseline points="86,841 912,841" />
+                <Baseline points="893,835 101,848" />
+                <TextEquiv>
+                    <Unicode>بسالبه جزییه این است که میگوییم هرگاه صادق باشد سالبه کلیه باید که سالبه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367642102_2298" custom="readingOrder {index:6;}">
+                <Coords points="77,884 939,884 939,1015 77,1015" /><Baseline points="77,965 939,965" />
+                <Baseline points="921,963 102,963" />
+                <TextEquiv>
+                    <Unicode>جزییه در عکس نقیض او صادق باشد و الا لازم میآید صدق قضیه که منافی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367678823_2304" custom="readingOrder {index:7;}">
+                <Coords points="76,1012 928,1012 928,1140 76,1140" /><Baseline points="76,1091 928,1091" />
+                <Baseline points="919,1084 99,1096" />
+                <TextEquiv>
+                    <Unicode>اصل باشد عکسش با اصل مستلزم سلب شیی باشد از نفس و هم انضمام خودش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367734618_2315" custom="readingOrder {index:8;}">
+                <Coords points="80,1142 939,1142 939,1254 80,1254" /><Baseline points="80,1211 939,1211" />
+                <Baseline points="928,1210 105,1209" />
+                <TextEquiv>
+                    <Unicode>با عکس اصل مثلا هرگاه صادق باشد لا شیی من الانسان بفرس اگر در عکس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367776032_2326" custom="readingOrder {index:9;}">
+                <Coords points="79,1257 963,1257 963,1377 79,1377" /><Baseline points="79,1331 963,1331" />
+                <Baseline points="929,1321 112,1340" />
+                <TextEquiv>
+                    <Unicode>نقیضش بعض اللافرس لیس بانسان صادق نباشد نقیضش کل فرس لا انسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367836838_2334" custom="readingOrder {index:10;}">
+                <Coords points="89,1381 948,1381 948,1490 89,1490" /><Baseline points="89,1449 948,1449" />
+                <Baseline points="939,1445 110,1446" />
+                <TextEquiv>
+                    <Unicode>صادق خواهد بود و این منعکس میشود و بعکس نقیض بکل فرس انسان و این منافی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367893815_2340" custom="readingOrder {index:11;}">
+                <Coords points="99,1495 951,1495 951,1610 99,1610" /><Baseline points="99,1566 951,1566" />
+                <Baseline points="940,1568 116,1559" />
+                <TextEquiv>
+                    <Unicode>اصل و بعکس مستوی منعکس میشود ببعض الفرس انسان و لا شیی من الانسان بفرس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782367971887_2346" custom="readingOrder {index:12;}">
+                <Coords points="196,1627 306,1627 306,1731 196,1731" /><Baseline points="196,1691 306,1691" />
+                <Baseline points="289,1672 206,1710" />
+                <TextEquiv>
+                    <Unicode>نتیجه میدهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>زیرا که هرگاه ممکنه عامه که اعم از همه قضایا باشد صادق نباشد البته هیچیک از
+قضایای دیگر صادق نخواهد بود و الا لازم میآید صدق اخص بدون اعم
+این است مختصری از آنچه در بیان عکس نقیض موجبه ذکر کرده اند اما در سالبه
+پس گفته میشود که سالبه مطلقا منعکس میشود سالبه جزییه نه سالبه کلیه و بیان
+منعکس شدنش در سالبه کلی در سابق معلوم شد و بیان منعکس شدنش
+بسالبه جزییه این است که میگوییم هرگاه صادق باشد سالبه کلیه باید که سالبه
+جزییه در عکس نقیض او صادق باشد و الا لازم میآید صدق قضیه که منافی
+اصل باشد عکسش با اصل مستلزم سلب شیی باشد از نفس و هم انضمام خودش
+با عکس اصل مثلا هرگاه صادق باشد لا شیی من الانسان بفرس اگر در عکس
+نقیضش بعض اللافرس لیس بانسان صادق نباشد نقیضش کل فرس لا انسان
+صادق خواهد بود و این منعکس میشود و بعکس نقیض بکل فرس انسان و این منافی
+اصل و بعکس مستوی منعکس میشود ببعض الفرس انسان و لا شیی من الانسان بفرس
+نتیجه میدهد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

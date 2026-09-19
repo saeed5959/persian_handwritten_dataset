@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:16.155+03:30</Created>
+        <LastChange>2026-06-18T14:29:12.457+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0009_NLAI-5-19596-0009.jpg" imageWidth="1580" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781780352502" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781779064540_801" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781779064540_801" custom="readingOrder {index:0;}">
+            <Coords points="443,439 1430,439 1430,2634 443,2634" />
+            <TextLine id="line_1781779076676_804" custom="readingOrder {index:0;}">
+                <Coords points="477,464 1423,464 1423,630 477,630" /><Baseline points="477,567 1423,567" />
+                <Baseline points="503,568 1410,590" />
+                <TextEquiv>
+                    <Unicode>حیوان و نبات افکارش غیرت حوق و ولدان است ابیات دلاویزش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779166084_810" custom="readingOrder {index:1;}">
+                <Coords points="477,635 1429,635 1429,751 477,751" /><Baseline points="477,707 1429,707" />
+                <Baseline points="495,689 1412,697" />
+                <TextEquiv>
+                    <Unicode>ناسخ سحبان و منشآت لطف آمیزش منشی رخشان حسان که نظم نجمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779298491_818" custom="readingOrder {index:2;}">
+                <Coords points="467,776 1438,776 1438,911 467,911" /><Baseline points="467,860 1438,860" />
+                <Baseline points="489,835 1412,865" />
+                <TextEquiv>
+                    <Unicode>و روض الانسان و امن الفاد و طیب الرفاد مذاق عوام را به لفظ متین شیرین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779355803_826" custom="readingOrder {index:3;}">
+                <Coords points="469,919 1423,919 1423,1032 469,1032" /><Baseline points="469,989 1423,989" />
+                <Baseline points="486,979 1418,992" />
+                <TextEquiv>
+                    <Unicode>کرده و دهان جان حواض را بمعنی مبین متمکن داشته هم اصحاب ظاهر را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779423503_832" custom="readingOrder {index:4;}">
+                <Coords points="465,1067 1427,1067 1427,1188 465,1188" /><Baseline points="465,1142 1427,1142" />
+                <Baseline points="472,1118 1414,1134" />
+                <TextEquiv>
+                    <Unicode>بدو بررخ ابواب و آشنایی گشوده و هم ارباب باطن را ازو مواد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779476154_839" custom="readingOrder {index:5;}">
+                <Coords points="461,1203 1420,1203 1420,1337 461,1337" /><Baseline points="461,1286 1420,1286" />
+                <Baseline points="482,1262 1415,1281" />
+                <TextEquiv>
+                    <Unicode>روشنایی افزوده در هر واقعه سخنی مناسب حال گفته و برای حال هر کس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779523687_846" custom="readingOrder {index:6;}">
+                <Coords points="458,1347 1410,1347 1410,1476 458,1476" /><Baseline points="458,1427 1410,1427" />
+                <Baseline points="479,1408 1404,1422" />
+                <TextEquiv>
+                    <Unicode>در معنی غریب و لطیف شسه معانی بسیار بلفظ اندک خرج کرده و انواع بدایع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779605662_852" custom="readingOrder {index:7;}">
+                <Coords points="467,1484 1412,1483 1412,1620 467,1621" /><Baseline points="467,1569 1412,1569" />
+                <Baseline points="484,1550 1408,1562" />
+                <TextEquiv>
+                    <Unicode>در درج انشا درج نموده و گاه سرخوشان کوی محبت را بر سرجاده و معاشقت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779666037_862" custom="readingOrder {index:8;}">
+                <Coords points="461,1632 1413,1632 1413,1759 461,1759" /><Baseline points="461,1711 1413,1711" />
+                <Baseline points="474,1700 1406,1712" />
+                <TextEquiv>
+                    <Unicode>و نظربازی داشته شیشه صبر ایشان را برسنگ پی ثبات زده و گفته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779747880_879" custom="readingOrder {index:9;}">
+                <Coords points="457,1775 796,1775 796,1905 457,1905" /><Baseline points="457,1856 796,1856" />
+                <Baseline points="467,1849 780,1849" />
+                <TextEquiv>
+                    <Unicode>که علم عشق در دفتر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779757392_887" custom="readingOrder {index:10;}">
+                <Coords points="825,1797 1267,1797 1267,1921 825,1921" /><Baseline points="825,1874 1267,1874" />
+                <Baseline points="840,1861 1255,1857" />
+                <TextEquiv>
+                    <Unicode>بشو اوراق اگر همدرس مایی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779798328_910" custom="readingOrder {index:11;}">
+                <Coords points="459,1916 1413,1916 1413,2049 459,2049" /><Baseline points="459,1998 1413,1998" />
+                <Baseline points="566,2001 1399,2003" />
+                <TextEquiv>
+                    <Unicode>و گاه دردی کشان مصطبه ارادت را بملازمت پیر دیر مغان در مجاورت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779854175_916" custom="readingOrder {index:12;}">
+                <Coords points="449,2071 897,2071 897,2193 449,2193" /><Baseline points="449,2147 897,2147" />
+                <Baseline points="461,2141 891,2144" />
+                <TextEquiv>
+                    <Unicode>تا ز میخانه و می نام و نشان خواهد بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779865160_922" custom="readingOrder {index:13;}">
+                <Coords points="1058,2082 1415,2082 1415,2195 1058,2195" /><Baseline points="1058,2152 1415,2152" />
+                <Baseline points="1076,2139 1396,2141" />
+                <TextEquiv>
+                    <Unicode>بیت الحرام ترغیب کرده که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779901935_931" custom="readingOrder {index:14;}">
+                <Coords points="453,2207 916,2207 916,2329 453,2329" /><Baseline points="453,2283 916,2283" />
+                <Baseline points="461,2265 897,2272" />
+                <TextEquiv>
+                    <Unicode>افاضت سپسش طبع لطیفش که حکم هذا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779911181_937" custom="readingOrder {index:15;}">
+                <Coords points="967,2207 1411,2207 1411,2330 967,2330" /><Baseline points="967,2283 1411,2283" />
+                <Baseline points="984,2272 1394,2276" />
+                <TextEquiv>
+                    <Unicode>سرما خاک ره پیر مغان خواهد بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779921770_943" custom="readingOrder {index:16;}">
+                <Coords points="448,2359 1415,2359 1415,2484 448,2484" /><Baseline points="448,2436 1415,2436" />
+                <Baseline points="459,2417 1409,2428" />
+                <TextEquiv>
+                    <Unicode>عذب فرات سایع شرابه دارد کمشکوه فیها مصباح که حکم عینا فیها تسمی سپسلا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781779930735_950" custom="readingOrder {index:17;}">
+                <Coords points="457,2496 1405,2496 1405,2602 457,2602" /><Baseline points="457,2562 1405,2562" />
+                <Baseline points="463,2531 1398,2539" />
+                <TextEquiv>
+                    <Unicode>دارد خاص و عام را شامل و شایعست و افادت آثار فضل فایضش اقاصی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حیوان و نبات افکارش غیرت حوق و ولدان است ابیات دلاویزش
+ناسخ سحبان و منشآت لطف آمیزش منشی رخشان حسان که نظم نجمان
+و روض الانسان و امن الفاد و طیب الرفاد مذاق عوام را به لفظ متین شیرین
+کرده و دهان جان حواض را بمعنی مبین متمکن داشته هم اصحاب ظاهر را
+بدو بررخ ابواب و آشنایی گشوده و هم ارباب باطن را ازو مواد
+روشنایی افزوده در هر واقعه سخنی مناسب حال گفته و برای حال هر کس
+در معنی غریب و لطیف شسه معانی بسیار بلفظ اندک خرج کرده و انواع بدایع
+در درج انشا درج نموده و گاه سرخوشان کوی محبت را بر سرجاده و معاشقت
+و نظربازی داشته شیشه صبر ایشان را برسنگ پی ثبات زده و گفته
+که علم عشق در دفتر نباشد
+بشو اوراق اگر همدرس مایی
+و گاه دردی کشان مصطبه ارادت را بملازمت پیر دیر مغان در مجاورت
+تا ز میخانه و می نام و نشان خواهد بود
+بیت الحرام ترغیب کرده که
+افاضت سپسش طبع لطیفش که حکم هذا
+سرما خاک ره پیر مغان خواهد بود
+عذب فرات سایع شرابه دارد کمشکوه فیها مصباح که حکم عینا فیها تسمی سپسلا
+دارد خاص و عام را شامل و شایعست و افادت آثار فضل فایضش اقاصی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

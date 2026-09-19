@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.226+03:30</Created>
+        <LastChange>2026-06-26T17:16:03.974+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0127_NLAI-5-15801-0127.jpg" imageWidth="1091" imageHeight="1761">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782481563987" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782331147384_729" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782331147384_729" custom="readingOrder {index:0;}">
+            <Coords points="75,146 1016,146 1016,1694 75,1694" />
+            <TextLine id="line_1782331150243_732" custom="readingOrder {index:0;}">
+                <Coords points="108,193 967,193 967,345 108,345" /><Baseline points="108,287 967,287" />
+                <Baseline points="138,272 947,280" />
+                <TextEquiv>
+                    <Unicode>اه پس اگر موضوع یکی نیاشد تناقض و اختلاف بحسب موضوع مثل زیذ کاتب و عمرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331152052_735" custom="readingOrder {index:1;}">
+                <Coords points="140,335 971,335 971,439 140,439" /><Baseline points="140,399 971,399" />
+                <Baseline points="155,376 945,392" />
+                <TextEquiv>
+                    <Unicode>لیس بکاتب و بحسب محمول مثل زید کاتب و زید لیس بشاعر و بحسب مکان مثل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331153659_738" custom="readingOrder {index:2;}">
+                <Coords points="116,432 957,432 957,558 116,558" /><Baseline points="116,510 957,510" />
+                <Baseline points="145,510 943,520" />
+                <TextEquiv>
+                    <Unicode>زید جالس فی البیت و زید لیس بجالس فی السوق و بحسب زمان مثل زید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331155652_741" custom="readingOrder {index:3;}">
+                <Coords points="138,536 971,536 971,672 138,672" /><Baseline points="138,620 971,620" />
+                <Baseline points="151,619 939,638" />
+                <TextEquiv>
+                    <Unicode>نایم فی اللیل و زید لیس بنایم فی النهار و بحسب شرط مثل زید متحرک الاصابع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331157614_744" custom="readingOrder {index:4;}">
+                <Coords points="130,682 967,682 967,800 130,800" /><Baseline points="130,755 967,755" />
+                <Baseline points="153,741 945,745" />
+                <TextEquiv>
+                    <Unicode>بشرط الکتابه و زید لیس بمتحذک الاصابع بشرط عدم الکتابه و اختلاف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331159173_747" custom="readingOrder {index:5;}">
+                <Coords points="120,808 965,808 965,930 120,930" /><Baseline points="120,884 965,884" />
+                <Baseline points="145,859 939,883" />
+                <TextEquiv>
+                    <Unicode>بحشب اضافه مثل زید اب خالد و زید لیس باب عمرو باین معنی که پدر خالد است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331160883_750" custom="readingOrder {index:6;}">
+                <Coords points="110,932 959,932 959,1062 110,1062" /><Baseline points="110,1013 959,1013" />
+                <Baseline points="120,999 941,1018" />
+                <TextEquiv>
+                    <Unicode>و پدر عمرو نیست پس در یکجا باعتبار اضافه اش بخالد و در دیگری باعتبار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331162611_753" custom="readingOrder {index:7;}">
+                <Coords points="116,1046 971,1046 971,1178 116,1178" /><Baseline points="116,1128 971,1128" />
+                <Baseline points="140,1109 941,1137" />
+                <TextEquiv>
+                    <Unicode>اضافه اش بعمرو اختلاف جزو کل مثل الزنجی لیس بابیض والزنجی ابیض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331164670_756" custom="readingOrder {index:8;}">
+                <Coords points="112,1180 957,1180 957,1302 112,1302" /><Baseline points="112,1256 957,1256" />
+                <Baseline points="138,1245 937,1253" />
+                <TextEquiv>
+                    <Unicode>مراد در اول کل زنجی است و در ثانی بعض زنجی مثل زید الس و اختلاف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331166962_759" custom="readingOrder {index:9;}">
+                <Coords points="124,1308 961,1308 961,1420 124,1420" /><Baseline points="124,1377 961,1377" />
+                <Baseline points="147,1371 935,1379" />
+                <TextEquiv>
+                    <Unicode>در قوه و فعل مثل زید کاتب بالقوه و زید لیس بکاتب بالفعل و شکی نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331169387_762" custom="readingOrder {index:10;}">
+                <Coords points="100,1406 951,1406 951,1536 100,1536" /><Baseline points="100,1487 951,1487" />
+                <Baseline points="124,1461 929,1505" />
+                <TextEquiv>
+                    <Unicode>که تاریکی از این اختلافات هست تناقض نیست و بعد از اتحاد امور هشتگان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782331171090_765" custom="readingOrder {index:11;}">
+                <Coords points="114,1538 965,1538 965,1672 114,1672" /><Baseline points="114,1621 965,1621" />
+                <Baseline points="126,1605 949,1621" />
+                <TextEquiv>
+                    <Unicode>و اختلاف در ایجاب و سلب و اختلاف در جهت وهم چنین اختلاف در کمیته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اه پس اگر موضوع یکی نیاشد تناقض و اختلاف بحسب موضوع مثل زیذ کاتب و عمرد
+لیس بکاتب و بحسب محمول مثل زید کاتب و زید لیس بشاعر و بحسب مکان مثل
+زید جالس فی البیت و زید لیس بجالس فی السوق و بحسب زمان مثل زید
+نایم فی اللیل و زید لیس بنایم فی النهار و بحسب شرط مثل زید متحرک الاصابع
+بشرط الکتابه و زید لیس بمتحذک الاصابع بشرط عدم الکتابه و اختلاف
+بحشب اضافه مثل زید اب خالد و زید لیس باب عمرو باین معنی که پدر خالد است
+و پدر عمرو نیست پس در یکجا باعتبار اضافه اش بخالد و در دیگری باعتبار
+اضافه اش بعمرو اختلاف جزو کل مثل الزنجی لیس بابیض والزنجی ابیض
+مراد در اول کل زنجی است و در ثانی بعض زنجی مثل زید الس و اختلاف
+در قوه و فعل مثل زید کاتب بالقوه و زید لیس بکاتب بالفعل و شکی نیست
+که تاریکی از این اختلافات هست تناقض نیست و بعد از اتحاد امور هشتگان
+و اختلاف در ایجاب و سلب و اختلاف در جهت وهم چنین اختلاف در کمیته</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

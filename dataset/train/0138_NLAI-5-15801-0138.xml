@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-23T04:57:16.894+04:30</Created>
+        <LastChange>2026-06-23T16:17:44.598+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0138_NLAI-5-15801-0138.jpg" imageWidth="1089" imageHeight="1794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782215264599" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782174485491_1030" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782174485491_1030" custom="readingOrder {index:0;}">
+            <Coords points="87,164 965,164 965,1740 87,1740" />
+            <TextLine id="line_1782174515176_1033" custom="readingOrder {index:0;}">
+                <Coords points="101,171 929,171 929,292 101,292" /><Baseline points="101,246 929,246" />
+                <Baseline points="920,256 117,255" />
+                <TextEquiv>
+                    <Unicode>میتوان گفت که اگر قد یکون اذا کان الشی حیوانا کان انسانا درعکس صادق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782174614848_1039" custom="readingOrder {index:1;}">
+                <Coords points="97,298 932,298 932,429 97,429" /><Baseline points="97,379 932,379" />
+                <Baseline points="923,373 377,387 104,357" />
+                <TextEquiv>
+                    <Unicode>نباشد نقیضش صادق خواهد بود و آن را که با اصل ضم کنیم سلب شییی از نفس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782174698471_1045" custom="readingOrder {index:2;}">
+                <Coords points="104,436 937,436 937,542 104,542" /><Baseline points="104,502 937,502" />
+                <Baseline points="926,507 128,496" />
+                <TextEquiv>
+                    <Unicode>لازم می آید باین طور که کلما کان الشی انسانا کان حیوانا و لیس البته کلما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782174745920_1051" custom="readingOrder {index:3;}">
+                <Coords points="105,559 943,559 943,659 105,659" /><Baseline points="105,621 943,621" />
+                <Baseline points="931,617 113,619" />
+                <TextEquiv>
+                    <Unicode>کان الشی حیوانا کان انسانا نتیجه میدهد که لیس البته کلما کان الشی انسانا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782174849262_1057" custom="readingOrder {index:4;}">
+                <Coords points="109,683 951,683 951,797 109,797" /><Baseline points="109,754 951,754" />
+                <Baseline points="937,742 119,746" />
+                <TextEquiv>
+                    <Unicode>کان انسانا و هم چنین میگوییم قد یکون اذا کان الشی انسانا کان حیوانا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782174901292_1063" custom="readingOrder {index:5;}">
+                <Coords points="119,817 942,817 942,914 119,914" /><Baseline points="119,877 942,877" />
+                <Baseline points="932,853 132,872" />
+                <TextEquiv>
+                    <Unicode>و لیس البته اذا کان الشی حیوانا کان انسانا نتیجه میدهد که قد لا یکون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782174974317_1069" custom="readingOrder {index:6;}">
+                <Coords points="115,921 948,921 948,1040 115,1040" /><Baseline points="115,995 948,995" />
+                <Baseline points="936,983 118,991" />
+                <TextEquiv>
+                    <Unicode>اذا کان الشی انسانا کان انسانا و در سالبه بهمین طریق گفته میشود مثلا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782175054698_1075" custom="readingOrder {index:7;}">
+                <Coords points="119,1049 959,1049 959,1157 119,1157" /><Baseline points="119,1116 959,1116" />
+                <Baseline points="951,1105 127,1115" />
+                <TextEquiv>
+                    <Unicode>میگوییم هر گاه صادق باشد لیس البته اذا کان الشی حیوانا کان شجرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782176218943_1081" custom="readingOrder {index:8;}">
+                <Coords points="105,1165 955,1165 955,1280 105,1280" /><Baseline points="105,1236 955,1236" />
+                <Baseline points="938,1226 395,1243 115,1224" />
+                <TextEquiv>
+                    <Unicode>البته صادق است لیس البته اذا کان الشی شجرا کان حیوانا و الا نقیضش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782176342053_1087" custom="readingOrder {index:9;}">
+                <Coords points="110,1293 952,1293 952,1403 110,1403" /><Baseline points="110,1361 952,1361" />
+                <Baseline points="941,1353 120,1359" />
+                <TextEquiv>
+                    <Unicode>یعنی قد یکون اذا کان الشی شجرا کان حیوانا صادق خواهد بود پس ضم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782215118109_1093" custom="readingOrder {index:10;}">
+                <Coords points="112,1417 956,1417 956,1536 112,1536" /><Baseline points="112,1491 956,1491" />
+                <Baseline points="947,1463 130,1477" />
+                <TextEquiv>
+                    <Unicode>میکنیم باصل و میگوییم قد یکون اذا کان الشی شجرا کان حیوانا صادق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782215171405_1099" custom="readingOrder {index:11;}">
+                <Coords points="111,1542 956,1542 956,1662 111,1662" /><Baseline points="111,1616 956,1616" />
+                <Baseline points="946,1592 129,1605" />
+                <TextEquiv>
+                    <Unicode>خواهد بود پس ضم میکنیم باصل و میگوییم قد یکون اذا کان الشی حیوانا کان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782215223417_1105" custom="readingOrder {index:12;}">
+                <Coords points="211,1670 285,1670 285,1740 211,1740" /><Baseline points="211,1713 285,1713" />
+                <Baseline points="271,1679 227,1727" />
+                <TextEquiv>
+                    <Unicode>شجرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>میتوان گفت که اگر قد یکون اذا کان الشی حیوانا کان انسانا درعکس صادق
+نباشد نقیضش صادق خواهد بود و آن را که با اصل ضم کنیم سلب شییی از نفس
+لازم می آید باین طور که کلما کان الشی انسانا کان حیوانا و لیس البته کلما
+کان الشی حیوانا کان انسانا نتیجه میدهد که لیس البته کلما کان الشی انسانا
+کان انسانا و هم چنین میگوییم قد یکون اذا کان الشی انسانا کان حیوانا
+و لیس البته اذا کان الشی حیوانا کان انسانا نتیجه میدهد که قد لا یکون
+اذا کان الشی انسانا کان انسانا و در سالبه بهمین طریق گفته میشود مثلا
+میگوییم هر گاه صادق باشد لیس البته اذا کان الشی حیوانا کان شجرا
+البته صادق است لیس البته اذا کان الشی شجرا کان حیوانا و الا نقیضش
+یعنی قد یکون اذا کان الشی شجرا کان حیوانا صادق خواهد بود پس ضم
+میکنیم باصل و میگوییم قد یکون اذا کان الشی شجرا کان حیوانا صادق
+خواهد بود پس ضم میکنیم باصل و میگوییم قد یکون اذا کان الشی حیوانا کان
+شجرا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

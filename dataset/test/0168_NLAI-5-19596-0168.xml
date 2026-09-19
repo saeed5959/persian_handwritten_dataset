@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T11:45:55.634+03:30</Created>
+        <LastChange>2026-06-25T16:51:42.370+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0168_NLAI-5-19596-0168.jpg" imageWidth="1506" imageHeight="2833">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782393702423" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782392865580_1797" />
+                <RegionRefIndexed index="1" regionRef="region_1782393480342_1904" />
+                <RegionRefIndexed index="2" regionRef="region_1782393120078_1846" />
+                <RegionRefIndexed index="3" regionRef="region_1782392596692_1750" />
+                <RegionRefIndexed index="4" regionRef="region_1782393210857_1861" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782392865580_1797" custom="readingOrder {index:0;}">
+            <Coords points="115,462 543,462 543,1447 115,1447" />
+            <TextLine id="line_1782392868684_1800" custom="readingOrder {index:0;}">
+                <Coords points="107,468 544,468 544,608 107,608" /><Baseline points="107,555 544,555" />
+                <Baseline points="123,523 531,541" />
+                <TextEquiv>
+                    <Unicode>چشم نرگس بشقایق نگران خواهد شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782392905468_1808" custom="readingOrder {index:1;}">
+                <Coords points="136,614 538,614 538,737 136,737" /><Baseline points="136,690 538,690" />
+                <Baseline points="139,671 534,678" />
+                <TextEquiv>
+                    <Unicode>تا سرا پرده ی گل نعره زنان خواهد شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782392938678_1814" custom="readingOrder {index:2;}">
+                <Coords points="147,737 546,737 546,887 147,887" /><Baseline points="147,830 546,830" />
+                <Baseline points="160,813 527,810 534,807" />
+                <TextEquiv>
+                    <Unicode>مجلس وعظ درازست زو زمان خواهد شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782392973033_1820" custom="readingOrder {index:3;}">
+                <Coords points="116,906 546,906 546,1035 116,1035" /><Baseline points="116,986 546,986" />
+                <Baseline points="128,960 537,956" />
+                <TextEquiv>
+                    <Unicode>مایه نقد بقا که ضمان خواهد شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393008536_1826" custom="readingOrder {index:4;}">
+                <Coords points="117,1042 535,1042 535,1165 117,1165" /><Baseline points="117,1118 535,1118" />
+                <Baseline points="128,1090 528,1100" />
+                <TextEquiv>
+                    <Unicode>از نظر تا شب عید رمضان خواهد شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393030831_1832" custom="readingOrder {index:5;}">
+                <Coords points="119,1166 532,1166 532,1308 119,1308" /><Baseline points="119,1254 532,1254" />
+                <Baseline points="122,1220 524,1251" />
+                <TextEquiv>
+                    <Unicode>که بباغ آمد از این راه وازآن خواهد شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393079533_1838" custom="readingOrder {index:6;}">
+                <Coords points="129,1308 538,1308 538,1445 129,1445" /><Baseline points="129,1393 538,1393" />
+                <Baseline points="129,1378 524,1398" />
+                <TextEquiv>
+                    <Unicode>چند گویی که چنین است وچنان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چشم نرگس بشقایق نگران خواهد شد
+تا سرا پرده ی گل نعره زنان خواهد شد
+مجلس وعظ درازست زو زمان خواهد شد
+مایه نقد بقا که ضمان خواهد شد
+از نظر تا شب عید رمضان خواهد شد
+که بباغ آمد از این راه وازآن خواهد شد
+چند گویی که چنین است وچنان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782393480342_1904" custom="readingOrder {index:1;}">
+            <Coords points="113,1745 543,1745 543,2571 113,2571" />
+            <TextLine id="line_1782393485949_1907" custom="readingOrder {index:0;}">
+                <Coords points="106,1753 551,1753 551,1881 106,1881" /><Baseline points="106,1832 551,1832" />
+                <Baseline points="119,1801 532,1827" />
+                <TextEquiv>
+                    <Unicode>از سر پیمان گذش باسر پیمانه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393516078_1913" custom="readingOrder {index:1;}">
+                <Coords points="98,1884 542,1884 542,2040 98,2040" /><Baseline points="98,1981 542,1981" />
+                <Baseline points="119,1973 523,1976" />
+                <TextEquiv>
+                    <Unicode>باز به پیرانه سر عاشق و دیوانه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393559829_1919" custom="readingOrder {index:2;}">
+                <Coords points="121,2048 546,2048 546,2159 121,2159" /><Baseline points="121,2117 546,2117" />
+                <Baseline points="121,2087 531,2122" />
+                <TextEquiv>
+                    <Unicode>در پی آن آشنا از همه بیگانه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393599615_1925" custom="readingOrder {index:3;}">
+                <Coords points="119,2213 545,2213 545,2321 119,2321" /><Baseline points="119,2280 545,2280" />
+                <Baseline points="130,2227 533,2264" />
+                <TextEquiv>
+                    <Unicode>چهره خندان شمع آفت پروانه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393634615_1931" custom="readingOrder {index:4;}">
+                <Coords points="115,2332 536,2332 536,2456 115,2456" /><Baseline points="115,2409 536,2409" />
+                <Baseline points="132,2366 527,2397" />
+                <TextEquiv>
+                    <Unicode>حلقه ی اوراد ما مجلس افسانه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393663313_1939" custom="readingOrder {index:5;}">
+                <Coords points="119,2462 540,2462 540,2582 119,2582" /><Baseline points="119,2536 540,2536" />
+                <Baseline points="113,2519 526,2541" />
+                <TextEquiv>
+                    <Unicode>قطره باران ما گوهر یک دانه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>از سر پیمان گذش باسر پیمانه شد
+باز به پیرانه سر عاشق و دیوانه شد
+در پی آن آشنا از همه بیگانه شد
+چهره خندان شمع آفت پروانه شد
+حلقه ی اوراد ما مجلس افسانه شد
+قطره باران ما گوهر یک دانه شد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782393120078_1846" custom="readingOrder {index:2;}">
+            <Coords points="376,1451 868,1451 868,1732 376,1732" />
+            <TextLine id="line_1782393123807_1849" custom="readingOrder {index:0;}">
+                <Coords points="376,1446 870,1446 870,1602 376,1602" /><Baseline points="376,1543 870,1543" />
+                <Baseline points="405,1527 823,1545" />
+                <TextEquiv>
+                    <Unicode>حافظ از بهر تو آمد سوی اقلیم وجود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393167649_1855" custom="readingOrder {index:1;}">
+                <Coords points="375,1603 848,1603 848,1740 375,1740" /><Baseline points="375,1688 848,1688" />
+                <Baseline points="401,1679 831,1690" />
+                <TextEquiv>
+                    <Unicode>قدمی نه به وداعش که روان خواهد شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ از بهر تو آمد سوی اقلیم وجود
+قدمی نه به وداعش که روان خواهد شد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782392596692_1750" custom="readingOrder {index:3;}">
+            <Coords points="629,466 1086,466 1086,1444 629,1444" />
+            <TextLine id="line_1782392600877_1753" custom="readingOrder {index:0;}">
+                <Coords points="633,474 1078,474 1078,598 633,598" /><Baseline points="633,551 1078,551" />
+                <Baseline points="670,516 1056,523" />
+                <TextEquiv>
+                    <Unicode>ارغوان جام عقیقی به سمین خواهد داد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782392628382_1759" custom="readingOrder {index:1;}">
+                <Coords points="630,599 1073,599 1073,725 630,725" /><Baseline points="630,677 1073,677" />
+                <Baseline points="629,653 1059,665" />
+                <TextEquiv>
+                    <Unicode>این تطاول که کشید از غم هجران بلبل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782392668709_1765" custom="readingOrder {index:2;}">
+                <Coords points="641,742 1075,742 1075,854 641,854" /><Baseline points="641,811 1075,811" />
+                <Baseline points="645,813 1069,814" />
+                <TextEquiv>
+                    <Unicode>گرز مسجد بخرابات شدم خرده مگیر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782392698036_1771" custom="readingOrder {index:3;}">
+                <Coords points="617,877 1073,877 1073,1019 617,1019" /><Baseline points="617,965 1073,965" />
+                <Baseline points="651,976 1051,968" />
+                <TextEquiv>
+                    <Unicode>ای دل از عشرت امروز به فردا فکنی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782392752929_1777" custom="readingOrder {index:4;}">
+                <Coords points="623,1026 1072,1026 1072,1153 623,1153" /><Baseline points="623,1105 1072,1105" />
+                <Baseline points="648,1081 1061,1099" />
+                <TextEquiv>
+                    <Unicode>ماه شعبان مده از دست قدح کین خورشید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782392785157_1785" custom="readingOrder {index:5;}">
+                <Coords points="633,1168 1076,1168 1076,1298 633,1298" /><Baseline points="633,1249 1076,1249" />
+                <Baseline points="649,1236 1034,1241" />
+                <TextEquiv>
+                    <Unicode>گل عزیزست غنیمت شمردیش صحبت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782392814055_1791" custom="readingOrder {index:6;}">
+                <Coords points="639,1308 1080,1308 1080,1444 639,1444" /><Baseline points="639,1392 1080,1392" />
+                <Baseline points="657,1371 1072,1399" />
+                <TextEquiv>
+                    <Unicode>مطربا مجلس انس است و غزلخوان و سرور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ارغوان جام عقیقی به سمین خواهد داد
+این تطاول که کشید از غم هجران بلبل
+گرز مسجد بخرابات شدم خرده مگیر
+ای دل از عشرت امروز به فردا فکنی
+ماه شعبان مده از دست قدح کین خورشید
+گل عزیزست غنیمت شمردیش صحبت
+مطربا مجلس انس است و غزلخوان و سرور</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782393210857_1861" custom="readingOrder {index:4;}">
+            <Coords points="641,1753 1086,1753 1086,2591 641,2591" />
+            <TextLine id="line_1782393214518_1864" custom="readingOrder {index:0;}">
+                <Coords points="642,1760 1086,1760 1086,1876 642,1876" /><Baseline points="642,1832 1086,1832" />
+                <Baseline points="623,1832 1071,1839" />
+                <TextEquiv>
+                    <Unicode>حافظ خلوت نشین دوش به میخانه شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393274578_1870" custom="readingOrder {index:1;}">
+                <Coords points="635,1886 1078,1886 1078,2028 635,2028" /><Baseline points="635,1974 1078,1974" />
+                <Baseline points="641,1966 1073,1972" />
+                <TextEquiv>
+                    <Unicode>شاهد عهد شباب آمده بودش به خواب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393307140_1876" custom="readingOrder {index:2;}">
+                <Coords points="631,2038 1078,2038 1078,2178 631,2178" /><Baseline points="631,2125 1078,2125" />
+                <Baseline points="647,2101 1073,2100" />
+                <TextEquiv>
+                    <Unicode>مغبچه ای می گذشت راه زن دین ودل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393341451_1882" custom="readingOrder {index:3;}">
+                <Coords points="642,2173 1094,2173 1094,2312 642,2312" /><Baseline points="642,2259 1094,2259" />
+                <Baseline points="645,2267 1074,2261" />
+                <TextEquiv>
+                    <Unicode>آتش رخسار گل خرمن بلبل بسوخت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393393820_1891" custom="readingOrder {index:4;}">
+                <Coords points="639,2318 1090,2318 1090,2452 639,2452" /><Baseline points="639,2401 1090,2401" />
+                <Baseline points="658,2395 1067,2397" />
+                <TextEquiv>
+                    <Unicode>نرگس ساق بخواند آیت افسونگری</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782393433906_1897" custom="readingOrder {index:5;}">
+                <Coords points="635,2457 1099,2457 1099,2599 635,2599" /><Baseline points="635,2545 1099,2545" />
+                <Baseline points="662,2532 1074,2532" />
+                <TextEquiv>
+                    <Unicode>گریه شام سحر شکر که ضایع نگشت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ خلوت نشین دوش به میخانه شد
+شاهد عهد شباب آمده بودش به خواب
+مغبچه ای می گذشت راه زن دین ودل
+آتش رخسار گل خرمن بلبل بسوخت
+نرگس ساق بخواند آیت افسونگری
+گریه شام سحر شکر که ضایع نگشت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

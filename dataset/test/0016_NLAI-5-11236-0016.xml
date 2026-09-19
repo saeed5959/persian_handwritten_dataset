@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.370+03:30</Created>
+        <LastChange>2026-06-14T19:20:11.139+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0016_NLAI-5-11236-0016.jpg" imageWidth="1152" imageHeight="1940">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781452211174" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781450757649_9" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781450757649_9" custom="readingOrder {index:0;}">
+            <Coords points="142,482 882,482 882,1687 142,1687" />
+            <TextLine id="line_1781450765240_15" custom="readingOrder {index:0;}">
+                <Coords points="204,623 489,623 489,518 204,518" /><Baseline points="204,583 489,583" />
+                <Baseline points="214,573 485,580" />
+                <TextEquiv>
+                    <Unicode>سراسر پر از رنگ و بوی و نگار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781450762124_12" custom="readingOrder {index:1;}">
+                <Coords points="538,630 835,630 835,519 538,519" /><Baseline points="538,588 835,588" />
+                <Baseline points="553,584 821,583" />
+                <TextEquiv>
+                    <Unicode>بیاراسته همچو باغ بهار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451667671_288" custom="readingOrder {index:2;}">
+                <Coords points="201,763 488,763 488,632 201,632" /><Baseline points="201,713 488,713" />
+                <Baseline points="208,699 477,700" />
+                <TextEquiv>
+                    <Unicode>جها آفرین را بر او بر بخواند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451664952_285" custom="readingOrder {index:3;}">
+                <Coords points="536,757 828,757 828,636 536,636" /><Baseline points="536,711 828,711" />
+                <Baseline points="551,700 823,704" />
+                <TextEquiv>
+                    <Unicode>شگفتی برودابه اندر بماند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451670687_291" custom="readingOrder {index:4;}">
+                <Coords points="536,888 834,888 834,767 536,767" /><Baseline points="536,842 834,842" />
+                <Baseline points="552,829 819,829" />
+                <TextEquiv>
+                    <Unicode>یکی سرو دید از برش گرد ماه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451673352_294" custom="readingOrder {index:5;}">
+                <Coords points="202,887 490,887 490,771 202,771" /><Baseline points="202,843 490,843" />
+                <Baseline points="210,826 478,828" />
+                <TextEquiv>
+                    <Unicode>نهاده ز عنبر بسر بر کلاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451679807_300" custom="readingOrder {index:6;}">
+                <Coords points="191,1018 496,1018 496,889 191,889" /><Baseline points="191,969 496,969" />
+                <Baseline points="212,950 480,954" />
+                <TextEquiv>
+                    <Unicode>بسان بهشتی پر از خواسته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451676415_297" custom="readingOrder {index:7;}">
+                <Coords points="543,1010 835,1010 835,906 543,906" /><Baseline points="543,970 835,970" />
+                <Baseline points="554,957 827,957" />
+                <TextEquiv>
+                    <Unicode>ز دیبا و گوهر بیاراسته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451685527_306" custom="readingOrder {index:8;}">
+                <Coords points="199,1138 506,1138 506,1016 199,1016" /><Baseline points="199,1092 506,1092" />
+                <Baseline points="205,1076 488,1072" />
+                <TextEquiv>
+                    <Unicode>ز خوشاب بگشاد عناب را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451682655_303" custom="readingOrder {index:9;}">
+                <Coords points="541,1136 846,1136 846,1022 541,1022" /><Baseline points="541,1093 846,1093" />
+                <Baseline points="552,1079 827,1081" />
+                <TextEquiv>
+                    <Unicode>بپرسید سیندخت مهرابرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451689039_309" custom="readingOrder {index:10;}">
+                <Coords points="537,1262 842,1262 842,1131 537,1131" /><Baseline points="537,1212 842,1212" />
+                <Baseline points="552,1210 834,1209" />
+                <TextEquiv>
+                    <Unicode>که چون رفتی امروز و چون آمدی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451692928_312" custom="readingOrder {index:11;}">
+                <Coords points="194,1257 500,1257 500,1143 194,1143" /><Baseline points="194,1214 500,1214" />
+                <Baseline points="209,1197 492,1205" />
+                <TextEquiv>
+                    <Unicode>که کوتاه باد از تو دست بدی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451696376_315" custom="readingOrder {index:12;}">
+                <Coords points="541,1391 829,1391 829,1260 541,1260" /><Baseline points="541,1341 829,1341" />
+                <Baseline points="551,1331 825,1330" />
+                <TextEquiv>
+                    <Unicode>چه مردست این پیر سر پور سام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451700176_318" custom="readingOrder {index:13;}">
+                <Coords points="199,1393 488,1393 488,1265 199,1265" /><Baseline points="199,1344 488,1344" />
+                <Baseline points="207,1326 481,1328" />
+                <TextEquiv>
+                    <Unicode>همی تخت یاد آیدش گر کنام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451703128_321" custom="readingOrder {index:14;}">
+                <Coords points="533,1513 839,1513 839,1398 533,1398" /><Baseline points="533,1469 839,1469" />
+                <Baseline points="546,1458 828,1463" />
+                <TextEquiv>
+                    <Unicode>خوی مردمی هیچ دارد همی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451707968_324" custom="readingOrder {index:15;}">
+                <Coords points="197,1504 487,1504 487,1399 197,1399" /><Baseline points="197,1464 487,1464" />
+                <Baseline points="211,1450 476,1460" />
+                <TextEquiv>
+                    <Unicode>پی نامداران سپارد همی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451714432_330" custom="readingOrder {index:16;}">
+                <Coords points="199,1631 503,1631 503,1513 199,1513" /><Baseline points="199,1586 503,1586" />
+                <Baseline points="212,1579 492,1579" />
+                <TextEquiv>
+                    <Unicode>چگونه است چهر و چگونه است یال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781451711112_327" custom="readingOrder {index:17;}">
+                <Coords points="541,1634 834,1634 834,1513 541,1513" /><Baseline points="541,1588 834,1588" />
+                <Baseline points="549,1579 823,1584" />
+                <TextEquiv>
+                    <Unicode>چه گوید ز سیمرغ فرخنده زال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سراسر پر از رنگ و بوی و نگار
+بیاراسته همچو باغ بهار
+جها آفرین را بر او بر بخواند
+شگفتی برودابه اندر بماند
+یکی سرو دید از برش گرد ماه
+نهاده ز عنبر بسر بر کلاه
+بسان بهشتی پر از خواسته
+ز دیبا و گوهر بیاراسته
+ز خوشاب بگشاد عناب را
+بپرسید سیندخت مهرابرا
+که چون رفتی امروز و چون آمدی
+که کوتاه باد از تو دست بدی
+چه مردست این پیر سر پور سام
+همی تخت یاد آیدش گر کنام
+خوی مردمی هیچ دارد همی
+پی نامداران سپارد همی
+چگونه است چهر و چگونه است یال
+چه گوید ز سیمرغ فرخنده زال</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

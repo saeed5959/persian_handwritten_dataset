@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:29.716+03:30</Created>
+        <LastChange>2026-06-19T20:21:04.395+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0084_NLAI-5-19596-0084.jpg" imageWidth="1598" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781887864438" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781887179531_485" />
+                <RegionRefIndexed index="1" regionRef="region_1781887303807_509" />
+                <RegionRefIndexed index="2" regionRef="region_1781887378932_524" />
+                <RegionRefIndexed index="3" regionRef="region_1781887694100_563" />
+                <RegionRefIndexed index="4" regionRef="region_1781887748626_578" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781887179531_485" custom="readingOrder {index:0;}">
+            <Coords points="101,512 1080,512 1080,938 101,938" />
+            <TextLine id="line_1781887184392_488" custom="readingOrder {index:0;}">
+                <Coords points="101,526 1080,526 1080,680 101,680" /><Baseline points="101,621 1080,621" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887192327_491" custom="readingOrder {index:1;}">
+                <Coords points="128,546 1045,570 1044,620 127,596" /><Baseline points="127,592 1045,592" />
+                <Baseline points="127,591 1044,615" />
+                <TextEquiv>
+                    <Unicode>چو رای عشق زدی با تو گفتم ای بلبل مکن که آن گل خندان برای خویشتن است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887235745_497" custom="readingOrder {index:2;}">
+                <Coords points="99,699 1077,699 1077,814 99,814" /><Baseline points="99,770 1077,770" />
+                <Baseline points="125,886 1054,898" />
+                <TextEquiv>
+                    <Unicode>به مشک چین و چگل نیست بوی گل محتاج که نافه هاش ز بند قبای خویشتن است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887274937_503" custom="readingOrder {index:3;}">
+                <Coords points="104,844 1077,844 1077,942 104,942" /><Baseline points="104,905 1077,905" />
+                <Baseline points="345,1027 836,1029" />
+                <TextEquiv>
+                    <Unicode>مرو به خانه ارباب بی مروت دهر که گنج عافیتت در سرای خویشتن است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چو رای عشق زدی با تو گفتم ای بلبل مکن که آن گل خندان برای خویشتن است
+به مشک چین و چگل نیست بوی گل محتاج که نافه هاش ز بند قبای خویشتن است
+مرو به خانه ارباب بی مروت دهر که گنج عافیتت در سرای خویشتن است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781887303807_509" custom="readingOrder {index:1;}">
+            <Coords points="293,956 860,956 860,1214 293,1214" />
+            <TextLine id="line_1781887309776_512" custom="readingOrder {index:0;}">
+                <Coords points="331,966 860,966 860,1081 331,1081" /><Baseline points="331,1037 860,1037" />
+                <Baseline points="356,1162 806,1181" />
+                <TextEquiv>
+                    <Unicode>بسوخت حافظ و در شرط عشقبازی او</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887334104_518" custom="readingOrder {index:1;}">
+                <Coords points="321,1106 836,1106 836,1216 321,1216" /><Baseline points="321,1174 836,1174" />
+                <Baseline points="104,1311 1068,1332" />
+                <TextEquiv>
+                    <Unicode>هنوز بر سر عهد و وفای خویشتن است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بسوخت حافظ و در شرط عشقبازی او
+هنوز بر سر عهد و وفای خویشتن است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781887378932_524" custom="readingOrder {index:2;}">
+            <Coords points="83,1219 1070,1219 1070,2113 83,2113" />
+            <TextLine id="line_1781887383376_527" custom="readingOrder {index:0;}">
+                <Coords points="101,1245 1087,1245 1087,1388 101,1388" /><Baseline points="101,1334 1087,1334" />
+                <Baseline points="132,1463 1052,1467" />
+                <TextEquiv>
+                    <Unicode>اگر چه باده فرح بخش و باد گل بیز است به بانگ چنگ مخور می که محتسب تیز است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887492728_533" custom="readingOrder {index:1;}">
+                <Coords points="87,1409 1075,1409 1075,1526 87,1526" /><Baseline points="87,1482 1075,1482" />
+                <Baseline points="106,1594 1084,1603" />
+                <TextEquiv>
+                    <Unicode>صراحی ای و حریفی گرت به چنگ افتد به عقل نوش که ایام فتنه انگیز است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887517052_539" custom="readingOrder {index:2;}">
+                <Coords points="92,1549 1082,1549 1082,1662 92,1662" /><Baseline points="92,1619 1082,1619" />
+                <Baseline points="118,1741 1049,1758" />
+                <TextEquiv>
+                    <Unicode>در آستین مرقع پیاله پنهان کن که همچو چشم صراحی زمانه خون ریز است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887541576_545" custom="readingOrder {index:3;}">
+                <Coords points="99,1683 1075,1683 1075,1809 99,1809" /><Baseline points="99,1761 1075,1761" />
+                <Baseline points="104,1889 1061,1893" />
+                <TextEquiv>
+                    <Unicode>به آب دیده بشوییم خرقه ها از می که موسم ورع و روزگار پرهیز است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887619192_551" custom="readingOrder {index:4;}">
+                <Coords points="85,1823 1084,1823 1084,1961 85,1961" /><Baseline points="85,1909 1084,1909" />
+                <Baseline points="118,2022 1052,2048" />
+                <TextEquiv>
+                    <Unicode>مجوی عیش خوش از دور باژگون سپهر که صاف این سر خم جمله دردی آمیز است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887667766_557" custom="readingOrder {index:5;}">
+                <Coords points="92,1975 1080,1975 1080,2106 92,2106" /><Baseline points="92,2056 1080,2056" />
+                <Baseline points="361,2179 815,2188" />
+                <TextEquiv>
+                    <Unicode>سپهر برشده پرویزنیست خون افشان که ریزه اش سر کسری و تاج پرویز است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اگر چه باده فرح بخش و باد گل بیز است به بانگ چنگ مخور می که محتسب تیز است
+صراحی ای و حریفی گرت به چنگ افتد به عقل نوش که ایام فتنه انگیز است
+در آستین مرقع پیاله پنهان کن که همچو چشم صراحی زمانه خون ریز است
+به آب دیده بشوییم خرقه ها از می که موسم ورع و روزگار پرهیز است
+مجوی عیش خوش از دور باژگون سپهر که صاف این سر خم جمله دردی آمیز است
+سپهر برشده پرویزنیست خون افشان که ریزه اش سر کسری و تاج پرویز است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781887694100_563" custom="readingOrder {index:3;}">
+            <Coords points="322,2116 818,2116 818,2375 322,2375" />
+            <TextLine id="line_1781887698176_566" custom="readingOrder {index:0;}">
+                <Coords points="343,2130 832,2130 832,2230 343,2230" /><Baseline points="343,2192 832,2192" />
+                <Baseline points="357,2319 780,2331" />
+                <TextEquiv>
+                    <Unicode>عراق و فارس گرفتی به شعر خوش حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887719340_572" custom="readingOrder {index:1;}">
+                <Coords points="331,2256 794,2256 794,2373 331,2373" /><Baseline points="331,2329 794,2329" />
+                <Baseline points="104,2455 1028,2467" />
+                <TextEquiv>
+                    <Unicode>بیا که نوبت بغداد و وقت تبریز است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>عراق و فارس گرفتی به شعر خوش حافظ
+بیا که نوبت بغداد و وقت تبریز است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781887748626_578" custom="readingOrder {index:4;}">
+            <Coords points="80,2389 80,2659 1092,2659 1092,2389" />
+            <TextLine id="line_1781887748673_581" custom="readingOrder {index:0;}">
+                <Coords points="80,2389 1092,2389 1092,2659 80,2659" /><Baseline points="80,2556 1092,2556" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887753608_584" custom="readingOrder {index:1;}">
+                <Coords points="76,2408 1066,2408 1066,2506 76,2506" /><Baseline points="76,2469 1066,2469" />
+                <Baseline points="104,2588 1063,2621" />
+                <TextEquiv>
+                    <Unicode>المنه لله که در میکده باز است زان رو که مرا بر در او روی نیاز است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887832956_591" custom="readingOrder {index:2;}">
+                <Coords points="69,2530 1096,2530 1096,2652 69,2652" /><Baseline points="69,2606 1096,2606" />
+                <TextEquiv>
+                    <Unicode>خم ها همه در جوش و خروشند ز مستی وان می که در آن جاست حقیقت نه مجاز است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>المنه لله که در میکده باز است زان رو که مرا بر در او روی نیاز است
+خم ها همه در جوش و خروشند ز مستی وان می که در آن جاست حقیقت نه مجاز است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

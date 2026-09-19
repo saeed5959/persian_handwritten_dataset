@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T19:59:33.592+03:30</Created>
+        <LastChange>2026-06-28T14:12:21.352+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0111_NLAI-5-19596-0111.jpg" imageWidth="1543" imageHeight="2740">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782643341397" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782642445624_2389" />
+                <RegionRefIndexed index="1" regionRef="region_1782643143441_2503" />
+                <RegionRefIndexed index="2" regionRef="region_1782642900994_2456" />
+                <RegionRefIndexed index="3" regionRef="region_1782641955331_2332" />
+                <RegionRefIndexed index="4" regionRef="region_1782642986027_2471" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782642445624_2389" custom="readingOrder {index:0;}">
+            <Coords points="443,424 938,424 938,1712 443,1712" />
+            <TextLine id="line_1782642458940_2392" custom="readingOrder {index:0;}">
+                <Coords points="468,442 927,442 927,577 468,577" /><Baseline points="468,526 927,526" />
+                <Baseline points="491,509 913,522" />
+                <TextEquiv>
+                    <Unicode>توبه فرمایان چرا خود توبه کم تر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642507704_2398" custom="readingOrder {index:1;}">
+                <Coords points="480,584 939,584 939,696 480,696" /><Baseline points="480,653 939,653" />
+                <Baseline points="494,640 916,645" />
+                <TextEquiv>
+                    <Unicode>کاین همه قلب و دغل در کار داور می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642553360_2404" custom="readingOrder {index:2;}">
+                <Coords points="476,706 928,706 928,844 476,844" /><Baseline points="476,792 928,792" />
+                <Baseline points="486,775 907,780" />
+                <TextEquiv>
+                    <Unicode>گنج را از بی نیازی خاک بر سر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642615336_2410" custom="readingOrder {index:3;}">
+                <Coords points="477,850 918,850 918,974 477,974" /><Baseline points="477,927 918,927" />
+                <Baseline points="489,909 908,915" />
+                <TextEquiv>
+                    <Unicode>می دهند آبی که دل ها را توانگر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642663352_2416" custom="readingOrder {index:4;}">
+                <Coords points="474,984 929,984 929,1133 474,1133" /><Baseline points="474,1076 929,1076" />
+                <Baseline points="485,1050 907,1075" />
+                <TextEquiv>
+                    <Unicode>کاین همه ناز از غلام ترک و استر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642696524_2422" custom="readingOrder {index:5;}">
+                <Coords points="470,1141 936,1141 936,1273 470,1273" /><Baseline points="470,1223 936,1223" />
+                <Baseline points="480,1200 905,1215" />
+                <TextEquiv>
+                    <Unicode>کاندر آنجا طینت آدم مخمر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642736252_2428" custom="readingOrder {index:6;}">
+                <Coords points="468,1292 915,1292 915,1412 468,1412" /><Baseline points="468,1366 915,1366" />
+                <Baseline points="475,1349 899,1361" />
+                <TextEquiv>
+                    <Unicode>زمره دیگر به عشق از غیب سر بر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642766044_2434" custom="readingOrder {index:7;}">
+                <Coords points="469,1420 928,1420 928,1567 469,1567" /><Baseline points="469,1511 928,1511" />
+                <Baseline points="475,1489 900,1488" />
+                <TextEquiv>
+                    <Unicode>کین هوس ناکان دل و جان جای دیگر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642821808_2440" custom="readingOrder {index:8;}">
+                <Coords points="467,1577 908,1577 908,1696 467,1696" /><Baseline points="467,1651 908,1651" />
+                <Baseline points="475,1647 892,1651" />
+                <TextEquiv>
+                    <Unicode>بارها خر مهره را با در برابر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>توبه فرمایان چرا خود توبه کم تر می کنند
+کاین همه قلب و دغل در کار داور می کنند
+گنج را از بی نیازی خاک بر سر می کنند
+می دهند آبی که دل ها را توانگر می کنند
+کاین همه ناز از غلام ترک و استر می کنند
+کاندر آنجا طینت آدم مخمر می کنند
+زمره دیگر به عشق از غیب سر بر می کنند
+کین هوس ناکان دل و جان جای دیگر
+بارها خر مهره را با در برابر می کنند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782643143441_2503" custom="readingOrder {index:1;}">
+            <Coords points="447,1974 912,1974 912,2538 447,2538" />
+            <TextLine id="line_1782643154679_2506" custom="readingOrder {index:0;}">
+                <Coords points="463,1983 901,1983 901,2132 463,2132" /><Baseline points="463,2075 901,2075" />
+                <Baseline points="483,2052 891,2073" />
+                <TextEquiv>
+                    <Unicode>پنهان خورید باده که تکفیر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782643241570_2512" custom="readingOrder {index:1;}">
+                <Coords points="468,2140 898,2140 898,2270 468,2270" /><Baseline points="468,2221 898,2221" />
+                <Baseline points="481,2213 879,2213" />
+                <TextEquiv>
+                    <Unicode>عیب جوان و سرزنش پیر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782643277682_2523" custom="readingOrder {index:2;}">
+                <Coords points="455,2277 901,2277 901,2403 455,2403" /><Baseline points="455,2355 901,2355" />
+                <Baseline points="467,2354 883,2342" />
+                <TextEquiv>
+                    <Unicode>مشکل حکایتی است که تقریر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782643312751_2529" custom="readingOrder {index:3;}">
+                <Coords points="455,2406 900,2406 900,2540 455,2540" /><Baseline points="455,2489 900,2489" />
+                <Baseline points="462,2457 882,2481" />
+                <TextEquiv>
+                    <Unicode>باطل در این خیال که اکسیر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>پنهان خورید باده که تکفیر می کنند
+عیب جوان و سرزنش پیر می کنند
+مشکل حکایتی است که تقریر می کنند
+باطل در این خیال که اکسیر می کنند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782642900994_2456" custom="readingOrder {index:2;}">
+            <Coords points="694,1712 1200,1712 1200,1977 694,1977" />
+            <TextLine id="line_1782642911403_2459" custom="readingOrder {index:0;}">
+                <Coords points="704,1716 1193,1716 1193,1839 704,1839" /><Baseline points="704,1792 1193,1792" />
+                <Baseline points="715,1790 1182,1780" />
+                <TextEquiv>
+                    <Unicode>صبح دم از عرش می آمد خروشی عقل گفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642945883_2465" custom="readingOrder {index:1;}">
+                <Coords points="700,1849 1170,1849 1170,1974 700,1974" /><Baseline points="700,1926 1170,1926" />
+                <Baseline points="707,1895 1146,1927" />
+                <TextEquiv>
+                    <Unicode>قدسیا گویی که شعر حافظ از بر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>صبح دم از عرش می آمد خروشی عقل گفت
+قدسیا گویی که شعر حافظ از بر می کنند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782641955331_2332" custom="readingOrder {index:3;}">
+            <Coords points="964,448 1457,448 1457,1699 964,1699" />
+            <TextLine id="line_1782641968157_2335" custom="readingOrder {index:0;}">
+                <Coords points="1003,453 1445,453 1445,595 1003,595" /><Baseline points="1003,541 1445,541" />
+                <Baseline points="1022,506 1428,518" />
+                <TextEquiv>
+                    <Unicode>مشکلی دارم ز دانشمند مجلس بازپرس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642034000_2341" custom="readingOrder {index:1;}">
+                <Coords points="1005,601 1447,601 1447,710 1005,710" /><Baseline points="1005,669 1447,669" />
+                <Baseline points="1019,649 1424,653" />
+                <TextEquiv>
+                    <Unicode>گوییا باور نمی دارند روز داوری</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642074277_2347" custom="readingOrder {index:2;}">
+                <Coords points="1006,721 1437,721 1437,866 1006,866" /><Baseline points="1006,811 1437,811" />
+                <Baseline points="1013,783 1422,792" />
+                <TextEquiv>
+                    <Unicode>بنده پیر خراباتم که درویشان او</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642142677_2353" custom="readingOrder {index:3;}">
+                <Coords points="1005,868 1428,868 1428,987 1005,987" /><Baseline points="1005,942 1428,942" />
+                <Baseline points="1012,927 1419,939" />
+                <TextEquiv>
+                    <Unicode>ای گدای خانقه بازا که در دیر مغان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642205801_2359" custom="readingOrder {index:4;}">
+                <Coords points="995,993 1433,993 1433,1144 995,1144" /><Baseline points="995,1087 1433,1087" />
+                <Baseline points="1001,1065 1421,1082" />
+                <TextEquiv>
+                    <Unicode>یا رب این نودولتان را با خر خودشان نشان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642249009_2365" custom="readingOrder {index:5;}">
+                <Coords points="994,1156 1433,1156 1433,1279 994,1279" /><Baseline points="994,1232 1433,1232" />
+                <Baseline points="1007,1213 1419,1221" />
+                <TextEquiv>
+                    <Unicode>بر در می خانه عشق ای ملک تسبیح گوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642292716_2371" custom="readingOrder {index:6;}">
+                <Coords points="995,1285 1429,1285 1429,1430 995,1430" /><Baseline points="995,1375 1429,1375" />
+                <Baseline points="1004,1351 1397,1369" />
+                <TextEquiv>
+                    <Unicode>حسن بی پایان او چندان که عاشق می کشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642329736_2377" custom="readingOrder {index:7;}">
+                <Coords points="994,1435 1428,1435 1428,1555 994,1555" /><Baseline points="994,1509 1428,1509" />
+                <Baseline points="1001,1485 1407,1507" />
+                <TextEquiv>
+                    <Unicode>خانه خالی کن ولا تا منزل جانان شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782642374393_2383" custom="readingOrder {index:8;}">
+                <Coords points="992,1558 1424,1558 1424,1701 992,1701" /><Baseline points="992,1647 1424,1647" />
+                <Baseline points="998,1618 1415,1639" />
+                <TextEquiv>
+                    <Unicode>آه ازین بازار صرافان گوهر ناشناس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مشکلی دارم ز دانشمند مجلس بازپرس
+گوییا باور نمی دارند روز داوری
+بنده پیر خراباتم که درویشان او
+ای گدای خانقه بازا که در دیر مغان
+یا رب این نودولتان را با خر خودشان نشان
+بر در می خانه عشق ای ملک تسبیح گوی
+حسن بی پایان او چندان که عاشق می کشد
+خانه خالی کن ولا تا منزل جانان شود
+آه ازین بازار صرافان گوهر ناشناس</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782642986027_2471" custom="readingOrder {index:4;}">
+            <Coords points="981,1982 1443,1982 1443,2548 981,2548" />
+            <TextLine id="line_1782642993995_2474" custom="readingOrder {index:0;}">
+                <Coords points="987,1996 1416,1996 1416,2132 987,2132" /><Baseline points="987,2080 1416,2080" />
+                <Baseline points="998,2085 1407,2082" />
+                <TextEquiv>
+                    <Unicode>دانی که چنگ و عود چه تقریر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782643032043_2480" custom="readingOrder {index:1;}">
+                <Coords points="985,2150 1423,2150 1423,2274 985,2274" /><Baseline points="985,2227 1423,2227" />
+                <Baseline points="993,2205 1408,2221" />
+                <TextEquiv>
+                    <Unicode>ناموس عشق و رونق عشاق می برند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782643068771_2486" custom="readingOrder {index:2;}">
+                <Coords points="979,2284 1418,2284 1418,2423 979,2423" /><Baseline points="979,2370 1418,2370" />
+                <Baseline points="987,2340 1403,2348" />
+                <TextEquiv>
+                    <Unicode>جز قلب تیره هیچ نشد حاصل و هنوز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782643111911_2497" custom="readingOrder {index:3;}">
+                <Coords points="991,2425 1418,2425 1418,2531 991,2531" /><Baseline points="991,2491 1418,2491" />
+                <Baseline points="999,2474 1399,2479" />
+                <TextEquiv>
+                    <Unicode>گویند رمز عشق مگویید و مشنوید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دانی که چنگ و عود چه تقریر می کنند
+ناموس عشق و رونق عشاق می برند
+جز قلب تیره هیچ نشد حاصل و هنوز
+گویند رمز عشق مگویید و مشنوید</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

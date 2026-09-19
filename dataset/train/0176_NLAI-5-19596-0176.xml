@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T11:45:56.853+03:30</Created>
+        <LastChange>2026-06-25T21:53:53.298+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0176_NLAI-5-19596-0176.jpg" imageWidth="1506" imageHeight="2832">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782411833335" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782410949510_3495" />
+                <RegionRefIndexed index="1" regionRef="region_1782411558630_3621" />
+                <RegionRefIndexed index="2" regionRef="region_1782411004935_3519" />
+                <RegionRefIndexed index="3" regionRef="region_1782411098048_3535" />
+                <RegionRefIndexed index="4" regionRef="region_1782410822453_3468" />
+                <RegionRefIndexed index="5" regionRef="region_1782411160726_3556" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782410949510_3495" custom="readingOrder {index:0;}">
+            <Coords points="51,464 505,464 505,1045 51,1045" />
+            <TextLine id="line_1782410951989_3498" custom="readingOrder {index:0;}">
+                <Coords points="51,449 509,449 509,612 51,612" /><Baseline points="51,550 509,550" />
+                <TextEquiv>
+                    <Unicode>چه دامنگیر یا رب منزلی بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782410966683_3505" custom="readingOrder {index:1;}">
+                <Coords points="54,631 502,631 502,747 54,747" /><Baseline points="54,703 502,703" />
+                <Baseline points="83,692 498,689" />
+                <TextEquiv>
+                    <Unicode>که روزگار دان کاملی بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411016795_3523" custom="readingOrder {index:2;}">
+                <Coords points="71,762 510,762 510,886 71,886" /><Baseline points="71,839 510,839" />
+                <Baseline points="80,830 493,832" />
+                <TextEquiv>
+                    <Unicode>حدیثم نکته ی هر محفلی بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411060699_3529" custom="readingOrder {index:3;}">
+                <Coords points="59,914 512,914 512,1041 59,1041" /><Baseline points="59,993 512,993" />
+                <Baseline points="92,980 505,992" />
+                <TextEquiv>
+                    <Unicode>ولی از اصل او بی حاصلی بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چه دامنگیر یا رب منزلی بود
+که روزگار دان کاملی بود
+حدیثم نکته ی هر محفلی بود
+ولی از اصل او بی حاصلی بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782411558630_3621" custom="readingOrder {index:1;}">
+            <Coords points="47,1330 465,1330 465,2598 47,2598" />
+            <TextLine id="line_1782411562109_3624" custom="readingOrder {index:0;}">
+                <Coords points="74,1334 499,1334 499,1453 74,1453" /><Baseline points="74,1408 499,1408" />
+                <Baseline points="77,1401 475,1409" />
+                <TextEquiv>
+                    <Unicode>سر تا قدمش چون پری از عیب بری بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411593038_3630" custom="readingOrder {index:1;}">
+                <Coords points="54,1468 491,1468 491,1625 54,1625" /><Baseline points="54,1565 491,1565" />
+                <Baseline points="42,1523 469,1564" />
+                <TextEquiv>
+                    <Unicode>بیچاره ندانست که یارش سفری بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411611219_3638" custom="readingOrder {index:2;}">
+                <Coords points="24,1617 499,1617 499,1756 24,1756" /><Baseline points="24,1703 499,1703" />
+                <Baseline points="66,1659 467,1697" />
+                <TextEquiv>
+                    <Unicode>تا بود فلک شیوه ان پرده دری بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411639454_3644" custom="readingOrder {index:3;}">
+                <Coords points="38,1755 486,1755 486,1929 38,1929" /><Baseline points="38,1863 486,1863" />
+                <Baseline points="48,1812 477,1860" />
+                <TextEquiv>
+                    <Unicode>با حسن ادب شیوه صاحب نظری بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411666223_3650" custom="readingOrder {index:4;}">
+                <Coords points="62,1919 493,1919 493,2047 62,2047" /><Baseline points="62,1998 493,1998" />
+                <Baseline points="74,1963 497,1987" />
+                <TextEquiv>
+                    <Unicode>بیچاره ندانست که یارش سفری بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411710852_3656" custom="readingOrder {index:5;}">
+                <Coords points="59,2057 505,2057 505,2186 59,2186" /><Baseline points="59,2137 505,2137" />
+                <Baseline points="90,2106 483,2132" />
+                <TextEquiv>
+                    <Unicode>در مملکت حسن سر تاجوری بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411741611_3662" custom="readingOrder {index:6;}">
+                <Coords points="45,2194 480,2194 480,2327 45,2327" /><Baseline points="45,2276 480,2276" />
+                <Baseline points="64,2237 476,2285" />
+                <TextEquiv>
+                    <Unicode>باقی همه بی حاصلی و بوالهوسی بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411773092_3669" custom="readingOrder {index:7;}">
+                <Coords points="53,2335 482,2335 482,2481 53,2481" /><Baseline points="53,2426 482,2426" />
+                <Baseline points="54,2379 481,2415" />
+                <TextEquiv>
+                    <Unicode>افسوس که آن سرو روان رهگذری</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411810116_3679" custom="readingOrder {index:8;}">
+                <Coords points="48,2470 478,2470 478,2604 48,2604" /><Baseline points="48,2553 478,2553" />
+                <Baseline points="55,2513 466,2565" />
+                <TextEquiv>
+                    <Unicode>با باد صبا وقت سحر جلوه گری بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سر تا قدمش چون پری از عیب بری بود
+بیچاره ندانست که یارش سفری بود
+تا بود فلک شیوه ان پرده دری بود
+با حسن ادب شیوه صاحب نظری بود
+بیچاره ندانست که یارش سفری بود
+در مملکت حسن سر تاجوری بود
+باقی همه بی حاصلی و بوالهوسی بود
+افسوس که آن سرو روان رهگذری
+با باد صبا وقت سحر جلوه گری بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782411004935_3519" custom="readingOrder {index:2;}">
+            <Coords points="73,743 73,749 73,743" />
+        </TextRegion>
+        <TextRegion id="region_1782411098048_3535" custom="readingOrder {index:3;}">
+            <Coords points="358,1039 815,1039 815,1319 358,1319" />
+            <TextLine id="line_1782411102858_3538" custom="readingOrder {index:0;}">
+                <Coords points="354,1041 819,1041 819,1192 354,1192" /><Baseline points="354,1135 819,1135" />
+                <Baseline points="346,1135 796,1137" />
+                <TextEquiv>
+                    <Unicode>مگو دیگر که حافظ نکته دانست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411130193_3547" custom="readingOrder {index:1;}">
+                <Coords points="350,1201 813,1201 813,1317 350,1317" /><Baseline points="350,1273 813,1273" />
+                <Baseline points="352,1279 781,1281" />
+                <TextEquiv>
+                    <Unicode>که ما دیدیم محکم جاهلی بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مگو دیگر که حافظ نکته دانست
+که ما دیدیم محکم جاهلی بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782410822453_3468" custom="readingOrder {index:4;}">
+            <Coords points="594,471 1034,471 1034,1053 594,1053" />
+            <TextLine id="line_1782410828190_3471" custom="readingOrder {index:0;}">
+                <Coords points="606,483 1046,483 1046,636 606,636" /><Baseline points="606,578 1046,578" />
+                <Baseline points="616,556 1029,555" />
+                <TextEquiv>
+                    <Unicode>ز من ضایع شد اندر کوی جانان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782410860462_3477" custom="readingOrder {index:1;}">
+                <Coords points="587,640 1031,640 1031,766 587,766" /><Baseline points="587,718 1031,718" />
+                <Baseline points="599,699 1019,706" />
+                <TextEquiv>
+                    <Unicode>بدین مست پریشان رحمت آرید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782410893358_3483" custom="readingOrder {index:2;}">
+                <Coords points="599,776 1038,776 1038,885 599,885" /><Baseline points="599,844 1038,844" />
+                <Baseline points="595,818 1039,829" />
+                <TextEquiv>
+                    <Unicode>مرا تا عشق تعلیم سخن کرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782410910733_3489" custom="readingOrder {index:3;}">
+                <Coords points="594,909 1038,909 1038,1052 594,1052" /><Baseline points="594,998 1038,998" />
+                <Baseline points="617,965 1022,983" />
+                <TextEquiv>
+                    <Unicode>سربشکنم در طلب درها چکاند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ز من ضایع شد اندر کوی جانان
+بدین مست پریشان رحمت آرید
+مرا تا عشق تعلیم سخن کرد
+سربشکنم در طلب درها چکاند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782411160726_3556" custom="readingOrder {index:5;}">
+            <Coords points="587,1331 1039,1331 1039,2630 587,2630" />
+            <TextLine id="line_1782411165172_3559" custom="readingOrder {index:0;}">
+                <Coords points="590,1333 1041,1333 1041,1494 590,1494" /><Baseline points="590,1433 1041,1433" />
+                <Baseline points="603,1424 1010,1419" />
+                <TextEquiv>
+                    <Unicode>آن یار کز او خانه ما جای پری بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411312843_3565" custom="readingOrder {index:1;}">
+                <Coords points="582,1493 1024,1493 1024,1606 582,1606" /><Baseline points="582,1563 1024,1563" />
+                <Baseline points="595,1548 1010,1555" />
+                <TextEquiv>
+                    <Unicode>دل گفت فروکش کنم این شهر به بویش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411336503_3573" custom="readingOrder {index:2;}">
+                <Coords points="584,1628 1012,1628 1012,1744 584,1744" /><Baseline points="584,1700 1012,1700" />
+                <Baseline points="594,1693 1019,1701" />
+                <TextEquiv>
+                    <Unicode>تنها نه ز راز دل ما پرده برافتاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411370346_3581" custom="readingOrder {index:3;}">
+                <Coords points="578,1756 1047,1756 1047,1899 578,1899" /><Baseline points="578,1845 1047,1845" />
+                <Baseline points="584,1853 1024,1844" />
+                <TextEquiv>
+                    <Unicode>منظور خردمند من آن ماه که او را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411398350_3587" custom="readingOrder {index:4;}">
+                <Coords points="573,1902 1029,1902 1029,2031 573,2031" /><Baseline points="573,1982 1029,1982" />
+                <Baseline points="587,1978 1016,2001" />
+                <TextEquiv>
+                    <Unicode>از چنگ منش اختر بدمهر به در کرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411423947_3594" custom="readingOrder {index:5;}">
+                <Coords points="564,2043 1035,2043 1035,2208 564,2208" /><Baseline points="564,2145 1035,2145" />
+                <Baseline points="581,2127 1018,2155" />
+                <TextEquiv>
+                    <Unicode>عذرش بنه ای دل که تو درویشی و او را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411450853_3600" custom="readingOrder {index:6;}">
+                <Coords points="564,2210 1028,2210 1028,2337 564,2337" /><Baseline points="564,2289 1028,2289" />
+                <Baseline points="585,2253 1029,2292" />
+                <TextEquiv>
+                    <Unicode>اوقات خوش آن بود که با دوست به سر رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411486128_3608" custom="readingOrder {index:7;}">
+                <Coords points="578,2352 1023,2352 1023,2482 578,2482" /><Baseline points="578,2433 1023,2433" />
+                <Baseline points="592,2391 1007,2417" />
+                <TextEquiv>
+                    <Unicode>خوش بود لب آب و گل و سبزه لیکن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782411508639_3614" custom="readingOrder {index:8;}">
+                <Coords points="577,2483 1007,2483 1007,2606 577,2606" /><Baseline points="577,2559 1007,2559" />
+                <Baseline points="589,2511 1005,2572" />
+                <TextEquiv>
+                    <Unicode>خود را بکش ای بلبل از این رشک که گل را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>آن یار کز او خانه ما جای پری بود
+دل گفت فروکش کنم این شهر به بویش
+تنها نه ز راز دل ما پرده برافتاد
+منظور خردمند من آن ماه که او را
+از چنگ منش اختر بدمهر به در کرد
+عذرش بنه ای دل که تو درویشی و او را
+اوقات خوش آن بود که با دوست به سر رفت
+خوش بود لب آب و گل و سبزه لیکن
+خود را بکش ای بلبل از این رشک که گل را</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

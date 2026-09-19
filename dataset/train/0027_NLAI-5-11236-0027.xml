@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.810+03:30</Created>
+        <LastChange>2026-06-18T21:52:02.671+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0027_NLAI-5-11236-0027.jpg" imageWidth="1188" imageHeight="1960">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781806922687" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781806360124_249" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781806360124_249" custom="readingOrder {index:0;}">
+            <Coords points="272,486 1046,486 1046,1712 272,1712" />
+            <TextLine id="line_1781806366396_255" custom="readingOrder {index:0;}">
+                <Coords points="310,639 636,639 636,515 310,515" /><Baseline points="310,592 636,592" />
+                <Baseline points="331,586 617,581" />
+                <TextEquiv>
+                    <Unicode>مکن گفت ازین گونه بر شاه یاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806364411_252" custom="readingOrder {index:1;}">
+                <Coords points="663,647 996,647 996,515 663,515" /><Baseline points="663,597 996,597" />
+                <Baseline points="672,588 975,588" />
+                <TextEquiv>
+                    <Unicode>سبک بنده دندان به لب برنهاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806369220_258" custom="readingOrder {index:2;}">
+                <Coords points="664,786 978,786 978,653 664,653" /><Baseline points="664,735 978,735" />
+                <Baseline points="675,719 966,710" />
+                <TextEquiv>
+                    <Unicode>شه نیمروزاست فرزند سام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806371684_261" custom="readingOrder {index:3;}">
+                <Coords points="312,771 630,771 630,654 312,654" /><Baseline points="312,727 630,727" />
+                <Baseline points="322,715 605,716" />
+                <TextEquiv>
+                    <Unicode>که دستانش خوانند شاهان بنام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806373909_264" custom="readingOrder {index:4;}">
+                <Coords points="663,895 981,895 981,772 663,772" /><Baseline points="663,848 981,848" />
+                <Baseline points="680,845 979,842" />
+                <TextEquiv>
+                    <Unicode>نکرد و فلک بر چنو یک سوار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806376732_267" custom="readingOrder {index:5;}">
+                <Coords points="319,893 622,893 622,781 319,781" /><Baseline points="319,850 622,850" />
+                <Baseline points="338,840 608,840" />
+                <TextEquiv>
+                    <Unicode>زمانه نبیند یکی نامدار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806382332_273" custom="readingOrder {index:6;}">
+                <Coords points="316,1035 622,1035 622,899 316,899" /><Baseline points="316,983 622,983" />
+                <Baseline points="333,972 602,970" />
+                <TextEquiv>
+                    <Unicode>بخندید و گفتش که چونین مگوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806379107_270" custom="readingOrder {index:7;}">
+                <Coords points="661,1023 970,1023 970,908 661,908" /><Baseline points="661,979 970,979" />
+                <Baseline points="676,976 963,975" />
+                <TextEquiv>
+                    <Unicode>پرستنده با کودک ماه روی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806387412_279" custom="readingOrder {index:8;}">
+                <Coords points="304,1149 610,1149 610,1022 304,1022" /><Baseline points="304,1101 610,1101" />
+                <Baseline points="325,1087 607,1093" />
+                <TextEquiv>
+                    <Unicode>بیک سر ز شاه تو برتر بپای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806384717_276" custom="readingOrder {index:9;}">
+                <Coords points="657,1155 988,1155 988,1026 657,1026" /><Baseline points="657,1106 988,1106" />
+                <Baseline points="667,1099 978,1096" />
+                <TextEquiv>
+                    <Unicode>که ماهی است مهراب را در سرای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806393564_285" custom="readingOrder {index:10;}">
+                <Coords points="322,1287 611,1287 611,1146 322,1146" /><Baseline points="322,1233 611,1233" />
+                <Baseline points="327,1220 599,1228" />
+                <TextEquiv>
+                    <Unicode>یکی ایزدی بر سر از مشک تاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806390652_282" custom="readingOrder {index:11;}">
+                <Coords points="661,1288 975,1288 975,1161 661,1161" /><Baseline points="661,1240 975,1240" />
+                <Baseline points="670,1228 969,1226" />
+                <TextEquiv>
+                    <Unicode>ببالای ساج است و همرنگ عاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806396500_288" custom="readingOrder {index:12;}">
+                <Coords points="666,1412 985,1412 985,1281 666,1281" /><Baseline points="666,1362 985,1362" />
+                <Baseline points="669,1359 969,1359" />
+                <TextEquiv>
+                    <Unicode>دو نرگس دژم ابروان پر ز خم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806400436_291" custom="readingOrder {index:13;}">
+                <Coords points="321,1406 617,1406 617,1285 321,1285" /><Baseline points="321,1360 617,1360" />
+                <Baseline points="336,1350 607,1346" />
+                <TextEquiv>
+                    <Unicode>ستون دو ابرو چو سیمین قلم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806408452_297" custom="readingOrder {index:14;}">
+                <Coords points="312,1526 617,1526 617,1412 312,1412" /><Baseline points="312,1483 617,1483" />
+                <Baseline points="316,1476 608,1476" />
+                <TextEquiv>
+                    <Unicode>سر زلف چون حلقه پای بند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806405213_294" custom="readingOrder {index:15;}">
+                <Coords points="664,1523 987,1523 987,1414 664,1414" /><Baseline points="664,1482 987,1482" />
+                <Baseline points="673,1477 967,1476" />
+                <TextEquiv>
+                    <Unicode>دهانش به تنگی دل مستمند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806411484_300" custom="readingOrder {index:16;}">
+                <Coords points="672,1650 976,1650 976,1533 672,1533" /><Baseline points="672,1606 976,1606" />
+                <Baseline points="681,1600 956,1607" />
+                <TextEquiv>
+                    <Unicode>دو جادوش پر خواب و پرآب روی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781806415492_303" custom="readingOrder {index:17;}">
+                <Coords points="313,1651 628,1651 628,1535 313,1535" /><Baseline points="313,1607 628,1607" />
+                <Baseline points="338,1586 604,1606" />
+                <TextEquiv>
+                    <Unicode>پر از لاله رخسار و پر مشک موی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مکن گفت ازین گونه بر شاه یاد
+سبک بنده دندان به لب برنهاد
+شه نیمروزاست فرزند سام
+که دستانش خوانند شاهان بنام
+نکرد و فلک بر چنو یک سوار
+زمانه نبیند یکی نامدار
+بخندید و گفتش که چونین مگوی
+پرستنده با کودک ماه روی
+بیک سر ز شاه تو برتر بپای
+که ماهی است مهراب را در سرای
+یکی ایزدی بر سر از مشک تاج
+ببالای ساج است و همرنگ عاج
+دو نرگس دژم ابروان پر ز خم
+ستون دو ابرو چو سیمین قلم
+سر زلف چون حلقه پای بند
+دهانش به تنگی دل مستمند
+دو جادوش پر خواب و پرآب روی
+پر از لاله رخسار و پر مشک موی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

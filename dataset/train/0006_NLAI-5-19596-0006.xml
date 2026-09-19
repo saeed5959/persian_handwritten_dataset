@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:15.864+03:30</Created>
+        <LastChange>2026-06-18T14:56:54.536+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0006_NLAI-5-19596-0006.jpg" imageWidth="1396" imageHeight="2784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781782014578" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781595662060_316" />
+                <RegionRefIndexed index="1" regionRef="region_1781595651373_313" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781595662060_316" custom="readingOrder {index:0;}">
+            <Coords points="63,440 1089,440 1089,2573 63,2573" />
+            <TextLine id="line_1781595672936_319" custom="readingOrder {index:0;}">
+                <Coords points="82,459 527,470 527,577 82,566" /><Baseline points="82,532 527,532" />
+                <Baseline points="117,535 513,531" />
+                <TextEquiv>
+                    <Unicode>بر احفا و اولاد او اجمعین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781769807035_438" custom="readingOrder {index:1;}">
+                <Coords points="623,474 1062,474 1062,589 623,589" /><Baseline points="623,545 1062,545" />
+                <Baseline points="631,534 1053,532" />
+                <TextEquiv>
+                    <Unicode>هزار آفرین بر جهان آفرین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781595972466_325" custom="readingOrder {index:2;}">
+                <Coords points="94,602 1072,602 1072,730 94,730" /><Baseline points="94,681 1072,681" />
+                <Baseline points="210,665 1058,660" />
+                <TextEquiv>
+                    <Unicode>که سمند خوش خرام عبارت و رخش خوش خرام مجاز و استعارت را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781596015378_333" custom="readingOrder {index:3;}">
+                <Coords points="90,735 1049,735 1049,871 90,871" /><Baseline points="90,819 1049,819" />
+                <Baseline points="134,810 1045,815" />
+                <TextEquiv>
+                    <Unicode>زین تزیین بر نهاده در میدان بیان جولان نمودند و به چوگان فصاحت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781596051066_339" custom="readingOrder {index:4;}">
+                <Coords points="83,882 1062,882 1062,1017 83,1017" /><Baseline points="83,966 1062,966" />
+                <Baseline points="98,956 1044,954" />
+                <TextEquiv>
+                    <Unicode>و بلاغت گوی هنروری و سخن دانی از مصاقع خطبا و ادبا اقاصی و ادانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781596075506_345" custom="readingOrder {index:5;}">
+                <Coords points="85,1019 1054,1019 1054,1151 85,1151" /><Baseline points="85,1101 1054,1101" />
+                <Baseline points="137,1097 1042,1095" />
+                <TextEquiv>
+                    <Unicode>در ربودند تا صدای صیت رسالت و ندای صوت جلالت محمد رسول الله صلی الله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781596101666_351" custom="readingOrder {index:6;}">
+                <Coords points="98,1163 1062,1163 1062,1310 98,1310" /><Baseline points="98,1254 1062,1254" />
+                <Baseline points="148,1248 1027,1245" />
+                <TextEquiv>
+                    <Unicode>و الذین معه اشدا علی الکفار به گوش هوش فصحای اطراف عالم و بلغای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781596126065_357" custom="readingOrder {index:7;}">
+                <Coords points="94,1315 1067,1315 1067,1448 94,1448" /><Baseline points="94,1397 1067,1397" />
+                <Baseline points="123,1376 1029,1378" />
+                <TextEquiv>
+                    <Unicode>اکناف امم رسانید به سنان لسان و تیغ بیان الشعرا یتبعهم الغاوون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781596155369_363" custom="readingOrder {index:8;}">
+                <Coords points="89,1455 1054,1455 1054,1594 89,1594" /><Baseline points="89,1541 1054,1541" />
+                <Baseline points="112,1528 1049,1529" />
+                <TextEquiv>
+                    <Unicode>از هیبت جلال نبوت در غمد کلال و نبوت بماند و مشاهیر صف قتال یرمون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781596229602_369" custom="readingOrder {index:9;}">
+                <Coords points="81,1605 1060,1605 1060,1735 81,1735" /><Baseline points="81,1686 1060,1686" />
+                <Baseline points="117,1683 1045,1681" />
+                <TextEquiv>
+                    <Unicode>بالخطب الطوال و بارق اواحسن الملاحظ خیفه الرقبا هنگام تحدی و جدال از معارضه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781596264520_377" custom="readingOrder {index:10;}">
+                <Coords points="83,1743 1049,1743 1049,1887 83,1887" /><Baseline points="83,1832 1049,1832" />
+                <Baseline points="108,1813 1035,1818" />
+                <TextEquiv>
+                    <Unicode>و مقابله ایشان سپر عجز و ابتهال در روی قیل و قال کشیدند که لایاتون بمثله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781596297992_383" custom="readingOrder {index:11;}">
+                <Coords points="87,1895 516,1893 516,2013 87,2015" /><Baseline points="87,1969 516,1969" />
+                <Baseline points="94,1950 505,1949" />
+                <TextEquiv>
+                    <Unicode>مستغرق درود و ثنا باد روحشان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781769886621_459" custom="readingOrder {index:12;}">
+                <Coords points="618,1906 1037,1906 1037,1999 618,1999" /><Baseline points="618,1964 1037,1964" />
+                <Baseline points="639,1972 1030,1962" />
+                <TextEquiv>
+                    <Unicode>و لو کان لبعض ظهیرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781596319393_389" custom="readingOrder {index:13;}">
+                <Coords points="89,2016 1049,2016 1049,2148 89,2148" /><Baseline points="89,2098 1049,2098" />
+                <Baseline points="99,2096 1029,2105" />
+                <TextEquiv>
+                    <Unicode>تا روز فروغ بود شمس را شعاع خصوصا ایام مشارق و مغارب جامع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781596583759_398" custom="readingOrder {index:14;}">
+                <Coords points="83,2156 1059,2156 1059,2272 83,2272" /><Baseline points="83,2228 1059,2228" />
+                <Baseline points="105,2234 1053,2222" />
+                <TextEquiv>
+                    <Unicode>اصناف و معارف قابل کلم اناکلام الله الناطق اسدالله الغالب علی بی ابی طالب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781781888167_1429" custom="readingOrder {index:15;}">
+                <Coords points="646,2308 1056,2308 1056,2436 646,2436" /><Baseline points="646,2387 1056,2387" />
+                <Baseline points="659,2375 1045,2373" />
+                <TextEquiv>
+                    <Unicode>علیه الصلوه و السلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781781897914_1435" custom="readingOrder {index:16;}">
+                <Coords points="87,2312 533,2312 533,2427 87,2427" /><Baseline points="87,2383 533,2383" />
+                <Baseline points="98,2362 515,2369" />
+                <TextEquiv>
+                    <Unicode>شهنشاهی که سحرگاه روز فطرت بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781781952746_1463" custom="readingOrder {index:17;}">
+                <Coords points="86,2444 537,2444 537,2559 86,2559" /><Baseline points="86,2515 537,2515" />
+                <Baseline points="101,2507 509,2507" />
+                <TextEquiv>
+                    <Unicode>کرمی که ز لطف قدیم لم یزلی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781781970298_1473" custom="readingOrder {index:18;}">
+                <Coords points="628,2450 1074,2450 1074,2555 628,2555" /><Baseline points="628,2515 1074,2515" />
+                <Baseline points="647,2501 1050,2515" />
+                <TextEquiv>
+                    <Unicode>غرض وجود شریفش ز خلقت انسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بر احفا و اولاد او اجمعین
+هزار آفرین بر جهان آفرین
+که سمند خوش خرام عبارت و رخش خوش خرام مجاز و استعارت را
+زین تزیین بر نهاده در میدان بیان جولان نمودند و به چوگان فصاحت
+و بلاغت گوی هنروری و سخن دانی از مصاقع خطبا و ادبا اقاصی و ادانی
+در ربودند تا صدای صیت رسالت و ندای صوت جلالت محمد رسول الله صلی الله
+و الذین معه اشدا علی الکفار به گوش هوش فصحای اطراف عالم و بلغای
+اکناف امم رسانید به سنان لسان و تیغ بیان الشعرا یتبعهم الغاوون
+از هیبت جلال نبوت در غمد کلال و نبوت بماند و مشاهیر صف قتال یرمون
+بالخطب الطوال و بارق اواحسن الملاحظ خیفه الرقبا هنگام تحدی و جدال از معارضه
+و مقابله ایشان سپر عجز و ابتهال در روی قیل و قال کشیدند که لایاتون بمثله
+مستغرق درود و ثنا باد روحشان
+و لو کان لبعض ظهیرا
+تا روز فروغ بود شمس را شعاع خصوصا ایام مشارق و مغارب جامع
+اصناف و معارف قابل کلم اناکلام الله الناطق اسدالله الغالب علی بی ابی طالب
+علیه الصلوه و السلام
+شهنشاهی که سحرگاه روز فطرت بود
+کرمی که ز لطف قدیم لم یزلی
+غرض وجود شریفش ز خلقت انسان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781595651373_313" custom="readingOrder {index:1;}">
+            <Coords points="1115,2548 1110,2548 1115,2548" />
+        </TextRegion>
+    </Page>
+</PcGts>

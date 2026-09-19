@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T11:45:55.283+03:30</Created>
+        <LastChange>2026-06-25T15:21:00.039+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0164_NLAI-5-19596-0164.jpg" imageWidth="1506" imageHeight="2793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782388260098" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782386875649_944" />
+                <RegionRefIndexed index="1" regionRef="region_1782387444633_1031" />
+                <RegionRefIndexed index="2" regionRef="region_1782388233600_1110" />
+                <RegionRefIndexed index="3" regionRef="region_1782386985062_965" />
+                <RegionRefIndexed index="4" regionRef="region_1782388070474_1082" />
+                <RegionRefIndexed index="5" regionRef="region_1782386318096_923" />
+                <RegionRefIndexed index="6" regionRef="region_1782387092617_980" />
+                <RegionRefIndexed index="7" regionRef="region_1782388202191_1101" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782386875649_944" custom="readingOrder {index:0;}">
+            <Coords points="87,435 528,435 528,836 87,836" />
+            <TextLine id="line_1782386878485_947" custom="readingOrder {index:0;}">
+                <Coords points="97,437 531,437 531,567 97,567" /><Baseline points="97,518 531,518" />
+                <Baseline points="107,507 518,520" />
+                <TextEquiv>
+                    <Unicode>کاندران سایه قرار دل شیدا باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782386928481_953" custom="readingOrder {index:1;}">
+                <Coords points="72,566 523,566 523,712 72,712" /><Baseline points="72,657 523,657" />
+                <Baseline points="123,644 515,641" />
+                <TextEquiv>
+                    <Unicode>اگرت میل لب جوی تماشا باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782386948962_959" custom="readingOrder {index:2;}">
+                <Coords points="94,720 528,720 528,837 94,837" /><Baseline points="94,793 528,793" />
+                <Baseline points="96,789 509,788" />
+                <TextEquiv>
+                    <Unicode>که دگر باره ملاقات نه پیدا باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کاندران سایه قرار دل شیدا باشد
+اگرت میل لب جوی تماشا باشد
+که دگر باره ملاقات نه پیدا باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782387444633_1031" custom="readingOrder {index:1;}">
+            <Coords points="84,1137 521,1137 521,2133 84,2133" />
+            <TextLine id="line_1782387448643_1034" custom="readingOrder {index:0;}">
+                <Coords points="93,1137 521,1137 521,1287 93,1287" /><Baseline points="93,1230 521,1230" />
+                <Baseline points="121,1241 490,1241" />
+                <TextEquiv>
+                    <Unicode>بی باده بهار خوش نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782387849547_1040" custom="readingOrder {index:1;}">
+                <Coords points="106,1317 527,1317 527,1418 106,1418" /><Baseline points="106,1380 527,1380" />
+                <Baseline points="126,1374 496,1365" />
+                <TextEquiv>
+                    <Unicode>بی لاله عذار خوش نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782387881915_1050" custom="readingOrder {index:2;}">
+                <Coords points="111,1433 514,1433 514,1587 111,1587" /><Baseline points="111,1528 514,1528" />
+                <Baseline points="124,1529 496,1529" />
+                <TextEquiv>
+                    <Unicode>جز پنفد یار خوش نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782387928547_1056" custom="readingOrder {index:3;}">
+                <Coords points="102,1604 527,1604 527,1711 102,1711" /><Baseline points="102,1670 527,1670" />
+                <Baseline points="111,1663 505,1659" />
+                <TextEquiv>
+                    <Unicode>بی صوت هزار خوش نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782387962843_1062" custom="readingOrder {index:4;}">
+                <Coords points="101,1721 513,1721 513,1859 101,1859" /><Baseline points="101,1807 513,1807" />
+                <Baseline points="108,1793 505,1803" />
+                <TextEquiv>
+                    <Unicode>بی بوس و کنار خوش نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782387983559_1068" custom="readingOrder {index:5;}">
+                <Coords points="94,1880 509,1880 509,2006 94,2006" /><Baseline points="94,1958 509,1958" />
+                <Baseline points="101,1952 485,1952" />
+                <TextEquiv>
+                    <Unicode>بی صحبت یا خوش نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782388006106_1074" custom="readingOrder {index:6;}">
+                <Coords points="90,2010 515,2010 515,2139 90,2139" /><Baseline points="90,2090 515,2090" />
+                <Baseline points="109,2094 502,2091" />
+                <TextEquiv>
+                    <Unicode>از بهر نثار خوش نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بی باده بهار خوش نباشد
+بی لاله عذار خوش نباشد
+جز پنفد یار خوش نباشد
+بی صوت هزار خوش نباشد
+بی بوس و کنار خوش نباشد
+بی صحبت یا خوش نباشد
+از بهر نثار خوش نباشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782388233600_1110" custom="readingOrder {index:2;}">
+            <Coords points="96,2421 519,2421 519,2569 96,2569" />
+            <TextLine id="line_1782388239187_1113" custom="readingOrder {index:0;}">
+                <Coords points="101,2424 516,2424 516,2561 101,2561" /><Baseline points="101,2509 516,2509" />
+                <Baseline points="107,2488 504,2520" />
+                <TextEquiv>
+                    <Unicode>که در دستت به جز ساغر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که در دستت به جز ساغر نباشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782386985062_965" custom="readingOrder {index:3;}">
+            <Coords points="351,862 854,862 854,1126 351,1126" />
+            <TextLine id="line_1782386988778_968" custom="readingOrder {index:0;}">
+                <Coords points="342,873 853,873 853,991 342,991" /><Baseline points="342,946 853,946" />
+                <Baseline points="374,914 798,917" />
+                <TextEquiv>
+                    <Unicode>چشمت از ناز به حافظ نکند میل آری</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782387037067_974" custom="readingOrder {index:1;}">
+                <Coords points="310,500 771,500 771,609 310,609" /><Baseline points="310,568 771,568" />
+                <Baseline points="429,1079 803,1079" />
+                <TextEquiv>
+                    <Unicode>سرکرانی صفت نرگس رعنا باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چشمت از ناز به حافظ نکند میل آری
+سرکرانی صفت نرگس رعنا باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782388070474_1082" custom="readingOrder {index:4;}">
+            <Coords points="362,2149 872,2149 872,2449 362,2449" />
+            <TextLine id="line_1782388077347_1085" custom="readingOrder {index:0;}">
+                <Coords points="360,2159 866,2159 866,2325 360,2325" /><Baseline points="360,2262 866,2262" />
+                <Baseline points="399,2250 782,2260" />
+                <TextEquiv>
+                    <Unicode>جان نقد محقرست حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782388148719_1093" custom="readingOrder {index:1;}">
+                <Coords points="369,2328 839,2328 839,2438 369,2438" /><Baseline points="369,2396 839,2396" />
+                <Baseline points="418,2396 736,2403" />
+                <TextEquiv>
+                    <Unicode>از بهر نثار خوش نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جان نقد محقرست حافظ
+از بهر نثار خوش نباشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782386318096_923" custom="readingOrder {index:5;}">
+            <Coords points="605,450 1050,450 1050,855 605,855" />
+            <TextLine id="line_1782386321460_926" custom="readingOrder {index:0;}">
+                <Coords points="574,-153 1013,-153 1013,-44 574,-44" /><Baseline points="574,-85 1013,-85" />
+                <Baseline points="626,518 1028,521" />
+                <TextEquiv>
+                    <Unicode>ظل حمد و سرزلف توام در سر باد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782386356442_932" custom="readingOrder {index:1;}">
+                <Coords points="612,572 1050,572 1050,702 612,702" /><Baseline points="612,653 1050,653" />
+                <Baseline points="619,650 1038,649" />
+                <TextEquiv>
+                    <Unicode>از بن هر مژه ام آب روانست بیا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782386820566_938" custom="readingOrder {index:2;}">
+                <Coords points="610,710 1051,710 1051,850 610,850" /><Baseline points="610,797 1051,797" />
+                <Baseline points="612,740 1035,799" />
+                <TextEquiv>
+                    <Unicode>چون دل من و می از پرده برون ای و درای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ظل حمد و سرزلف توام در سر باد
+از بن هر مژه ام آب روانست بیا
+چون دل من و می از پرده برون ای و درای</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782387092617_980" custom="readingOrder {index:6;}">
+            <Coords points="612,1120 1067,1120 1067,2139 612,2139" />
+            <TextLine id="line_1782387096602_983" custom="readingOrder {index:0;}">
+                <Coords points="618,1138 1053,1138 1053,1300 618,1300" /><Baseline points="618,1238 1053,1238" />
+                <Baseline points="642,1232 1025,1237" />
+                <TextEquiv>
+                    <Unicode>گل بیرخ یار خوش نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782387168685_991" custom="readingOrder {index:1;}">
+                <Coords points="619,1303 1045,1303 1045,1419 619,1419" /><Baseline points="619,1375 1045,1375" />
+                <Baseline points="623,1364 1038,1371" />
+                <TextEquiv>
+                    <Unicode>طرف چمن و هوای بستان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782387200733_999" custom="readingOrder {index:2;}">
+                <Coords points="614,1430 1060,1430 1060,1568 614,1568" /><Baseline points="614,1516 1060,1516" />
+                <Baseline points="632,1522 1038,1520" />
+                <TextEquiv>
+                    <Unicode>با باده وگل صفای صحبت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782387230766_1007" custom="readingOrder {index:3;}">
+                <Coords points="613,1583 1047,1583 1047,1709 613,1709" /><Baseline points="613,1661 1047,1661" />
+                <Baseline points="638,1650 1033,1656" />
+                <TextEquiv>
+                    <Unicode>رقصیدن سرد وحالت گل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782387266242_1013" custom="readingOrder {index:4;}">
+                <Coords points="612,1716 1050,1716 1050,1866 612,1866" /><Baseline points="612,1809 1050,1809" />
+                <Baseline points="618,1812 1044,1811" />
+                <TextEquiv>
+                    <Unicode>با یار شکرلب گل اندام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782387295899_1019" custom="readingOrder {index:5;}">
+                <Coords points="613,1874 1048,1874 1048,2025 613,2025" /><Baseline points="613,1968 1048,1968" />
+                <Baseline points="620,1946 1040,1952" />
+                <TextEquiv>
+                    <Unicode>باغ گل و مل خو نشست لیکن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782387404175_1025" custom="readingOrder {index:6;}">
+                <Coords points="621,2030 1050,2030 1050,2148 621,2148" /><Baseline points="621,2103 1050,2103" />
+                <Baseline points="620,2104 1039,2103" />
+                <TextEquiv>
+                    <Unicode>هرنقش که دست عقل ببند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گل بیرخ یار خوش نباشد
+طرف چمن و هوای بستان
+با باده وگل صفای صحبت
+رقصیدن سرد وحالت گل
+با یار شکرلب گل اندام
+باغ گل و مل خو نشست لیکن
+هرنقش که دست عقل ببند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782388202191_1101" custom="readingOrder {index:7;}">
+            <Coords points="625,2440 1060,2440 1060,2586 625,2586" />
+            <TextLine id="line_1782388206768_1104" custom="readingOrder {index:0;}">
+                <Coords points="625,2450 1063,2450 1063,2591 625,2591" /><Baseline points="625,2537 1063,2537" />
+                <Baseline points="620,2505 1044,2540" />
+                <TextEquiv>
+                    <Unicode>خوش آمد گل وزان خوشتر نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خوش آمد گل وزان خوشتر نباشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

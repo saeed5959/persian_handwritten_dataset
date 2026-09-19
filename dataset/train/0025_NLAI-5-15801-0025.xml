@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-27T18:30:09.334+03:30</Created>
+        <LastChange>2026-06-30T18:08:12.438+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0025_NLAI-5-15801-0025.jpg" imageWidth="1089" imageHeight="1791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782830292454" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782824706755_78" />
+                <RegionRefIndexed index="1" regionRef="region_1782824836318_120" />
+                <RegionRefIndexed index="2" regionRef="region_1782825148582_131" />
+                <RegionRefIndexed index="3" regionRef="region_1782825272168_140" />
+                <RegionRefIndexed index="4" regionRef="region_1782825412167_149" />
+                <RegionRefIndexed index="5" regionRef="region_1782825557396_168" />
+                <RegionRefIndexed index="6" regionRef="region_1782825552925_165" />
+                <RegionRefIndexed index="7" regionRef="region_1782825684012_177" />
+                <RegionRefIndexed index="8" regionRef="region_1782825797432_186" />
+                <RegionRefIndexed index="9" regionRef="region_1782826000485_195" />
+                <RegionRefIndexed index="10" regionRef="region_1782829970510_204" />
+                <RegionRefIndexed index="11" regionRef="region_1782830081642_213" />
+                <RegionRefIndexed index="12" regionRef="region_1782830174544_222" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782824706755_78" custom="readingOrder {index:0;}">
+            <Coords points="145,177 145,308 984,308 984,177" />
+            <TextLine id="line_1782824706770_81" custom="readingOrder {index:0;}">
+                <Coords points="145,177 984,177 984,308 145,308" /><Baseline points="145,258 984,258" />
+                <Baseline points="172,240 957,281" />
+                <TextEquiv>
+                    <Unicode>روایت شده است که رسول باید ملک را معاینه به پند و باد سخن کند وبنی لازم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>روایت شده است که رسول باید ملک را معاینه به پند و باد سخن کند وبنی لازم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782824836318_120" custom="readingOrder {index:1;}">
+            <Coords points="176,328 980,328 980,424 176,424" />
+            <TextLine id="line_1782824901968_123" custom="readingOrder {index:0;}">
+                <Coords points="170,322 992,322 992,425 170,425" /><Baseline points="170,386 992,386" />
+                <Baseline points="178,352 966,380" />
+                <TextEquiv>
+                    <Unicode>نیست که ملک را به پند بلکه نبوت با الهام و خواب دیدن و سماع صوت نیز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>نیست که ملک را به پند بلکه نبوت با الهام و خواب دیدن و سماع صوت نیز</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782825148582_131" custom="readingOrder {index:2;}">
+            <Coords points="141,429 1001,429 1001,550 141,550" />
+            <TextLine id="line_1782825158327_134" custom="readingOrder {index:0;}">
+                <Coords points="142,429 1003,429 1003,547 142,547" /><Baseline points="142,502 1003,502" />
+                <Baseline points="160,477 964,495 963,491" />
+                <TextEquiv>
+                    <Unicode>محقق میشود و در معنی الوالعزم نیز احتلاف کرده داند بعضی از مفسرین میگویند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>محقق میشود و در معنی الوالعزم نیز احتلاف کرده داند بعضی از مفسرین میگویند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782825272168_140" custom="readingOrder {index:3;}">
+            <Coords points="146,557 993,557 993,675 146,675" />
+            <TextLine id="line_1782825279465_143" custom="readingOrder {index:0;}">
+                <Coords points="146,554 1002,554 1002,676 146,676" /><Baseline points="146,630 1002,630" />
+                <Baseline points="167,575 957,632" />
+                <TextEquiv>
+                    <Unicode>که الواالعزم آن پیغنبرانند که در نبوت صبات قدم ورزیدند و جد و جهد نمودند و</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که الواالعزم آن پیغنبرانند که در نبوت صبات قدم ورزیدند و جد و جهد نمودند و</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782825412167_149" custom="readingOrder {index:4;}">
+            <Coords points="142,688 983,688 983,792 142,792" />
+            <TextLine id="line_1782825419706_152" custom="readingOrder {index:0;}">
+                <Coords points="144,688 989,688 989,787 144,787" /><Baseline points="144,749 989,749" />
+                <TextEquiv>
+                    <Unicode>بعضی میگوبند انانند که در بلیه صبر کردند مثل نوح که مدتها از قوم از در کشید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بعضی میگوبند انانند که در بلیه صبر کردند مثل نوح که مدتها از قوم از در کشید</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782825557396_168" custom="readingOrder {index:5;}">
+            <Coords points="125,774 990,774 990,931 125,931" />
+            <TextLine id="line_1782825564731_171" custom="readingOrder {index:0;}">
+                <Coords points="131,788 981,788 981,925 131,925" /><Baseline points="131,873 981,873" />
+                <Baseline points="152,862 945,879" />
+                <TextEquiv>
+                    <Unicode>و تحمل نمود و ابراهیم که در آتش و اسماعیل که بذبح کردن نهاد یوسف که بر ستم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و تحمل نمود و ابراهیم که در آتش و اسماعیل که بذبح کردن نهاد یوسف که بر ستم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782825552925_165" custom="readingOrder {index:6;}">
+            <Coords points="228,903 230,903 230,907 228,907" />
+        </TextRegion>
+        <TextRegion id="region_1782825684012_177" custom="readingOrder {index:7;}">
+            <Coords points="125,935 956,935 956,1035 125,1035" />
+            <TextLine id="line_1782825706912_180" custom="readingOrder {index:0;}">
+                <Coords points="126,923 955,923 955,1035 126,1035" /><Baseline points="126,992 955,992" />
+                <Baseline points="142,958 940,1003" />
+                <TextEquiv>
+                    <Unicode>اخوان در حبس و زندان صبر کرد ایوب که به بیماری و مرض های خفتن در داد و</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اخوان در حبس و زندان صبر کرد ایوب که به بیماری و مرض های خفتن در داد و</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782825797432_186" custom="readingOrder {index:8;}">
+            <Coords points="119,1035 959,1035 959,1171 119,1171" />
+            <TextLine id="line_1782825804256_189" custom="readingOrder {index:0;}">
+                <Coords points="124,1036 963,1036 963,1172 124,1172" /><Baseline points="124,1120 963,1120" />
+                <Baseline points="133,1084 934,1114" />
+                <TextEquiv>
+                    <Unicode>خاتم النبیین ص که از جور کفار قریش و جفای آنها خلقش تنگ نشد و از امام محمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خاتم النبیین ص که از جور کفار قریش و جفای آنها خلقش تنگ نشد و از امام محمد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782826000485_195" custom="readingOrder {index:9;}">
+            <Coords points="110,1171 964,1171 964,1266 110,1266" />
+            <TextLine id="line_1782826013482_198" custom="readingOrder {index:0;}">
+                <Coords points="112,1175 972,1175 972,1272 112,1272" /><Baseline points="112,1235 972,1235" />
+                <Baseline points="135,1211 941,1243" />
+                <TextEquiv>
+                    <Unicode>باقر ع مردیست که الوالعزم پنج اند نوح و ابراهیم و موسی و عیسی و خاتم النبیین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>باقر ع مردیست که الوالعزم پنج اند نوح و ابراهیم و موسی و عیسی و خاتم النبیین</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782829970510_204" custom="readingOrder {index:10;}">
+            <Coords points="118,1273 945,1273 945,1403 118,1403" />
+            <TextLine id="line_1782829977829_207" custom="readingOrder {index:0;}">
+                <Coords points="122,1278 959,1278 959,1406 122,1406" /><Baseline points="122,1357 959,1357" />
+                <Baseline points="137,1321 927,1370" />
+                <TextEquiv>
+                    <Unicode>و حق این است که معصوم فرموده است زیرا که وقتی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و حق این است که معصوم فرموده است زیرا که وقتی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782830081642_213" custom="readingOrder {index:11;}">
+            <Coords points="125,1414 972,1414 972,1518 125,1518" />
+            <TextLine id="line_1782830087491_216" custom="readingOrder {index:0;}">
+                <Coords points="119,1411 977,1411 977,1519 119,1519" /><Baseline points="119,1478 977,1478" />
+                <Baseline points="143,1440 930,1484" />
+                <TextEquiv>
+                    <Unicode>جایز است حذف لام از مفعول که بوده باشد مفعول له فعل فاعل که معلل است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جایز است حذف لام از مفعول که بوده باشد مفعول له فعل فاعل که معلل است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782830174544_222" custom="readingOrder {index:12;}">
+            <Coords points="111,1502 958,1502 958,1670 111,1670" />
+            <TextLine id="line_1782830180372_225" custom="readingOrder {index:0;}">
+                <Coords points="106,1501 958,1501 958,1675 106,1675" /><Baseline points="106,1609 958,1609" />
+                <Baseline points="126,1518 932,1595" />
+                <TextEquiv>
+                    <Unicode>انفعل به مفعول له یعنی متحد باشد فاعل فعلی که غاعل مفعول له است با فاعل مفعول له</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>انفعل به مفعول له یعنی متحد باشد فاعل فعلی که غاعل مفعول له است با فاعل مفعول له</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

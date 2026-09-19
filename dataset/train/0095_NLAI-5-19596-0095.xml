@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:31.501+03:30</Created>
+        <LastChange>2026-06-20T20:41:43.895+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0095_NLAI-5-19596-0095.jpg" imageWidth="1553" imageHeight="2850">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781975503973" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781974922838_521" />
+                <RegionRefIndexed index="1" regionRef="region_1781975065843_566" />
+                <RegionRefIndexed index="2" regionRef="region_1781975201854_583" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781974922838_521" custom="readingOrder {index:0;}">
+            <Coords points="405,504 1483,504 1483,1365 405,1365" />
+            <TextLine id="line_1781974931427_524" custom="readingOrder {index:0;}">
+                <Coords points="431,525 1433,525 1433,656 431,656" /><Baseline points="431,606 1433,606" />
+                <Baseline points="462,606 1411,592" />
+                <TextEquiv>
+                    <Unicode>فریاد که از شش جهتم راه ببستند آن خال و خط و زلف و رخ و عارض و قامت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974934679_527" custom="readingOrder {index:1;}">
+                <Coords points="426,664 1421,664 1421,778 426,778" /><Baseline points="426,735 1421,735" />
+                <Baseline points="471,730 1394,723" />
+                <TextEquiv>
+                    <Unicode>امروز که در دست توام مرحمتی کن فردا که شوم خاک چه سود اشک ندامت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974937986_530" custom="readingOrder {index:2;}">
+                <Coords points="440,802 1435,802 1435,928 440,928" /><Baseline points="440,880 1435,880" />
+                <Baseline points="471,866 1402,864" />
+                <TextEquiv>
+                    <Unicode>ای آن که به تقریر و بیان دم زنی از عشق ما با تو نداریم سخن خیر و سلامت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974941130_533" custom="readingOrder {index:3;}">
+                <Coords points="431,945 1444,945 1444,1055 431,1055" /><Baseline points="431,1013 1444,1013" />
+                <Baseline points="471,1009 1402,1005" />
+                <TextEquiv>
+                    <Unicode>درویش مکن ناله ز شمشیر احبا کاین طایفه از کشته ستانند غرامت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974944143_536" custom="readingOrder {index:4;}">
+                <Coords points="455,1076 1459,1076 1459,1207 455,1207" /><Baseline points="455,1157 1459,1157" />
+                <Baseline points="486,1160 1397,1152" />
+                <TextEquiv>
+                    <Unicode>در خرقه زن آتش که خم ابروی ساقی بر می شکند گوشه محراب امامت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781974947307_539" custom="readingOrder {index:5;}">
+                <Coords points="447,1224 1430,1224 1430,1360 447,1360" /><Baseline points="447,1308 1430,1308" />
+                <Baseline points="483,1286 1394,1293" />
+                <TextEquiv>
+                    <Unicode>حاشا که من از جور و جفای تو بنالم بیداد لطیفان همه لطف است و کرامت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>فریاد که از شش جهتم راه ببستند آن خال و خط و زلف و رخ و عارض و قامت
+امروز که در دست توام مرحمتی کن فردا که شوم خاک چه سود اشک ندامت
+ای آن که به تقریر و بیان دم زنی از عشق ما با تو نداریم سخن خیر و سلامت
+درویش مکن ناله ز شمشیر احبا کاین طایفه از کشته ستانند غرامت
+در خرقه زن آتش که خم ابروی ساقی بر می شکند گوشه محراب امامت
+حاشا که من از جور و جفای تو بنالم بیداد لطیفان همه لطف است و کرامت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781975065843_566" custom="readingOrder {index:1;}">
+            <Coords points="707,1381 1201,1381 1201,1639 707,1639" />
+            <TextLine id="line_1781975069447_569" custom="readingOrder {index:0;}">
+                <Coords points="719,1401 1184,1401 1184,1482 719,1482" /><Baseline points="719,1451 1184,1451" />
+                <Baseline points="753,1439 1184,1434" />
+                <TextEquiv>
+                    <Unicode>کوته نکند بحث سر زلف تو حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781975074822_572" custom="readingOrder {index:1;}">
+                <Coords points="727,1496 1189,1496 1189,1630 727,1630" /><Baseline points="727,1579 1189,1579" />
+                <Baseline points="731,1577 1163,1579" />
+                <TextEquiv>
+                    <Unicode>پیوسته شد این سلسله تا روز قیامت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کوته نکند بحث سر زلف تو حافظ
+پیوسته شد این سلسله تا روز قیامت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781975201854_583" custom="readingOrder {index:2;}">
+            <Coords points="430,1625 1494,1625 1494,2631 430,2631" />
+            <TextLine id="line_1781975205859_586" custom="readingOrder {index:0;}">
+                <Coords points="481,1658 1451,1658 1451,1770 481,1770" /><Baseline points="481,1727 1451,1727" />
+                <Baseline points="504,1722 1411,1722 1380,1737" />
+                <TextEquiv>
+                    <Unicode>ای غایب از نظر به خدا می سپارمت جانم بسوختی و به دل دوست دارمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781975210179_589" custom="readingOrder {index:1;}">
+                <Coords points="495,1789 1447,1789 1447,1913 495,1913" /><Baseline points="495,1866 1447,1866" />
+                <Baseline points="521,1873 1432,1861" />
+                <TextEquiv>
+                    <Unicode>تا دامن کفن نکشم زیر پای خاک باور مکن که دست ز دامن بدارمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781975212387_592" custom="readingOrder {index:2;}">
+                <Coords points="473,1944 1461,1944 1461,2073 473,2073" /><Baseline points="473,2024 1461,2024" />
+                <Baseline points="488,2016 1425,2004" />
+                <TextEquiv>
+                    <Unicode>محراب ابرویت بنما تا سحرگهی دست دعا برآرم و در گردن آرمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781975214415_595" custom="readingOrder {index:3;}">
+                <Coords points="442,2099 1478,2099 1478,2204 442,2204" /><Baseline points="442,2164 1478,2164" />
+                <Baseline points="497,2145 1428,2149" />
+                <TextEquiv>
+                    <Unicode>گر بایدم شدن سوی هاروت بابلی صد گونه جادویی بکنم تا بیارمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781975217163_598" custom="readingOrder {index:4;}">
+                <Coords points="462,2214 1451,2214 1451,2359 462,2359" /><Baseline points="462,2304 1451,2304" />
+                <Baseline points="495,2278 1430,2288" />
+                <TextEquiv>
+                    <Unicode>گر دیده و دلم کند اهنگ دلبری دلا آتش افکنم و پیش آرمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781975220262_601" custom="readingOrder {index:5;}">
+                <Coords points="445,2397 1463,2397 1463,2493 445,2493" /><Baseline points="445,2457 1463,2457" />
+                <Baseline points="504,2443 1439,2431" />
+                <TextEquiv>
+                    <Unicode>خواهم که پیش میرمت ای بی وفا طبیب بیمار بازپرس که در انتظارمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781975227139_604" custom="readingOrder {index:6;}">
+                <Coords points="478,2507 1459,2507 1459,2624 478,2624" /><Baseline points="478,2580 1459,2580" />
+                <Baseline points="490,2557 1447,2564" />
+                <TextEquiv>
+                    <Unicode>خونم بریخت وز غم عشقم خلاص دادبر بوی تخم مهر که در دل بکارمت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ای غایب از نظر به خدا می سپارمت جانم بسوختی و به دل دوست دارمت
+تا دامن کفن نکشم زیر پای خاک باور مکن که دست ز دامن بدارمت
+محراب ابرویت بنما تا سحرگهی دست دعا برآرم و در گردن آرمت
+گر بایدم شدن سوی هاروت بابلی صد گونه جادویی بکنم تا بیارمت
+گر دیده و دلم کند اهنگ دلبری دلا آتش افکنم و پیش آرمت
+خواهم که پیش میرمت ای بی وفا طبیب بیمار بازپرس که در انتظارمت
+خونم بریخت وز غم عشقم خلاص دادبر بوی تخم مهر که در دل بکارمت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

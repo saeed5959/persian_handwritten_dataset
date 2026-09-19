@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.022+03:30</Created>
+        <LastChange>2026-06-26T15:38:20.539+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0115_NLAI-5-15801-0115.jpg" imageWidth="1091" imageHeight="1761">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782475700553" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782329879131_399" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782329879131_399" custom="readingOrder {index:0;}">
+            <Coords points="116,153 974,153 974,1683 116,1683" />
+            <TextLine id="line_1782329883445_402" custom="readingOrder {index:0;}">
+                <Coords points="132,180 969,180 969,321 132,321" /><Baseline points="132,267 969,267" />
+                <Baseline points="140,256 952,267" />
+                <TextEquiv>
+                    <Unicode>و میانه مشروطه خاصیه و عرفیه خاصه عموم مطلق است ماده افتراق عرفیه خاصه مثل کل خمر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329885883_405" custom="readingOrder {index:1;}">
+                <Coords points="134,315 965,315 965,444 134,444" /><Baseline points="134,395 965,395" />
+                <Baseline points="147,385 948,380" />
+                <TextEquiv>
+                    <Unicode>مسکر مادام خمر الا دایما چنانکه گذشت و وفتیه مطلقه احض است از منتشره مطلقه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329888406_408" custom="readingOrder {index:2;}">
+                <Coords points="127,444 956,444 956,570 127,570" /><Baseline points="127,522 956,522" />
+                <Baseline points="134,505 941,520" />
+                <TextEquiv>
+                    <Unicode>زیرا که هر گاه وقتی صادق باشد که نسبت محمول بموضوع ضروری است در وقت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329891180_411" custom="readingOrder {index:3;}">
+                <Coords points="127,561 950,561 950,710 127,710" /><Baseline points="127,653 950,653" />
+                <Baseline points="136,629 937,651" />
+                <TextEquiv>
+                    <Unicode>معین البته صادق خواهد بود که این نسبت ضروری است وقتا ما یعنی در وقتی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329894135_414" custom="readingOrder {index:4;}">
+                <Coords points="132,681 969,681 969,812 132,812" /><Baseline points="132,762 969,762" />
+                <Baseline points="136,745 950,762" />
+                <TextEquiv>
+                    <Unicode>از اوقات اما لازم خواهد نیست که هر جا نسبت ضروری باشد در وقت در وقت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329896754_417" custom="readingOrder {index:5;}">
+                <Coords points="123,795 961,795 961,939 123,939" /><Baseline points="123,884 961,884" />
+                <Baseline points="143,867 950,875" />
+                <TextEquiv>
+                    <Unicode>معین البته ضروری باشد در وقت معین اگر گویی که وقت غیر معین موجود نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329899003_420" custom="readingOrder {index:6;}">
+                <Coords points="130,908 963,908 963,1059 130,1059" /><Baseline points="130,1002 963,1002" />
+                <Baseline points="145,974 943,1000" />
+                <TextEquiv>
+                    <Unicode>بلکه ضمن معین محقق خواهد شد پس لازم دارد ضرورت در وقت معینی اجواب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329901174_423" custom="readingOrder {index:7;}">
+                <Coords points="130,1054 965,1054 965,1172 130,1172" /><Baseline points="130,1127 965,1127" />
+                <Baseline points="147,1120 948,1124" />
+                <TextEquiv>
+                    <Unicode>گفته اند که مراد از ضرورت در وقت معین آن است که در قضیه تعیین توان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329904042_426" custom="readingOrder {index:8;}">
+                <Coords points="138,1166 967,1166 967,1283 138,1283" /><Baseline points="138,1239 967,1239" />
+                <Baseline points="151,1240 937,1251" />
+                <TextEquiv>
+                    <Unicode>کرد بسیار باشد که حکم بضرورت غیر معین توان کرد اما بضرورت غیر معین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329906639_429" custom="readingOrder {index:9;}">
+                <Coords points="134,1270 952,1270 952,1416 134,1416" /><Baseline points="134,1361 952,1361" />
+                <Baseline points="147,1355 937,1371" />
+                <TextEquiv>
+                    <Unicode>توان کرد اما بضرورت در وقت معین نتوان کرد و مثلا میتوان کفت کل انسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329908744_432" custom="readingOrder {index:10;}">
+                <Coords points="123,1401 961,1401 961,1521 123,1521" /><Baseline points="123,1475 961,1475" />
+                <Baseline points="140,1471 937,1480" />
+                <TextEquiv>
+                    <Unicode>متنفس بالضروره وقتا ما اما نمیتوان نمیتوان گفت در وقت معین نتوان کرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329911163_435" custom="readingOrder {index:11;}">
+                <Coords points="123,1506 950,1506 950,1656 123,1656" /><Baseline points="123,1599 950,1599" />
+                <Baseline points="151,1582 943,1595" />
+                <TextEquiv>
+                    <Unicode>مثلا میتوان گفت کل انسان زیرا که هر وقت را که ما تعیین میکنیم ممکن است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و میانه مشروطه خاصیه و عرفیه خاصه عموم مطلق است ماده افتراق عرفیه خاصه مثل کل خمر
+مسکر مادام خمر الا دایما چنانکه گذشت و وفتیه مطلقه احض است از منتشره مطلقه
+زیرا که هر گاه وقتی صادق باشد که نسبت محمول بموضوع ضروری است در وقت
+معین البته صادق خواهد بود که این نسبت ضروری است وقتا ما یعنی در وقتی
+از اوقات اما لازم خواهد نیست که هر جا نسبت ضروری باشد در وقت در وقت
+معین البته ضروری باشد در وقت معین اگر گویی که وقت غیر معین موجود نیست
+بلکه ضمن معین محقق خواهد شد پس لازم دارد ضرورت در وقت معینی اجواب
+گفته اند که مراد از ضرورت در وقت معین آن است که در قضیه تعیین توان
+کرد بسیار باشد که حکم بضرورت غیر معین توان کرد اما بضرورت غیر معین
+توان کرد اما بضرورت در وقت معین نتوان کرد و مثلا میتوان کفت کل انسان
+متنفس بالضروره وقتا ما اما نمیتوان نمیتوان گفت در وقت معین نتوان کرد
+مثلا میتوان گفت کل انسان زیرا که هر وقت را که ما تعیین میکنیم ممکن است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

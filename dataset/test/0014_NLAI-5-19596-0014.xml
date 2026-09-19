@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:16.710+03:30</Created>
+        <LastChange>2026-06-18T19:58:21.257+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0014_NLAI-5-19596-0014.jpg" imageWidth="1598" imageHeight="2878">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781800101303" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781799075563_2050" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781799075563_2050" custom="readingOrder {index:0;}">
+            <Coords points="122,1157 1124,1157 1124,2732 122,2732" />
+            <TextLine id="line_1781799094954_2053" custom="readingOrder {index:0;}">
+                <Coords points="143,1164 578,1164 578,1277 143,1277" /><Baseline points="143,1234 578,1234" />
+                <Baseline points="158,1224 572,1230" />
+                <TextEquiv>
+                    <Unicode>یعنی غلام شاهم و سوگند می خورم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799105442_2059" custom="readingOrder {index:1;}">
+                <Coords points="676,1210 1096,1210 1096,1284 676,1284" /><Baseline points="676,1256 1096,1256" />
+                <Baseline points="683,1239 1074,1239" />
+                <TextEquiv>
+                    <Unicode>جوزا سحر نهاد حمایل برابرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799114793_2065" custom="readingOrder {index:2;}">
+                <Coords points="150,1297 572,1297 572,1419 150,1419" /><Baseline points="150,1373 572,1373" />
+                <Baseline points="163,1353 560,1361" />
+                <TextEquiv>
+                    <Unicode>کامی که خواستم ز خدا شد میسرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799124710_2071" custom="readingOrder {index:3;}">
+                <Coords points="661,1313 1092,1313 1092,1417 661,1417" /><Baseline points="661,1377 1092,1377" />
+                <Baseline points="680,1370 1083,1373" />
+                <TextEquiv>
+                    <Unicode>ساقی بیا که از مدد بخت کارساز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799134573_2077" custom="readingOrder {index:4;}">
+                <Coords points="134,1430 578,1430 578,1575 134,1575" /><Baseline points="134,1520 578,1520" />
+                <Baseline points="143,1497 554,1510" />
+                <TextEquiv>
+                    <Unicode>پیرانه سر هوای جوانیست در سرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799144172_2083" custom="readingOrder {index:5;}">
+                <Coords points="660,1448 1096,1448 1096,1573 660,1573" /><Baseline points="660,1526 1096,1526" />
+                <Baseline points="667,1508 1090,1508" />
+                <TextEquiv>
+                    <Unicode>جامی بده که باز به شادی روی شاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799169782_2095" custom="readingOrder {index:6;}">
+                <Coords points="661,1570 1096,1570 1096,1728 661,1728" /><Baseline points="661,1668 1096,1668" />
+                <Baseline points="663,1641 1089,1643" />
+                <TextEquiv>
+                    <Unicode>زاهم بزن بوصف زلال خضر که من</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799159181_2089" custom="readingOrder {index:7;}">
+                <Coords points="132,1579 560,1579 560,1699 132,1699" /><Baseline points="132,1653 560,1653" />
+                <Baseline points="138,1636 547,1641" />
+                <TextEquiv>
+                    <Unicode>از جام شاه جرعه کش حوض کوثرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799180523_2101" custom="readingOrder {index:8;}">
+                <Coords points="140,1726 580,1726 580,1843 140,1843" /><Baseline points="140,1799 580,1799" />
+                <Baseline points="172,1790 561,1788" />
+                <TextEquiv>
+                    <Unicode>مملوک این جنابم و مسکین این درم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799191312_2107" custom="readingOrder {index:9;}">
+                <Coords points="674,1737 1103,1737 1103,1865 674,1865" /><Baseline points="674,1816 1103,1816" />
+                <Baseline points="683,1788 1076,1786" />
+                <TextEquiv>
+                    <Unicode>شاها من ار بعرش رسانم سریر فضل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799210722_2121" custom="readingOrder {index:10;}">
+                <Coords points="665,1870 1109,1870 1109,1996 665,1996" /><Baseline points="665,1948 1109,1948" />
+                <Baseline points="663,1932 1081,1930" />
+                <TextEquiv>
+                    <Unicode>ور باورت نمیشود از بنده این حدیث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799201452_2113" custom="readingOrder {index:11;}">
+                <Coords points="134,1877 574,1877 574,1997 134,1997" /><Baseline points="134,1951 574,1951" />
+                <Baseline points="141,1939 552,1936" />
+                <TextEquiv>
+                    <Unicode>از گفته کمال دلیلی بیاورم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799220892_2127" custom="readingOrder {index:12;}">
+                <Coords points="134,1996 576,1996 576,2132 134,2132" /><Baseline points="134,2080 576,2080" />
+                <Baseline points="138,2074 569,2079" />
+                <TextEquiv>
+                    <Unicode>کی ترک آبخور کند طبع خوگرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799229602_2133" custom="readingOrder {index:13;}">
+                <Coords points="660,2012 1112,2012 1112,2137 660,2137" /><Baseline points="660,2090 1112,2090" />
+                <Baseline points="670,2081 1094,2079" />
+                <TextEquiv>
+                    <Unicode>من جرعه نوش بزم تو بودم هزار سال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799238787_2139" custom="readingOrder {index:14;}">
+                <Coords points="129,2146 572,2146 572,2263 129,2263" /><Baseline points="129,2219 572,2219" />
+                <Baseline points="143,2208 560,2210" />
+                <TextEquiv>
+                    <Unicode>آن مهر بر که افکنم این دل کجا برم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799246605_2145" custom="readingOrder {index:15;}">
+                <Coords points="665,2157 1103,2157 1103,2301 665,2301" /><Baseline points="665,2246 1103,2246" />
+                <Baseline points="667,2219 1090,2216" />
+                <TextEquiv>
+                    <Unicode>گر برکنم دل از تو و بردارم از تو مهر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799255762_2151" custom="readingOrder {index:16;}">
+                <Coords points="130,2307 563,2307 563,2422 130,2422" /><Baseline points="130,2378 563,2378" />
+                <Baseline points="136,2365 547,2363" />
+                <TextEquiv>
+                    <Unicode>وز این خجسته فال بر اعدا مظفرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799266947_2157" custom="readingOrder {index:17;}">
+                <Coords points="678,2313 1100,2313 1100,2427 678,2427" /><Baseline points="678,2384 1100,2384" />
+                <Baseline points="690,2373 1087,2365" />
+                <TextEquiv>
+                    <Unicode>منصور بن محمد غازیست حرز من</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799288322_2169" custom="readingOrder {index:18;}">
+                <Coords points="670,2445 1105,2445 1105,2563 670,2563" /><Baseline points="670,2518 1105,2518" />
+                <Baseline points="672,2505 1089,2511" />
+                <TextEquiv>
+                    <Unicode>عهد الست من همه با عهد شاه بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799280661_2163" custom="readingOrder {index:19;}">
+                <Coords points="130,2447 581,2447 581,2558 130,2558" /><Baseline points="130,2516 581,2516" />
+                <Baseline points="136,2496 552,2500" />
+                <TextEquiv>
+                    <Unicode>وز شاه راه عمر بدین عهد بگذرم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799297582_2175" custom="readingOrder {index:20;}">
+                <Coords points="127,2574 570,2574 570,2707 127,2707" /><Baseline points="127,2656 570,2656" />
+                <Baseline points="140,2634 558,2636" />
+                <TextEquiv>
+                    <Unicode>من خود چرا چنین نکنم از که کمترم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781799307002_2181" custom="readingOrder {index:21;}">
+                <Coords points="665,2580 1105,2580 1105,2692 665,2692" /><Baseline points="665,2649 1105,2649" />
+                <Baseline points="674,2652 1087,2643" />
+                <TextEquiv>
+                    <Unicode>گردون چو کرد نظم ثریا به نام شاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یعنی غلام شاهم و سوگند می خورم
+جوزا سحر نهاد حمایل برابرم
+کامی که خواستم ز خدا شد میسرم
+ساقی بیا که از مدد بخت کارساز
+پیرانه سر هوای جوانیست در سرم
+جامی بده که باز به شادی روی شاه
+زاهم بزن بوصف زلال خضر که من
+از جام شاه جرعه کش حوض کوثرم
+مملوک این جنابم و مسکین این درم
+شاها من ار بعرش رسانم سریر فضل
+ور باورت نمیشود از بنده این حدیث
+از گفته کمال دلیلی بیاورم
+کی ترک آبخور کند طبع خوگرم
+من جرعه نوش بزم تو بودم هزار سال
+آن مهر بر که افکنم این دل کجا برم
+گر برکنم دل از تو و بردارم از تو مهر
+وز این خجسته فال بر اعدا مظفرم
+منصور بن محمد غازیست حرز من
+عهد الست من همه با عهد شاه بود
+وز شاه راه عمر بدین عهد بگذرم
+من خود چرا چنین نکنم از که کمترم
+گردون چو کرد نظم ثریا به نام شاه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

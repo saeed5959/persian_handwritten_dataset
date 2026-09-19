@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-27T18:30:08.516+03:30</Created>
+        <LastChange>2026-06-27T23:36:30.242+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0007_NLAI-5-15801-0007.jpg" imageWidth="1134" imageHeight="1766">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782590790249" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782589165436_332" />
+                <RegionRefIndexed index="1" regionRef="region_1782589431826_341" />
+                <RegionRefIndexed index="2" regionRef="region_1782589552882_350" />
+                <RegionRefIndexed index="3" regionRef="region_1782589650562_360" />
+                <RegionRefIndexed index="4" regionRef="region_1782589801067_370" />
+                <RegionRefIndexed index="5" regionRef="region_1782589881600_379" />
+                <RegionRefIndexed index="6" regionRef="region_1782589988581_389" />
+                <RegionRefIndexed index="7" regionRef="region_1782590078386_398" />
+                <RegionRefIndexed index="8" regionRef="region_1782590194730_407" />
+                <RegionRefIndexed index="9" regionRef="region_1782590282246_416" />
+                <RegionRefIndexed index="10" regionRef="region_1782590442594_428" />
+                <RegionRefIndexed index="11" regionRef="region_1782590548151_439" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782589165436_332" custom="readingOrder {index:0;}">
+            <Coords points="171,191 1025,191 1025,321 171,321" />
+            <TextLine id="line_1782589174375_335" custom="readingOrder {index:0;}">
+                <Coords points="175,182 1012,182 1012,326 175,326" /><Baseline points="175,271 1012,271" />
+                <Baseline points="196,248 993,279" />
+                <TextEquiv>
+                    <Unicode>که چگونه میان این دو حدیث مواثفت بهم میرسد بدانکه مراد از ابتدا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که چگونه میان این دو حدیث مواثفت بهم میرسد بدانکه مراد از ابتدا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782589431826_341" custom="readingOrder {index:1;}">
+            <Coords points="156,313 1034,313 1034,436 156,436" />
+            <TextLine id="line_1782589438969_344" custom="readingOrder {index:0;}">
+                <Coords points="152,309 1042,309 1042,439 152,439" /><Baseline points="152,390 1042,390" />
+                <Baseline points="192,326 1008,383 998,386" />
+                <TextEquiv>
+                    <Unicode>حقیقی ان است که چیزی دیگر بر او مقدم نباشد و مراد اضافی ان است که مقدم باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حقیقی ان است که چیزی دیگر بر او مقدم نباشد و مراد اضافی ان است که مقدم باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782589552882_350" custom="readingOrder {index:2;}">
+            <Coords points="144,440 1051,440 1051,541 144,541" />
+            <TextLine id="line_1782589560181_353" custom="readingOrder {index:0;}">
+                <Coords points="148,435 1060,435 1060,544 148,544" /><Baseline points="148,503 1060,503" />
+                <Baseline points="197,461 988,502" />
+                <TextEquiv>
+                    <Unicode>نسبت به مقص اما چیزی دیگر بر ان مقدم باشد و مراد از ابتدا عرفی ان است که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>نسبت به مقص اما چیزی دیگر بر ان مقدم باشد و مراد از ابتدا عرفی ان است که</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782589650562_360" custom="readingOrder {index:3;}">
+            <Coords points="161,559 1024,559 1024,673 161,673" />
+            <TextLine id="line_1782589658047_363" custom="readingOrder {index:0;}">
+                <Coords points="162,557 1019,557 1019,673 162,673" /><Baseline points="162,629 1019,629" />
+                <Baseline points="196,584 986,637" />
+                <TextEquiv>
+                    <Unicode>که در عرف ابتدا گوینده خواه چیزی بر او مقدم باشد و خواه نباشد از هچاراست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که در عرف ابتدا گوینده خواه چیزی بر او مقدم باشد و خواه نباشد از هچاراست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782589801067_370" custom="readingOrder {index:4;}">
+            <Coords points="170,688 1012,688 1012,791 170,791" />
+            <TextLine id="line_1782589810070_373" custom="readingOrder {index:0;}">
+                <Coords points="171,687 1006,687 1006,791 171,791" /><Baseline points="171,751 1006,751" />
+                <Baseline points="200,725 982,752" />
+                <TextEquiv>
+                    <Unicode>که گفته اند نسبت میانه ابتدا حقیقی و ابتدا عرفی عموم و خصوص مطلق است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که گفته اند نسبت میانه ابتدا حقیقی و ابتدا عرفی عموم و خصوص مطلق است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782589881600_379" custom="readingOrder {index:5;}">
+            <Coords points="171,795 1019,795 1019,920 171,920" />
+            <TextLine id="line_1782589890226_382" custom="readingOrder {index:0;}">
+                <Coords points="167,797 1023,797 1023,927 167,927" /><Baseline points="167,878 1023,878" />
+                <Baseline points="183,805 986,877" />
+                <TextEquiv>
+                    <Unicode>بواسطه انکه هر جا ابتدا حقیقت ابتدا عرفی است و عکس لازم نیست چه ابتدا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بواسطه انکه هر جا ابتدا حقیقت ابتدا عرفی است و عکس لازم نیست چه ابتدا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782589988581_389" custom="readingOrder {index:6;}">
+            <Coords points="173,937 993,937 993,1037 173,1037" />
+            <TextLine id="line_1782589997633_392" custom="readingOrder {index:0;}">
+                <Coords points="177,933 982,933 982,1032 177,1032" /><Baseline points="177,994 982,994" />
+                <Baseline points="190,976 983,1012" />
+                <TextEquiv>
+                    <Unicode>در عرف ابتدا میگیرند و حال انکه ابتدا حقیقی نیست و همچنین نسبت میانه ابتدا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>در عرف ابتدا میگیرند و حال انکه ابتدا حقیقی نیست و همچنین نسبت میانه ابتدا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782590078386_398" custom="readingOrder {index:7;}">
+            <Coords points="176,1050 992,1050 992,1154 176,1154" />
+            <TextLine id="line_1782590087078_401" custom="readingOrder {index:0;}">
+                <Coords points="173,1049 999,1049 999,1156 173,1156" /><Baseline points="173,1115 999,1115" />
+                <Baseline points="182,1100 977,1123" />
+                <TextEquiv>
+                    <Unicode>اضافی و عرفی عموم و خصوص مطعلق است به واسطه ان که هر جا ابتدا اضافی باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اضافی و عرفی عموم و خصوص مطعلق است به واسطه ان که هر جا ابتدا اضافی باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782590194730_407" custom="readingOrder {index:8;}">
+            <Coords points="174,1179 1015,1179 1015,1283 174,1283" />
+            <TextLine id="line_1782590204420_410" custom="readingOrder {index:0;}">
+                <Coords points="177,1182 1011,1182 1011,1290 177,1290" /><Baseline points="177,1249 1011,1249" />
+                <Baseline points="185,1207 991,1238" />
+                <TextEquiv>
+                    <Unicode>عرفی هست و در ابتدا حقیقی ابتدا عرفی هست و ابتدا اضافی نیست و ازپنجا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>عرفی هست و در ابتدا حقیقی ابتدا عرفی هست و ابتدا اضافی نیست و ازپنجا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782590282246_416" custom="readingOrder {index:9;}">
+            <Coords points="154,1286 1002,1286 1002,1404 154,1404" />
+            <TextLine id="line_1782590290186_419" custom="readingOrder {index:0;}">
+                <Coords points="152,1283 1004,1283 1004,1405 152,1405" /><Baseline points="152,1359 1004,1359" />
+                <Baseline points="177,1333 979,1364" />
+                <TextEquiv>
+                    <Unicode>ظاهر شد که ابتدا عرفی دو فرد دارد یکی حقیقی و دیگر اضافی و نسبت میانه ابتدا اضافی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ظاهر شد که ابتدا عرفی دو فرد دارد یکی حقیقی و دیگر اضافی و نسبت میانه ابتدا اضافی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782590442594_428" custom="readingOrder {index:10;}">
+            <Coords points="153,1426 1052,1426 1052,1539 153,1539" />
+            <TextLine id="line_1782590449281_431" custom="readingOrder {index:0;}">
+                <Coords points="161,1418 1045,1418 1045,1527 161,1527" /><Baseline points="161,1486 1045,1486" />
+                <Baseline points="168,1441 977,1477" />
+                <TextEquiv>
+                    <Unicode>و حقیقی تباین است زیرا که حقیقی ان است که امری بر ان مقدم نباشد و اضافه بنابر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و حقیقی تباین است زیرا که حقیقی ان است که امری بر ان مقدم نباشد و اضافه بنابر</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782590548151_439" custom="readingOrder {index:11;}">
+            <Coords points="137,1509 1001,1509 1001,1664 137,1664" />
+            <TextLine id="line_1782590554312_442" custom="readingOrder {index:0;}">
+                <Coords points="141,1527 1007,1527 1007,1686 141,1686" /><Baseline points="141,1626 1007,1626" />
+                <Baseline points="173,1570 970,1611" />
+                <TextEquiv>
+                    <Unicode>مذکور ان است که بران امری مقدم نباشد اما اگر نقیر کند اضافی را با اینکه مقدم باشد نسبت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مذکور ان است که بران امری مقدم نباشد اما اگر نقیر کند اضافی را با اینکه مقدم باشد نسبت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

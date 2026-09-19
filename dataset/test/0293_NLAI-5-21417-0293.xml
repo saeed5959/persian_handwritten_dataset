@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-16T21:33:27.284+03:30</Created>
+        <LastChange>2026-06-19T21:37:17.837+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0293_NLAI-5-21417-0293.jpg" imageWidth="1311" imageHeight="1835">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781892437931" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781891891150_16" />
+                <RegionRefIndexed index="1" regionRef="region_1781891897062_19" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781891891150_16" custom="readingOrder {index:0;}">
+            <Coords points="272,311" />
+        </TextRegion>
+        <TextRegion id="region_1781891897062_19" custom="readingOrder {index:1;}">
+            <Coords points="276,307 1185,307 1185,1693 276,1693" />
+            <TextLine id="line_1781891904394_22" custom="readingOrder {index:0;}">
+                <Coords points="286,307 1185,307 1185,483 286,483" /><Baseline points="286,416 1185,416" />
+                <Baseline points="293,404 1167,397" />
+                <TextEquiv>
+                    <Unicode>ویسکر المضموم فی جمع کما یقال هم عد جمع اهیما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781891996731_28" custom="readingOrder {index:1;}">
+                <Coords points="297,551 1128,551 1128,715 297,715" /><Baseline points="297,653 1128,653" />
+                <Baseline points="329,626 1088,622" />
+                <TextEquiv>
+                    <Unicode>دودا اثرالظم روالیامیتی الفی لام فعل ام من قسل تا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781892074247_34" custom="readingOrder {index:2;}">
+                <Coords points="326,787 1142,787 1142,923 326,923" /><Baseline points="326,871 1142,871" />
+                <Baseline points="336,848 1124,852" />
+                <TextEquiv>
+                    <Unicode>کتابان من رمی کقدره کذااذا کسبعان ضمیره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781892140189_40" custom="readingOrder {index:3;}">
+                <Coords points="351,980 1124,980 1124,1174 351,1174" /><Baseline points="351,1100 1124,1100" />
+                <Baseline points="361,1088 1103,1074" />
+                <TextEquiv>
+                    <Unicode>وان تکن علیها نفعلی صفاو فذاک بالو خپر عنهم مفیلی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781892257579_46" custom="readingOrder {index:4;}">
+                <Coords points="365,1256 1149,1256 1149,1421 365,1421" /><Baseline points="365,1358 1149,1358" />
+                <Baseline points="383,1324 1114,1328" />
+                <TextEquiv>
+                    <Unicode>من لام فعلی الواوبدل اسما کتقوی عالباجازالبدل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781892343847_52" custom="readingOrder {index:5;}">
+                <Coords points="333,1442 1142,1442 1142,1647 333,1647" /><Baseline points="333,1569 1142,1569" />
+                <Baseline points="347,1550 1121,1553 1131,1564" />
+                <TextEquiv>
+                    <Unicode>بالعکس جا لام فعی صفاو و کون قصودی نادر الایخفلی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ویسکر المضموم فی جمع کما یقال هم عد جمع اهیما
+دودا اثرالظم روالیامیتی الفی لام فعل ام من قسل تا
+کتابان من رمی کقدره کذااذا کسبعان ضمیره
+وان تکن علیها نفعلی صفاو فذاک بالو خپر عنهم مفیلی
+من لام فعلی الواوبدل اسما کتقوی عالباجازالبدل
+بالعکس جا لام فعی صفاو و کون قصودی نادر الایخفلی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-23T16:43:22.291+04:30</Created>
+        <LastChange>2026-06-23T16:59:33.641+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0140_NLAI-5-15801-0140.jpg" imageWidth="1089" imageHeight="1794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782217773642" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="region_1782216835124_1207" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782216835124_1207" custom="readingOrder {index:1;}">
+            <Coords points="77,165 943,165 943,1769 77,1769" />
+            <TextLine id="line_1782216867512_1215" custom="readingOrder {index:0;}">
+                <Coords points="97,182 938,182 938,295 97,295" /><Baseline points="97,252 938,252" />
+                <Baseline points="915,241 110,248" />
+                <TextEquiv>
+                    <Unicode>مگر بمجرد این اعتبار که شیخ فرض عقل را اخذ کرده است و فارابی نکرده است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217001388_1221" custom="readingOrder {index:1;}">
+                <Coords points="102,301 925,301 925,421 102,421" /><Baseline points="102,375 925,375" />
+                <Baseline points="916,368 116,360" />
+                <TextEquiv>
+                    <Unicode>و آنچه ما ذکر کرده ایم تصریح کرده است شارح مطالع و از این قرار هم چنانکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217113197_1232" custom="readingOrder {index:2;}">
+                <Coords points="112,431 924,431 924,533 112,533" /><Baseline points="112,494 924,494" />
+                <Baseline points="916,495 122,490" />
+                <TextEquiv>
+                    <Unicode>بمذهب فارابی عکس دارد بمذهب شیخ عکس خواهد داشت و فعلیت در</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217161161_1238" custom="readingOrder {index:3;}">
+                <Coords points="101,560 932,560 932,672 101,672" /><Baseline points="101,629 932,629" />
+                <Baseline points="925,600 506,622 110,621" />
+                <TextEquiv>
+                    <Unicode>صغرای شکل اول شرط نخواهد بود بمذهب شیخ چنانکه بمذهب فارابی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217230931_1244" custom="readingOrder {index:4;}">
+                <Coords points="98,677 934,677 934,778 98,778" /><Baseline points="98,740 934,740" />
+                <Baseline points="926,722 112,742" />
+                <TextEquiv>
+                    <Unicode>شرط نیست قوله و یلزم من العکس یعنی ممکنه عکس دارد بمذهب فارابی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217288089_1250" custom="readingOrder {index:5;}">
+                <Coords points="97,801 940,801 940,903 97,903" /><Baseline points="97,864 940,864" />
+                <Baseline points="928,851 112,865" />
+                <TextEquiv>
+                    <Unicode>زیرا که بطریقه فارابی هر گاه صادق باشد کل ج ب بالامکان البته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217349124_1256" custom="readingOrder {index:6;}">
+                <Coords points="100,913 944,913 944,1027 100,1027" /><Baseline points="100,984 944,984" />
+                <Baseline points="937,975 492,990 107,989" />
+                <TextEquiv>
+                    <Unicode>صادق خواهد بود بعض ب ج بالضروره و الا صادق خواهد بود نقیضش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217416687_1262" custom="readingOrder {index:7;}">
+                <Coords points="105,1062 939,1062 939,1163 105,1163" /><Baseline points="105,1125 939,1125" />
+                <Baseline points="927,1099 110,1122" />
+                <TextEquiv>
+                    <Unicode>یعنی لا شی من ب ج بالضروره و این قضیه را که با اصل ضم میکنم لازم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217532782_1268" custom="readingOrder {index:8;}">
+                <Coords points="107,1169 941,1169 941,1278 107,1278" /><Baseline points="107,1237 941,1237" />
+                <Baseline points="932,1225 115,1228" />
+                <TextEquiv>
+                    <Unicode>می آید سلب شی از نفس مثلا میگوییم کل ب ج بالامکان و لا شی من ب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217591898_1279" custom="readingOrder {index:9;}">
+                <Coords points="101,1286 941,1286 941,1402 101,1402" /><Baseline points="101,1358 941,1358" />
+                <Baseline points="932,1345 104,1366" />
+                <TextEquiv>
+                    <Unicode>ج بالضروره نتیجه میدهد لا شی من ج ج بالضروره و چون ظاهر شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217639523_1287" custom="readingOrder {index:10;}">
+                <Coords points="107,1412 938,1412 938,1512 107,1512" /><Baseline points="107,1474 938,1474" />
+                <Baseline points="927,1465 112,1466" />
+                <TextEquiv>
+                    <Unicode>که بمذهب فارابی ممکنه منعکس میشود و فعلیت در صغرای شکل اول شرط</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217682050_1295" custom="readingOrder {index:11;}">
+                <Coords points="109,1530 935,1530 935,1634 109,1634" /><Baseline points="109,1594 935,1594" />
+                <Baseline points="929,1574 119,1596" />
+                <TextEquiv>
+                    <Unicode>نیست ظاهر میشود انعکاس سالبه ضروریه به ضروریه و چنین گفته میشود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782217753929_1301" custom="readingOrder {index:12;}">
+                <Coords points="191,1704 277,1704 277,1770 191,1770" /><Baseline points="191,1745 277,1745" />
+                <Baseline points="265,1722 203,1756" />
+                <TextEquiv>
+                    <Unicode>هرگاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مگر بمجرد این اعتبار که شیخ فرض عقل را اخذ کرده است و فارابی نکرده است
+و آنچه ما ذکر کرده ایم تصریح کرده است شارح مطالع و از این قرار هم چنانکه
+بمذهب فارابی عکس دارد بمذهب شیخ عکس خواهد داشت و فعلیت در
+صغرای شکل اول شرط نخواهد بود بمذهب شیخ چنانکه بمذهب فارابی
+شرط نیست قوله و یلزم من العکس یعنی ممکنه عکس دارد بمذهب فارابی
+زیرا که بطریقه فارابی هر گاه صادق باشد کل ج ب بالامکان البته
+صادق خواهد بود بعض ب ج بالضروره و الا صادق خواهد بود نقیضش
+یعنی لا شی من ب ج بالضروره و این قضیه را که با اصل ضم میکنم لازم
+می آید سلب شی از نفس مثلا میگوییم کل ب ج بالامکان و لا شی من ب
+ج بالضروره نتیجه میدهد لا شی من ج ج بالضروره و چون ظاهر شد
+که بمذهب فارابی ممکنه منعکس میشود و فعلیت در صغرای شکل اول شرط
+نیست ظاهر میشود انعکاس سالبه ضروریه به ضروریه و چنین گفته میشود
+هرگاه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

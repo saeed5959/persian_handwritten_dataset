@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.718+03:30</Created>
+        <LastChange>2026-06-18T21:18:18.976+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0024_NLAI-5-11236-0024.jpg" imageWidth="1165" imageHeight="1958">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781804898994" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781792391575_225" />
+                <RegionRefIndexed index="1" regionRef="region_1781792440269_252" />
+                <RegionRefIndexed index="2" regionRef="region_1781792459237_261" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781792391575_225" custom="readingOrder {index:0;}">
+            <Coords points="168,507 849,507 849,754 168,754" />
+            <TextLine id="line_1781792404286_231" custom="readingOrder {index:0;}">
+                <Coords points="191,636 490,636 490,533 191,533" /><Baseline points="191,597 490,597" />
+                <Baseline points="214,581 477,587" />
+                <TextEquiv>
+                    <Unicode>درختی برومند کاری بلند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792400887_228" custom="readingOrder {index:1;}">
+                <Coords points="554,547 845,547 845,640 554,640" /><Baseline points="554,605 845,605" />
+                <Baseline points="576,591 835,592" />
+                <TextEquiv>
+                    <Unicode>که این بند را گر بوی کاربند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792409894_237" custom="readingOrder {index:2;}">
+                <Coords points="201,741 492,741 492,649 201,649" /><Baseline points="201,706 492,706" />
+                <Baseline points="210,706 483,706" />
+                <TextEquiv>
+                    <Unicode>خرد بارآن در کنار آورد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792407311_234" custom="readingOrder {index:3;}">
+                <Coords points="551,739 833,739 833,656 551,656" /><Baseline points="551,707 833,707" />
+                <Baseline points="566,710 823,714" />
+                <TextEquiv>
+                    <Unicode>که هر روز یاقوت بار آورد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>درختی برومند کاری بلند
+که این بند را گر بوی کاربند
+خرد بارآن در کنار آورد
+که هر روز یاقوت بار آورد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781792440269_252" custom="readingOrder {index:1;}">
+            <Coords points="299,749 733,749 733,903 299,903" />
+            <TextLine id="line_1781792446158_255" custom="readingOrder {index:0;}">
+                <Coords points="310,883 719,883 719,764 310,764" /><Baseline points="310,838 719,838" />
+                <Baseline points="331,829 682,834" />
+                <TextEquiv>
+                    <Unicode>رفتن کنیزکان رودابه در پیش زال و هدیه وپیغام یار آوردن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>رفتن کنیزکان رودابه در پیش زال و هدیه وپیغام یار آوردن</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781792459237_261" custom="readingOrder {index:2;}">
+            <Coords points="129,895 865,895 865,1685 129,1685" />
+            <TextLine id="line_1781792468814_267" custom="readingOrder {index:0;}">
+                <Coords points="188,1004 501,1004 501,899 188,899" /><Baseline points="188,964 501,964" />
+                <TextEquiv>
+                    <Unicode>بر آن چاره بیچاره بنهاد روی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792466422_264" custom="readingOrder {index:1;}">
+                <Coords points="524,1017 835,1017 835,914 524,914" /><Baseline points="524,978 835,978" />
+                <TextEquiv>
+                    <Unicode>پرستنده برخاست از پیش اوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792473445_273" custom="readingOrder {index:2;}">
+                <Coords points="171,1140 518,1140 518,1015 171,1015" /><Baseline points="171,1092 518,1092" />
+                <TextEquiv>
+                    <Unicode>سر زلف برگل به پیراستند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792470750_270" custom="readingOrder {index:3;}">
+                <Coords points="537,1158 828,1158 828,1034 537,1034" /><Baseline points="537,1111 828,1111" />
+                <TextEquiv>
+                    <Unicode>به دیبای رومی بیاراستند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792475510_276" custom="readingOrder {index:4;}">
+                <Coords points="540,1281 826,1281 826,1139 540,1139" /><Baseline points="540,1227 826,1227" />
+                <TextEquiv>
+                    <Unicode>برفتند هر پنج تا رودبار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792478646_279" custom="readingOrder {index:5;}">
+                <Coords points="171,1278 490,1278 490,1150 171,1150" /><Baseline points="171,1229 490,1229" />
+                <TextEquiv>
+                    <Unicode>بهر بوی و رنگی چو خرم بهار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792484391_285" custom="readingOrder {index:6;}">
+                <Coords points="169,1380 505,1380 505,1268 169,1268" /><Baseline points="169,1337 505,1337" />
+                <TextEquiv>
+                    <Unicode>لب رود لشکرگه زال بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792481630_282" custom="readingOrder {index:7;}">
+                <Coords points="531,1387 825,1387 825,1287 531,1287" /><Baseline points="531,1349 825,1349" />
+                <TextEquiv>
+                    <Unicode>مه فرودین وسر سال بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792490135_291" custom="readingOrder {index:8;}">
+                <Coords points="175,1511 485,1511 485,1383 175,1383" /><Baseline points="175,1462 485,1462" />
+                <TextEquiv>
+                    <Unicode>ز دستان همه داستانها زدند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792486614_288" custom="readingOrder {index:9;}">
+                <Coords points="531,1521 828,1521 828,1402 531,1402" /><Baseline points="531,1476 828,1476" />
+                <TextEquiv>
+                    <Unicode>ازان سوی رودان کنیزان بدند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792495478_297" custom="readingOrder {index:10;}">
+                <Coords points="175,1649 489,1649 489,1506 175,1506" /><Baseline points="175,1595 489,1595" />
+                <TextEquiv>
+                    <Unicode>رخان چون گلستان و گل در کنار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781792492526_294" custom="readingOrder {index:11;}">
+                <Coords points="531,1637 816,1637 816,1527 531,1527" /><Baseline points="531,1595 816,1595" />
+                <TextEquiv>
+                    <Unicode>همی گل چدند از لب رودبار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بر آن چاره بیچاره بنهاد روی
+پرستنده برخاست از پیش اوی
+سر زلف برگل به پیراستند
+به دیبای رومی بیاراستند
+برفتند هر پنج تا رودبار
+بهر بوی و رنگی چو خرم بهار
+لب رود لشکرگه زال بود
+مه فرودین وسر سال بود
+ز دستان همه داستانها زدند
+ازان سوی رودان کنیزان بدند
+رخان چون گلستان و گل در کنار
+همی گل چدند از لب رودبار</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

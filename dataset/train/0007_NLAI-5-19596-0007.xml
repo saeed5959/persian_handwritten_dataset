@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:15.962+03:30</Created>
+        <LastChange>2026-06-18T12:15:05.366+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0007_NLAI-5-19596-0007.jpg" imageWidth="1580" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781772305398" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781770129473_496" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781770129473_496" custom="readingOrder {index:0;}">
+            <Coords points="461,401 1508,405 1508,2663 461,2659" />
+            <TextLine id="line_1781770160048_510" custom="readingOrder {index:0;}">
+                <Coords points="506,430 954,430 954,601 506,601" /><Baseline points="506,536 954,536" />
+                <Baseline points="542,536 947,541" />
+                <TextEquiv>
+                    <Unicode>امیر ملک ولایت که سدر مبدا حال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771224473_524" custom="readingOrder {index:1;}">
+                <Coords points="1046,456 1489,456 1489,616 1046,616" /><Baseline points="1046,555 1489,555" />
+                <Baseline points="1067,557 1477,564" />
+                <TextEquiv>
+                    <Unicode>حدیث منقبتش کشته زیور قران</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771270944_530" custom="readingOrder {index:2;}">
+                <Coords points="523,619 1019,619 1019,740 523,740" /><Baseline points="523,694 1019,694" />
+                <Baseline points="540,683 1007,672" />
+                <TextEquiv>
+                    <Unicode>بر نقادان رشته بلاغت و جوهریان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771301344_536" custom="readingOrder {index:3;}">
+                <Coords points="1046,619 1493,619 1493,738 1046,738" /><Baseline points="1046,693 1493,693" />
+                <Baseline points="1096,685 1475,683" />
+                <TextEquiv>
+                    <Unicode>برای مدحت او مستعد نطق و زبان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771334231_542" custom="readingOrder {index:4;}">
+                <Coords points="524,752 1486,752 1486,892 524,892" /><Baseline points="524,839 1486,839" />
+                <Baseline points="535,821 1475,825" />
+                <TextEquiv>
+                    <Unicode>جواهر بازار فضل و فصاحت نامداران خطه سخن و شهسواران عرصه ذکا و فطن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771382113_548" custom="readingOrder {index:5;}">
+                <Coords points="521,904 1480,904 1480,1018 521,1018" /><Baseline points="521,975 1480,975" />
+                <Baseline points="533,966 1470,954" />
+                <TextEquiv>
+                    <Unicode>سالکان مسالک نظم و نثر و مالکان ممالک دقایق شعر پوشیده نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771408094_554" custom="readingOrder {index:6;}">
+                <Coords points="526,1028 1491,1028 1491,1156 526,1156" /><Baseline points="526,1107 1491,1107" />
+                <Baseline points="553,1107 1471,1098" />
+                <TextEquiv>
+                    <Unicode>که گوهر سخن در اصل خویش سخت قیمتی و با صفاست و کلام منظوم در نفس خود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771448999_560" custom="readingOrder {index:7;}">
+                <Coords points="532,1188 1493,1188 1493,1334 532,1334" /><Baseline points="532,1279 1493,1279" />
+                <Baseline points="551,1255 1471,1252" />
+                <TextEquiv>
+                    <Unicode>عظیم نفیس و گران بهاست و در دکان امکان هیچ متاعی ازو گرانمایه تر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771490544_566" custom="readingOrder {index:8;}">
+                <Coords points="510,1307 1495,1307 1495,1466 510,1466" /><Baseline points="510,1406 1495,1406" />
+                <Baseline points="556,1401 1479,1397" />
+                <TextEquiv>
+                    <Unicode>نتوان خرید و در بازار ادوار هیچ بضاعت ازو با رفعت تر نتوان دید صیرفی خرد را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771545339_572" custom="readingOrder {index:9;}">
+                <Coords points="507,1470 1496,1470 1496,1591 507,1591" /><Baseline points="507,1545 1496,1545" />
+                <Baseline points="526,1548 1477,1548" />
+                <TextEquiv>
+                    <Unicode>نقدی از آن بدست دل نیاید و نقشبند فکرت را صورتی را زیباتر ازان در پرده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771608153_579" custom="readingOrder {index:10;}">
+                <Coords points="519,1624 1486,1624 1486,1757 519,1757" /><Baseline points="519,1706 1486,1706" />
+                <Baseline points="537,1691 1461,1688" />
+                <TextEquiv>
+                    <Unicode>خیال رخ ننماید وزن و مقدار این در شاهوار نداند الا خردمندان کامل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771642099_585" custom="readingOrder {index:11;}">
+                <Coords points="526,1772 1493,1772 1493,1895 526,1895" /><Baseline points="526,1848 1493,1848" />
+                <Baseline points="542,1834 1473,1829" />
+                <TextEquiv>
+                    <Unicode>و قدر و اعتبار این نقد تمام عیار نشناسند الا صیرفی عاقل بیت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771675810_592" custom="readingOrder {index:12;}">
+                <Coords points="507,1900 965,1900 965,2034 507,2034" /><Baseline points="507,1983 965,1983" />
+                <Baseline points="521,1973 940,1970" />
+                <TextEquiv>
+                    <Unicode>آن فرود آمدی بجای سخن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771709345_599" custom="readingOrder {index:13;}">
+                <Coords points="1033,1912 1487,1912 1487,2043 1033,2043" /><Baseline points="1033,1993 1487,1993" />
+                <Baseline points="1040,1982 1480,1977" />
+                <TextEquiv>
+                    <Unicode>گر بدی گوهری ورای سخن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771733612_606" custom="readingOrder {index:14;}">
+                <Coords points="513,2038 1492,2038 1492,2180 513,2180" /><Baseline points="513,2126 1492,2126" />
+                <Baseline points="527,2119 1478,2129" />
+                <TextEquiv>
+                    <Unicode>و هو میدان لایقطع الا بسوابق الاذهان و میزان لایرفع الا بایدی بصایر البیان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771763321_612" custom="readingOrder {index:15;}">
+                <Coords points="499,2206 1483,2206 1483,2339 499,2339" /><Baseline points="499,2288 1483,2288" />
+                <Baseline points="513,2274 1476,2274" />
+                <TextEquiv>
+                    <Unicode>اما تفنن اسالیب کلام و تنوع تراکیب نظم و نثر بسیار و بیشمارست و تفاوت حالات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771811727_619" custom="readingOrder {index:16;}">
+                <Coords points="490,2346 1487,2346 1487,2477 490,2477" /><Baseline points="490,2427 1487,2427" />
+                <Baseline points="504,2404 1471,2410" />
+                <TextEquiv>
+                    <Unicode>سخن وران و تباین درجات هنرپروران بحسب مناسبت نفوس و طبایع و رعایت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781771862091_625" custom="readingOrder {index:17;}">
+                <Coords points="486,2483 1471,2483 1471,2614 486,2614" /><Baseline points="486,2564 1471,2564" />
+                <Baseline points="504,2552 1465,2552" />
+                <TextEquiv>
+                    <Unicode>موافقت رسوم و اوضاع بود در نقیح و تحسین و تعزیز و تحریر و نفرین و آفرین با عنار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>امیر ملک ولایت که سدر مبدا حال
+حدیث منقبتش کشته زیور قران
+بر نقادان رشته بلاغت و جوهریان
+برای مدحت او مستعد نطق و زبان
+جواهر بازار فضل و فصاحت نامداران خطه سخن و شهسواران عرصه ذکا و فطن
+سالکان مسالک نظم و نثر و مالکان ممالک دقایق شعر پوشیده نیست
+که گوهر سخن در اصل خویش سخت قیمتی و با صفاست و کلام منظوم در نفس خود
+عظیم نفیس و گران بهاست و در دکان امکان هیچ متاعی ازو گرانمایه تر
+نتوان خرید و در بازار ادوار هیچ بضاعت ازو با رفعت تر نتوان دید صیرفی خرد را
+نقدی از آن بدست دل نیاید و نقشبند فکرت را صورتی را زیباتر ازان در پرده
+خیال رخ ننماید وزن و مقدار این در شاهوار نداند الا خردمندان کامل
+و قدر و اعتبار این نقد تمام عیار نشناسند الا صیرفی عاقل بیت
+آن فرود آمدی بجای سخن
+گر بدی گوهری ورای سخن
+و هو میدان لایقطع الا بسوابق الاذهان و میزان لایرفع الا بایدی بصایر البیان
+اما تفنن اسالیب کلام و تنوع تراکیب نظم و نثر بسیار و بیشمارست و تفاوت حالات
+سخن وران و تباین درجات هنرپروران بحسب مناسبت نفوس و طبایع و رعایت
+موافقت رسوم و اوضاع بود در نقیح و تحسین و تعزیز و تحریر و نفرین و آفرین با عنار</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T19:30:16.279+04:30</Created>
+        <LastChange>2026-06-23T04:57:05.231+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0137_NLAI-5-15801-0137.jpg" imageWidth="1117" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782174425233" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782172210784_943" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782172210784_943" custom="readingOrder {index:0;}">
+            <Coords points="126,1654 1006,1654 1006,176 126,176" />
+            <TextLine id="line_1782172250050_946" custom="readingOrder {index:0;}">
+                <Coords points="184,204 999,204 999,295 184,295" /><Baseline points="184,260 999,260" />
+                <Baseline points="991,257 197,250" />
+                <TextEquiv>
+                    <Unicode>چیزی که غیر معنی اصلی باشد مثلا در میانه اما ان یکون العدوز زوجا او فردا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782173551015_952" custom="readingOrder {index:1;}">
+                <Coords points="185,304 995,304 995,414 185,414" /><Baseline points="185,372 995,372" />
+                <Baseline points="989,382 195,361" />
+                <TextEquiv>
+                    <Unicode>او اما ان العدد فردا او زوج واجب مفهوم هیچ تفاوتی ندارد و بخلاف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782173639342_958" custom="readingOrder {index:2;}">
+                <Coords points="175,422 1000,422 1000,543 175,543" /><Baseline points="175,497 1000,497" />
+                <Baseline points="987,504 441,494 183,464" />
+                <TextEquiv>
+                    <Unicode>متصله که متبادرازآن ملزومیه مقدم است و لازمیت تالی پس آنچه در اصل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782173736291_964" custom="readingOrder {index:3;}">
+                <Coords points="170,559 989,559 989,665 170,665" /><Baseline points="170,625 989,625" />
+                <Baseline points="980,629 179,604" />
+                <TextEquiv>
+                    <Unicode>ملزوم است در عکس لازم است و برعکس و ازین جهت است که گاه اصل موجبه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782173792666_970" custom="readingOrder {index:4;}">
+                <Coords points="161,649 1000,649 1000,780 161,780" /><Baseline points="161,730 1000,730" />
+                <Baseline points="976,749 183,709" />
+                <TextEquiv>
+                    <Unicode>کلی است اما عکس کلی نمیتواند بود و هم چنین گاه سالبه جزییه اصل صادق است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782173890456_976" custom="readingOrder {index:5;}">
+                <Coords points="153,778 987,778 987,917 153,917" /><Baseline points="153,864 987,864" />
+                <Baseline points="972,883 159,828" />
+                <TextEquiv>
+                    <Unicode>و عکس کاذب مثلا قد لا یکون اذا کان الشی حیوانا کان انسانا عکسش صادق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782174001895_988" custom="readingOrder {index:6;}">
+                <Coords points="158,903 984,903 984,1035 158,1035" /><Baseline points="158,985 984,985" />
+                <Baseline points="970,1001 160,962" />
+                <TextEquiv>
+                    <Unicode>نیست وبیان انعکاس موجبه بطریقه محشی در شرطیه باین طریق است که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782174062089_995" custom="readingOrder {index:7;}">
+                <Coords points="149,1042 986,1042 986,1161 149,1161" /><Baseline points="149,1116 986,1116" />
+                <Baseline points="970,1123 163,1086" />
+                <TextEquiv>
+                    <Unicode>هر گاه حکم کرده شود که تالی محقق است بجمیع تقدیر مقدم پس در بعضی اوقات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782174134357_1001" custom="readingOrder {index:8;}">
+                <Coords points="146,1161 977,1161 977,1291 146,1291" /><Baseline points="146,1242 977,1242" />
+                <Baseline points="960,1252 167,1201" />
+                <TextEquiv>
+                    <Unicode>جمیع خواهد بود مقدم با تالی البته مثلا هر گاه صادق باشد کلما کان هذا الشی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782174210741_1007" custom="readingOrder {index:9;}">
+                <Coords points="138,1286 966,1286 966,1397 138,1397" /><Baseline points="138,1355 966,1355" />
+                <Baseline points="957,1374 160,1326" />
+                <TextEquiv>
+                    <Unicode>انسانا کان حیوانا قد لا یکون اذا کان الشی انسانا کان حیوانا صادق است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782174258894_1013" custom="readingOrder {index:10;}">
+                <Coords points="139,1405 977,1405 977,1513 139,1513" /><Baseline points="139,1472 977,1472" />
+                <Baseline points="948,1488 141,1438" />
+                <TextEquiv>
+                    <Unicode>که قد یکون اذا کان الشی حیوانا کان انسانا زیرا که حکم شده است در</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782174347280_1019" custom="readingOrder {index:11;}">
+                <Coords points="132,1519 965,1519 965,1646 132,1646" /><Baseline points="132,1598 965,1598" />
+                <Baseline points="952,1608 552,1595 151,1565" />
+                <TextEquiv>
+                    <Unicode>اصل قضیه اولا باجتماع حیوان با انسان در بعضی تقادیر و باینطریق نیز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چیزی که غیر معنی اصلی باشد مثلا در میانه اما ان یکون العدوز زوجا او فردا
+او اما ان العدد فردا او زوج واجب مفهوم هیچ تفاوتی ندارد و بخلاف
+متصله که متبادرازآن ملزومیه مقدم است و لازمیت تالی پس آنچه در اصل
+ملزوم است در عکس لازم است و برعکس و ازین جهت است که گاه اصل موجبه
+کلی است اما عکس کلی نمیتواند بود و هم چنین گاه سالبه جزییه اصل صادق است
+و عکس کاذب مثلا قد لا یکون اذا کان الشی حیوانا کان انسانا عکسش صادق
+نیست وبیان انعکاس موجبه بطریقه محشی در شرطیه باین طریق است که
+هر گاه حکم کرده شود که تالی محقق است بجمیع تقدیر مقدم پس در بعضی اوقات
+جمیع خواهد بود مقدم با تالی البته مثلا هر گاه صادق باشد کلما کان هذا الشی
+انسانا کان حیوانا قد لا یکون اذا کان الشی انسانا کان حیوانا صادق است
+که قد یکون اذا کان الشی حیوانا کان انسانا زیرا که حکم شده است در
+اصل قضیه اولا باجتماع حیوان با انسان در بعضی تقادیر و باینطریق نیز</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

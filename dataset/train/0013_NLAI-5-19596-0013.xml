@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:16.578+03:30</Created>
+        <LastChange>2026-06-18T19:40:05.031+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0013_NLAI-5-19596-0013.jpg" imageWidth="1543" imageHeight="2832">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781799005071" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781797460348_1935" />
+                <RegionRefIndexed index="1" regionRef="region_1781797464765_1938" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781797460348_1935" custom="readingOrder {index:0;}">
+            <Coords points="485,541 1454,541 1454,953 485,953" />
+            <TextLine id="line_1781797514336_1941" custom="readingOrder {index:0;}">
+                <Coords points="508,557 961,557 961,656 508,656" /><Baseline points="508,618 961,618" />
+                <Baseline points="526,583 943,605" />
+                <TextEquiv>
+                    <Unicode>ز دور هجرت میمون احمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781797525752_1947" custom="readingOrder {index:1;}">
+                <Coords points="1017,562 1473,562 1473,686 1017,686" /><Baseline points="1017,639 1473,639" />
+                <Baseline points="1030,610 1447,621" />
+                <TextEquiv>
+                    <Unicode>بسال باو ذال و صاد و ابجد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781797536472_1953" custom="readingOrder {index:2;}">
+                <Coords points="524,671 951,671 951,788 524,788" /><Baseline points="524,744 951,744" />
+                <Baseline points="546,735 930,742" />
+                <TextEquiv>
+                    <Unicode>فرید عهد شمس الدین محمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781797546333_1961" custom="readingOrder {index:3;}">
+                <Coords points="1022,687 1455,687 1455,799 1022,799" /><Baseline points="1022,756 1455,756" />
+                <Baseline points="1042,752 1440,755" />
+                <TextEquiv>
+                    <Unicode>بسوی جنت اعلی روان شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781797555753_1967" custom="readingOrder {index:4;}">
+                <Coords points="519,822 946,822 946,924 519,924" /><Baseline points="519,885 946,885" />
+                <Baseline points="521,877 926,880" />
+                <TextEquiv>
+                    <Unicode>نگه کردم صفا و نور مرقد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781797567411_1973" custom="readingOrder {index:5;}">
+                <Coords points="1010,822 1434,822 1434,941 1010,941" /><Baseline points="1010,896 1434,896" />
+                <Baseline points="1019,874 1425,874" />
+                <TextEquiv>
+                    <Unicode>بخاک پاک او چون برگذشتم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ز دور هجرت میمون احمد
+بسال باو ذال و صاد و ابجد
+فرید عهد شمس الدین محمد
+بسوی جنت اعلی روان شد
+نگه کردم صفا و نور مرقد
+بخاک پاک او چون برگذشتم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781797464765_1938" custom="readingOrder {index:1;}">
+            <Coords points="453,969 1464,969 1464,2095 453,2095" />
+            <TextLine id="line_1781797581639_1979" custom="readingOrder {index:0;}">
+                <Coords points="501,974 1452,974 1452,1095 501,1095" /><Baseline points="501,1049 1452,1049" />
+                <Baseline points="514,1017 1446,1031" />
+                <TextEquiv>
+                    <Unicode>سوابق حقوق خدمت و لوازم عهد و محبت و ترغیب عزیز با صفا و تحریص</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781797592191_1985" custom="readingOrder {index:1;}">
+                <Coords points="508,1099 1427,1099 1427,1231 508,1231" /><Baseline points="508,1181 1427,1181" />
+                <Baseline points="519,1147 1405,1158" />
+                <TextEquiv>
+                    <Unicode>ستان صاحب وفا که صفح حال از فروغ نور ایشان جمال گیرد و بضاعت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781797606429_1991" custom="readingOrder {index:2;}">
+                <Coords points="495,1240 1451,1240 1451,1376 495,1376" /><Baseline points="495,1324 1451,1324" />
+                <Baseline points="511,1305 1433,1315" />
+                <TextEquiv>
+                    <Unicode>افضال بحسن تربیت انسان کمال پذیرد و حامل و باعث ترتیب این کتاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781797618918_1997" custom="readingOrder {index:3;}">
+                <Coords points="482,1393 1438,1393 1438,1522 482,1522" /><Baseline points="482,1473 1438,1473" />
+                <Baseline points="496,1433 1427,1446" />
+                <TextEquiv>
+                    <Unicode>و تبوبت این ابواب کشت امید بکرم واهب الوجود آنست که قایل و ناقل را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781797630479_2003" custom="readingOrder {index:4;}">
+                <Coords points="492,1529 1442,1529 1442,1664 492,1664" /><Baseline points="492,1613 1442,1613" />
+                <Baseline points="545,1590 1428,1601" />
+                <TextEquiv>
+                    <Unicode>و سامع و جامع را در خلال این احوال و اثنای این اشتغال حیاتی تازه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781797641663_2009" custom="readingOrder {index:5;}">
+                <Coords points="481,1677 1445,1677 1445,1799 481,1799" /><Baseline points="481,1753 1445,1753" />
+                <Baseline points="505,1745 1431,1745" />
+                <TextEquiv>
+                    <Unicode>و مسرتی بی اندازه کرامت گردانا و عثرات را به فیض شامل و لطف کامل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781797650263_2015" custom="readingOrder {index:6;}">
+                <Coords points="489,1814 1447,1814 1447,1938 489,1938" /><Baseline points="489,1891 1447,1891" />
+                <Baseline points="505,1859 1421,1870" />
+                <TextEquiv>
+                    <Unicode>در گذراناد و انه علی مایشا قدیر و بالاتب جبر وسلم تسلیما کثیرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781797661087_2021" custom="readingOrder {index:7;}">
+                <Coords points="785,1970 1113,1970 1113,2082 785,2082" /><Baseline points="785,2039 1113,2039" />
+                <Baseline points="796,2020 1087,2017" />
+                <TextEquiv>
+                    <Unicode>تمت دیباجه بحول الله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سوابق حقوق خدمت و لوازم عهد و محبت و ترغیب عزیز با صفا و تحریص
+ستان صاحب وفا که صفح حال از فروغ نور ایشان جمال گیرد و بضاعت
+افضال بحسن تربیت انسان کمال پذیرد و حامل و باعث ترتیب این کتاب
+و تبوبت این ابواب کشت امید بکرم واهب الوجود آنست که قایل و ناقل را
+و سامع و جامع را در خلال این احوال و اثنای این اشتغال حیاتی تازه
+و مسرتی بی اندازه کرامت گردانا و عثرات را به فیض شامل و لطف کامل
+در گذراناد و انه علی مایشا قدیر و بالاتب جبر وسلم تسلیما کثیرا
+تمت دیباجه بحول الله</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:30.874-07:00</Created>
+        <LastChange>2026-06-21T15:40:10.049-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0066_NLAI-5-15801-0066.jpg" imageWidth="1089" imageHeight="1779">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782081610127" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782052980223_1431" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782052980223_1431" custom="readingOrder {index:0;}">
+            <Coords points="56,157 943,157 943,1624 56,1624" />
+            <TextLine id="line_1782052999535_1434" custom="readingOrder {index:0;}">
+                <Coords points="900,179 73,179 73,284 900,284" /><Baseline points="73,244 900,244" />
+                <Baseline points="882,246 80,255" />
+                <TextEquiv>
+                    <Unicode>زیرا که مراد از دلالت بر جز ازین حیثیت که جز است که دلالت باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053010425_1437" custom="readingOrder {index:1;}">
+                <Coords points="910,297 78,297 78,395 910,395" /><Baseline points="78,358 910,358" />
+                <Baseline points="889,352 87,370" />
+                <TextEquiv>
+                    <Unicode>بر جز باعتبار انکه لفظ موضوع است از برای کل و نیز جواب داده اند که در تحت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053024690_1440" custom="readingOrder {index:2;}">
+                <Coords points="86,408 896,408 896,537 86,537" /><Baseline points="86,488 896,488" />
+                <Baseline points="886,484 93,493" />
+                <TextEquiv>
+                    <Unicode>التزام است زیرا که مراد از دلالت بر خارج لازم موضوع له ازین حیثیت که لازم است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053040252_1443" custom="readingOrder {index:3;}">
+                <Coords points="86,533 899,533 899,669 86,669" /><Baseline points="86,617 899,617" />
+                <Baseline points="886,604 103,618" />
+                <TextEquiv>
+                    <Unicode>اینست که دلالت نه از رهگذر تمام موضوع له بودن است باشد و نه از رهگذر جز بودن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053055017_1451" custom="readingOrder {index:4;}">
+                <Coords points="88,663 918,663 918,777 88,777" /><Baseline points="88,734 918,734" />
+                <Baseline points="903,729 104,734" />
+                <TextEquiv>
+                    <Unicode>بلکه از رهگذر لازم بودن باشد و بر این دلالت صادقست که از رهگذر کل بودن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053064063_1454" custom="readingOrder {index:5;}">
+                <Coords points="92,786 906,786 906,908 92,908" /><Baseline points="92,862 906,862" />
+                <Baseline points="897,847 114,867" />
+                <TextEquiv>
+                    <Unicode>و جز بودن نیست بلکه از رهگذر لازم موضوع له بودن است زیرا که لازم کل است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053078547_1457" custom="readingOrder {index:6;}">
+                <Coords points="920,897 89,897 89,1038 920,1038" /><Baseline points="89,984 920,984" />
+                <Baseline points="907,971 101,992" />
+                <TextEquiv>
+                    <Unicode>و تکلف در اینجواب بر ذوق سلیم ظاهر و هویدا است و اگر بجای قید حیثیت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053108093_1465" custom="readingOrder {index:7;}">
+                <Coords points="919,1017 96,1017 96,1156 919,1156" /><Baseline points="96,1103 919,1103" />
+                <Baseline points="899,1090 113,1104" />
+                <TextEquiv>
+                    <Unicode>در تعریفهای مذکور چنین گفته شود که مطابقه دلاله لفظ است بر تمام موضوع له</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053118452_1468" custom="readingOrder {index:8;}">
+                <Coords points="98,1142 922,1142 922,1271 98,1271" /><Baseline points="98,1222 922,1222" />
+                <Baseline points="915,1202 123,1228" />
+                <TextEquiv>
+                    <Unicode>باین وضع و تضمن دلالت لفظست بر لازم موضوع له باین وضع و تضمن دلالت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053126561_1471" custom="readingOrder {index:9;}">
+                <Coords points="927,1260 103,1260 103,1417 927,1417" /><Baseline points="103,1357 927,1357" />
+                <Baseline points="914,1329 116,1360" />
+                <TextEquiv>
+                    <Unicode>لفظست بر لازم موضوع له باینوضع و التزام دلالت لفظست بر لازم موضوع له</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053157060_1484" custom="readingOrder {index:10;}">
+                <Coords points="99,1387 927,1387 927,1490 99,1490" /><Baseline points="99,1451 927,1451" />
+                <Baseline points="920,1439 109,1461" />
+                <TextEquiv>
+                    <Unicode>باین وضع مشخص میشود تعریف دلالات بیکدیگر و نه بحث دارد میناید اما اول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782053167326_1487" custom="readingOrder {index:11;}">
+                <Coords points="936,1489 108,1489 108,1616 936,1616" /><Baseline points="108,1568 936,1568" />
+                <Baseline points="926,1560 136,1596" />
+                <TextEquiv>
+                    <Unicode>بواسطه انکه دلالت جرم وضو در ضمن مجموع صادق نیست که دلاله لفظ است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>زیرا که مراد از دلالت بر جز ازین حیثیت که جز است که دلالت باشد
+بر جز باعتبار انکه لفظ موضوع است از برای کل و نیز جواب داده اند که در تحت
+التزام است زیرا که مراد از دلالت بر خارج لازم موضوع له ازین حیثیت که لازم است
+اینست که دلالت نه از رهگذر تمام موضوع له بودن است باشد و نه از رهگذر جز بودن
+بلکه از رهگذر لازم بودن باشد و بر این دلالت صادقست که از رهگذر کل بودن
+و جز بودن نیست بلکه از رهگذر لازم موضوع له بودن است زیرا که لازم کل است
+و تکلف در اینجواب بر ذوق سلیم ظاهر و هویدا است و اگر بجای قید حیثیت
+در تعریفهای مذکور چنین گفته شود که مطابقه دلاله لفظ است بر تمام موضوع له
+باین وضع و تضمن دلالت لفظست بر لازم موضوع له باین وضع و تضمن دلالت
+لفظست بر لازم موضوع له باینوضع و التزام دلالت لفظست بر لازم موضوع له
+باین وضع مشخص میشود تعریف دلالات بیکدیگر و نه بحث دارد میناید اما اول
+بواسطه انکه دلالت جرم وضو در ضمن مجموع صادق نیست که دلاله لفظ است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

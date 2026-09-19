@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-27T18:30:08.279+03:30</Created>
+        <LastChange>2026-06-27T23:08:25.296+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0006_NLAI-5-15801-0006.jpg" imageWidth="1068" imageHeight="1731">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782589105327" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782588739210_277" />
+                <RegionRefIndexed index="1" regionRef="region_1782587440429_126" />
+                <RegionRefIndexed index="2" regionRef="region_1782588070166_203" />
+                <RegionRefIndexed index="3" regionRef="region_1782587497970_141" />
+                <RegionRefIndexed index="4" regionRef="region_1782587612007_150" />
+                <RegionRefIndexed index="5" regionRef="region_1782587686183_159" />
+                <RegionRefIndexed index="6" regionRef="region_1782588136801_231" />
+                <RegionRefIndexed index="7" regionRef="region_1782588269436_240" />
+                <RegionRefIndexed index="8" regionRef="region_1782588349152_249" />
+                <RegionRefIndexed index="9" regionRef="region_1782588428657_258" />
+                <RegionRefIndexed index="10" regionRef="region_1782588584308_267" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782588739210_277" custom="readingOrder {index:0;}">
+            <Coords points="143,1613 287,1613 287,1688 143,1688" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782587440429_126" custom="readingOrder {index:1;}">
+            <Coords points="368,541 680,541 680,643 368,643" />
+            <TextLine id="line_1782587446773_129" custom="readingOrder {index:0;}">
+                <Coords points="375,538 690,538 690,643 375,643" /><Baseline points="375,603 690,603" />
+                <Baseline points="411,606 676,581" />
+                <TextEquiv>
+                    <Unicode>بسم الله الرحمن الرحیم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بسم الله الرحمن الرحیم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782588070166_203" custom="readingOrder {index:2;}">
+            <Coords points="667,237 667,310 737,310 737,237" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782587497970_141" custom="readingOrder {index:3;}">
+            <Coords points="66,643 907,643 907,765 66,765" />
+            <TextLine id="line_1782587504439_144" custom="readingOrder {index:0;}">
+                <Coords points="74,637 921,637 921,763 74,763" /><Baseline points="74,715 921,715" />
+                <Baseline points="102,713 907,707" />
+                <TextEquiv>
+                    <Unicode>این قولی است سودمند در باب تعلیم و تعلم که در حین مذاکره مخدوم جلیل القدر عظیم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>این قولی است سودمند در باب تعلیم و تعلم که در حین مذاکره مخدوم جلیل القدر عظیم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782587612007_150" custom="readingOrder {index:4;}">
+            <Coords points="71,785 967,785 967,860 71,860" />
+            <TextLine id="line_1782587621352_153" custom="readingOrder {index:0;}">
+                <Coords points="74,787 930,787 930,860 74,860" /><Baseline points="74,832 930,832" />
+                <Baseline points="121,835 910,807" />
+                <TextEquiv>
+                    <Unicode>الشان ابراهیم خان ایده الله تعالی بصنوف تاهید بر زبان خام حقیر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>الشان ابراهیم خان ایده الله تعالی بصنوف تاهید بر زبان خام حقیر</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782587686183_159" custom="readingOrder {index:5;}">
+            <Coords points="180,880 939,880 939,1003 180,1003" />
+            <TextLine id="line_1782587693810_162" custom="readingOrder {index:0;}">
+                <Coords points="188,881 952,881 952,1005 188,1005" /><Baseline points="188,958 952,958" />
+                <TextEquiv>
+                    <Unicode>جاری گشته امید که طالبان کمال را از ان خطی کامل نصیب شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جاری گشته امید که طالبان کمال را از ان خطی کامل نصیب شود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782588136801_231" custom="readingOrder {index:6;}">
+            <Coords points="127,1028 927,1028 927,1120 127,1120" />
+            <TextLine id="line_1782588143254_234" custom="readingOrder {index:0;}">
+                <Coords points="87,1018 933,1018 933,1127 87,1127" /><Baseline points="87,1086 933,1086" />
+                <Baseline points="105,1071 903,1081" />
+                <TextEquiv>
+                    <Unicode>روایت شده از پیغمبر ص که فرموده کل امر ذیبال لم یتبده فیه بسم الله فهوا اتبر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>روایت شده از پیغمبر ص که فرموده کل امر ذیبال لم یتبده فیه بسم الله فهوا اتبر</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782588269436_240" custom="readingOrder {index:7;}">
+            <Coords points="91,1129 925,1129 925,1243 91,1243" />
+            <TextLine id="line_1782588276577_243" custom="readingOrder {index:0;}">
+                <Coords points="91,1131 923,1131 923,1241 91,1241" /><Baseline points="91,1199 923,1199" />
+                <Baseline points="123,1190 920,1187" />
+                <TextEquiv>
+                    <Unicode>یعنی هر امر صاحب قدری که ابتدا کرده نشود و در او بسم الله نا تمام دهچز است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یعنی هر امر صاحب قدری که ابتدا کرده نشود و در او بسم الله نا تمام دهچز است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782588349152_249" custom="readingOrder {index:8;}">
+            <Coords points="91,1256 966,1256 966,1370 91,1370" />
+            <TextLine id="line_1782588354420_252" custom="readingOrder {index:0;}">
+                <Coords points="91,1251 956,1251 956,1369 91,1369" /><Baseline points="91,1324 956,1324" />
+                <Baseline points="118,1328 920,1318" />
+                <TextEquiv>
+                    <Unicode>و به همین مضمون روایت شده است در حمد چون بحسب ظاهر توهم شافی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و به همین مضمون روایت شده است در حمد چون بحسب ظاهر توهم شافی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782588428657_258" custom="readingOrder {index:9;}">
+            <Coords points="92,1393 959,1393 959,1491 92,1491" />
+            <TextLine id="line_1782588435283_261" custom="readingOrder {index:0;}">
+                <Coords points="98,1380 952,1380 952,1488 98,1488" /><Baseline points="98,1447 952,1447" />
+                <Baseline points="104,1411 909,1432" />
+                <TextEquiv>
+                    <Unicode>میشود میانه مقضای این دو حدیث زیرا که اگر بسم الله ابتدا کرده شود و به حمد ابتدا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>میشود میانه مقضای این دو حدیث زیرا که اگر بسم الله ابتدا کرده شود و به حمد ابتدا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782588584308_267" custom="readingOrder {index:10;}">
+            <Coords points="94,1511 939,1511 939,1597 94,1597" />
+            <TextLine id="line_1782588589621_270" custom="readingOrder {index:0;}">
+                <Coords points="89,1503 930,1503 930,1597 89,1597" /><Baseline points="89,1561 930,1561" />
+                <Baseline points="95,1530 911,1535" />
+                <TextEquiv>
+                    <Unicode>نخواهد شد و اگر به حمد ابتدا کرده شود بسم الله نخواهد شد لهذا محتشمی سوال کرده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>نخواهد شد و اگر به حمد ابتدا کرده شود بسم الله نخواهد شد لهذا محتشمی سوال کرده</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

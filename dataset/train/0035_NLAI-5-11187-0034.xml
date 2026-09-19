@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:45.479+03:30</Created>
+        <LastChange>2026-06-21T22:07:16.948+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0035_NLAI-5-11187-0034.jpg" imageWidth="859" imageHeight="1505">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782067037011" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782066101456_1540" />
+                <RegionRefIndexed index="1" regionRef="region_1782066284256_1562" />
+                <RegionRefIndexed index="2" regionRef="region_1782066493082_1589" />
+                <RegionRefIndexed index="3" regionRef="region_1782066582777_1602" />
+                <RegionRefIndexed index="4" regionRef="region_1782066718209_1616" />
+                <RegionRefIndexed index="5" regionRef="region_1782066858046_1632" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782066101456_1540" custom="readingOrder {index:0;}">
+            <Coords points="165,403 436,407 436,541 165,537" />
+            <TextLine id="line_1782066109990_1543" custom="readingOrder {index:0;}">
+                <Coords points="164,401 436,405 435,460 165,457" /><Baseline points="164,438 436,438" />
+                <TextEquiv>
+                    <Unicode>دوا القلب الرضا بالقضا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782066183059_1549" custom="readingOrder {index:1;}">
+                <Coords points="164,457 434,459 434,540 163,536" /><Baseline points="163,508 434,508" />
+                <TextEquiv>
+                    <Unicode>دوای دل راضی بودن است بقضای الهی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دوا القلب الرضا بالقضا
+دوای دل راضی بودن است بقضای الهی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782066284256_1562" custom="readingOrder {index:1;}">
+            <Coords points="56,534 537,540 533,718 54,710" />
+            <TextLine id="line_1782066293805_1565" custom="readingOrder {index:0;}">
+                <Coords points="55,534 535,541 536,636 55,636" /><Baseline points="55,597 536,597" />
+                <TextEquiv>
+                    <Unicode>دل چوکشت از مصیبتی مجروح یا که در شدت بلا افتاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782066366510_1573" custom="readingOrder {index:1;}">
+                <Coords points="55,636 536,635 533,715 54,711" /><Baseline points="54,685 536,685" />
+                <TextEquiv>
+                    <Unicode>درد آن را دوا شکیبایی است بقضایش رضا بباید داد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دل چوکشت از مصیبتی مجروح یا که در شدت بلا افتاد
+درد آن را دوا شکیبایی است بقضایش رضا بباید داد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782066493082_1589" custom="readingOrder {index:2;}">
+            <Coords points="159,711 429,711 427,869 157,865" />
+            <TextLine id="line_1782066498019_1592" custom="readingOrder {index:0;}">
+                <Coords points="159,713 427,714 427,784 159,783" /><Baseline points="159,757 427,757" />
+                <TextEquiv>
+                    <Unicode>وا النفس الحرص</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782066553245_1597" custom="readingOrder {index:1;}">
+                <Coords points="157,783 427,783 427,866 157,866" /><Baseline points="157,834 427,834" />
+                <TextEquiv>
+                    <Unicode>درد نفس حرص است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>وا النفس الحرص
+درد نفس حرص است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782066582777_1602" custom="readingOrder {index:3;}">
+            <Coords points="49,865 528,870 522,1041 49,1035" />
+            <TextLine id="line_1782066607873_1607" custom="readingOrder {index:0;}">
+                <Coords points="51,862 527,869 527,953 51,953" /><Baseline points="51,918 527,918" />
+                <TextEquiv>
+                    <Unicode>درد نفس است حرص و زودهمی آدمی را سوی هلاک کشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782066659797_1612" custom="readingOrder {index:1;}">
+                <Coords points="50,952 525,952 525,1040 50,1033" /><Baseline points="50,1007 525,1007" />
+                <TextEquiv>
+                    <Unicode>در قناعت علاج آن درد است کان ترا از دم هلاک کشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>درد نفس است حرص و زودهمی آدمی را سوی هلاک کشد
+در قناعت علاج آن درد است کان ترا از دم هلاک کشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782066718209_1616" custom="readingOrder {index:4;}">
+            <Coords points="154,1036 424,1040 420,1190 151,1185" />
+            <TextLine id="line_1782066740007_1620" custom="readingOrder {index:0;}">
+                <Coords points="154,1035 423,1041 421,1114 154,1115" /><Baseline points="154,1085 423,1085" />
+                <TextEquiv>
+                    <Unicode>دلیل عقل المر قوله و دلیل اصله فعله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782066791603_1625" custom="readingOrder {index:1;}">
+                <Coords points="154,1114 423,1115 421,1190 152,1184" /><Baseline points="152,1161 423,1161" />
+                <TextEquiv>
+                    <Unicode>دلیل عقل مرد سخن اوست و دلیل اصل او فعل او</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دلیل عقل المر قوله و دلیل اصله فعله
+دلیل عقل مرد سخن اوست و دلیل اصل او فعل او</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782066858046_1632" custom="readingOrder {index:5;}">
+            <Coords points="45,1181 520,1193 517,1349 42,1343" />
+            <TextLine id="line_1782066888330_1636" custom="readingOrder {index:0;}">
+                <Coords points="44,1181 519,1191 520,1278 43,1269" /><Baseline points="43,1241 520,1241" />
+                <TextEquiv>
+                    <Unicode>واری ارشک بحال مردی کو رزل و عین است یا لبیک و بلیه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782066947976_1641" custom="readingOrder {index:1;}">
+                <Coords points="44,1268 518,1277 519,1347 42,1342" /><Baseline points="42,1317 519,1317" />
+                <TextEquiv>
+                    <Unicode>در مقابل و فعال او باشد عقل و اصلش چنانکه هست پدید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>واری ارشک بحال مردی کو رزل و عین است یا لبیک و بلیه
+در مقابل و فعال او باشد عقل و اصلش چنانکه هست پدید</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

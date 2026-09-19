@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T19:59:33.826+03:30</Created>
+        <LastChange>2026-06-28T22:39:09.436+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0117_NLAI-5-19596-0117.jpg" imageWidth="1543" imageHeight="2740">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782673749473" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782672354404_3580" />
+                <RegionRefIndexed index="1" regionRef="region_1782673286061_3667" />
+                <RegionRefIndexed index="2" regionRef="region_1782671449383_3524" />
+                <RegionRefIndexed index="3" regionRef="region_1782672611804_3613" />
+                <RegionRefIndexed index="4" regionRef="region_1782671655717_3539" />
+                <RegionRefIndexed index="5" regionRef="region_1782672953726_3628" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782672354404_3580" custom="readingOrder {index:0;}">
+            <Coords points="433,734 902,734 902,1465 433,1465" />
+            <TextLine id="line_1782672365844_3583" custom="readingOrder {index:0;}">
+                <Coords points="452,740 892,740 892,898 452,898" /><Baseline points="452,838 892,838" />
+                <Baseline points="467,819 879,837" />
+                <TextEquiv>
+                    <Unicode>زاشک رنگین در دیار دیده آیین بسته اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782672429239_3589" custom="readingOrder {index:1;}">
+                <Coords points="452,907 892,907 892,1043 452,1043" /><Baseline points="452,991 892,991" />
+                <Baseline points="458,965 881,963" />
+                <TextEquiv>
+                    <Unicode>ملحت را تهمتی بر نافه چین بسته اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782672480967_3595" custom="readingOrder {index:2;}">
+                <Coords points="451,1048 884,1048 884,1181 451,1181" /><Baseline points="451,1130 884,1130" />
+                <Baseline points="457,1100 872,1122" />
+                <TextEquiv>
+                    <Unicode>یا به گرد ماه تابان عقد پروین بسته اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782672512943_3601" custom="readingOrder {index:3;}">
+                <Coords points="449,1182 884,1182 884,1333 449,1333" /><Baseline points="449,1276 884,1276" />
+                <Baseline points="455,1247 876,1270" />
+                <TextEquiv>
+                    <Unicode>سایه بان از گرد عنبر گرد نسرین بسته اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782672547735_3607" custom="readingOrder {index:4;}">
+                <Coords points="448,1339 890,1339 890,1465 448,1465" /><Baseline points="448,1417 890,1417" />
+                <Baseline points="455,1386 877,1404" />
+                <TextEquiv>
+                    <Unicode>آن حکایت ها که از فرهاد و شیرین بسته اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>زاشک رنگین در دیار دیده آیین بسته اند
+ملحت را تهمتی بر نافه چین بسته اند
+یا به گرد ماه تابان عقد پروین بسته اند
+سایه بان از گرد عنبر گرد نسرین بسته اند
+آن حکایت ها که از فرهاد و شیرین بسته اند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782673286061_3667" custom="readingOrder {index:1;}">
+            <Coords points="403,1746 902,1746 902,2586 403,2586" />
+            <TextLine id="line_1782673296337_3670" custom="readingOrder {index:0;}">
+                <Coords points="445,1762 884,1762 884,1903 445,1903" /><Baseline points="445,1849 884,1849" />
+                <Baseline points="459,1818 876,1828" />
+                <TextEquiv>
+                    <Unicode>میدان که در حریم حرم جاش می دهند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782673338149_3677" custom="readingOrder {index:1;}">
+                <Coords points="445,1912 880,1912 880,2052 445,2052" /><Baseline points="445,1999 880,1999" />
+                <Baseline points="462,1966 872,1984" />
+                <TextEquiv>
+                    <Unicode>روز ازل بمردم قلاش می دهند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782673368797_3683" custom="readingOrder {index:2;}">
+                <Coords points="441,2057 879,2057 879,2164 441,2164" /><Baseline points="441,2123 879,2123" />
+                <Baseline points="456,2094 868,2118" />
+                <TextEquiv>
+                    <Unicode>ارباب عقل رحمت اوباش می دهند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782673411109_3689" custom="readingOrder {index:3;}">
+                <Coords points="439,2170 874,2170 874,2315 439,2315" /><Baseline points="439,2260 874,2260" />
+                <Baseline points="451,2227 867,2253" />
+                <TextEquiv>
+                    <Unicode>و امروز نیز وعده به فرداش می دهند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782673644757_3695" custom="readingOrder {index:4;}">
+                <Coords points="432,2328 898,2328 898,2455 432,2455" /><Baseline points="432,2407 898,2407" />
+                <Baseline points="442,2386 875,2393" />
+                <TextEquiv>
+                    <Unicode>کانرا که بینواست نواهاش می دهند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782673678385_3701" custom="readingOrder {index:5;}">
+                <Coords points="425,2459 886,2459 886,2601 425,2601" /><Baseline points="425,2547 886,2547" />
+                <Baseline points="435,2512 863,2521" />
+                <TextEquiv>
+                    <Unicode>گر در حریم وصل تو پاداش می دهند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>میدان که در حریم حرم جاش می دهند
+روز ازل بمردم قلاش می دهند
+ارباب عقل رحمت اوباش می دهند
+و امروز نیز وعده به فرداش می دهند
+کانرا که بینواست نواهاش می دهند
+گر در حریم وصل تو پاداش می دهند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782671449383_3524" custom="readingOrder {index:2;}">
+            <Coords points="682,483 1234,483 1234,761 682,761" />
+            <TextLine id="line_1782671454595_3527" custom="readingOrder {index:0;}">
+                <Coords points="705,501 1225,501 1225,626 705,626" /><Baseline points="705,578 1225,578" />
+                <Baseline points="734,564 1217,570" />
+                <TextEquiv>
+                    <Unicode>صورت خوبت نگارا خوش با آیین بسته اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782671608874_3533" custom="readingOrder {index:1;}">
+                <Coords points="707,635 1214,635 1214,747 707,747" /><Baseline points="707,704 1214,704" />
+                <Baseline points="724,692 1186,699" />
+                <TextEquiv>
+                    <Unicode>گویا نقش لبت از جان شیرین بسته اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>صورت خوبت نگارا خوش با آیین بسته اند
+گویا نقش لبت از جان شیرین بسته اند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782672611804_3613" custom="readingOrder {index:3;}">
+            <Coords points="665,1471 1186,1471 1186,1759 665,1759" />
+            <TextLine id="line_1782672619455_3616" custom="readingOrder {index:0;}">
+                <Coords points="673,1479 1172,1479 1172,1616 673,1616" /><Baseline points="673,1564 1172,1564" />
+                <Baseline points="690,1549 1163,1559" />
+                <TextEquiv>
+                    <Unicode>حافظا محض حقیقت گوی یعنی سر عشق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782672678707_3622" custom="readingOrder {index:1;}">
+                <Coords points="664,1623 1147,1623 1147,1758 664,1758" /><Baseline points="664,1707 1147,1707" />
+                <Baseline points="672,1677 1121,1688" />
+                <TextEquiv>
+                    <Unicode>غیر ازین گویی خیالاتی به تخمین بسته اند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظا محض حقیقت گوی یعنی سر عشق
+غیر ازین گویی خیالاتی به تخمین بسته اند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782671655717_3539" custom="readingOrder {index:4;}">
+            <Coords points="960,758 1412,758 1412,1475 960,1475" />
+            <TextLine id="line_1782671670839_3542" custom="readingOrder {index:0;}">
+                <Coords points="971,771 1397,771 1397,909 971,909" /><Baseline points="971,857 1397,857" />
+                <Baseline points="981,837 1389,840" />
+                <TextEquiv>
+                    <Unicode>از برای مقدم خیل خیالت مردمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782671902962_3551" custom="readingOrder {index:1;}">
+                <Coords points="969,915 1411,915 1411,1025 969,1025" /><Baseline points="969,983 1411,983" />
+                <Baseline points="973,967 1390,975" />
+                <TextEquiv>
+                    <Unicode>کار زلف توست عطاری و مشک افشاندنی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782671968426_3559" custom="readingOrder {index:2;}">
+                <Coords points="967,1028 1399,1028 1399,1188 967,1188" /><Baseline points="967,1127 1399,1127" />
+                <Baseline points="972,1111 1388,1126" />
+                <TextEquiv>
+                    <Unicode>یا رب آن رویست در پیرامنش درهای کهش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782672254420_3568" custom="readingOrder {index:3;}">
+                <Coords points="965,1197 1411,1197 1411,1319 965,1319" /><Baseline points="965,1273 1411,1273" />
+                <Baseline points="983,1257 1393,1274" />
+                <TextEquiv>
+                    <Unicode>خط سبز عارضت نقشبندان قضا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782672302236_3574" custom="readingOrder {index:4;}">
+                <Coords points="966,1321 1393,1321 1393,1477 966,1477" /><Baseline points="966,1418 1393,1418" />
+                <Baseline points="976,1394 1380,1416" />
+                <TextEquiv>
+                    <Unicode>جمله وصف عشق من بود است حسن روی او</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>از برای مقدم خیل خیالت مردمان
+کار زلف توست عطاری و مشک افشاندنی
+یا رب آن رویست در پیرامنش درهای کهش
+خط سبز عارضت نقشبندان قضا
+جمله وصف عشق من بود است حسن روی او</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782672953726_3628" custom="readingOrder {index:5;}">
+            <Coords points="959,1750 1417,1750 1417,2620 959,2620" />
+            <TextLine id="line_1782672962546_3631" custom="readingOrder {index:0;}">
+                <Coords points="972,1774 1391,1774 1391,1908 972,1908" /><Baseline points="972,1857 1391,1857" />
+                <Baseline points="979,1838 1383,1843" />
+                <TextEquiv>
+                    <Unicode>آن که جام باده صهباش می دهند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782673036810_3637" custom="readingOrder {index:1;}">
+                <Coords points="963,1917 1391,1917 1391,2035 963,2035" /><Baseline points="963,1990 1391,1990" />
+                <Baseline points="969,1981 1381,1979" />
+                <TextEquiv>
+                    <Unicode>صوفی مباش منکر رندان که سر عشق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782673090818_3643" custom="readingOrder {index:2;}">
+                <Coords points="960,2047 1392,2047 1392,2183 960,2183" /><Baseline points="960,2131 1392,2131" />
+                <Baseline points="968,2114 1384,2126" />
+                <TextEquiv>
+                    <Unicode>ساقی بیار باده گلگون که در طریق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782673128214_3649" custom="readingOrder {index:3;}">
+                <Coords points="958,2190 1391,2190 1391,2312 958,2312" /><Baseline points="958,2266 1391,2266" />
+                <Baseline points="965,2245 1383,2249" />
+                <TextEquiv>
+                    <Unicode>از لذت حیات ندارد تمتعی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782673197414_3655" custom="readingOrder {index:4;}">
+                <Coords points="954,2322 1395,2322 1395,2460 954,2460" /><Baseline points="954,2408 1395,2408" />
+                <Baseline points="962,2396 1380,2396" />
+                <TextEquiv>
+                    <Unicode>مطرب بساز پرده عشاق بینوا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782673241882_3661" custom="readingOrder {index:5;}">
+                <Coords points="961,2467 1385,2467 1385,2591 961,2591" /><Baseline points="961,2544 1385,2544" />
+                <Baseline points="969,2528 1373,2548" />
+                <TextEquiv>
+                    <Unicode>حافظ تبرک جنت ز فردوس میکند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>آن که جام باده صهباش می دهند
+صوفی مباش منکر رندان که سر عشق
+ساقی بیار باده گلگون که در طریق
+از لذت حیات ندارد تمتعی
+مطرب بساز پرده عشاق بینوا
+حافظ تبرک جنت ز فردوس میکند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

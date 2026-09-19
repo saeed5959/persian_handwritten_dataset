@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:29.483-07:00</Created>
+        <LastChange>2026-06-19T13:42:02.175-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0052_NLAI-5-15801-0052.jpg" imageWidth="1089" imageHeight="1776">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781901722238" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781886180808_296" />
+                <RegionRefIndexed index="1" regionRef="region_1781886189870_299" />
+                <RegionRefIndexed index="2" regionRef="region_1781886300007_331" />
+                <RegionRefIndexed index="3" regionRef="region_1781886228213_308" />
+                <RegionRefIndexed index="4" regionRef="region_1781886264274_324" />
+                <RegionRefIndexed index="5" regionRef="region_1781886359318_351" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781886180808_296" custom="readingOrder {index:0;}">
+            <Coords points="46,161" />
+        </TextRegion>
+        <TextRegion id="region_1781886189870_299" custom="readingOrder {index:1;}">
+            <Coords points="46,164 922,164 922,1649 46,1649" />
+            <TextLine id="line_1781886212479_302" custom="readingOrder {index:0;}">
+                <Coords points="74,173 891,173 891,320 74,320" /><Baseline points="74,264 891,264" />
+                <Baseline points="881,263 630,270 92,264" />
+                <TextEquiv>
+                    <Unicode>و ابلغ اشاره است با اینکه بیان اقسام تصویر و تصدیق چنانکه منصف ذکر کرده و بنحو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886223400_305" custom="readingOrder {index:1;}">
+                <Coords points="69,317 903,317 903,430 69,430" /><Baseline points="69,387 903,387" />
+                <Baseline points="891,375 80,393" />
+                <TextEquiv>
+                    <Unicode>خودش و به مستقیمان او بهتر از انکه بگویند و منقسمان الی الضرورت و الاکتاب بانظر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886241197_312" custom="readingOrder {index:2;}">
+                <Coords points="86,440 900,440 900,564 86,564" /><Baseline points="86,517 900,517" />
+                <Baseline points="888,502 107,516" />
+                <TextEquiv>
+                    <Unicode>مثلا زیرا که از امثال اینعبارت انقسام صریحا فهمیده میشود و از امثال عبارت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886282945_328" custom="readingOrder {index:3;}">
+                <Coords points="908,668 86,668 86,547 908,547" /><Baseline points="86,622 908,622" />
+                <Baseline points="890,622 103,640" />
+                <TextEquiv>
+                    <Unicode>کنایه است و کایه ابلغ از تصریحت و دیگر بدانکه چون ندانسته شد که از قسمت کردن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886328912_345" custom="readingOrder {index:4;}">
+                <Coords points="71,674 904,674 904,817 71,817" /><Baseline points="71,763 904,763" />
+                <Baseline points="894,743 81,759" />
+                <TextEquiv>
+                    <Unicode>تصور و تصدیق ضروره و اکتاب فهمیده میشود منقسم شدن تصور و تصدیقهم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886351130_348" custom="readingOrder {index:5;}">
+                <Coords points="902,940 75,940 75,794 902,794" /><Baseline points="75,885 902,885" />
+                <Baseline points="893,870 89,882" />
+                <TextEquiv>
+                    <Unicode>متصف خواهد بود بقاسمیه و هم بمنقسمیه پس تقسیمان باعتبار انکه از باب افتعال است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886370708_355" custom="readingOrder {index:6;}">
+                <Coords points="88,949 901,949 901,1061 88,1061" /><Baseline points="88,1018 901,1018" />
+                <Baseline points="892,996 105,1015" />
+                <TextEquiv>
+                    <Unicode>و اصل در ان باب لازم است مناسب و صف منقسمیه تصور و تصدیق است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886385707_358" custom="readingOrder {index:7;}">
+                <Coords points="88,1072 899,1072 899,1161 88,1161" /><Baseline points="88,1127 899,1127" />
+                <Baseline points="893,1115 98,1119" />
+                <TextEquiv>
+                    <Unicode>و باعتبار معنی مناسب و صف قاسمیه بخلاف تقسیمان که این مناسب وصف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886398613_361" custom="readingOrder {index:8;}">
+                <Coords points="78,1171 907,1171 907,1288 78,1288" /><Baseline points="78,1244 907,1244" />
+                <Baseline points="896,1239 100,1253" />
+                <TextEquiv>
+                    <Unicode>قاسمیه است پس ممکن است که وجه اختیار کردن تقسیمان با انکه اخضر بودن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886415628_364" custom="readingOrder {index:9;}">
+                <Coords points="75,1421 909,1421 909,1289 75,1289" /><Baseline points="75,1371 909,1371" />
+                <Baseline points="896,1356 98,1378" />
+                <TextEquiv>
+                    <Unicode>این باشد تدبر قوله کما دارتکبه القوم مخلص دلیل بر اینمطلب بطریق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886436393_367" custom="readingOrder {index:10;}">
+                <Coords points="909,1423 78,1423 78,1549 909,1549" /><Baseline points="78,1501 909,1501" />
+                <Baseline points="902,1473 101,1487" />
+                <TextEquiv>
+                    <Unicode>بعصی از محققین است که تصور همه بدیهی نیست و الا لازم میآید که در هیچ تصور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886449439_370" custom="readingOrder {index:11;}">
+                <Coords points="913,1645 70,1645 70,1520 913,1520" /><Baseline points="70,1598 913,1598" />
+                <Baseline points="895,1596 87,1605" />
+                <TextEquiv>
+                    <Unicode>محتاج نباشد بفکر و حال انکه محتاج است در بعضی مثل تصور روح و ملک و همه نظری</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و ابلغ اشاره است با اینکه بیان اقسام تصویر و تصدیق چنانکه منصف ذکر کرده و بنحو
+خودش و به مستقیمان او بهتر از انکه بگویند و منقسمان الی الضرورت و الاکتاب بانظر
+مثلا زیرا که از امثال اینعبارت انقسام صریحا فهمیده میشود و از امثال عبارت
+کنایه است و کایه ابلغ از تصریحت و دیگر بدانکه چون ندانسته شد که از قسمت کردن
+تصور و تصدیق ضروره و اکتاب فهمیده میشود منقسم شدن تصور و تصدیقهم
+متصف خواهد بود بقاسمیه و هم بمنقسمیه پس تقسیمان باعتبار انکه از باب افتعال است
+و اصل در ان باب لازم است مناسب و صف منقسمیه تصور و تصدیق است
+و باعتبار معنی مناسب و صف قاسمیه بخلاف تقسیمان که این مناسب وصف
+قاسمیه است پس ممکن است که وجه اختیار کردن تقسیمان با انکه اخضر بودن
+این باشد تدبر قوله کما دارتکبه القوم مخلص دلیل بر اینمطلب بطریق
+بعصی از محققین است که تصور همه بدیهی نیست و الا لازم میآید که در هیچ تصور
+محتاج نباشد بفکر و حال انکه محتاج است در بعضی مثل تصور روح و ملک و همه نظری</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781886300007_331" custom="readingOrder {index:2;}">
+            <Coords points="76,675" />
+        </TextRegion>
+        <TextRegion id="region_1781886228213_308" custom="readingOrder {index:3;}">
+            <Coords points="81,439" />
+        </TextRegion>
+        <TextRegion id="region_1781886264274_324" custom="readingOrder {index:4;}">
+            <Coords points="82,543" />
+        </TextRegion>
+        <TextRegion id="region_1781886359318_351" custom="readingOrder {index:5;}">
+            <Coords points="85,947" />
+        </TextRegion>
+    </Page>
+</PcGts>

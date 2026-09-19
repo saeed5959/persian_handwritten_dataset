@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-12T10:17:51.327+03:30</Created>
+        <LastChange>2026-06-12T23:55:39.670+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0015_NLAI-5-11236-0015.jpg" imageWidth="1175" imageHeight="1970">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781295939702" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781293905655_808" />
+                <RegionRefIndexed index="1" regionRef="region_1781293955191_835" />
+                <RegionRefIndexed index="2" regionRef="region_1781293973423_841" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781293905655_808" custom="readingOrder {index:0;}">
+            <Coords points="302,532 1011,532 1011,1028 302,1028" />
+            <TextLine id="line_1781293923327_814" custom="readingOrder {index:0;}">
+                <Coords points="334,648 629,648 629,539 334,539" /><Baseline points="334,607 629,607" />
+                <Baseline points="344,593 621,593" />
+                <TextEquiv>
+                    <Unicode>به نزد خردمند رسوا شوم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293913808_811" custom="readingOrder {index:1;}">
+                <Coords points="673,644 988,644 988,539 673,539" /><Baseline points="673,604 988,604" />
+                <Baseline points="697,597 975,595" />
+                <TextEquiv>
+                    <Unicode>عروسم نباید که رعنا شوم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293926975_817" custom="readingOrder {index:2;}">
+                <Coords points="677,767 988,767 988,648 677,648" /><Baseline points="677,722 988,722" />
+                <Baseline points="692,712 958,713" />
+                <TextEquiv>
+                    <Unicode>از اندیشگان زال شد خسته دل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293930031_820" custom="readingOrder {index:3;}">
+                <Coords points="335,774 632,774 632,654 335,654" /><Baseline points="335,728 632,728" />
+                <Baseline points="344,719 624,722" />
+                <TextEquiv>
+                    <Unicode>بر این کار بنهاد پیوسته دل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293933351_823" custom="readingOrder {index:4;}">
+                <Coords points="684,894 988,894 988,772 684,772" /><Baseline points="684,848 988,848" />
+                <Baseline points="690,840 970,833" />
+                <TextEquiv>
+                    <Unicode>همی بود پیچان دل از گفتگوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293937183_826" custom="readingOrder {index:5;}">
+                <Coords points="337,914 639,914 639,774 337,774" /><Baseline points="337,861 639,861" />
+                <Baseline points="343,842 612,842" />
+                <TextEquiv>
+                    <Unicode>مگر تیره گرددش زین آبروی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293941775_829" custom="readingOrder {index:6;}">
+                <Coords points="693,1018 994,1018 994,898 693,898" /><Baseline points="693,972 994,972" />
+                <Baseline points="706,972 984,971" />
+                <TextEquiv>
+                    <Unicode>همی گشت یکچند بر سر سپهر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293945135_832" custom="readingOrder {index:7;}">
+                <Coords points="340,1022 627,1022 627,913 340,913" /><Baseline points="340,981 627,981" />
+                <Baseline points="344,969 626,972" />
+                <TextEquiv>
+                    <Unicode>دل زال آکنده یکسر به مهر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>به نزد خردمند رسوا شوم
+عروسم نباید که رعنا شوم
+از اندیشگان زال شد خسته دل
+بر این کار بنهاد پیوسته دل
+همی بود پیچان دل از گفتگوی
+مگر تیره گرددش زین آبروی
+همی گشت یکچند بر سر سپهر
+دل زال آکنده یکسر به مهر</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781293955191_835" custom="readingOrder {index:1;}">
+            <Coords points="459,1035 872,1035 872,1154 459,1154" />
+            <TextLine id="line_1781293965345_838" custom="readingOrder {index:0;}">
+                <Coords points="465,1143 867,1143 867,1045 465,1045" /><Baseline points="465,1106 867,1106" />
+                <Baseline points="483,1101 836,1097" />
+                <TextEquiv>
+                    <Unicode>مایل شدن رودابه بر زال از گفتار پدر مود مهراب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مایل شدن رودابه بر زال از گفتار پدر مود مهراب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781293973423_841" custom="readingOrder {index:2;}">
+            <Coords points="305,1692 1012,1692 1012,1148 305,1148" />
+            <TextLine id="line_1781293984480_847" custom="readingOrder {index:0;}">
+                <Coords points="336,1274 632,1274 632,1170 336,1170" /><Baseline points="336,1234 632,1234" />
+                <Baseline points="346,1228 615,1223" />
+                <TextEquiv>
+                    <Unicode>برفت و بیامد از آن بارگاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293980680_844" custom="readingOrder {index:1;}">
+                <Coords points="675,1284 980,1284 980,1171 675,1171" /><Baseline points="675,1241 980,1241" />
+                <Baseline points="697,1226 972,1226" />
+                <TextEquiv>
+                    <Unicode>چنان بد که مهراب روزی پگاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293991167_853" custom="readingOrder {index:2;}">
+                <Coords points="338,1401 638,1401 638,1284 338,1284" /><Baseline points="338,1357 638,1357" />
+                <Baseline points="346,1348 629,1349" />
+                <TextEquiv>
+                    <Unicode>زمردی و کردی و از فر و یال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293987631_850" custom="readingOrder {index:3;}">
+                <Coords points="681,1404 989,1404 989,1285 681,1285" /><Baseline points="681,1359 989,1359" />
+                <Baseline points="690,1344 979,1346" />
+                <TextEquiv>
+                    <Unicode>ستایش همی کرد با خود ز زال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293994560_856" custom="readingOrder {index:4;}">
+                <Coords points="690,1533 997,1533 997,1398 690,1398" /><Baseline points="690,1482 997,1482" />
+                <Baseline points="697,1471 994,1469" />
+                <TextEquiv>
+                    <Unicode>گذر کرد سوی شبستان خویش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781293999344_859" custom="readingOrder {index:5;}">
+                <Coords points="333,1533 652,1533 652,1403 333,1403" /><Baseline points="333,1484 652,1484" />
+                <Baseline points="341,1485 622,1482" />
+                <TextEquiv>
+                    <Unicode>دو خورشید دید اندر ایوان او</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781294003647_862" custom="readingOrder {index:6;}">
+                <Coords points="690,1663 997,1663 997,1538 690,1538" /><Baseline points="690,1616 997,1616" />
+                <Baseline points="702,1603 986,1600" />
+                <TextEquiv>
+                    <Unicode>یکی همچو رودابه خوب چهر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781294008320_865" custom="readingOrder {index:7;}">
+                <Coords points="338,1667 656,1667 656,1540 338,1540" /><Baseline points="338,1619 656,1619" />
+                <Baseline points="344,1603 642,1602" />
+                <TextEquiv>
+                    <Unicode>یکی همچو سین دخت با رای و مهر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>برفت و بیامد از آن بارگاه
+چنان بد که مهراب روزی پگاه
+زمردی و کردی و از فر و یال
+ستایش همی کرد با خود ز زال
+گذر کرد سوی شبستان خویش
+دو خورشید دید اندر ایوان او
+یکی همچو رودابه خوب چهر
+یکی همچو سین دخت با رای و مهر</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

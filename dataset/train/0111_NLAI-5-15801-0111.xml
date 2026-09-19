@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:15.961+03:30</Created>
+        <LastChange>2026-06-24T20:18:56.421+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0111_NLAI-5-15801-0111.jpg" imageWidth="1091" imageHeight="1761">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782319736435" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782319011919_145" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782319011919_145" custom="readingOrder {index:0;}">
+            <Coords points="122,198 949,198 949,1645 122,1645" />
+            <TextLine id="line_1782319023471_153" custom="readingOrder {index:0;}">
+                <Coords points="133,205 942,205 942,310 133,310" /><Baseline points="133,270 942,270" />
+                <Baseline points="140,262 933,267" />
+                <TextEquiv>
+                    <Unicode>هر دو انسان انسان حیوان بالضروره زیرا که مادام الذات و مدام الوصف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782319028266_156" custom="readingOrder {index:1;}">
+                <Coords points="131,315 947,315 947,427 131,427" /><Baseline points="131,384 947,384" />
+                <Baseline points="138,360 933,386" />
+                <TextEquiv>
+                    <Unicode>هر دو صادق است و ماده افتراق از جانب ضروریه کل کاتب انسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782319031766_159" custom="readingOrder {index:2;}">
+                <Coords points="135,436 945,436 945,552 135,552" /><Baseline points="135,508 945,508" />
+                <Baseline points="142,484 933,502" />
+                <TextEquiv>
+                    <Unicode>بالضروره زیرا که ضرورت بشرط وصف صادق نیست بواسطه آنکه کتاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782319035266_162" custom="readingOrder {index:3;}">
+                <Coords points="133,552 945,552 945,662 133,662" /><Baseline points="133,620 945,620" />
+                <Baseline points="140,607 931,628" />
+                <TextEquiv>
+                    <Unicode>شرط انسان بوده است و ماده افتراق مشروطه کل کاتب متحرک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782319039609_165" custom="readingOrder {index:4;}">
+                <Coords points="135,669 947,669 947,811 135,811" /><Baseline points="135,757 947,757" />
+                <Baseline points="147,726 935,744" />
+                <TextEquiv>
+                    <Unicode>الاضابع بالضروره مادام کتبا زیرا که مادام الذات افراد کاتب متحرک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782319043084_168" custom="readingOrder {index:5;}">
+                <Coords points="135,813 942,813 942,925 135,925" /><Baseline points="135,882 942,882" />
+                <Baseline points="144,852 938,868" />
+                <TextEquiv>
+                    <Unicode>الاصابع نیستند و هم چنین نسبت میانه ضروریه و عرفیه عامه عموم من وجه است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782319046352_171" custom="readingOrder {index:6;}">
+                <Coords points="124,923 942,923 942,1046 124,1046" /><Baseline points="124,999 942,999" />
+                <Baseline points="140,975 933,994" />
+                <TextEquiv>
+                    <Unicode>و ماده افتراق و اجتماع باین مثالهای مذکوره میتواند بود وقتی که بدل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782319049658_174" custom="readingOrder {index:7;}">
+                <Coords points="131,1051 949,1051 949,1161 131,1161" /><Baseline points="131,1119 949,1119" />
+                <Baseline points="142,1103 929,1115" />
+                <TextEquiv>
+                    <Unicode>کنند ضروره وصفیرا بد دام وصفی و بدین طریق نسبت نیز میانه دایمه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782319053307_177" custom="readingOrder {index:8;}">
+                <Coords points="122,1161 942,1161 942,1289 122,1289" /><Baseline points="122,1240 942,1240" />
+                <Baseline points="135,1222 926,1238" />
+                <TextEquiv>
+                    <Unicode>مطلقه و مشروطه عامه و عرفیه و بهمین یه مثال ماده اجتماع و افتراق میتوان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782319058330_180" custom="readingOrder {index:9;}">
+                <Coords points="126,1289 938,1289 938,1403 126,1403" /><Baseline points="126,1360 938,1360" />
+                <Baseline points="138,1341 929,1357" />
+                <TextEquiv>
+                    <Unicode>یافت این نسبت در وقتی است که مراد از مشروطه و عرفیه ضرورت در وام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782319063057_183" custom="readingOrder {index:10;}">
+                <Coords points="122,1410 933,1410 933,1524 122,1524" /><Baseline points="122,1481 933,1481" />
+                <Baseline points="135,1460 919,1476" />
+                <TextEquiv>
+                    <Unicode>بشرط وصف باشد اما اگر ضرورت و دوام در وقت وصف مراد باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782319067282_186" custom="readingOrder {index:11;}">
+                <Coords points="138,1519 935,1519 935,1647 138,1647" /><Baseline points="138,1598 935,1598" />
+                <Baseline points="147,1586 919,1593" />
+                <TextEquiv>
+                    <Unicode>میانه ضروریه و مشروطه عموم و خصوص مطلق است و میانه عرفیه و دایمه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>هر دو انسان انسان حیوان بالضروره زیرا که مادام الذات و مدام الوصف
+هر دو صادق است و ماده افتراق از جانب ضروریه کل کاتب انسان
+بالضروره زیرا که ضرورت بشرط وصف صادق نیست بواسطه آنکه کتاب
+شرط انسان بوده است و ماده افتراق مشروطه کل کاتب متحرک
+الاضابع بالضروره مادام کتبا زیرا که مادام الذات افراد کاتب متحرک
+الاصابع نیستند و هم چنین نسبت میانه ضروریه و عرفیه عامه عموم من وجه است
+و ماده افتراق و اجتماع باین مثالهای مذکوره میتواند بود وقتی که بدل
+کنند ضروره وصفیرا بد دام وصفی و بدین طریق نسبت نیز میانه دایمه
+مطلقه و مشروطه عامه و عرفیه و بهمین یه مثال ماده اجتماع و افتراق میتوان
+یافت این نسبت در وقتی است که مراد از مشروطه و عرفیه ضرورت در وام
+بشرط وصف باشد اما اگر ضرورت و دوام در وقت وصف مراد باشد
+میانه ضروریه و مشروطه عموم و خصوص مطلق است و میانه عرفیه و دایمه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

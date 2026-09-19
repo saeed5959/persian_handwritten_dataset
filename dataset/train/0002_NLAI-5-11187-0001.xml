@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:41.400+03:30</Created>
+        <LastChange>2026-06-21T15:41:11.953+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0002_NLAI-5-11187-0001.jpg" imageWidth="598" imageHeight="1068">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782043872063" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782042928164_15" />
+                <RegionRefIndexed index="1" regionRef="region_1782043115919_30" />
+                <RegionRefIndexed index="2" regionRef="region_1782043273291_45" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782042928164_15" custom="readingOrder {index:0;}">
+            <Coords points="195,277 540,277 540,438 195,438" />
+            <TextLine id="line_1782042936275_18" custom="readingOrder {index:0;}">
+                <Coords points="204,284 537,284 537,335 204,335" /><Baseline points="204,316 537,316" />
+                <TextEquiv>
+                    <Unicode>المعجم رواه الشیخ الاجل الاعظم ابو علی البطرسی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782043005721_22" custom="readingOrder {index:1;}">
+                <Coords points="203,335 541,335 541,386 203,386" /><Baseline points="203,367 541,367" />
+                <TextEquiv>
+                    <Unicode>صاحب مجمع البیان فی تفسیر القرآن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782043047160_26" custom="readingOrder {index:2;}">
+                <Coords points="202,384 541,384 541,436 202,436" /><Baseline points="202,416 541,416" />
+                <TextEquiv>
+                    <Unicode>بروالله مضجعه و قدس الله سره العزیز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>المعجم رواه الشیخ الاجل الاعظم ابو علی البطرسی
+صاحب مجمع البیان فی تفسیر القرآن
+بروالله مضجعه و قدس الله سره العزیز</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782043115919_30" custom="readingOrder {index:1;}">
+            <Coords points="264,437 486,437 486,610 264,610" />
+            <TextLine id="line_1782043122091_33" custom="readingOrder {index:0;}">
+                <Coords points="263,435 484,435 484,492 263,492" /><Baseline points="263,470 484,470" />
+                <TextEquiv>
+                    <Unicode>قطعه دیباچه کتاب که حروف حشو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782043166281_37" custom="readingOrder {index:1;}">
+                <Coords points="263,493 485,493 485,554 263,554" /><Baseline points="263,531 485,531" />
+                <TextEquiv>
+                    <Unicode>آن قطعه علیحده مشتمل برتاریخ کتاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782043215362_41" custom="readingOrder {index:2;}">
+                <Coords points="265,555 486,555 486,610 265,610" /><Baseline points="265,589 486,589" />
+                <TextEquiv>
+                    <Unicode>که بر می آید از آن بر سبیل تو شیخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>قطعه دیباچه کتاب که حروف حشو
+آن قطعه علیحده مشتمل برتاریخ کتاب
+که بر می آید از آن بر سبیل تو شیخ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782043273291_45" custom="readingOrder {index:2;}">
+            <Coords points="200,610 543,610 543,942 200,942" />
+            <TextLine id="line_1782043280260_48" custom="readingOrder {index:0;}">
+                <Coords points="200,610 540,610 540,669 200,669" /><Baseline points="200,647 540,647" />
+                <TextEquiv>
+                    <Unicode>شکربیحد خدای را که بود صانع و مبدع وجود و عدم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782043384005_52" custom="readingOrder {index:1;}">
+                <Coords points="200,664 542,664 542,723 200,723" /><Baseline points="200,701 542,701" />
+                <TextEquiv>
+                    <Unicode>رازق جن و انس و وحش و طیور خالق عرش و فرش و لوح و قلم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782043453321_56" custom="readingOrder {index:2;}">
+                <Coords points="202,721 542,721 542,780 202,780" /><Baseline points="202,758 542,758" />
+                <TextEquiv>
+                    <Unicode>حی دانا و فرد بی همتا بی نظیرو شریک و بی همدم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782043546908_66" custom="readingOrder {index:3;}">
+                <Coords points="202,778 538,778 538,836 202,836" /><Baseline points="202,814 538,814" />
+                <TextEquiv>
+                    <Unicode>ناظمی کاین و وکون را امرش بدو حرف انتظام دادبهم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782043689471_76" custom="readingOrder {index:4;}">
+                <Coords points="202,836 542,836 542,899 202,899" /><Baseline points="202,875 542,875" />
+                <TextEquiv>
+                    <Unicode>ثانی او نباشد و نبود اول او پدید و آخر هم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782043734880_80" custom="readingOrder {index:5;}">
+                <Coords points="202,896 543,896 543,943 202,943" /><Baseline points="202,925 543,925" />
+                <TextEquiv>
+                    <Unicode>رحمت بی نهایت و صلوات باو بر فخر انبیا و امم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شکربیحد خدای را که بود صانع و مبدع وجود و عدم
+رازق جن و انس و وحش و طیور خالق عرش و فرش و لوح و قلم
+حی دانا و فرد بی همتا بی نظیرو شریک و بی همدم
+ناظمی کاین و وکون را امرش بدو حرف انتظام دادبهم
+ثانی او نباشد و نبود اول او پدید و آخر هم
+رحمت بی نهایت و صلوات باو بر فخر انبیا و امم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

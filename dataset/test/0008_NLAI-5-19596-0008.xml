@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:16.027+03:30</Created>
+        <LastChange>2026-06-18T14:07:10.932+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0008_NLAI-5-19596-0008.jpg" imageWidth="1598" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781779031020" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781772339730_634" />
+                <RegionRefIndexed index="1" regionRef="region_1781778647488_713" />
+                <RegionRefIndexed index="2" regionRef="region_1781778767663_743" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781772339730_634" custom="readingOrder {index:0;}">
+            <Coords points="134,468 1165,468 1165,1739 134,1739" />
+            <TextLine id="line_1781772353315_637" custom="readingOrder {index:0;}">
+                <Coords points="162,491 1125,491 1125,604 162,604" /><Baseline points="162,561 1125,561" />
+                <Baseline points="174,549 1109,542" />
+                <TextEquiv>
+                    <Unicode>مقتضیات و مقام و اعشا و اهتمام نشان امراض و اغشام هنگام ایراد کلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781772869791_643" custom="readingOrder {index:1;}">
+                <Coords points="170,622 1134,622 1134,735 170,735" /><Baseline points="170,692 1134,692" />
+                <Baseline points="177,684 1116,675" />
+                <TextEquiv>
+                    <Unicode>فصل و وصل و تعریف و تنکیر و تقدیم و تاخیر و ایهام و توضیح و کفایت التصریح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781772930999_649" custom="readingOrder {index:2;}">
+                <Coords points="172,763 1132,763 1132,887 172,887" /><Baseline points="172,840 1132,840" />
+                <TextEquiv>
+                    <Unicode>و ایجاز و اطناب و حواض افاده در هر باب جمله برین یک بیت مبتنی و متکلم علی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781778527709_663" custom="readingOrder {index:3;}">
+                <Coords points="166,901 1140,901 1140,1021 166,1021" /><Baseline points="166,975 1140,975" />
+                <Baseline points="195,971 1112,960" />
+                <TextEquiv>
+                    <Unicode>الحقیقه بر رعایت این دقیقه معنی و قد قیل لیسن البلاغه ان یطال عنان القلم و اسنانه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781778545679_669" custom="readingOrder {index:4;}">
+                <Coords points="173,1035 1136,1035 1136,1170 173,1170" /><Baseline points="173,1119 1136,1119" />
+                <Baseline points="197,1107 1122,1102" />
+                <TextEquiv>
+                    <Unicode>و یبسط و هاب القول و میدانه بل هی ان یبالغ بامداد المراد بالفاط اعیان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781778563564_675" custom="readingOrder {index:5;}">
+                <Coords points="180,1177 1133,1177 1133,1298 180,1298" /><Baseline points="180,1252 1133,1252" />
+                <Baseline points="197,1243 1115,1226" />
+                <TextEquiv>
+                    <Unicode>و امعان افراد شاعر ماهر که به کنه این نکته برسد و بر ختیب این قضیه واقف شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781778584108_681" custom="readingOrder {index:6;}">
+                <Coords points="169,1306 1136,1306 1136,1448 169,1448" /><Baseline points="169,1394 1136,1394" />
+                <Baseline points="181,1399 1117,1392" />
+                <TextEquiv>
+                    <Unicode>رخسار عبارت او نظارت گیرد و جمال مقالت او طراوت پذیرد و تا به جایی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781778601038_687" custom="readingOrder {index:7;}">
+                <Coords points="173,1459 1136,1459 1136,1588 173,1588" /><Baseline points="173,1539 1136,1539" />
+                <Baseline points="201,1541 1110,1539" />
+                <TextEquiv>
+                    <Unicode>رسد که یک بیت او نایب مناسب قصیده باشد و یک غزل او واقع موقع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781778615908_695" custom="readingOrder {index:8;}">
+                <Coords points="169,1597 1138,1597 1138,1740 169,1740" /><Baseline points="169,1686 1138,1686" />
+                <Baseline points="188,1698 1117,1686" />
+                <TextEquiv>
+                    <Unicode>دیوانی گردد و از قطعه مملکتی اقطاع یابد و برباعی از ربع مسکون خراج و باج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مقتضیات و مقام و اعشا و اهتمام نشان امراض و اغشام هنگام ایراد کلام
+فصل و وصل و تعریف و تنکیر و تقدیم و تاخیر و ایهام و توضیح و کفایت التصریح
+و ایجاز و اطناب و حواض افاده در هر باب جمله برین یک بیت مبتنی و متکلم علی
+الحقیقه بر رعایت این دقیقه معنی و قد قیل لیسن البلاغه ان یطال عنان القلم و اسنانه
+و یبسط و هاب القول و میدانه بل هی ان یبالغ بامداد المراد بالفاط اعیان
+و امعان افراد شاعر ماهر که به کنه این نکته برسد و بر ختیب این قضیه واقف شود
+رخسار عبارت او نظارت گیرد و جمال مقالت او طراوت پذیرد و تا به جایی
+رسد که یک بیت او نایب مناسب قصیده باشد و یک غزل او واقع موقع
+دیوانی گردد و از قطعه مملکتی اقطاع یابد و برباعی از ربع مسکون خراج و باج</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781778647488_713" custom="readingOrder {index:1;}">
+            <Coords points="146,1752 1148,1752 1148,2030 146,2030" />
+            <TextLine id="line_1781778651823_716" custom="readingOrder {index:0;}">
+                <Coords points="174,1763 612,1763 612,1875 174,1875" /><Baseline points="174,1832 612,1832" />
+                <Baseline points="195,1826 595,1825" />
+                <TextEquiv>
+                    <Unicode>ملک دو عالم به سخن در کشند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781778703373_724" custom="readingOrder {index:1;}">
+                <Coords points="726,1775 1128,1775 1128,1894 726,1894" /><Baseline points="726,1849 1128,1849" />
+                <Baseline points="750,1832 1114,1830" />
+                <TextEquiv>
+                    <Unicode>قافیه سنجان قلم برکشند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781778728567_731" custom="readingOrder {index:2;}">
+                <Coords points="177,1906 602,1906 602,2017 177,2017" /><Baseline points="177,1975 602,1975" />
+                <Baseline points="200,1960 588,1966" />
+                <TextEquiv>
+                    <Unicode>زیر زبان مرد سخن سنج راست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781778743347_737" custom="readingOrder {index:3;}">
+                <Coords points="714,1906 1128,1906 1128,2019 714,2019" /><Baseline points="714,1976 1128,1976" />
+                <Baseline points="726,1960 1119,1958" />
+                <TextEquiv>
+                    <Unicode>خاصه کلیدی که در گنج راست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ملک دو عالم به سخن در کشند
+قافیه سنجان قلم برکشند
+زیر زبان مرد سخن سنج راست
+خاصه کلیدی که در گنج راست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781778767663_743" custom="readingOrder {index:2;}">
+            <Coords points="160,2037 1148,2037 1148,2619 160,2619" />
+            <TextLine id="line_1781778771419_746" custom="readingOrder {index:0;}">
+                <Coords points="181,2049 1134,2049 1134,2172 181,2172" /><Baseline points="181,2125 1134,2125" />
+                <Baseline points="194,2110 1109,2116" />
+                <TextEquiv>
+                    <Unicode>بی تکلف مخلص این کلمات و متخصص اینمقدمات ذات ملک و صفات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781778794532_752" custom="readingOrder {index:1;}">
+                <Coords points="179,2196 1134,2196 1134,2324 179,2324" /><Baseline points="179,2275 1134,2275" />
+                <Baseline points="187,2252 1125,2261" />
+                <TextEquiv>
+                    <Unicode>مولانایی اعظم سعید مبرور مرحوم شهید عمدت فاضل العلما استاد نحاریر الادبا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781778838257_760" custom="readingOrder {index:2;}">
+                <Coords points="187,2333 1137,2333 1137,2444 187,2444" /><Baseline points="187,2402 1137,2402" />
+                <Baseline points="200,2389 1123,2389" />
+                <TextEquiv>
+                    <Unicode>معدن اللطایف الروحانیه مخزن المعارف السبحانیه شمس المله و الدین محمد الحافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781778864302_767" custom="readingOrder {index:3;}">
+                <Coords points="187,2461 1142,2461 1142,2599 187,2599" /><Baseline points="187,2547 1142,2547" />
+                <Baseline points="210,2524 1132,2528" />
+                <TextEquiv>
+                    <Unicode>الشیرازی طیب الله تربته و رفع فی عالم القدس رتبته که اشعار آبدارش رشک چشمه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بی تکلف مخلص این کلمات و متخصص اینمقدمات ذات ملک و صفات
+مولانایی اعظم سعید مبرور مرحوم شهید عمدت فاضل العلما استاد نحاریر الادبا
+معدن اللطایف الروحانیه مخزن المعارف السبحانیه شمس المله و الدین محمد الحافظ
+الشیرازی طیب الله تربته و رفع فی عالم القدس رتبته که اشعار آبدارش رشک چشمه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

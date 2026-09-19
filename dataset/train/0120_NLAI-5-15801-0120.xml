@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.079+03:30</Created>
+        <LastChange>2026-06-26T16:15:38.782+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0120_NLAI-5-15801-0120.jpg" imageWidth="1091" imageHeight="1793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782477938795" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782330488863_160" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782330488863_160" custom="readingOrder {index:0;}">
+            <Coords points="94,150 976,150 976,1657 94,1657" />
+            <TextLine id="line_1782330493778_163" custom="readingOrder {index:0;}">
+                <Coords points="112,200 940,200 940,303 112,303" /><Baseline points="112,264 940,264" />
+                <Baseline points="125,253 926,265" />
+                <TextEquiv>
+                    <Unicode>درین قضیه یعنی ثبوت تحرک از برای اراد کاتب دایمی نیست و دایمی نبودن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330495948_166" custom="readingOrder {index:1;}">
+                <Coords points="125,316 946,316 946,424 125,424" /><Baseline points="125,383 946,383" />
+                <Baseline points="144,378 934,378" />
+                <TextEquiv>
+                    <Unicode>ثبوت تحرک لازم دارد فعلیت سلب تحرک اصابعرا و اگر سالبه این قضیه را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330497796_169" custom="readingOrder {index:2;}">
+                <Coords points="135,431 936,431 936,561 135,561" /><Baseline points="135,512 936,512" />
+                <Baseline points="144,496 923,504" />
+                <TextEquiv>
+                    <Unicode>مقید بلا دوام سازند و لادوام بمنزله مطلقه عامه موجبه است زیرا که دایمی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330499719_172" custom="readingOrder {index:3;}">
+                <Coords points="121,561 951,561 951,676 121,676" /><Baseline points="121,632 951,632" />
+                <Baseline points="135,632 932,634" />
+                <TextEquiv>
+                    <Unicode>نبودن سلب لازم دارد فعلیت ایحاب را و لا ضرورت را وقتی که قید قضیه سازند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330501766_175" custom="readingOrder {index:4;}">
+                <Coords points="112,684 957,684 957,787 112,787" /><Baseline points="112,748 957,748" />
+                <Baseline points="135,749 942,741" />
+                <TextEquiv>
+                    <Unicode>این معنی دارد که نسبت درین قضیه ضروری نیست و ضروری نبودن نسبتی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330504587_178" custom="readingOrder {index:5;}">
+                <Coords points="123,795 946,795 946,921 123,921" /><Baseline points="123,873 946,873" />
+                <Baseline points="138,865 930,867" />
+                <TextEquiv>
+                    <Unicode>امکان مخالف ان نسبت است زیرا که امکان نسبت عبارت است از سلب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330506978_181" custom="readingOrder {index:6;}">
+                <Coords points="108,932 969,932 969,1047 108,1047" /><Baseline points="108,1003 969,1003" />
+                <Baseline points="121,982 940,992" />
+                <TextEquiv>
+                    <Unicode>ضرورت خلافش مثلا کل کاتب متحرک الاصابع اگه مقید بلا ضرورت سازند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330509156_184" custom="readingOrder {index:7;}">
+                <Coords points="127,1043 961,1043 961,1150 127,1150" /><Baseline points="127,1109 961,1109" />
+                <Baseline points="131,1103 944,1118" />
+                <TextEquiv>
+                    <Unicode>این معنی دارد که ثبوت تحرک ضروری نیست و ضروری نبودن ثبوت تحرک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330511129_187" custom="readingOrder {index:8;}">
+                <Coords points="131,1154 957,1154 957,1284 131,1284" /><Baseline points="131,1235 957,1235" />
+                <Baseline points="180,1219 926,1231" />
+                <TextEquiv>
+                    <Unicode>امکان ثبوت تحرک نیست بلکه امکان سلب تحرک است پس لا ضرورت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330512921_190" custom="readingOrder {index:9;}">
+                <Coords points="119,1261 963,1261 963,1416 119,1416" /><Baseline points="119,1357 963,1357" />
+                <Baseline points="142,1357 936,1359" />
+                <TextEquiv>
+                    <Unicode>اشاره است بممکنه عامه مخالف است در کیفیت بان قضیه که مقید است بلا ضرورت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330514781_193" custom="readingOrder {index:10;}">
+                <Coords points="123,1397 963,1397 963,1518 123,1518" /><Baseline points="123,1472 963,1472" />
+                <Baseline points="154,1474 938,1476" />
+                <TextEquiv>
+                    <Unicode>ولهذا معنی لا ضرورت در وقتی که قید کل کاتب متحرک الاصابع باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330517592_196" custom="readingOrder {index:11;}">
+                <Coords points="123,1520 961,1520 961,1655 123,1655" /><Baseline points="123,1604 961,1604" />
+                <Baseline points="138,1596 949,1608" />
+                <TextEquiv>
+                    <Unicode>و معنی لا شی فی الکاتب بمتحرک الاصابع بالا مکان بکیست بواسطه انکه هر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>درین قضیه یعنی ثبوت تحرک از برای اراد کاتب دایمی نیست و دایمی نبودن
+ثبوت تحرک لازم دارد فعلیت سلب تحرک اصابعرا و اگر سالبه این قضیه را
+مقید بلا دوام سازند و لادوام بمنزله مطلقه عامه موجبه است زیرا که دایمی
+نبودن سلب لازم دارد فعلیت ایحاب را و لا ضرورت را وقتی که قید قضیه سازند
+این معنی دارد که نسبت درین قضیه ضروری نیست و ضروری نبودن نسبتی
+امکان مخالف ان نسبت است زیرا که امکان نسبت عبارت است از سلب
+ضرورت خلافش مثلا کل کاتب متحرک الاصابع اگه مقید بلا ضرورت سازند
+این معنی دارد که ثبوت تحرک ضروری نیست و ضروری نبودن ثبوت تحرک
+امکان ثبوت تحرک نیست بلکه امکان سلب تحرک است پس لا ضرورت
+اشاره است بممکنه عامه مخالف است در کیفیت بان قضیه که مقید است بلا ضرورت
+ولهذا معنی لا ضرورت در وقتی که قید کل کاتب متحرک الاصابع باشد
+و معنی لا شی فی الکاتب بمتحرک الاصابع بالا مکان بکیست بواسطه انکه هر</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

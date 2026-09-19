@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:44.057+03:30</Created>
+        <LastChange>2026-06-21T19:53:56.379+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0021_NLAI-5-11187-0020.jpg" imageWidth="859" imageHeight="1505">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782059036441" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782058199037_741" />
+                <RegionRefIndexed index="1" regionRef="region_1782058291103_752" />
+                <RegionRefIndexed index="2" regionRef="region_1782058450959_767" />
+                <RegionRefIndexed index="3" regionRef="region_1782058637740_783" />
+                <RegionRefIndexed index="4" regionRef="region_1782058775639_798" />
+                <RegionRefIndexed index="5" regionRef="region_1782058871476_809" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782058199037_741" custom="readingOrder {index:0;}">
+            <Coords points="181,412 453,412 453,546 179,544" />
+            <TextLine id="line_1782058206459_744" custom="readingOrder {index:0;}">
+                <Coords points="180,412 453,412 453,470 180,470" /><Baseline points="180,448 453,448" />
+                <TextEquiv>
+                    <Unicode>مثلث مهلکات بخل و عجب و هوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058242039_748" custom="readingOrder {index:1;}">
+                <Coords points="181,467 454,470 454,546 181,543" /><Baseline points="181,516 454,516" />
+                <TextEquiv>
+                    <Unicode>سه چیز کشنده کانند بخل و خود بینی و هوای النفس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مثلث مهلکات بخل و عجب و هوی
+سه چیز کشنده کانند بخل و خود بینی و هوای النفس</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782058291103_752" custom="readingOrder {index:1;}">
+            <Coords points="71,546 549,546 549,719 71,713" />
+            <TextLine id="line_1782058327048_759" custom="readingOrder {index:0;}">
+                <Coords points="72,546 551,546 551,637 72,637" /><Baseline points="72,602 551,602" />
+                <TextEquiv>
+                    <Unicode>ثمر عافیت خوری چو بود اجتنابت زمهلکات ثلاث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058387238_763" custom="readingOrder {index:1;}">
+                <Coords points="72,638 549,638 549,720 72,714" /><Baseline points="72,689 549,689" />
+                <TextEquiv>
+                    <Unicode>ثلاث آن هوی و ثانی عجب اولش بخل از این صفات ثلاث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ثمر عافیت خوری چو بود اجتنابت زمهلکات ثلاث
+ثلاث آن هوی و ثانی عجب اولش بخل از این صفات ثلاث</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782058450959_767" custom="readingOrder {index:2;}">
+            <Coords points="178,714 449,715 446,874 178,874" />
+            <TextLine id="line_1782058457543_770" custom="readingOrder {index:0;}">
+                <Coords points="178,717 448,717 448,799 178,799" /><Baseline points="178,768 448,768" />
+                <TextEquiv>
+                    <Unicode>ثلمه الحرص لا یسدها الاالتراب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058593956_779" custom="readingOrder {index:1;}">
+                <Coords points="178,797 446,797 446,875 178,875" /><Baseline points="178,845 446,845" />
+                <TextEquiv>
+                    <Unicode>رخنه حرص را هیچ پر نمیکند مگر خاک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ثلمه الحرص لا یسدها الاالتراب
+رخنه حرص را هیچ پر نمیکند مگر خاک</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782058637740_783" custom="readingOrder {index:3;}">
+            <Coords points="68,875 543,875 543,1045 68,1045" />
+            <TextLine id="line_1782058646146_786" custom="readingOrder {index:0;}">
+                <Coords points="69,876 544,876 544,960 69,960" /><Baseline points="69,928 544,928" />
+                <TextEquiv>
+                    <Unicode>ثلمه حرص آدمی را پر کی کند جیفه جهان حیثیت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058698007_790" custom="readingOrder {index:1;}">
+                <Coords points="68,959 545,960 543,1043 66,1042" /><Baseline points="66,1011 545,1011" />
+                <TextEquiv>
+                    <Unicode>بقیه دیده حرص زمال نشود پر زخاک خبیث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ثلمه حرص آدمی را پر کی کند جیفه جهان حیثیت
+بقیه دیده حرص زمال نشود پر زخاک خبیث</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782058775639_798" custom="readingOrder {index:4;}">
+            <Coords points="174,1042 446,1042 446,1190 174,1190" />
+            <TextLine id="line_1782058788281_801" custom="readingOrder {index:0;}">
+                <Coords points="175,1047 444,1047 444,1131 175,1131" /><Baseline points="175,1099 444,1099" />
+                <TextEquiv>
+                    <Unicode>ثوب السلامه لا یبلی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058819985_805" custom="readingOrder {index:1;}">
+                <Coords points="174,1131 445,1131 445,1194 171,1187" /><Baseline points="171,1170 445,1170" />
+                <TextEquiv>
+                    <Unicode>جامه سلامت رومی کهنه نمی شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ثوب السلامه لا یبلی
+جامه سلامت رومی کهنه نمی شود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782058871476_809" custom="readingOrder {index:5;}">
+            <Coords points="66,1189 542,1195 542,1350 66,1350" />
+            <TextLine id="line_1782058878054_812" custom="readingOrder {index:0;}">
+                <Coords points="65,1194 544,1194 542,1284 63,1284" /><Baseline points="63,1250 544,1250" />
+                <TextEquiv>
+                    <Unicode>ثوب اگر از سلامتت ببراست نیست حاجت ترالباس و اثاث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058972268_827" custom="readingOrder {index:1;}">
+                <Coords points="64,1283 540,1283 540,1350 64,1350" /><Baseline points="64,1325 540,1325" />
+                <TextEquiv>
+                    <Unicode>ثافی این لباس نیست دگر نشود کهنهماندت میراث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ثوب اگر از سلامتت ببراست نیست حاجت ترالباس و اثاث
+ثافی این لباس نیست دگر نشود کهنهماندت میراث</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T19:59:33.326+03:30</Created>
+        <LastChange>2026-06-27T12:05:27.791+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0102_NLAI-5-19596-0102.jpg" imageWidth="1607" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782549327821" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782547654354_553" />
+                <RegionRefIndexed index="1" regionRef="region_1782548911475_665" />
+                <RegionRefIndexed index="2" regionRef="region_1782548294264_618" />
+                <RegionRefIndexed index="3" regionRef="region_1782546912519_488" />
+                <RegionRefIndexed index="4" regionRef="region_1782548511128_631" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782547654354_553" custom="readingOrder {index:0;}">
+            <Coords points="122,487 584,487 584,1649 122,1649" />
+            <TextLine id="line_1782547675778_556" custom="readingOrder {index:0;}">
+                <Coords points="140,500 571,500 571,629 140,629" /><Baseline points="140,580 571,580" />
+                <Baseline points="154,552 552,564" />
+                <TextEquiv>
+                    <Unicode>یا رب چه خطا دید که از راه خطا رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782547855294_562" custom="readingOrder {index:1;}">
+                <Coords points="144,635 573,635 573,769 144,769" /><Baseline points="144,718 573,718" />
+                <Baseline points="166,679 555,683" />
+                <TextEquiv>
+                    <Unicode>کس کس واقف ما نیست که از دیده چه ها رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782547917837_568" custom="readingOrder {index:2;}">
+                <Coords points="149,777 570,777 570,904 149,904" /><Baseline points="149,856 570,856" />
+                <Baseline points="160,831 556,830" />
+                <TextEquiv>
+                    <Unicode>آن دود که از سوز جگر بر سر ما رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782547975257_579" custom="readingOrder {index:3;}">
+                <Coords points="143,916 569,916 569,1061 143,1061" /><Baseline points="143,1006 569,1006" />
+                <Baseline points="158,983 557,984" />
+                <TextEquiv>
+                    <Unicode>سیلاب سرشک آمد و طوفان بلا رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782548056125_585" custom="readingOrder {index:4;}">
+                <Coords points="144,1071 575,1071 575,1202 144,1202" /><Baseline points="144,1152 575,1152" />
+                <Baseline points="162,1121 565,1137" />
+                <TextEquiv>
+                    <Unicode>در درد بمردیم چو از دیده دوا رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782548119013_591" custom="readingOrder {index:5;}">
+                <Coords points="145,1208 575,1208 575,1333 145,1333" /><Baseline points="145,1286 575,1286" />
+                <Baseline points="159,1257 559,1264" />
+                <TextEquiv>
+                    <Unicode>عمریست که عمرم همه در کار دعا رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782548159557_598" custom="readingOrder {index:6;}">
+                <Coords points="144,1338 575,1338 575,1496 144,1496" /><Baseline points="144,1436 575,1436" />
+                <Baseline points="160,1408 558,1422" />
+                <TextEquiv>
+                    <Unicode>در سعی چه کوشیم چو از مروه صفا رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782548228313_606" custom="readingOrder {index:7;}">
+                <Coords points="146,1504 578,1504 578,1637 146,1637" /><Baseline points="146,1586 578,1586" />
+                <Baseline points="155,1547 558,1563" />
+                <TextEquiv>
+                    <Unicode>هیها که رنج تو ز قانون شفا رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>یا رب چه خطا دید که از راه خطا رفت
+کس کس واقف ما نیست که از دیده چه ها رفت
+آن دود که از سوز جگر بر سر ما رفت
+سیلاب سرشک آمد و طوفان بلا رفت
+در درد بمردیم چو از دیده دوا رفت
+عمریست که عمرم همه در کار دعا رفت
+در سعی چه کوشیم چو از مروه صفا رفت
+هیها که رنج تو ز قانون شفا رفت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782548911475_665" custom="readingOrder {index:1;}">
+            <Coords points="147,1896 600,1896 600,2637 147,2637" />
+            <TextLine id="line_1782548930327_668" custom="readingOrder {index:0;}">
+                <Coords points="155,1912 594,1912 594,2060 155,2060" /><Baseline points="155,2004 594,2004" />
+                <Baseline points="161,1964 565,1998" />
+                <TextEquiv>
+                    <Unicode>کار چراغ خلوتیان باز درگرفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782548983847_675" custom="readingOrder {index:1;}">
+                <Coords points="154,2065 582,2065 582,2202 154,2202" /><Baseline points="154,2150 582,2150" />
+                <Baseline points="163,2112 579,2144" />
+                <TextEquiv>
+                    <Unicode>وان پیر سال خورده جوانی ز سر گرفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782549084491_681" custom="readingOrder {index:2;}">
+                <Coords points="155,2209 582,2209 582,2337 155,2337" /><Baseline points="155,2288 582,2288" />
+                <Baseline points="161,2247 569,2288" />
+                <TextEquiv>
+                    <Unicode>وان لطف کرد دوست که دشمن حذر گرفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782549157367_689" custom="readingOrder {index:3;}">
+                <Coords points="155,2343 592,2343 592,2491 155,2491" /><Baseline points="155,2435 592,2435" />
+                <Baseline points="174,2405 571,2423" />
+                <TextEquiv>
+                    <Unicode>گویی که پسته تو سخن در شکر گرفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782549242383_695" custom="readingOrder {index:4;}">
+                <Coords points="160,2498 578,2498 578,2629 160,2629" /><Baseline points="160,2579 578,2579" />
+                <Baseline points="166,2558 569,2568" />
+                <TextEquiv>
+                    <Unicode>عیسی دمی خدا بفرستاد و بر گرفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کار چراغ خلوتیان باز درگرفت
+وان پیر سال خورده جوانی ز سر گرفت
+وان لطف کرد دوست که دشمن حذر گرفت
+گویی که پسته تو سخن در شکر گرفت
+عیسی دمی خدا بفرستاد و بر گرفت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782548294264_618" custom="readingOrder {index:2;}">
+            <Coords points="376,1656 914,1656 914,1902 376,1902" />
+            <TextLine id="line_1782548306617_621" custom="readingOrder {index:0;}">
+                <Coords points="390,1668 896,1668 896,1775 390,1775" /><Baseline points="390,1734 896,1734" />
+                <TextEquiv>
+                    <Unicode>ای دوست بپرسید حافظ قدمی نه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782548413188_625" custom="readingOrder {index:1;}">
+                <Coords points="394,1783 857,1783 857,1899 394,1899" /><Baseline points="394,1855 857,1855" />
+                <Baseline points="436,1843 817,1857" />
+                <TextEquiv>
+                    <Unicode>زان پیش که گویند که دارز فنا رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ای دوست بپرسید حافظ قدمی نه
+زان پیش که گویند که دارز فنا رفت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782546912519_488" custom="readingOrder {index:3;}">
+            <Coords points="661,485 1115,485 1115,1659 661,1659" />
+            <TextLine id="line_1782546934399_491" custom="readingOrder {index:0;}">
+                <Coords points="670,497 1091,497 1091,616 670,616" /><Baseline points="670,571 1091,571" />
+                <Baseline points="678,547 1078,554" />
+                <TextEquiv>
+                    <Unicode>آن ترک پریچهره که دوش از بر ما رفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782547150919_511" custom="readingOrder {index:1;}">
+                <Coords points="672,625 1099,625 1099,746 672,746" /><Baseline points="672,700 1099,700" />
+                <Baseline points="678,671 1086,691" />
+                <TextEquiv>
+                    <Unicode>تارفت مرا ا نظر آن چشم جهان بین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782547213523_517" custom="readingOrder {index:2;}">
+                <Coords points="671,763 1094,763 1094,902 671,902" /><Baseline points="671,849 1094,849" />
+                <Baseline points="680,825 1082,837" />
+                <TextEquiv>
+                    <Unicode>بر شمع نرفت از گذر آتش دل دوش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782547314547_523" custom="readingOrder {index:3;}">
+                <Coords points="672,915 1094,915 1094,1077 672,1077" /><Baseline points="672,1015 1094,1015" />
+                <Baseline points="680,1002 1077,997" />
+                <TextEquiv>
+                    <Unicode>دور از رخ تو دم به دم از گوشه چشمم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782547412194_529" custom="readingOrder {index:4;}">
+                <Coords points="669,1085 1099,1085 1099,1191 669,1191" /><Baseline points="669,1151 1099,1151" />
+                <Baseline points="677,1121 1091,1133" />
+                <TextEquiv>
+                    <Unicode>از پا می فتادیم چو آمد غم هجران</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782547481422_535" custom="readingOrder {index:5;}">
+                <Coords points="670,1201 1105,1201 1105,1344 670,1344" /><Baseline points="670,1290 1105,1290" />
+                <Baseline points="678,1263 1089,1277" />
+                <TextEquiv>
+                    <Unicode>دل گفت وصالش به دعا باز توان یافت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782547532022_541" custom="readingOrder {index:6;}">
+                <Coords points="673,1350 1108,1350 1108,1497 673,1497" /><Baseline points="673,1441 1108,1441" />
+                <Baseline points="678,1413 1094,1422" />
+                <TextEquiv>
+                    <Unicode>احرام چه بندیم چو آن قبله نه این جاست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782547601130_547" custom="readingOrder {index:7;}">
+                <Coords points="673,1507 1102,1507 1102,1633 673,1633" /><Baseline points="673,1585 1102,1585" />
+                <Baseline points="679,1556 1093,1563" />
+                <TextEquiv>
+                    <Unicode>و می گفت طبیب از سر حسرت چو مرا دید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>آن ترک پریچهره که دوش از بر ما رفت
+تارفت مرا ا نظر آن چشم جهان بین
+بر شمع نرفت از گذر آتش دل دوش
+دور از رخ تو دم به دم از گوشه چشمم
+از پا می فتادیم چو آمد غم هجران
+دل گفت وصالش به دعا باز توان یافت
+احرام چه بندیم چو آن قبله نه این جاست
+و می گفت طبیب از سر حسرت چو مرا دید</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782548511128_631" custom="readingOrder {index:4;}">
+            <Coords points="673,1907 1123,1907 1123,2622 673,2622" />
+            <TextLine id="line_1782548534844_634" custom="readingOrder {index:0;}">
+                <Coords points="678,1919 1102,1919 1102,2060 678,2060" /><Baseline points="678,2006 1102,2006" />
+                <Baseline points="686,1983 1094,2003" />
+                <TextEquiv>
+                    <Unicode>ساقی بیا که یار ز رخ پرده برگرفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782548580712_640" custom="readingOrder {index:1;}">
+                <Coords points="678,2069 1112,2069 1112,2200 678,2200" /><Baseline points="678,2150 1112,2150" />
+                <Baseline points="687,2124 1101,2131" />
+                <TextEquiv>
+                    <Unicode>آن شمع سرگرفته دگر چهره برفروخت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782548680052_647" custom="readingOrder {index:2;}">
+                <Coords points="681,2208 1119,2208 1119,2345 681,2345" /><Baseline points="681,2293 1119,2293" />
+                <Baseline points="692,2265 1105,2280" />
+                <TextEquiv>
+                    <Unicode>آن عشوه داد عشق که مقنی ز ره برفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782548746372_653" custom="readingOrder {index:3;}">
+                <Coords points="679,2354 1120,2354 1120,2499 679,2499" /><Baseline points="679,2444 1120,2444" />
+                <Baseline points="686,2402 1102,2428" />
+                <TextEquiv>
+                    <Unicode>زنهار ازین عبارت شیرین دل فریب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782548827668_659" custom="readingOrder {index:4;}">
+                <Coords points="682,2507 1112,2507 1112,2619 682,2619" /><Baseline points="682,2576 1112,2576" />
+                <Baseline points="708,2563 1099,2568" />
+                <TextEquiv>
+                    <Unicode>بارغمی که خاطر ما خسته کرده بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ساقی بیا که یار ز رخ پرده برگرفت
+آن شمع سرگرفته دگر چهره برفروخت
+آن عشوه داد عشق که مقنی ز ره برفت
+زنهار ازین عبارت شیرین دل فریب
+بارغمی که خاطر ما خسته کرده بود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

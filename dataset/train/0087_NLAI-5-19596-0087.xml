@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:30.641+03:30</Created>
+        <LastChange>2026-06-19T20:56:21.878+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0087_NLAI-5-19596-0087.jpg" imageWidth="1571" imageHeight="2833">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781889981939" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781889418978_829" />
+                <RegionRefIndexed index="1" regionRef="region_1781889648080_865" />
+                <RegionRefIndexed index="2" regionRef="region_1781889687101_880" />
+                <RegionRefIndexed index="3" regionRef="region_1781889939186_919" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781889418978_829" custom="readingOrder {index:0;}">
+            <Coords points="512,512 1487,512 1487,1220 512,1220" />
+            <TextLine id="line_1781889423754_832" custom="readingOrder {index:0;}">
+                <Coords points="501,531 1479,531 1479,641 501,641" /><Baseline points="501,599 1479,599" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889434007_835" custom="readingOrder {index:1;}">
+                <Coords points="529,544 1456,555 1455,605 528,594" /><Baseline points="528,582 1456,582" />
+                <Baseline points="528,589 1455,600" />
+                <TextEquiv>
+                    <Unicode>چو سرو سرکشی ای یار سنگدل با ما چه چشمهاست که از روی تو بر اطراف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889516314_841" custom="readingOrder {index:2;}">
+                <Coords points="501,663 1476,663 1476,764 501,764" /><Baseline points="501,726 1476,726" />
+                <Baseline points="525,835 1465,870" />
+                <TextEquiv>
+                    <Unicode>تو را که مایه ی خلد است نیاز همتا نیست از این مثال گزینم روان در اطراف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889566397_847" custom="readingOrder {index:3;}">
+                <Coords points="495,788 1468,788 1468,919 495,919" /><Baseline points="495,869 1468,869" />
+                <Baseline points="523,1012 1463,1021" />
+                <TextEquiv>
+                    <Unicode>بیان وصف تو گفتن نه حد امکان است چرا که وصف تو بیرون ز حد اوصاف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889587846_853" custom="readingOrder {index:4;}">
+                <Coords points="520,947 1476,947 1476,1067 520,1067" /><Baseline points="520,1021 1476,1021" />
+                <Baseline points="542,1138 1468,1154" />
+                <TextEquiv>
+                    <Unicode>ز چشم عشق توان دید روی شاهد غیب که نور دیده ی عاشق ز قاف تا قاف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889614906_859" custom="readingOrder {index:5;}">
+                <Coords points="506,1089 1496,1089 1496,1206 506,1206" /><Baseline points="506,1162 1496,1162" />
+                <Baseline points="777,1297 1209,1297" />
+                <TextEquiv>
+                    <Unicode>ز مصحف رخ دلدار آیتی برخوان که آن بیان مقامات کشف کشاف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چو سرو سرکشی ای یار سنگدل با ما چه چشمهاست که از روی تو بر اطراف است
+تو را که مایه ی خلد است نیاز همتا نیست از این مثال گزینم روان در اطراف است
+بیان وصف تو گفتن نه حد امکان است چرا که وصف تو بیرون ز حد اوصاف است
+ز چشم عشق توان دید روی شاهد غیب که نور دیده ی عاشق ز قاف تا قاف است
+ز مصحف رخ دلدار آیتی برخوان که آن بیان مقامات کشف کشاف است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781889648080_865" custom="readingOrder {index:1;}">
+            <Coords points="730,1239 1233,1239 1233,1485 730,1485" />
+            <TextLine id="line_1781889652293_868" custom="readingOrder {index:0;}">
+                <Coords points="766,1256 1214,1256 1214,1351 766,1351" /><Baseline points="766,1315 1214,1315" />
+                <Baseline points="793,1425 1189,1436" />
+                <TextEquiv>
+                    <Unicode>عدو که منطق حافظ طمع کند در شعر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889668128_874" custom="readingOrder {index:1;}">
+                <Coords points="747,1368 1211,1368 1211,1482 747,1482" /><Baseline points="747,1439 1211,1439" />
+                <Baseline points="554,1573 1481,1559" />
+                <TextEquiv>
+                    <Unicode>همان حدیث هما و طریق خطاف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>عدو که منطق حافظ طمع کند در شعر
+همان حدیث هما و طریق خطاف است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781889687101_880" custom="readingOrder {index:2;}">
+            <Coords points="500,1480 1495,1480 1495,2349 500,2349" />
+            <TextLine id="line_1781889691423_883" custom="readingOrder {index:0;}">
+                <Coords points="533,1504 1497,1504 1497,1630 533,1630" /><Baseline points="533,1582 1497,1582" />
+                <Baseline points="508,1717 1473,1720" />
+                <TextEquiv>
+                    <Unicode>کنون که بر کف گل جام باده صاف است به صد هزار زبان بلبلش در اوصاف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889789350_889" custom="readingOrder {index:1;}">
+                <Coords points="503,1644 1478,1644 1478,1778 503,1778" /><Baseline points="503,1727 1478,1727" />
+                <Baseline points="524,1873 1462,1849" />
+                <TextEquiv>
+                    <Unicode>بخواه دفتر اشعار و راه صحرا گیر چه وقت مدرسه و بحث کشف کشاف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889817615_895" custom="readingOrder {index:2;}">
+                <Coords points="511,1797 1489,1797 1489,1901 511,1901" /><Baseline points="511,1861 1489,1861" />
+                <Baseline points="535,1999 1473,1996" />
+                <TextEquiv>
+                    <Unicode>فقیه مدرسه دی مست بود و فتوی داد که می حرام ولی به ز مال اوقاف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889842822_901" custom="readingOrder {index:3;}">
+                <Coords points="516,1933 1492,1933 1492,2062 516,2062" /><Baseline points="516,2013 1492,2013" />
+                <Baseline points="538,2149 1470,2138" />
+                <TextEquiv>
+                    <Unicode>به درد و صاف تو را حکم نیست خوش درکش که هر چه ساقی ما کرد عین الطاف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889869807_907" custom="readingOrder {index:4;}">
+                <Coords points="508,2084 1475,2084 1475,2212 508,2212" /><Baseline points="508,2163 1475,2163" />
+                <Baseline points="535,2280 1478,2291" />
+                <TextEquiv>
+                    <Unicode>ببر ز خلق و چو عنقا قیاس کار بگیر که صیت گوشه نشینان ز قاف تا قاف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889915178_913" custom="readingOrder {index:5;}">
+                <Coords points="508,2226 1495,2226 1495,2341 508,2341" /><Baseline points="508,2297 1495,2297" />
+                <Baseline points="781,2433 1238,2420" />
+                <TextEquiv>
+                    <Unicode>حدیث مدعیان و خیال همکاران همان حکایت زردوز و بوریاباف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کنون که بر کف گل جام باده صاف است به صد هزار زبان بلبلش در اوصاف است
+بخواه دفتر اشعار و راه صحرا گیر چه وقت مدرسه و بحث کشف کشاف است
+فقیه مدرسه دی مست بود و فتوی داد که می حرام ولی به ز مال اوقاف است
+به درد و صاف تو را حکم نیست خوش درکش که هر چه ساقی ما کرد عین الطاف است
+ببر ز خلق و چو عنقا قیاس کار بگیر که صیت گوشه نشینان ز قاف تا قاف است
+حدیث مدعیان و خیال همکاران همان حکایت زردوز و بوریاباف است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781889939186_919" custom="readingOrder {index:3;}">
+            <Coords points="702,2360 1306,2360 1306,2589 702,2589" />
+            <TextLine id="line_1781889943790_922" custom="readingOrder {index:0;}">
+                <Coords points="746,2382 1276,2382 1276,2474 746,2474" /><Baseline points="746,2439 1276,2439" />
+                <Baseline points="757,2570 1219,2559" />
+                <TextEquiv>
+                    <Unicode>خموش حافظ و این نکته های چون زر سرخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781889965206_928" custom="readingOrder {index:1;}">
+                <Coords points="735,2507 1257,2507 1257,2597 735,2597" /><Baseline points="735,2563 1257,2563" />
+                <TextEquiv>
+                    <Unicode>نگاه دار که قلاب شهر صراف است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خموش حافظ و این نکته های چون زر سرخ
+نگاه دار که قلاب شهر صراف است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T19:59:33.482+03:30</Created>
+        <LastChange>2026-06-27T20:07:06.454+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0107_NLAI-5-19596-0107.jpg" imageWidth="1543" imageHeight="2850">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782578226486" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782576254097_1539" />
+                <RegionRefIndexed index="1" regionRef="region_1782577376080_1619" />
+                <RegionRefIndexed index="2" regionRef="region_1782578031617_1706" />
+                <RegionRefIndexed index="3" regionRef="region_1782576466488_1560" />
+                <RegionRefIndexed index="4" regionRef="region_1782577892362_1678" />
+                <RegionRefIndexed index="5" regionRef="region_1782576009424_1517" />
+                <RegionRefIndexed index="6" regionRef="region_1782576628482_1576" />
+                <RegionRefIndexed index="7" regionRef="region_1782577984014_1694" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782576254097_1539" custom="readingOrder {index:0;}">
+            <Coords points="487,488 924,488 924,888 487,888" />
+            <TextLine id="line_1782576261918_1542" custom="readingOrder {index:0;}">
+                <Coords points="492,494 919,494 919,608 492,608" /><Baseline points="492,565 919,565" />
+                <Baseline points="506,525 914,562" />
+                <TextEquiv>
+                    <Unicode>نیافت کام من از وصل الحاح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782576361499_1548" custom="readingOrder {index:1;}">
+                <Coords points="493,612 923,612 923,739 493,739" /><Baseline points="493,691 923,691" />
+                <Baseline points="503,658 907,691" />
+                <TextEquiv>
+                    <Unicode>ز رند عاشق مجنون کسی نیافت صلاح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782576408852_1554" custom="readingOrder {index:2;}">
+                <Coords points="492,745 924,745 924,884 492,884" /><Baseline points="492,831 924,831" />
+                <Baseline points="498,811 911,825" />
+                <TextEquiv>
+                    <Unicode>و سخن نشرب ما کذلک الاقداح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>نیافت کام من از وصل الحاح
+ز رند عاشق مجنون کسی نیافت صلاح
+و سخن نشرب ما کذلک الاقداح</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782577376080_1619" custom="readingOrder {index:1;}">
+            <Coords points="477,1151 937,1151 937,2181 477,2181" />
+            <TextLine id="line_1782577397446_1622" custom="readingOrder {index:0;}">
+                <Coords points="492,1161 931,1161 931,1310 492,1310" /><Baseline points="492,1253 931,1253" />
+                <Baseline points="513,1222 920,1255" />
+                <TextEquiv>
+                    <Unicode>که ماه امن و امانست و سال صلح وصلاح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782577450881_1628" custom="readingOrder {index:1;}">
+                <Coords points="494,1320 928,1320 928,1460 494,1460" /><Baseline points="494,1407 928,1407" />
+                <Baseline points="508,1372 916,1403" />
+                <TextEquiv>
+                    <Unicode>به آشتی هر این نور دیده کوی فلاح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782577617877_1634" custom="readingOrder {index:2;}">
+                <Coords points="495,1466 919,1466 919,1603 495,1603" /><Baseline points="495,1551 919,1551" />
+                <Baseline points="505,1516 910,1535" />
+                <TextEquiv>
+                    <Unicode>مقابل شب قدرت است و روز استفتاح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782577652753_1640" custom="readingOrder {index:3;}">
+                <Coords points="494,1612 922,1612 922,1743 494,1743" /><Baseline points="494,1693 922,1693" />
+                <Baseline points="508,1669 913,1681" />
+                <TextEquiv>
+                    <Unicode>هر آنکه جام صبوحش بود چراغ صباح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782577690941_1646" custom="readingOrder {index:4;}">
+                <Coords points="495,1750 936,1750 936,1895 495,1895" /><Baseline points="495,1840 936,1840" />
+                <Baseline points="502,1812 920,1824" />
+                <TextEquiv>
+                    <Unicode>که بانک شام ندانم ز فالق الاصباح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782577746465_1652" custom="readingOrder {index:5;}">
+                <Coords points="499,1901 926,1901 926,2036 499,2036" /><Baseline points="499,1985 926,1985" />
+                <Baseline points="515,1946 916,1967" />
+                <TextEquiv>
+                    <Unicode>که کس درت نگشاید چو کم کنی مفتاح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782577814977_1667" custom="readingOrder {index:6;}">
+                <Coords points="491,2039 917,2039 917,2175 491,2175" /><Baseline points="491,2123 917,2123" />
+                <Baseline points="501,2095 907,2104" />
+                <TextEquiv>
+                    <Unicode>به راحت دل و جان کوش در مسا و صباح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که ماه امن و امانست و سال صلح وصلاح
+به آشتی هر این نور دیده کوی فلاح
+مقابل شب قدرت است و روز استفتاح
+هر آنکه جام صبوحش بود چراغ صباح
+که بانک شام ندانم ز فالق الاصباح
+که کس درت نگشاید چو کم کنی مفتاح
+به راحت دل و جان کوش در مسا و صباح</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782578031617_1706" custom="readingOrder {index:2;}">
+            <Coords points="484,2426 924,2426 924,2579 484,2579" />
+            <TextLine id="line_1782578039509_1709" custom="readingOrder {index:0;}">
+                <Coords points="491,2430 914,2430 914,2564 491,2564" /><Baseline points="491,2513 914,2513" />
+                <Baseline points="509,2486 905,2515" />
+                <TextEquiv>
+                    <Unicode>بود آشفته همچون موی فرخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بود آشفته همچون موی فرخ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782576466488_1560" custom="readingOrder {index:3;}">
+            <Coords points="709,893 1233,893 1233,1171 709,1171" />
+            <TextLine id="line_1782576472253_1563" custom="readingOrder {index:0;}">
+                <Coords points="737,928 1207,928 1207,1028 737,1028" /><Baseline points="737,990 1207,990" />
+                <Baseline points="747,965 1195,975" />
+                <TextEquiv>
+                    <Unicode>دعای جان تو ورد زبان حافظ باد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782576568313_1569" custom="readingOrder {index:1;}">
+                <Coords points="741,1034 1198,1034 1198,1168 741,1168" /><Baseline points="741,1117 1198,1117" />
+                <Baseline points="761,1090 1169,1115" />
+                <TextEquiv>
+                    <Unicode>مدام تا که بود گردش باد صباح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دعای جان تو ورد زبان حافظ باد
+مدام تا که بود گردش باد صباح</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782577892362_1678" custom="readingOrder {index:4;}">
+            <Coords points="712,2184 1254,2184 1254,2427 712,2427" />
+            <TextLine id="line_1782577901389_1681" custom="readingOrder {index:0;}">
+                <Coords points="723,2198 1233,2198 1233,2301 723,2301" /><Baseline points="723,2262 1233,2262" />
+                <Baseline points="733,2260 1215,2252" />
+                <TextEquiv>
+                    <Unicode>به بوی صبح چو حافظ شبی به روز آور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782577944305_1688" custom="readingOrder {index:1;}">
+                <Coords points="722,2309 1231,2309 1231,2427 722,2427" /><Baseline points="722,2382 1231,2382" />
+                <Baseline points="733,2360 1190,2370" />
+                <TextEquiv>
+                    <Unicode>که بشکفد گل بختت ز شعله مصباح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>به بوی صبح چو حافظ شبی به روز آور
+که بشکفد گل بختت ز شعله مصباح</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782576009424_1517" custom="readingOrder {index:5;}">
+            <Coords points="1000,496 1438,496 1438,882 1000,882" />
+            <TextLine id="line_1782576028337_1520" custom="readingOrder {index:0;}">
+                <Coords points="1011,507 1438,507 1438,622 1011,622" /><Baseline points="1011,578 1438,578" />
+                <Baseline points="1033,574 1428,566" />
+                <TextEquiv>
+                    <Unicode>نداد لعل لبت بوسه به صد ملتمس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782576137279_1526" custom="readingOrder {index:1;}">
+                <Coords points="1013,642 1440,642 1440,756 1013,756" /><Baseline points="1013,713 1440,713" />
+                <Baseline points="1020,699 1427,683" />
+                <TextEquiv>
+                    <Unicode>صلاح توبه و تقوی ز ما مجو زاهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782576202656_1533" custom="readingOrder {index:2;}">
+                <Coords points="1011,769 1436,769 1436,883 1011,883" /><Baseline points="1011,840 1436,840" />
+                <Baseline points="1026,827 1427,836" />
+                <TextEquiv>
+                    <Unicode>پیاله چیست که با یاد تو کشیم مدام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>نداد لعل لبت بوسه به صد ملتمس
+صلاح توبه و تقوی ز ما مجو زاهد
+پیاله چیست که با یاد تو کشیم مدام</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782576628482_1576" custom="readingOrder {index:6;}">
+            <Coords points="1008,1173 1460,1173 1460,2180 1008,2180" />
+            <TextLine id="line_1782576642791_1579" custom="readingOrder {index:0;}">
+                <Coords points="1013,1191 1447,1191 1447,1326 1013,1326" /><Baseline points="1013,1275 1447,1275" />
+                <Baseline points="1020,1250 1427,1271" />
+                <TextEquiv>
+                    <Unicode>به پهن هلال محرم بخواه ساغر راح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782576799514_1585" custom="readingOrder {index:1;}">
+                <Coords points="1009,1331 1451,1331 1451,1464 1009,1464" /><Baseline points="1009,1413 1451,1413" />
+                <Baseline points="1022,1397 1429,1401" />
+                <TextEquiv>
+                    <Unicode>نزاع بر سر دنیای دون چرانکند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782576889316_1591" custom="readingOrder {index:2;}">
+                <Coords points="1005,1475 1444,1475 1444,1615 1005,1615" /><Baseline points="1005,1562 1444,1562" />
+                <Baseline points="1016,1534 1433,1546" />
+                <TextEquiv>
+                    <Unicode>عزیروار ز مان زمان وصال کامدم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782577080519_1597" custom="readingOrder {index:3;}">
+                <Coords points="1010,1633 1438,1633 1438,1744 1010,1744" /><Baseline points="1010,1702 1438,1702" />
+                <TextEquiv>
+                    <Unicode>بیار باده که روزش به خیر خواهد بود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782577233858_1601" custom="readingOrder {index:4;}">
+                <Coords points="1013,1761 1445,1761 1445,1876 1013,1876" /><Baseline points="1013,1832 1445,1832" />
+                <Baseline points="1028,1813 1426,1810" />
+                <TextEquiv>
+                    <Unicode>کدام طاعت شایسته از من است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782577290638_1607" custom="readingOrder {index:5;}">
+                <Coords points="1020,1885 1444,1885 1444,2019 1020,2019" /><Baseline points="1020,1968 1444,1968" />
+                <Baseline points="1028,1929 1435,1966" />
+                <TextEquiv>
+                    <Unicode>دلا تو غافلی از کار خویش و می ترسم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782577327558_1613" custom="readingOrder {index:6;}">
+                <Coords points="1020,2026 1457,2026 1457,2177 1020,2177" /><Baseline points="1020,2120 1457,2120" />
+                <Baseline points="1026,2078 1439,2105" />
+                <TextEquiv>
+                    <Unicode>زمان شاهشجاعت و دور حکمت شرع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>به پهن هلال محرم بخواه ساغر راح
+نزاع بر سر دنیای دون چرانکند
+عزیروار ز مان زمان وصال کامدم
+بیار باده که روزش به خیر خواهد بود
+کدام طاعت شایسته از من است
+دلا تو غافلی از کار خویش و می ترسم
+زمان شاهشجاعت و دور حکمت شرع</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782577984014_1694" custom="readingOrder {index:7;}">
+            <Coords points="1014,2433 1470,2433 1470,2574 1014,2574" />
+            <TextLine id="line_1782577990457_1697" custom="readingOrder {index:0;}">
+                <Coords points="1024,2439 1451,2439 1451,2558 1024,2558" /><Baseline points="1024,2513 1451,2513" />
+                <Baseline points="1030,2502 1434,2525" />
+                <TextEquiv>
+                    <Unicode>دل من در هوای روی فرخ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دل من در هوای روی فرخ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

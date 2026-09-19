@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-27T18:30:08.706+03:30</Created>
+        <LastChange>2026-06-30T19:44:13.735+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0010_NLAI-5-15801-0010.jpg" imageWidth="1067" imageHeight="1736">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782836053749" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782834489972_420" />
+                <RegionRefIndexed index="1" regionRef="region_1782834586831_429" />
+                <RegionRefIndexed index="2" regionRef="region_1782834688805_438" />
+                <RegionRefIndexed index="3" regionRef="region_1782834766445_447" />
+                <RegionRefIndexed index="4" regionRef="region_1782834854677_456" />
+                <RegionRefIndexed index="5" regionRef="region_1782834960934_465" />
+                <RegionRefIndexed index="6" regionRef="region_1782835055608_474" />
+                <RegionRefIndexed index="7" regionRef="region_1782835134295_483" />
+                <RegionRefIndexed index="8" regionRef="region_1782835217202_492" />
+                <RegionRefIndexed index="9" regionRef="region_1782835312462_501" />
+                <RegionRefIndexed index="10" regionRef="region_1782835439181_512" />
+                <RegionRefIndexed index="11" regionRef="region_1782835826542_521" />
+                <RegionRefIndexed index="12" regionRef="region_1782836024467_544" />
+                <RegionRefIndexed index="13" regionRef="region_1782835944502_535" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782834489972_420" custom="readingOrder {index:0;}">
+            <Coords points="58,142 923,142 923,257 58,257" />
+            <TextLine id="line_1782834495780_423" custom="readingOrder {index:0;}">
+                <Coords points="65,140 929,140 929,263 65,263" /><Baseline points="65,216 929,216" />
+                <Baseline points="90,217 907,226" />
+                <TextEquiv>
+                    <Unicode>و شکر لغوی عموم و خصوص من وجه است ماده افتراق از جانب حمد انجا است که ثنا بر غیر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و شکر لغوی عموم و خصوص من وجه است ماده افتراق از جانب حمد انجا است که ثنا بر غیر</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782834586831_429" custom="readingOrder {index:1;}">
+            <Coords points="73,274 919,274 919,389 73,389" />
+            <TextLine id="line_1782834593701_432" custom="readingOrder {index:0;}">
+                <Coords points="70,274 924,274 924,388 70,388" /><Baseline points="70,345 924,345" />
+                <Baseline points="93,315 917,309" />
+                <TextEquiv>
+                    <Unicode>نعمت باشد زیرا که در شکر لغوی معتبر است که چمیل اختیاری للغت باشد مثلا ثنا بر علم و قدم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>نعمت باشد زیرا که در شکر لغوی معتبر است که چمیل اختیاری للغت باشد مثلا ثنا بر علم و قدم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782834688805_438" custom="readingOrder {index:2;}">
+            <Coords points="86,403 939,403 939,509 86,509" />
+            <TextLine id="line_1782834694030_441" custom="readingOrder {index:0;}">
+                <Coords points="84,406 955,406 955,514 84,514" /><Baseline points="84,473 955,473" />
+                <Baseline points="116,464 931,433" />
+                <TextEquiv>
+                    <Unicode>خدای تعالی حمد است و شکر نیست و ماده افتراق از جانب شکر از ان جا است که نه به لسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خدای تعالی حمد است و شکر نیست و ماده افتراق از جانب شکر از ان جا است که نه به لسان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782834766445_447" custom="readingOrder {index:3;}">
+            <Coords points="112,521 939,521 939,622 112,622" />
+            <TextLine id="line_1782834771168_450" custom="readingOrder {index:0;}">
+                <Coords points="118,521 936,521 936,626 118,626" /><Baseline points="118,586 936,586" />
+                <Baseline points="127,559 919,565 916,569" />
+                <TextEquiv>
+                    <Unicode>باشد بلکه بارکان باشد مثل دست بر سر گذاشتن از برای تعظیم یا نجنبان باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>باشد بلکه بارکان باشد مثل دست بر سر گذاشتن از برای تعظیم یا نجنبان باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782834854677_456" custom="readingOrder {index:4;}">
+            <Coords points="99,636 938,636 938,744 99,744" />
+            <TextLine id="line_1782834860392_459" custom="readingOrder {index:0;}">
+                <Coords points="98,636 947,636 947,753 98,753" /><Baseline points="98,709 947,709" />
+                <Baseline points="114,698 929,688" />
+                <TextEquiv>
+                    <Unicode>مثل اعتقاد نجوا با کسی داشتن و ماده اجتماع و افتراق همین است که مذکور شد و شکر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مثل اعتقاد نجوا با کسی داشتن و ماده اجتماع و افتراق همین است که مذکور شد و شکر</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782834960934_465" custom="readingOrder {index:5;}">
+            <Coords points="104,769 943,769 943,865 104,865" />
+            <TextLine id="line_1782834965566_468" custom="readingOrder {index:0;}">
+                <Coords points="117,774 966,774 966,882 117,882" /><Baseline points="117,841 966,841" />
+                <Baseline points="138,814 922,816" />
+                <TextEquiv>
+                    <Unicode>اصطلاحی به حسب تحقیق اخص است از همه انسان ها زیرا که هرگاه بفعل اید هم ثنای بلسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اصطلاحی به حسب تحقیق اخص است از همه انسان ها زیرا که هرگاه بفعل اید هم ثنای بلسان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782835055608_474" custom="readingOrder {index:6;}">
+            <Coords points="128,888 977,888 977,994 128,994" />
+            <TextLine id="line_1782835060918_477" custom="readingOrder {index:0;}">
+                <Coords points="131,890 973,890 973,1001 131,1001" /><Baseline points="131,959 973,959" />
+                <Baseline points="136,916 932,909" />
+                <TextEquiv>
+                    <Unicode>محقق میشود هم عمل بارکان هم اعتقاد نجنبان تامل و حمد اصطلاحی نزد شارح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>محقق میشود هم عمل بارکان هم اعتقاد نجنبان تامل و حمد اصطلاحی نزد شارح</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782835134295_483" custom="readingOrder {index:7;}">
+            <Coords points="118,1029 956,1029 956,1120 118,1120" />
+            <TextLine id="line_1782835140258_486" custom="readingOrder {index:0;}">
+                <Coords points="121,1017 962,1017 962,1130 121,1130" /><Baseline points="121,1087 962,1087" />
+                <Baseline points="140,1074 944,1059" />
+                <TextEquiv>
+                    <Unicode>مطالع و اتباعش غیر شکر لغوی است که مذکور شد ولکن برین مدعا سندی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مطالع و اتباعش غیر شکر لغوی است که مذکور شد ولکن برین مدعا سندی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782835217202_492" custom="readingOrder {index:8;}">
+            <Coords points="112,1145 970,1145 970,1233 112,1233" />
+            <TextLine id="line_1782835225749_495" custom="readingOrder {index:0;}">
+                <Coords points="115,1142 976,1142 976,1234 115,1234" /><Baseline points="115,1199 976,1199" />
+                <Baseline points="144,1187 933,1177" />
+                <TextEquiv>
+                    <Unicode>که اعتقاد در اشاید از ایمه لغت بنظر نرسیده و بلکه ظاهر از کتب لغت این است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که اعتقاد در اشاید از ایمه لغت بنظر نرسیده و بلکه ظاهر از کتب لغت این است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782835312462_501" custom="readingOrder {index:9;}">
+            <Coords points="132,1259 951,1259 951,1374 132,1374" />
+            <TextLine id="line_1782835318132_504" custom="readingOrder {index:0;}">
+                <Coords points="136,1260 951,1260 951,1380 136,1380" /><Baseline points="136,1334 951,1334" />
+                <Baseline points="149,1312 940,1303" />
+                <TextEquiv>
+                    <Unicode>که حمد لغوی مطلق ثنا و ستایش است و انچه مذکور شد اصطلاحی بودنش اظهار است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که حمد لغوی مطلق ثنا و ستایش است و انچه مذکور شد اصطلاحی بودنش اظهار است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782835439181_512" custom="readingOrder {index:10;}">
+            <Coords points="143,1391 979,1391 979,1478 143,1478" />
+            <TextLine id="line_1782835444771_515" custom="readingOrder {index:0;}">
+                <Coords points="137,1389 972,1389 972,1479 137,1479" /><Baseline points="137,1445 972,1445" />
+                <Baseline points="156,1441 950,1417" />
+                <TextEquiv>
+                    <Unicode>بعد از این بدان که بر تقدیری که مراد از جمیل اختیاری صفت خوبی باشد که با احتیار از</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بعد از این بدان که بر تقدیری که مراد از جمیل اختیاری صفت خوبی باشد که با احتیار از</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782835826542_521" custom="readingOrder {index:11;}">
+            <Coords points="156,1494 967,1494 967,1631 156,1631" />
+            <TextLine id="line_1782835954421_538" custom="readingOrder {index:0;}">
+                <Coords points="160,1495 967,1495 967,1633 160,1633" /><Baseline points="160,1581 967,1581" />
+                <Baseline points="149,1547 950,1542" />
+                <TextEquiv>
+                    <Unicode>صاحبش صادر شود چنان که بنابر مشهور صقیر کرده اند بیرون میرود بسیاری از افراد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>صاحبش صادر شود چنان که بنابر مشهور صقیر کرده اند بیرون میرود بسیاری از افراد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782836024467_544" custom="readingOrder {index:12;}">
+            <Coords points="243,1646 368,1646 368,1707 243,1707" />
+            <TextLine id="line_1782836029022_547" custom="readingOrder {index:0;}">
+                <Coords points="246,1644 372,1644 372,1709 246,1709" /><Baseline points="246,1684 372,1684" />
+                <Baseline points="288,1701 308,1656" />
+                <TextEquiv>
+                    <Unicode>حمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حمد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782835944502_535" custom="readingOrder {index:13;}">
+            <Coords points="298,1701 369,1701 369,1580 298,1580" />
+        </TextRegion>
+    </Page>
+</PcGts>

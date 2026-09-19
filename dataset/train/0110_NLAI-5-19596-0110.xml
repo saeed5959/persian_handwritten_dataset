@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T19:59:33.560+03:30</Created>
+        <LastChange>2026-06-27T21:15:41.443+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0110_NLAI-5-19596-0110.jpg" imageWidth="1591" imageHeight="2759">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782582341478" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782581353674_2150" />
+                <RegionRefIndexed index="1" regionRef="region_1782581864881_2235" />
+                <RegionRefIndexed index="2" regionRef="region_1782582300327_2310" />
+                <RegionRefIndexed index="3" regionRef="region_1782581431046_2165" />
+                <RegionRefIndexed index="4" regionRef="region_1782582146712_2286" />
+                <RegionRefIndexed index="5" regionRef="region_1782581216311_2131" />
+                <RegionRefIndexed index="6" regionRef="region_1782581567378_2180" />
+                <RegionRefIndexed index="7" regionRef="region_1782582237121_2301" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782581353674_2150" custom="readingOrder {index:0;}">
+            <Coords points="91,417 551,417 551,742 91,742" />
+            <TextLine id="line_1782581359850_2153" custom="readingOrder {index:0;}">
+                <Coords points="108,434 544,434 544,569 108,569" /><Baseline points="108,518 544,518" />
+                <Baseline points="134,503 536,517" />
+                <TextEquiv>
+                    <Unicode>خیر نهان برای رضای خدا کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782581392690_2159" custom="readingOrder {index:1;}">
+                <Coords points="114,578 539,578 539,743 114,743" /><Baseline points="114,680 539,680" />
+                <Baseline points="125,651 527,657" />
+                <TextEquiv>
+                    <Unicode>بهتر ز طاعتی که به روی و ریا کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خیر نهان برای رضای خدا کنند
+بهتر ز طاعتی که به روی و ریا کنند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782581864881_2235" custom="readingOrder {index:1;}">
+            <Coords points="94,969 574,969 574,2169 94,2169" />
+            <TextLine id="line_1782581876969_2238" custom="readingOrder {index:0;}">
+                <Coords points="118,983 554,983 554,1142 118,1142" /><Baseline points="118,1082 554,1082" />
+                <Baseline points="127,1063 531,1066" />
+                <TextEquiv>
+                    <Unicode>گفتا به چشم هر چه تو گویی چنان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782581899721_2244" custom="readingOrder {index:1;}">
+                <Coords points="114,1159 562,1159 562,1280 114,1280" /><Baseline points="114,1234 562,1234" />
+                <Baseline points="127,1226 535,1213" />
+                <TextEquiv>
+                    <Unicode>گفتا در این معامله کمتر زیان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782581941325_2250" custom="readingOrder {index:2;}">
+                <Coords points="112,1289 564,1289 564,1425 112,1425" /><Baseline points="112,1373 564,1373" />
+                <Baseline points="121,1357 534,1357" />
+                <TextEquiv>
+                    <Unicode>گفت این حکایتیست که با نکته دان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782581987889_2256" custom="readingOrder {index:3;}">
+                <Coords points="108,1433 559,1433 559,1574 108,1574" /><Baseline points="108,1520 559,1520" />
+                <Baseline points="117,1494 531,1491" />
+                <TextEquiv>
+                    <Unicode>گفتا به کوی عشق هم این و هم آن کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782582020621_2262" custom="readingOrder {index:4;}">
+                <Coords points="109,1586 560,1586 560,1712 109,1712" /><Baseline points="109,1664 560,1664" />
+                <Baseline points="115,1637 536,1645" />
+                <TextEquiv>
+                    <Unicode>گفتا خوش آن کسان که دلی شادمان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782582054425_2268" custom="readingOrder {index:5;}">
+                <Coords points="104,1724 557,1724 557,1860 104,1860" /><Baseline points="104,1808 557,1808" />
+                <Baseline points="118,1784 541,1785" />
+                <TextEquiv>
+                    <Unicode>گفت این عمل به مذهب پیر مغان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782582079021_2274" custom="readingOrder {index:6;}">
+                <Coords points="106,1865 566,1865 566,2001 106,2001" /><Baseline points="106,1949 566,1949" />
+                <Baseline points="127,1934 541,1931" />
+                <TextEquiv>
+                    <Unicode>گفتا به بوسه شکرینش جوان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782582103989_2280" custom="readingOrder {index:7;}">
+                <Coords points="110,2009 578,2009 578,2163 110,2163" /><Baseline points="110,2104 578,2104" />
+                <Baseline points="118,2070 545,2079" />
+                <TextEquiv>
+                    <Unicode>گفت آن زمان که مشتری و مه قران کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گفتا به چشم هر چه تو گویی چنان کنند
+گفتا در این معامله کمتر زیان کنند
+گفت این حکایتیست که با نکته دان کنند
+گفتا به کوی عشق هم این و هم آن کنند
+گفتا خوش آن کسان که دلی شادمان کنند
+گفت این عمل به مذهب پیر مغان کنند
+گفتا به بوسه شکرینش جوان کنند
+گفت آن زمان که مشتری و مه قران کنند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782582300327_2310" custom="readingOrder {index:2;}">
+            <Coords points="115,2392 540,2392 540,2571 115,2571" />
+            <TextLine id="line_1782582316248_2318" custom="readingOrder {index:0;}">
+                <Coords points="114,2407 535,2407 535,2567 114,2567" /><Baseline points="114,2506 535,2506" />
+                <Baseline points="119,2484 528,2513" />
+                <TextEquiv>
+                    <Unicode>چون به خلوت می روند آن کار دیگر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چون به خلوت می روند آن کار دیگر می کنند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782581431046_2165" custom="readingOrder {index:3;}">
+            <Coords points="326,753 833,753 833,1007 326,1007" />
+            <TextLine id="line_1782581438106_2168" custom="readingOrder {index:0;}">
+                <Coords points="349,755 824,755 824,847 349,847" /><Baseline points="349,812 824,812" />
+                <Baseline points="372,793 815,796" />
+                <TextEquiv>
+                    <Unicode>حافظ دوام وصل میسر نمی شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782581469589_2174" custom="readingOrder {index:1;}">
+                <Coords points="335,856 798,856 798,991 335,991" /><Baseline points="335,940 798,940" />
+                <Baseline points="342,920 786,936" />
+                <TextEquiv>
+                    <Unicode>شاهان کم التفات به حال گدا کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ دوام وصل میسر نمی شود
+شاهان کم التفات به حال گدا کنند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782582146712_2286" custom="readingOrder {index:4;}">
+            <Coords points="323,2169 826,2169 826,2429 323,2429" />
+            <TextLine id="line_1782582155705_2289" custom="readingOrder {index:0;}">
+                <Coords points="327,2177 823,2177 823,2289 327,2289" /><Baseline points="327,2246 823,2246" />
+                <Baseline points="337,2228 796,2236" />
+                <TextEquiv>
+                    <Unicode>گفتم دعای دولت تو ورد حافظ است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782582204293_2295" custom="readingOrder {index:1;}">
+                <Coords points="328,2294 797,2294 797,2424 328,2424" /><Baseline points="328,2375 797,2375" />
+                <Baseline points="334,2349 757,2366" />
+                <TextEquiv>
+                    <Unicode>گفت این دعا ملایک هفت آسمان کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گفتم دعای دولت تو ورد حافظ است
+گفت این دعا ملایک هفت آسمان کنند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782581216311_2131" custom="readingOrder {index:5;}">
+            <Coords points="622,458 1087,458 1087,752 622,752" />
+            <TextLine id="line_1782581222087_2134" custom="readingOrder {index:0;}">
+                <Coords points="627,467 1073,467 1073,584 627,584" /><Baseline points="627,540 1073,540" />
+                <TextEquiv>
+                    <Unicode>پنهان ز حاسدان بخورم می که منعمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782581275818_2143" custom="readingOrder {index:1;}">
+                <Coords points="631,587 1069,587 1069,744 631,744" /><Baseline points="631,684 1069,684" />
+                <Baseline points="657,657 1053,660" />
+                <TextEquiv>
+                    <Unicode>می خور که صد گناه ز اغیار در حجاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>پنهان ز حاسدان بخورم می که منعمان
+می خور که صد گناه ز اغیار در حجاب</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782581567378_2180" custom="readingOrder {index:6;}">
+            <Coords points="623,1013 1102,1013 1102,2187 623,2187" />
+            <TextLine id="line_1782581579346_2183" custom="readingOrder {index:0;}">
+                <Coords points="633,1012 1083,1012 1083,1162 633,1162" /><Baseline points="633,1105 1083,1105" />
+                <Baseline points="640,1084 1064,1089" />
+                <TextEquiv>
+                    <Unicode>گفتم کی ام دهان و لبت کامران کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782581604685_2189" custom="readingOrder {index:1;}">
+                <Coords points="633,1167 1082,1167 1082,1304 633,1304" /><Baseline points="633,1252 1082,1252" />
+                <Baseline points="644,1246 1062,1230" />
+                <TextEquiv>
+                    <Unicode>گفتم خراج مصر طلب می کند لبت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782581633950_2195" custom="readingOrder {index:2;}">
+                <Coords points="631,1321 1083,1321 1083,1445 631,1445" /><Baseline points="631,1398 1083,1398" />
+                <Baseline points="641,1373 1064,1367" />
+                <TextEquiv>
+                    <Unicode>گفتم به نقطه دهنت خود که برد راه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782581682442_2202" custom="readingOrder {index:3;}">
+                <Coords points="636,1454 1085,1454 1085,1584 636,1584" /><Baseline points="636,1535 1085,1535" />
+                <Baseline points="641,1514 1064,1507" />
+                <TextEquiv>
+                    <Unicode>گفتم صنم پرست مشو با صمد نشین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782581713930_2208" custom="readingOrder {index:4;}">
+                <Coords points="636,1590 1085,1590 1085,1725 636,1725" /><Baseline points="636,1674 1085,1674" />
+                <Baseline points="642,1650 1065,1654" />
+                <TextEquiv>
+                    <Unicode>گفتم هوای میکده غم می برد ز دل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782581745058_2214" custom="readingOrder {index:5;}">
+                <Coords points="634,1729 1085,1729 1085,1875 634,1875" /><Baseline points="634,1820 1085,1820" />
+                <Baseline points="641,1788 1059,1795" />
+                <TextEquiv>
+                    <Unicode>گفتم شراب و خرقه نه آیین مذهب است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782581781505_2220" custom="readingOrder {index:6;}">
+                <Coords points="637,1883 1092,1883 1092,2027 637,2027" /><Baseline points="637,1972 1092,1972" />
+                <TextEquiv>
+                    <Unicode>گفتم ز لعل نوش لبان پیر را چه سود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782581813885_2224" custom="readingOrder {index:7;}">
+                <Coords points="635,2037 1093,2037 1093,2171 635,2171" /><Baseline points="635,2120 1093,2120" />
+                <Baseline points="644,2091 1068,2087" />
+                <TextEquiv>
+                    <Unicode>گفتم که خواجه کی به سر حجله می رود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گفتم کی ام دهان و لبت کامران کنند
+گفتم خراج مصر طلب می کند لبت
+گفتم به نقطه دهنت خود که برد راه
+گفتم صنم پرست مشو با صمد نشین
+گفتم هوای میکده غم می برد ز دل
+گفتم شراب و خرقه نه آیین مذهب است
+گفتم ز لعل نوش لبان پیر را چه سود
+گفتم که خواجه کی به سر حجله می رود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782582237121_2301" custom="readingOrder {index:7;}">
+            <Coords points="641,2430 1082,2430 1082,2572 641,2572" />
+            <TextLine id="line_1782582276137_2304" custom="readingOrder {index:0;}">
+                <Coords points="645,2442 1077,2442 1077,2567 645,2567" /><Baseline points="645,2520 1077,2520" />
+                <Baseline points="654,2490 1065,2528" />
+                <TextEquiv>
+                    <Unicode>واعظان کاین جلوه در محراب و منبر می کنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>واعظان کاین جلوه در محراب و منبر می کنند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

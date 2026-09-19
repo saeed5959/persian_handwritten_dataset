@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:45.587+03:30</Created>
+        <LastChange>2026-06-21T22:24:58.635+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0036_NLAI-5-11187-0035.jpg" imageWidth="570" imageHeight="1071">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782068098698" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782067066873_1650" />
+                <RegionRefIndexed index="1" regionRef="region_1782067164754_1662" />
+                <RegionRefIndexed index="2" regionRef="region_1782067295891_1674" />
+                <RegionRefIndexed index="3" regionRef="region_1782067415805_1686" />
+                <RegionRefIndexed index="4" regionRef="region_1782067561722_1698" />
+                <RegionRefIndexed index="5" regionRef="region_1782067673355_1712" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782067066873_1650" custom="readingOrder {index:0;}">
+            <Coords points="276,279 475,281 475,377 277,377" />
+            <TextLine id="line_1782067073341_1653" custom="readingOrder {index:0;}">
+                <Coords points="275,281 474,281 474,333 275,333" /><Baseline points="275,313 474,313" />
+                <TextEquiv>
+                    <Unicode>دوا النفس دفع الحرص</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782067129144_1658" custom="readingOrder {index:1;}">
+                <Coords points="277,333 475,333 475,377 277,377" /><Baseline points="277,360 475,360" />
+                <TextEquiv>
+                    <Unicode>دوای نفس دفع حرص است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دوا النفس دفع الحرص
+دوای نفس دفع حرص است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782067164754_1662" custom="readingOrder {index:1;}">
+            <Coords points="204,379 542,377 542,502 204,499" />
+            <TextLine id="line_1782067192663_1666" custom="readingOrder {index:0;}">
+                <Coords points="204,377 542,377 542,441 204,441" /><Baseline points="204,417 542,417" />
+                <TextEquiv>
+                    <Unicode>دردناکست نفس تو از حرص دفع آن سازدت رها زین درد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782067244731_1670" custom="readingOrder {index:1;}">
+                <Coords points="205,442 543,442 543,502 205,502" /><Baseline points="205,479 543,479" />
+                <TextEquiv>
+                    <Unicode>دفع حرص است عین صحت تو چند ازین رنج باشدت رخ زرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دردناکست نفس تو از حرص دفع آن سازدت رها زین درد
+دفع حرص است عین صحت تو چند ازین رنج باشدت رخ زرد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782067295891_1674" custom="readingOrder {index:2;}">
+            <Coords points="274,500 478,500 478,610 274,610" />
+            <TextLine id="line_1782067302187_1677" custom="readingOrder {index:0;}">
+                <Coords points="276,503 476,503 476,557 276,557" /><Baseline points="276,536 476,536" />
+                <TextEquiv>
+                    <Unicode>دم علی کظم الغیظ تحمد عواقبک</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782067358362_1681" custom="readingOrder {index:1;}">
+                <Coords points="276,556 476,556 476,609 276,609" /><Baseline points="276,589 476,589" />
+                <TextEquiv>
+                    <Unicode>مداومت کن بر فروخوردن خشم تا عاقبت تو نیکو شود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دم علی کظم الغیظ تحمد عواقبک
+مداومت کن بر فروخوردن خشم تا عاقبت تو نیکو شود</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782067415805_1686" custom="readingOrder {index:3;}">
+            <Coords points="206,608 539,609 540,733 207,732" />
+            <TextLine id="line_1782067422008_1689" custom="readingOrder {index:0;}">
+                <Coords points="205,608 540,608 540,676 205,676" /><Baseline points="205,650 540,650" />
+                <TextEquiv>
+                    <Unicode>در محافل گرت بخشم آرند عفو و حلمت بسی بجا باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782067492578_1694" custom="readingOrder {index:1;}">
+                <Coords points="205,676 539,676 539,734 205,734" /><Baseline points="205,712 539,712" />
+                <TextEquiv>
+                    <Unicode>داریم از غیظ خوردنت کاراست خوبی عاقبت ترا باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>در محافل گرت بخشم آرند عفو و حلمت بسی بجا باشد
+داریم از غیظ خوردنت کاراست خوبی عاقبت ترا باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782067561722_1698" custom="readingOrder {index:4;}">
+            <Coords points="276,735 476,735 476,838 276,838" />
+            <TextLine id="line_1782067568800_1701" custom="readingOrder {index:0;}">
+                <Coords points="277,734 476,733 476,788 277,789" /><Baseline points="277,768 476,768" />
+                <TextEquiv>
+                    <Unicode>دین المر خدینه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782067609458_1708" custom="readingOrder {index:1;}">
+                <Coords points="276,789 476,789 476,836 276,836" /><Baseline points="276,818 476,818" />
+                <TextEquiv>
+                    <Unicode>دین مرد ست دوست مر او را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دین المر خدینه
+دین مرد ست دوست مر او را</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782067673355_1712" custom="readingOrder {index:5;}">
+            <Coords points="207,838 536,838 539,943 209,940" />
+            <TextLine id="line_1782067699215_1716" custom="readingOrder {index:0;}">
+                <Coords points="208,836 538,836 538,894 208,894" /><Baseline points="208,872 538,872" />
+                <TextEquiv>
+                    <Unicode>دوستی نیست مرد را چو بقبر که بوحشت قرین او باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782067764170_1722" custom="readingOrder {index:1;}">
+                <Coords points="207,893 540,893 540,943 207,940" /><Baseline points="207,924 540,924" />
+                <TextEquiv>
+                    <Unicode>دین او باشدش رفیق آنجا پس ورا دوست دین او باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دوستی نیست مرد را چو بقبر که بوحشت قرین او باشد
+دین او باشدش رفیق آنجا پس ورا دوست دین او باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

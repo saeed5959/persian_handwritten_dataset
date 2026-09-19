@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:43.729+03:30</Created>
+        <LastChange>2026-06-21T19:22:54.275+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0018_NLAI-5-11187-0017.jpg" imageWidth="587" imageHeight="1071">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782057174385" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782055829473_546" />
+                <RegionRefIndexed index="1" regionRef="region_1782055933028_557" />
+                <RegionRefIndexed index="2" regionRef="region_1782056109852_568" />
+                <RegionRefIndexed index="3" regionRef="region_1782056188001_579" />
+                <RegionRefIndexed index="4" regionRef="region_1782056453333_591" />
+                <RegionRefIndexed index="5" regionRef="region_1782056725072_615" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782055829473_546" custom="readingOrder {index:0;}">
+            <Coords points="289,281 483,281 483,387 289,387" />
+            <TextLine id="line_1782055835582_549" custom="readingOrder {index:0;}">
+                <Coords points="290,281 482,281 482,338 290,338" /><Baseline points="290,316 482,316" />
+                <TextEquiv>
+                    <Unicode>تزاحم الایدی فی الطعام برکه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782055885350_553" custom="readingOrder {index:1;}">
+                <Coords points="289,337 482,337 482,387 289,387" /><Baseline points="289,368 482,368" />
+                <TextEquiv>
+                    <Unicode>ازدحام دستها ورطعام برکتست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تزاحم الایدی فی الطعام برکه
+ازدحام دستها ورطعام برکتست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782055933028_557" custom="readingOrder {index:1;}">
+            <Coords points="218,387 555,387 555,509 218,509" />
+            <TextLine id="line_1782055940123_560" custom="readingOrder {index:0;}">
+                <Coords points="218,386 557,386 557,451 218,451" /><Baseline points="218,426 557,426" />
+                <TextEquiv>
+                    <Unicode>تو که مهمان شدت زیاد مباش کز طعامت کمست غمگین کندت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782056053804_564" custom="readingOrder {index:1;}">
+                <Coords points="219,451 556,451 556,509 219,509" /><Baseline points="219,487 556,487" />
+                <TextEquiv>
+                    <Unicode>تا تزاحم زکثرت دست است میفزاید بسفره ات برکت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تو که مهمان شدت زیاد مباش کز طعامت کمست غمگین کندت
+تا تزاحم زکثرت دست است میفزاید بسفره ات برکت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782056109852_568" custom="readingOrder {index:2;}">
+            <Coords points="290,507 482,507 482,615 290,615" />
+            <TextLine id="line_1782056116728_571" custom="readingOrder {index:0;}">
+                <Coords points="292,510 482,509 482,564 291,564" /><Baseline points="291,543 482,543" />
+                <TextEquiv>
+                    <Unicode>تفال بالخیر تنله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782056150609_575" custom="readingOrder {index:1;}">
+                <Coords points="290,563 485,563 485,615 290,615" /><Baseline points="290,595 485,595" />
+                <TextEquiv>
+                    <Unicode>فال نیکویی بزن تا نیکویی بیابی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تفال بالخیر تنله
+فال نیکویی بزن تا نیکویی بیابی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782056188001_579" custom="readingOrder {index:3;}">
+            <Coords points="220,614 551,617 551,736 216,735" />
+            <TextLine id="line_1782056214362_583" custom="readingOrder {index:0;}">
+                <Coords points="220,612 551,618 552,679 219,676" /><Baseline points="219,654 552,654" />
+                <TextEquiv>
+                    <Unicode>تا به ببینی بخواب و بیداری پیش روی خود اغلب اوقات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782056377418_587" custom="readingOrder {index:1;}">
+                <Coords points="217,676 552,676 552,737 217,737" /><Baseline points="217,714 552,714" />
+                <TextEquiv>
+                    <Unicode>تو بفال نکوش کن تعبیر تا ازان حاصل آیدت خیرات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تا به ببینی بخواب و بیداری پیش روی خود اغلب اوقات
+تو بفال نکوش کن تعبیر تا ازان حاصل آیدت خیرات</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782056453333_591" custom="readingOrder {index:4;}">
+            <Coords points="291,736 490,735 489,846 292,846" />
+            <TextLine id="line_1782056632486_607" custom="readingOrder {index:0;}">
+                <Coords points="291,736 489,736 489,793 291,793" /><Baseline points="291,771 489,771" />
+                <TextEquiv>
+                    <Unicode>نظرف بترک الذنوب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782056674706_611" custom="readingOrder {index:1;}">
+                <Coords points="291,793 490,793 490,846 291,846" /><Baseline points="291,826 490,826" />
+                <TextEquiv>
+                    <Unicode>گوشه گیری کن بترک گناهان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>نظرف بترک الذنوب
+گوشه گیری کن بترک گناهان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782056725072_615" custom="readingOrder {index:5;}">
+            <Coords points="219,844 558,844 558,957 219,957" />
+            <TextLine id="line_1782056734275_618" custom="readingOrder {index:0;}">
+                <Coords points="219,842 557,846 557,906 219,906" /><Baseline points="219,882 557,882" />
+                <TextEquiv>
+                    <Unicode>ترس حق گر بدل تراست رحینست این هواهای معصیت لبرت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782057034499_622" custom="readingOrder {index:1;}">
+                <Coords points="218,906 558,906 558,957 218,955" /><Baseline points="218,938 558,938" />
+                <TextEquiv>
+                    <Unicode>ترک عصیان بگوشه گیری کن از خدا خوف در دلست گرت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ترس حق گر بدل تراست رحینست این هواهای معصیت لبرت
+ترک عصیان بگوشه گیری کن از خدا خوف در دلست گرت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

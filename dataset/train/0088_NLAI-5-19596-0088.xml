@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:30.723+03:30</Created>
+        <LastChange>2026-06-19T21:13:19.869+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0088_NLAI-5-19596-0088.jpg" imageWidth="1561" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781890999923" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781890222970_937" />
+                <RegionRefIndexed index="1" regionRef="region_1781890685914_1013" />
+                <RegionRefIndexed index="2" regionRef="region_1781890870883_1022" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781890222970_937" custom="readingOrder {index:0;}">
+            <Coords points="61,537 1096,537 1096,2213 61,2213" />
+            <TextLine id="line_1781890241015_943" custom="readingOrder {index:0;}">
+                <Coords points="111,531 1035,550 1034,600 110,581" /><Baseline points="110,574 1035,574" />
+                <Baseline points="110,576 1034,595" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781890234427_940" custom="readingOrder {index:1;}">
+                <Coords points="98,544 1044,544 1044,641 98,641" /><Baseline points="98,604 1044,604" />
+                <TextEquiv>
+                    <Unicode>روضه خلد برین خلوت درویشان است مایه محتشمی خدمت درویشان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781890259402_949" custom="readingOrder {index:2;}">
+                <Coords points="88,660 1073,660 1073,764 88,764" /><Baseline points="88,724 1073,724" />
+                <Baseline points="101,844 1046,858" />
+                <TextEquiv>
+                    <Unicode>گنج عزلت که طلسمات عجایب دارد فتح آن در نظر رحمت درویشان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781890282982_953" custom="readingOrder {index:3;}">
+                <Coords points="67,793 1063,793 1063,913 67,913" /><Baseline points="67,867 1063,867" />
+                <Baseline points="108,1000 1029,1000" />
+                <TextEquiv>
+                    <Unicode>قصر فردوس که رضوانش به دربانی رفت منظری از چمن نزهت درویشان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781890304855_959" custom="readingOrder {index:4;}">
+                <Coords points="69,942 1053,942 1053,1056 69,1056" /><Baseline points="69,1013 1053,1013" />
+                <Baseline points="91,1150 1037,1150" />
+                <TextEquiv>
+                    <Unicode>آن چه زر می شود از پرتو آن قلب سیاه کیمیاییست که در صحبت درویشان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781890335286_965" custom="readingOrder {index:5;}">
+                <Coords points="64,1087 1078,1087 1078,1208 64,1208" /><Baseline points="64,1162 1078,1162" />
+                <Baseline points="110,1299 1032,1302" />
+                <TextEquiv>
+                    <Unicode>آن که پیشش بنهد تاج تکبر خورشید کبریاییست که در حشمت درویشان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781890364079_971" custom="readingOrder {index:6;}">
+                <Coords points="74,1210 1075,1210 1075,1365 74,1365" /><Baseline points="74,1306 1075,1306" />
+                <Baseline points="86,1427 1039,1447" />
+                <TextEquiv>
+                    <Unicode>دولتی را که نباشد غم از آسیب زوال بی تکلف بشنو دولت درویشان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781890386654_977" custom="readingOrder {index:7;}">
+                <Coords points="64,1374 1061,1374 1061,1488 64,1488" /><Baseline points="64,1445 1061,1445" />
+                <Baseline points="101,1570 1041,1570" />
+                <TextEquiv>
+                    <Unicode>خسروان قبله حاجات جهانند ولی سببش بندگی حضرت درویشان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781890421282_983" custom="readingOrder {index:8;}">
+                <Coords points="81,1507 1075,1507 1075,1630 81,1630" /><Baseline points="81,1583 1075,1583" />
+                <Baseline points="113,1717 1032,1722" />
+                <TextEquiv>
+                    <Unicode>از کران تا به کران لشکر ظلم است ولی از ازل تا به ابد فرصت درویشان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781890444483_989" custom="readingOrder {index:9;}">
+                <Coords points="88,1659 1058,1659 1058,1770 88,1770" /><Baseline points="88,1728 1058,1728" />
+                <Baseline points="105,1850 1044,1867" />
+                <TextEquiv>
+                    <Unicode>روی مقصود که شاهان به دعا می طلبند مظهرش آینه طلعت درویشان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781890491062_995" custom="readingOrder {index:10;}">
+                <Coords points="84,1782 1051,1782 1051,1922 84,1922" /><Baseline points="84,1869 1051,1869" />
+                <Baseline points="139,1985 1063,2007" />
+                <TextEquiv>
+                    <Unicode>ای توانگر مفروش این همه نخوت که تو را سر و زر در کنف همت درویشان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781890520722_1001" custom="readingOrder {index:11;}">
+                <Coords points="67,1946 1078,1946 1078,2065 67,2065" /><Baseline points="67,2020 1078,2020" />
+                <Baseline points="115,2130 1061,2168" />
+                <TextEquiv>
+                    <Unicode>گنج قارون که فرو می شود از قهر هنوز خوانده باشی که هم از غیرت درویشان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781890543438_1007" custom="readingOrder {index:12;}">
+                <Coords points="93,2072 1078,2072 1078,2202 93,2202" /><Baseline points="93,2153 1078,2153" />
+                <Baseline points="333,2299 803,2314" />
+                <TextEquiv>
+                    <Unicode>از آب حیات ابدی میطلبی منبعش خاک در خلوت درویشان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>روضه خلد برین خلوت درویشان است مایه محتشمی خدمت درویشان است
+گنج عزلت که طلسمات عجایب دارد فتح آن در نظر رحمت درویشان است
+قصر فردوس که رضوانش به دربانی رفت منظری از چمن نزهت درویشان است
+آن چه زر می شود از پرتو آن قلب سیاه کیمیاییست که در صحبت درویشان است
+آن که پیشش بنهد تاج تکبر خورشید کبریاییست که در حشمت درویشان است
+دولتی را که نباشد غم از آسیب زوال بی تکلف بشنو دولت درویشان است
+خسروان قبله حاجات جهانند ولی سببش بندگی حضرت درویشان است
+از کران تا به کران لشکر ظلم است ولی از ازل تا به ابد فرصت درویشان است
+روی مقصود که شاهان به دعا می طلبند مظهرش آینه طلعت درویشان است
+ای توانگر مفروش این همه نخوت که تو را سر و زر در کنف همت درویشان است
+گنج قارون که فرو می شود از قهر هنوز خوانده باشی که هم از غیرت درویشان است
+از آب حیات ابدی میطلبی منبعش خاک در خلوت درویشان است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781890685914_1013" custom="readingOrder {index:1;}">
+            <Coords points="304,2227 820,2227 820,2494 304,2494" />
+            <TextLine id="line_1781890689727_1016" custom="readingOrder {index:0;}">
+                <Coords points="319,2260 818,2260 818,2342 319,2342" /><Baseline points="319,2311 818,2311" />
+                <Baseline points="128,2591 1030,2601" />
+                <TextEquiv>
+                    <Unicode>حافظ انسپا با دب باش که سد خط ملک همه ارزند به همت درویشان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حافظ انسپا با دب باش که سد خط ملک همه ارزند به همت درویشان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781890870883_1022" custom="readingOrder {index:2;}">
+            <Coords points="89,2506 1086,2506 1086,2658 89,2658" />
+            <TextLine id="line_1781890876259_1025" custom="readingOrder {index:0;}">
+                <Coords points="111,2538 1054,2538 1054,2630 111,2630" /><Baseline points="111,2595 1054,2595" />
+                <TextEquiv>
+                    <Unicode>گل در بر و می در کف و معشوق به کام است سلطان جهانم به چنین روز غلام است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>گل در بر و می در کف و معشوق به کام است سلطان جهانم به چنین روز غلام است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

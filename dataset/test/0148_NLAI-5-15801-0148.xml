@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-25T09:05:03.393+04:30</Created>
+        <LastChange>2026-06-25T10:21:08.606+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0148_NLAI-5-15801-0148.jpg" imageWidth="1089" imageHeight="1794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782366668606" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782365976814_2046" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782365976814_2046" custom="readingOrder {index:0;}">
+            <Coords points="59,1708 953,1708 953,111 59,111" />
+            <TextLine id="line_1782366004724_2053" custom="readingOrder {index:0;}">
+                <Coords points="83,119 930,119 930,303 83,303" /><Baseline points="83,233 930,233" />
+                <Baseline points="920,246 107,243" />
+                <TextEquiv>
+                    <Unicode>بالفعل حین هو لیس ب باشد منعکس و لازم میآید منافی اصل باصل ضم میکنیم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366130859_2060" custom="readingOrder {index:1;}">
+                <Coords points="93,309 933,309 933,424 93,424" /><Baseline points="93,380 933,380" />
+                <Baseline points="920,364 110,364" />
+                <TextEquiv>
+                    <Unicode>و لازم میآید سلب شییی از نفس مثلا میگوییم بعض ما لیس ب ج بالفعل حین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366172850_2066" custom="readingOrder {index:2;}">
+                <Coords points="100,432 935,432 935,543 100,543" /><Baseline points="100,501 935,501" />
+                <Baseline points="923,488 109,492" />
+                <TextEquiv>
+                    <Unicode>هو لیس ب و کل ج ب بالضروره یا بالدوام مادام ج نتیجه میدهد بعض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366213478_2072" custom="readingOrder {index:3;}">
+                <Coords points="105,554 936,554 936,660 105,660" /><Baseline points="105,620 936,620" />
+                <Baseline points="923,613 116,603" />
+                <TextEquiv>
+                    <Unicode>ما لیس ب ب مادام لیس ب و خاصتین موجبه منعکس میشوند بعرفیه عامه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366252428_2078" custom="readingOrder {index:4;}">
+                <Coords points="93,673 929,673 929,773 93,773" /><Baseline points="93,735 929,735" />
+                <Baseline points="918,734 106,722" />
+                <TextEquiv>
+                    <Unicode>لادایمه در بعض اما صدق جز اول بواسطه آنکه عامتین جز خاصتین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366295927_2084" custom="readingOrder {index:5;}">
+                <Coords points="90,779 935,779 935,899 90,899" /><Baseline points="90,853 935,853" />
+                <Baseline points="919,846 106,846" />
+                <TextEquiv>
+                    <Unicode>است و ما ثابت کردیم که عرفیه عامه عکس نقیض عامتین است پس در هر جا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366331419_2090" custom="readingOrder {index:6;}">
+                <Coords points="91,901 946,901 946,1014 91,1014" /><Baseline points="91,971 946,971" />
+                <Baseline points="913,972 102,972" />
+                <TextEquiv>
+                    <Unicode>که خاصتین است عرفیه عامه عکس نقیض عامتین هم هست و اما صدق لادوام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366424591_2109" custom="readingOrder {index:7;}">
+                <Coords points="94,1017 940,1017 940,1152 94,1152" /><Baseline points="94,1101 940,1101" />
+                <Baseline points="931,1101 123,1092" />
+                <TextEquiv>
+                    <Unicode>در بعض بواسطه آنکه اگر صادق نباشد لازم میآید صدق قضیه منافی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366470357_2116" custom="readingOrder {index:8;}">
+                <Coords points="97,1160 941,1160 941,1279 97,1279" /><Baseline points="97,1234 941,1234" />
+                <Baseline points="930,1224 112,1219" />
+                <TextEquiv>
+                    <Unicode>جز ثانی اصل مثلا هرگاه صادق باشد کل ماش لاساکن مادام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366519237_2124" custom="readingOrder {index:9;}">
+                <Coords points="95,1285 937,1285 937,1390 95,1390" /><Baseline points="95,1350 937,1350" />
+                <Baseline points="926,1344 102,1341" />
+                <TextEquiv>
+                    <Unicode>ماشیا لا دایما یعنی لا شیی من الماشی بلا ساکن بالفعل البته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366552748_2131" custom="readingOrder {index:10;}">
+                <Coords points="79,1393 928,1393 928,1511 79,1511" /><Baseline points="79,1466 928,1466" />
+                <Baseline points="911,1461 84,1458" />
+                <TextEquiv>
+                    <Unicode>در عکس نقیضش صادق خواهد بود کل ساکن لا ماش بالدوام مادام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366588116_2139" custom="readingOrder {index:11;}">
+                <Coords points="71,1517 938,1517 938,1631 71,1631" /><Baseline points="71,1588 938,1588" />
+                <Baseline points="925,1584 91,1578" />
+                <TextEquiv>
+                    <Unicode>ساکنا لا دایما فی البعض یعنی بعض الساکن لیس بلا ماش بالفعل که اگر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782366628357_2145" custom="readingOrder {index:12;}">
+                <Coords points="111,1645 254,1645 254,1726 111,1726" /><Baseline points="111,1695 254,1695" />
+                <Baseline points="238,1669 117,1705" />
+                <TextEquiv>
+                    <Unicode>صادق نباشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بالفعل حین هو لیس ب باشد منعکس و لازم میآید منافی اصل باصل ضم میکنیم
+و لازم میآید سلب شییی از نفس مثلا میگوییم بعض ما لیس ب ج بالفعل حین
+هو لیس ب و کل ج ب بالضروره یا بالدوام مادام ج نتیجه میدهد بعض
+ما لیس ب ب مادام لیس ب و خاصتین موجبه منعکس میشوند بعرفیه عامه
+لادایمه در بعض اما صدق جز اول بواسطه آنکه عامتین جز خاصتین
+است و ما ثابت کردیم که عرفیه عامه عکس نقیض عامتین است پس در هر جا
+که خاصتین است عرفیه عامه عکس نقیض عامتین هم هست و اما صدق لادوام
+در بعض بواسطه آنکه اگر صادق نباشد لازم میآید صدق قضیه منافی
+جز ثانی اصل مثلا هرگاه صادق باشد کل ماش لاساکن مادام
+ماشیا لا دایما یعنی لا شیی من الماشی بلا ساکن بالفعل البته
+در عکس نقیضش صادق خواهد بود کل ساکن لا ماش بالدوام مادام
+ساکنا لا دایما فی البعض یعنی بعض الساکن لیس بلا ماش بالفعل که اگر
+صادق نباشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

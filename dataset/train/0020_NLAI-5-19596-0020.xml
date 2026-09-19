@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-13T09:28:17.398+03:30</Created>
+        <LastChange>2026-06-21T00:34:37.245+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0020_NLAI-5-19596-0020.jpg" imageWidth="1580" imageHeight="2860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781989477287" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781907646250_3504" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781907646250_3504" custom="readingOrder {index:0;}">
+            <Coords points="134,502 1173,502 1173,2658 134,2658" />
+            <TextLine id="line_1781907658226_3507" custom="readingOrder {index:0;}">
+                <Coords points="166,521 609,521 609,656 166,656" /><Baseline points="166,605 609,605" />
+                <Baseline points="194,599 580,598" />
+                <TextEquiv>
+                    <Unicode>به جز نسیم صبا نیست همدم جانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907670215_3513" custom="readingOrder {index:1;}">
+                <Coords points="693,530 1136,530 1136,627 693,627" /><Baseline points="693,590 1136,590" />
+                <Baseline points="718,588 1114,585" />
+                <TextEquiv>
+                    <Unicode>کنون که شاهد گلرا بجله گاه چمن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907686478_3525" custom="readingOrder {index:2;}">
+                <Coords points="686,635 1134,635 1134,777 686,777" /><Baseline points="686,723 1134,723" />
+                <Baseline points="703,708 1123,699" />
+                <TextEquiv>
+                    <Unicode>شقایق از پی سلطان گل بسازد باز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907678883_3519" custom="readingOrder {index:3;}">
+                <Coords points="159,664 600,664 600,786 159,786" /><Baseline points="159,740 600,740" />
+                <Baseline points="173,722 583,728" />
+                <TextEquiv>
+                    <Unicode>بباد پای صبا لالهای نعمانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907696005_3531" custom="readingOrder {index:4;}">
+                <Coords points="165,776 608,776 608,918 165,918" /><Baseline points="165,864 608,864" />
+                <Baseline points="195,857 587,857" />
+                <TextEquiv>
+                    <Unicode>که لاف میزند از روح راح ریحانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907704029_3537" custom="readingOrder {index:5;}">
+                <Coords points="680,790 1137,790 1137,915 680,915" /><Baseline points="680,868 1137,868" />
+                <Baseline points="713,855 1105,845" />
+                <TextEquiv>
+                    <Unicode>بدان رسید ز سعی نسیم باد بهار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907711114_3543" custom="readingOrder {index:6;}">
+                <Coords points="173,922 599,922 599,1064 173,1064" /><Baseline points="173,1010 599,1010" />
+                <Baseline points="189,994 582,999" />
+                <TextEquiv>
+                    <Unicode>بغنچه میزد و میگفت در سخن دانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907719033_3549" custom="readingOrder {index:7;}">
+                <Coords points="686,923 1136,923 1136,1058 686,1058" /><Baseline points="686,1007 1136,1007" />
+                <Baseline points="710,996 1114,990" />
+                <TextEquiv>
+                    <Unicode>سحرگهم چه خوش آمد که بلبلی گلبانگ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907737603_3561" custom="readingOrder {index:8;}">
+                <Coords points="686,1053 1137,1053 1137,1191 686,1191" /><Baseline points="686,1139 1137,1139" />
+                <Baseline points="699,1139 1114,1135" />
+                <TextEquiv>
+                    <Unicode>که تنگ دل چه نشینی ز پرده بیرون آی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907727514_3555" custom="readingOrder {index:9;}">
+                <Coords points="176,1061 606,1061 606,1211 176,1211" /><Baseline points="176,1154 606,1154" />
+                <Baseline points="185,1136 596,1139" />
+                <TextEquiv>
+                    <Unicode>که در خم است شرابی چو لعل رمانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907752499_3573" custom="readingOrder {index:10;}">
+                <Coords points="699,1206 1137,1206 1137,1339 699,1339" /><Baseline points="699,1288 1137,1288" />
+                <Baseline points="705,1285 1133,1288" />
+                <TextEquiv>
+                    <Unicode>مکن که می نخوری بر جمال گل یک ماه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907744487_3567" custom="readingOrder {index:11;}">
+                <Coords points="172,1215 609,1215 609,1346 172,1346" /><Baseline points="172,1296 609,1296" />
+                <Baseline points="184,1277 597,1277" />
+                <TextEquiv>
+                    <Unicode>که باز ماه دگر میخوری پشیمانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907768876_3585" custom="readingOrder {index:12;}">
+                <Coords points="697,1340 1146,1340 1146,1495 697,1495" /><Baseline points="697,1436 1146,1436" />
+                <Baseline points="709,1423 1136,1423" />
+                <TextEquiv>
+                    <Unicode>بشکر نعمت تکفیر کز میان برخواست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907761026_3579" custom="readingOrder {index:13;}">
+                <Coords points="176,1346 619,1346 619,1487 176,1487" /><Baseline points="176,1433 619,1433" />
+                <Baseline points="192,1421 599,1423" />
+                <TextEquiv>
+                    <Unicode>بکوش کز گل و مل داد عیش بستانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907777843_3591" custom="readingOrder {index:14;}">
+                <Coords points="165,1486 608,1486 608,1634 165,1634" /><Baseline points="165,1578 608,1578" />
+                <Baseline points="184,1566 603,1566" />
+                <TextEquiv>
+                    <Unicode>همه کرامت و لطف است شرع یزدانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907785542_3597" custom="readingOrder {index:15;}">
+                <Coords points="693,1504 1140,1504 1140,1630 693,1630" /><Baseline points="693,1582 1140,1582" />
+                <Baseline points="697,1570 1115,1563" />
+                <TextEquiv>
+                    <Unicode>جفا نه شیو دین پروران بود حاشا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907802259_3609" custom="readingOrder {index:16;}">
+                <Coords points="694,1633 1128,1633 1128,1780 694,1780" /><Baseline points="694,1724 1128,1724" />
+                <Baseline points="716,1711 1127,1706" />
+                <TextEquiv>
+                    <Unicode>رموز سر اناالحق چه داند آن غافل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907793730_3603" custom="readingOrder {index:17;}">
+                <Coords points="169,1640 613,1640 613,1761 169,1761" /><Baseline points="169,1715 613,1715" />
+                <Baseline points="184,1708 597,1705" />
+                <TextEquiv>
+                    <Unicode>که منجدب نشد و از جذبهای سبحانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907810989_3615" custom="readingOrder {index:18;}">
+                <Coords points="176,1787 613,1787 613,1918 176,1918" /><Baseline points="176,1868 613,1868" />
+                <Baseline points="202,1857 595,1860" />
+                <TextEquiv>
+                    <Unicode>ز بهر دید خصم تو لعل رمانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907817632_3621" custom="readingOrder {index:19;}">
+                <Coords points="697,1790 1139,1790 1139,1922 697,1922" /><Baseline points="697,1872 1139,1872" />
+                <Baseline points="703,1865 1128,1863" />
+                <TextEquiv>
+                    <Unicode>درون پرد گل غنچه بین که میسازد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907831557_3633" custom="readingOrder {index:20;}">
+                <Coords points="694,1923 1141,1923 1141,2061 694,2061" /><Baseline points="694,2009 1141,2009" />
+                <Baseline points="702,2007 1130,2003" />
+                <TextEquiv>
+                    <Unicode>طرب سرای وزیرست ساقیا بگذار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907824001_3627" custom="readingOrder {index:21;}">
+                <Coords points="175,1925 622,1925 622,2071 175,2071" /><Baseline points="175,2016 622,2016" />
+                <Baseline points="198,1993 600,1991" />
+                <TextEquiv>
+                    <Unicode>که غیر جام می آنجا کند گرانجایی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907849138_3645" custom="readingOrder {index:22;}">
+                <Coords points="696,2065 1147,2065 1147,2199 696,2199" /><Baseline points="696,2148 1147,2148" />
+                <Baseline points="719,2140 1134,2140" />
+                <TextEquiv>
+                    <Unicode>تو بودی آن دم صبح امید کز سر مهر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907841238_3639" custom="readingOrder {index:23;}">
+                <Coords points="182,2068 605,2068 605,2197 182,2197" /><Baseline points="182,2148 605,2148" />
+                <Baseline points="195,2127 602,2131" />
+                <TextEquiv>
+                    <Unicode>برآمدی و برآمد شبان ظلمانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907864487_3657" custom="readingOrder {index:24;}">
+                <Coords points="699,2204 1149,2204 1149,2346 699,2346" /><Baseline points="699,2292 1149,2292" />
+                <Baseline points="710,2270 1137,2270" />
+                <TextEquiv>
+                    <Unicode>شنیده ام که ز من یاد میکنی گه گاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907856569_3651" custom="readingOrder {index:25;}">
+                <Coords points="188,2205 605,2205 605,2344 188,2344" /><Baseline points="188,2291 605,2291" />
+                <Baseline points="201,2275 592,2279" />
+                <TextEquiv>
+                    <Unicode>ولی بمجلس خاص خودم نمیخوانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907874448_3663" custom="readingOrder {index:26;}">
+                <Coords points="184,2349 595,2349 595,2483 184,2483" /><Baseline points="184,2432 595,2432" />
+                <Baseline points="197,2419 596,2424" />
+                <TextEquiv>
+                    <Unicode>وگرنه با تو چه بحث است در سخندانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907882260_3669" custom="readingOrder {index:27;}">
+                <Coords points="699,2357 1143,2357 1143,2490 699,2490" /><Baseline points="699,2439 1143,2439" />
+                <Baseline points="726,2440 1134,2447" />
+                <TextEquiv>
+                    <Unicode>طلب نمیکنی از من سخن جفا این است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907889971_3675" custom="readingOrder {index:28;}">
+                <Coords points="185,2483 609,2483 609,2613 185,2613" /><Baseline points="185,2564 609,2564" />
+                <Baseline points="197,2554 587,2558" />
+                <TextEquiv>
+                    <Unicode>لطایف حکمی با کتاب قرآنی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781907898347_3681" custom="readingOrder {index:29;}">
+                <Coords points="712,2489 1154,2489 1154,2613 712,2613" /><Baseline points="712,2566 1154,2566" />
+                <Baseline points="718,2553 1141,2563" />
+                <TextEquiv>
+                    <Unicode>ز حافظان جهان کس چو بنده جمع نکرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>به جز نسیم صبا نیست همدم جانی
+کنون که شاهد گلرا بجله گاه چمن
+شقایق از پی سلطان گل بسازد باز
+بباد پای صبا لالهای نعمانی
+که لاف میزند از روح راح ریحانی
+بدان رسید ز سعی نسیم باد بهار
+بغنچه میزد و میگفت در سخن دانی
+سحرگهم چه خوش آمد که بلبلی گلبانگ
+که تنگ دل چه نشینی ز پرده بیرون آی
+که در خم است شرابی چو لعل رمانی
+مکن که می نخوری بر جمال گل یک ماه
+که باز ماه دگر میخوری پشیمانی
+بشکر نعمت تکفیر کز میان برخواست
+بکوش کز گل و مل داد عیش بستانی
+همه کرامت و لطف است شرع یزدانی
+جفا نه شیو دین پروران بود حاشا
+رموز سر اناالحق چه داند آن غافل
+که منجدب نشد و از جذبهای سبحانی
+ز بهر دید خصم تو لعل رمانی
+درون پرد گل غنچه بین که میسازد
+طرب سرای وزیرست ساقیا بگذار
+که غیر جام می آنجا کند گرانجایی
+تو بودی آن دم صبح امید کز سر مهر
+برآمدی و برآمد شبان ظلمانی
+شنیده ام که ز من یاد میکنی گه گاه
+ولی بمجلس خاص خودم نمیخوانی
+وگرنه با تو چه بحث است در سخندانی
+طلب نمیکنی از من سخن جفا این است
+لطایف حکمی با کتاب قرآنی
+ز حافظان جهان کس چو بنده جمع نکرد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

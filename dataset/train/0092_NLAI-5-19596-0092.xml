@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:31.177+03:30</Created>
+        <LastChange>2026-06-20T20:04:59.064+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0092_NLAI-5-19596-0092.jpg" imageWidth="1552" imageHeight="2923">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781973299125" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781971758148_141" />
+                <RegionRefIndexed index="1" regionRef="region_1781972207076_198" />
+                <RegionRefIndexed index="2" regionRef="region_1781973104186_213" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781971758148_141" custom="readingOrder {index:0;}">
+            <Coords points="75,585 1088,585 1088,1725 75,1725" />
+            <TextLine id="line_1781971773393_147" custom="readingOrder {index:0;}">
+                <Coords points="111,612 1025,608 1025,658 111,662" /><Baseline points="111,641 1025,641" />
+                <Baseline points="111,657 1025,653" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781971764204_144" custom="readingOrder {index:1;}">
+                <Coords points="91,609 1068,609 1068,712 91,712" /><Baseline points="91,673 1068,673" />
+                <Baseline points="108,804 1048,809" />
+                <TextEquiv>
+                    <Unicode>سرشک من که ز طوفان نوح دست برد ز لوح سینه نیارست نقش مهر تو شست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781971818041_156" custom="readingOrder {index:2;}">
+                <Coords points="100,722 1089,722 1089,869 100,869" /><Baseline points="100,813 1089,813" />
+                <Baseline points="115,951 1039,947" />
+                <TextEquiv>
+                    <Unicode>بکن معامله ای وین دل شکسته بخر که با شکستگی ارزد به صد هزار درست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781971848468_162" custom="readingOrder {index:3;}">
+                <Coords points="79,881 1065,881 1065,1000 79,1000" /><Baseline points="79,955 1065,955" />
+                <Baseline points="116,1085 1054,1093" />
+                <TextEquiv>
+                    <Unicode>ملامتم مکن که مرشد عشق حوالتم به جزا بات کرد روز است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781971946196_168" custom="readingOrder {index:4;}">
+                <Coords points="74,1012 1068,1012 1068,1144 74,1144" /><Baseline points="74,1094 1068,1094" />
+                <Baseline points="123,1254 1057,1249" />
+                <TextEquiv>
+                    <Unicode>دلا طمع مبر از لطف بی نهایت دوست چو لاف عشق زدی سر بباز چابک و چست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781971992529_174" custom="readingOrder {index:5;}">
+                <Coords points="74,1153 1079,1153 1079,1319 74,1319" /><Baseline points="74,1256 1079,1256" />
+                <Baseline points="116,1404 1078,1382" />
+                <TextEquiv>
+                    <Unicode>زبان مور به آصف دراز گشت و رواست که خواجه خاتم جم یاوه کرد و بازنجست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781972022581_180" custom="readingOrder {index:6;}">
+                <Coords points="75,1330 1077,1330 1077,1438 75,1438" /><Baseline points="75,1397 1077,1397" />
+                <Baseline points="121,1526 1056,1534" />
+                <TextEquiv>
+                    <Unicode>هزار بار گر عاشقی نگاری را بیاموز ذلش بحث بود پیمان است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781972110649_186" custom="readingOrder {index:7;}">
+                <Coords points="74,1451 1084,1451 1084,1580 74,1580" /><Baseline points="74,1531 1084,1531" />
+                <Baseline points="133,1677 1055,1668" />
+                <TextEquiv>
+                    <Unicode>به صدق کوش که خورشید زاید از نفست که از دروغ سیه روی گشت صبح نخست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781972172917_192" custom="readingOrder {index:8;}">
+                <Coords points="74,1589 1086,1589 1086,1723 74,1723" /><Baseline points="74,1672 1086,1672" />
+                <TextEquiv>
+                    <Unicode>شدم ز دست تو شیدای کوه و دشت و هنوز نمی کنی به ترحم نطاق سلسله سست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سرشک من که ز طوفان نوح دست برد ز لوح سینه نیارست نقش مهر تو شست
+بکن معامله ای وین دل شکسته بخر که با شکستگی ارزد به صد هزار درست
+ملامتم مکن که مرشد عشق حوالتم به جزا بات کرد روز است
+دلا طمع مبر از لطف بی نهایت دوست چو لاف عشق زدی سر بباز چابک و چست
+زبان مور به آصف دراز گشت و رواست که خواجه خاتم جم یاوه کرد و بازنجست
+هزار بار گر عاشقی نگاری را بیاموز ذلش بحث بود پیمان است
+به صدق کوش که خورشید زاید از نفست که از دروغ سیه روی گشت صبح نخست
+شدم ز دست تو شیدای کوه و دشت و هنوز نمی کنی به ترحم نطاق سلسله سست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781972207076_198" custom="readingOrder {index:1;}">
+            <Coords points="329,1735 876,1735 876,2017 329,2017" />
+            <TextLine id="line_1781972211376_201" custom="readingOrder {index:0;}">
+                <Coords points="343,1747 858,1747 858,1877 343,1877" /><Baseline points="343,1828 858,1828" />
+                <Baseline points="369,1813 832,1824" />
+                <TextEquiv>
+                    <Unicode>مرنج حافظ و از دلبران حفاظ مجوی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781972228908_207" custom="readingOrder {index:1;}">
+                <Coords points="345,1894 841,1894 841,2013 345,2013" /><Baseline points="345,1968 841,1968" />
+                <Baseline points="359,1967 827,1967" />
+                <TextEquiv>
+                    <Unicode>گناه باغ چه باشد چو این گیاه نرست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مرنج حافظ و از دلبران حفاظ مجوی
+گناه باغ چه باشد چو این گیاه نرست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781973104186_213" custom="readingOrder {index:2;}">
+            <Coords points="94,2012 1122,2012 1122,2752 94,2752" />
+            <TextLine id="line_1781973109018_216" custom="readingOrder {index:0;}">
+                <Coords points="124,2030 1092,2030 1092,2165 124,2165" /><Baseline points="124,2114 1092,2114" />
+                <Baseline points="128,2101 1052,2099" />
+                <TextEquiv>
+                    <Unicode>شنیده ام سخنی خوش که پیر کنعان گفت فراق یار نه آن می کند که بتوان گفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973156041_222" custom="readingOrder {index:1;}">
+                <Coords points="116,2175 1137,2175 1137,2313 116,2313" /><Baseline points="116,2261 1137,2261" />
+                <Baseline points="131,2244 1060,2252" />
+                <TextEquiv>
+                    <Unicode>حدیث هول قیامت که گفت واعظ شهر کنایتیست که از روزگار هجران گفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973183217_228" custom="readingOrder {index:2;}">
+                <Coords points="110,2333 1116,2333 1116,2450 110,2450" /><Baseline points="110,2406 1116,2406" />
+                <Baseline points="151,2383 1080,2395" />
+                <TextEquiv>
+                    <Unicode>نشان یار سفرکرده از که پرسم باز که هر چه گفت برید صبا پریشان گفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973232533_235" custom="readingOrder {index:3;}">
+                <Coords points="108,2464 1118,2464 1118,2601 108,2601" /><Baseline points="108,2549 1118,2549" />
+                <Baseline points="141,2544 1088,2536" />
+                <TextEquiv>
+                    <Unicode>فغان که آن مه نامهربان مهرگسل به ترک صحبت یاران خود چه آسان گفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781973258461_241" custom="readingOrder {index:4;}">
+                <Coords points="116,2615 1108,2615 1108,2718 116,2718" /><Baseline points="116,2679 1108,2679" />
+                <Baseline points="149,2679 1080,2673" />
+                <TextEquiv>
+                    <Unicode>من و مقام رضا بعد از این و شکر رقیب که دل به درد تو خو کرد و ترک درمان گفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شنیده ام سخنی خوش که پیر کنعان گفت فراق یار نه آن می کند که بتوان گفت
+حدیث هول قیامت که گفت واعظ شهر کنایتیست که از روزگار هجران گفت
+نشان یار سفرکرده از که پرسم باز که هر چه گفت برید صبا پریشان گفت
+فغان که آن مه نامهربان مهرگسل به ترک صحبت یاران خود چه آسان گفت
+من و مقام رضا بعد از این و شکر رقیب که دل به درد تو خو کرد و ترک درمان گفت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:15.860+03:30</Created>
+        <LastChange>2026-06-24T20:05:48.491+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0110_NLAI-5-15801-0110.jpg" imageWidth="1091" imageHeight="1793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782318948506" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782317854862_3" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782317854862_3" custom="readingOrder {index:0;}">
+            <Coords points="946,1649 80,1649 80,187 946,187" />
+            <TextLine id="line_1782317873222_11" custom="readingOrder {index:0;}">
+                <Coords points="100,217 924,217 924,316 100,316" /><Baseline points="100,278 924,278" />
+                <Baseline points="107,271 911,272" />
+                <TextEquiv>
+                    <Unicode>فضیلت نسبت فهمیده میشود پس حکم بالقوه است فافهم حوله فهذه بسابط</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782317881225_14" custom="readingOrder {index:1;}">
+                <Coords points="105,327 927,327 927,423 105,423" /><Baseline points="105,387 927,387" />
+                <Baseline points="111,381 919,385" />
+                <TextEquiv>
+                    <Unicode>بدانکه نسبت میانه قضیه ضروریه مطلقه و دایمه غموم و خصوص مطلق است بواسطه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782317885342_17" custom="readingOrder {index:2;}">
+                <Coords points="105,438 926,438 926,556 105,556" /><Baseline points="105,511 926,511" />
+                <Baseline points="112,505 910,502" />
+                <TextEquiv>
+                    <Unicode>آنکه هر جا ضروریه مادام لذات باشد البته دوام الذلات هست بخلاف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782317890074_20" custom="readingOrder {index:3;}">
+                <Coords points="107,570 932,570 932,681 107,681" /><Baseline points="107,639 932,639" />
+                <Baseline points="118,623 920,627" />
+                <TextEquiv>
+                    <Unicode>عکس زیرا که دوام مادام الذات لازم ندارد ضرورت مادام الذات را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782317895470_23" custom="readingOrder {index:4;}">
+                <Coords points="107,697 933,697 933,799 107,799" /><Baseline points="107,760 933,760" />
+                <Baseline points="114,753 923,753" />
+                <TextEquiv>
+                    <Unicode>و هم چنین احض است ضروریه مطلقه از وقتیه و منتشره مطلقه زیرا که هر کاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782317898757_26" custom="readingOrder {index:5;}">
+                <Coords points="116,815 938,815 938,912 116,912" /><Baseline points="116,875 938,875" />
+                <Baseline points="120,861 933,867" />
+                <TextEquiv>
+                    <Unicode>صادق باشد که نسبت محمول از برای موضوع ضروری است مادام الذات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782317905602_29" custom="readingOrder {index:6;}">
+                <Coords points="114,928 935,928 935,1046 114,1046" /><Baseline points="114,1001 935,1001" />
+                <Baseline points="122,995 924,990" />
+                <TextEquiv>
+                    <Unicode>البته صادق است که ضروری است در وقت معین و غیر معین هر دو مثلا کل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782317916625_32" custom="readingOrder {index:7;}">
+                <Coords points="112,1058 939,1058 939,1179 112,1179" /><Baseline points="112,1133 939,1133" />
+                <Baseline points="126,1123 932,1120" />
+                <TextEquiv>
+                    <Unicode>انسان حیوان بالضروره لازم دارد کل الانسان حیوان بالضروره فی هذا الوقت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782317926787_40" custom="readingOrder {index:8;}">
+                <Coords points="117,1185 939,1185 939,1298 117,1298" /><Baseline points="117,1255 939,1255" />
+                <Baseline points="129,1251 935,1240" />
+                <TextEquiv>
+                    <Unicode>یا وقتا ما اما هر جا ضروریه در وقت معین یا غیر معین صادق باشد لازم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782317930421_43" custom="readingOrder {index:9;}">
+                <Coords points="123,1307 946,1307 946,1414 123,1414" /><Baseline points="123,1373 946,1373" />
+                <Baseline points="129,1364 936,1360" />
+                <TextEquiv>
+                    <Unicode>نیست که ضرورت مادام الذات صادق باشد مثلا کل قمر منحسف بالضروره</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782317934076_46" custom="readingOrder {index:10;}">
+                <Coords points="105,1428 939,1428 939,1532 105,1532" /><Baseline points="105,1492 939,1492" />
+                <Baseline points="122,1478 930,1477" />
+                <TextEquiv>
+                    <Unicode>وقت الحیلوله یا وقتا ما صادق است امام مادام الذات صادق نیست و نسبت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782317938194_49" custom="readingOrder {index:11;}">
+                <Coords points="112,1534 936,1534 936,1639 112,1639" /><Baseline points="112,1599 936,1599" />
+                <Baseline points="133,1597 931,1598" />
+                <TextEquiv>
+                    <Unicode>میانه ضروریه مطلقه و مشروطه عامه عموم و خصوص من وجه است ماده اجتماع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>فضیلت نسبت فهمیده میشود پس حکم بالقوه است فافهم حوله فهذه بسابط
+بدانکه نسبت میانه قضیه ضروریه مطلقه و دایمه غموم و خصوص مطلق است بواسطه
+آنکه هر جا ضروریه مادام لذات باشد البته دوام الذلات هست بخلاف
+عکس زیرا که دوام مادام الذات لازم ندارد ضرورت مادام الذات را
+و هم چنین احض است ضروریه مطلقه از وقتیه و منتشره مطلقه زیرا که هر کاه
+صادق باشد که نسبت محمول از برای موضوع ضروری است مادام الذات
+البته صادق است که ضروری است در وقت معین و غیر معین هر دو مثلا کل
+انسان حیوان بالضروره لازم دارد کل الانسان حیوان بالضروره فی هذا الوقت
+یا وقتا ما اما هر جا ضروریه در وقت معین یا غیر معین صادق باشد لازم
+نیست که ضرورت مادام الذات صادق باشد مثلا کل قمر منحسف بالضروره
+وقت الحیلوله یا وقتا ما صادق است امام مادام الذات صادق نیست و نسبت
+میانه ضروریه مطلقه و مشروطه عامه عموم و خصوص من وجه است ماده اجتماع</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

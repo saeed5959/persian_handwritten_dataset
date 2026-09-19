@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-27T18:30:08.785+03:30</Created>
+        <LastChange>2026-07-01T11:43:14.392+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0012_NLAI-5-15801-0012.jpg" imageWidth="1067" imageHeight="1776">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782893594407" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782891717946_288" />
+                <RegionRefIndexed index="1" regionRef="region_1782891737289_297" />
+                <RegionRefIndexed index="2" regionRef="region_1782891763800_306" />
+                <RegionRefIndexed index="3" regionRef="region_1782892375452_326" />
+                <RegionRefIndexed index="4" regionRef="region_1782892396460_335" />
+                <RegionRefIndexed index="5" regionRef="region_1782892414647_344" />
+                <RegionRefIndexed index="6" regionRef="region_1782892440007_353" />
+                <RegionRefIndexed index="7" regionRef="region_1782893003090_366" />
+                <RegionRefIndexed index="8" regionRef="region_1782893019156_375" />
+                <RegionRefIndexed index="9" regionRef="region_1782893036980_384" />
+                <RegionRefIndexed index="10" regionRef="region_1782893058233_393" />
+                <RegionRefIndexed index="11" regionRef="region_1782893081552_403" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782891717946_288" custom="readingOrder {index:0;}">
+            <Coords points="68,146 890,146 890,261 68,261" />
+            <TextLine id="line_1782891724073_291" custom="readingOrder {index:0;}">
+                <Coords points="67,146 890,146 890,260 67,260" /><Baseline points="67,217 890,217" />
+                <Baseline points="85,223 875,215" />
+                <TextEquiv>
+                    <Unicode>بودن جمیل مذکور نیست دیگر بدانکه ثعیرات مختلف از برای حمد ذکر کرده اند و انچه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بودن جمیل مذکور نیست دیگر بدانکه ثعیرات مختلف از برای حمد ذکر کرده اند و انچه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782891737289_297" custom="readingOrder {index:1;}">
+            <Coords points="69,270 894,270 894,369 69,369" />
+            <TextLine id="line_1782891745161_300" custom="readingOrder {index:0;}">
+                <Coords points="64,257 904,257 904,378 64,378" /><Baseline points="64,332 904,332" />
+                <Baseline points="88,316 879,299" />
+                <TextEquiv>
+                    <Unicode>محشی مذکور ساخته معتبر است نزد محققین دیگر باید دانست که مناسب مقام تحمید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>محشی مذکور ساخته معتبر است نزد محققین دیگر باید دانست که مناسب مقام تحمید</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782891763800_306" custom="readingOrder {index:2;}">
+            <Coords points="67,399 906,399 906,506 67,506" />
+            <TextLine id="line_1782891977988_320" custom="readingOrder {index:0;}">
+                <Coords points="68,403 915,403 915,507 68,507" /><Baseline points="68,467 915,467" />
+                <Baseline points="81,470 879,449" />
+                <TextEquiv>
+                    <Unicode>ان است الف لام الحمد را با استقراق بگیرند یا جنس زیرا که در سرد و صورت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ان است الف لام الحمد را با استقراق بگیرند یا جنس زیرا که در سرد و صورت</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782892375452_326" custom="readingOrder {index:3;}">
+            <Coords points="86,519 890,519 890,627 86,627" />
+            <TextLine id="line_1782892383846_329" custom="readingOrder {index:0;}">
+                <Coords points="82,514 891,514 891,627 82,627" /><Baseline points="82,584 891,584" />
+                <Baseline points="96,560 875,574" />
+                <TextEquiv>
+                    <Unicode>دلالت میکند که هر حمد که هست از برای خدا است بنا بر استقراق ظاهر او بنابر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دلالت میکند که هر حمد که هست از برای خدا است بنا بر استقراق ظاهر او بنابر</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782892396460_335" custom="readingOrder {index:4;}">
+            <Coords points="93,641 908,641 908,747 93,747" />
+            <TextLine id="line_1782892402057_338" custom="readingOrder {index:0;}">
+                <Coords points="94,638 904,638 904,749 94,749" /><Baseline points="94,707 904,707" />
+                <Baseline points="99,704 880,690" />
+                <TextEquiv>
+                    <Unicode>انکه جنس باشد از که هرگاه حقیقت و ماهیت حمد از برای خدای متعال باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>انکه جنس باشد از که هرگاه حقیقت و ماهیت حمد از برای خدای متعال باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782892414647_344" custom="readingOrder {index:5;}">
+            <Coords points="75,770 909,770 909,871 75,871" />
+            <TextLine id="line_1782892420622_347" custom="readingOrder {index:0;}">
+                <Coords points="76,765 912,765 912,868 76,868" /><Baseline points="76,829 912,829" />
+                <Baseline points="99,832 887,813" />
+                <TextEquiv>
+                    <Unicode>باید که جمیع افراد نیز از برای او باشد و الا لازم می اید که حقیقت حمد در جای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>باید که جمیع افراد نیز از برای او باشد و الا لازم می اید که حقیقت حمد در جای</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782892440007_353" custom="readingOrder {index:6;}">
+            <Coords points="49,859 908,859 908,993 49,993" />
+            <TextLine id="line_1782892446983_356" custom="readingOrder {index:0;}">
+                <Coords points="44,852 909,852 909,1000 44,1000" /><Baseline points="44,944 909,944" />
+                <Baseline points="99,918 894,938" />
+                <TextEquiv>
+                    <Unicode>دیگر یافت شود و در ضمن ان فردی که از برای غیر خدااست مف و صاحب کشاف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>دیگر یافت شود و در ضمن ان فردی که از برای غیر خدااست مف و صاحب کشاف</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893003090_366" custom="readingOrder {index:7;}">
+            <Coords points="79,1008 921,1008 921,1109 79,1109" />
+            <TextLine id="line_1782893007953_369" custom="readingOrder {index:0;}">
+                <Coords points="79,1007 922,1007 922,1113 79,1113" /><Baseline points="79,1073 922,1073" />
+                <Baseline points="95,1039 893,1059" />
+                <TextEquiv>
+                    <Unicode>جنس انجبیه بهتر از استقراق میداند و ظاهرا مرا وجه جنس اختیار کردن همچنان که</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جنس انجبیه بهتر از استقراق میداند و ظاهرا مرا وجه جنس اختیار کردن همچنان که</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893019156_375" custom="readingOrder {index:8;}">
+            <Coords points="81,1128 918,1128 918,1230 81,1230" />
+            <TextLine id="line_1782893023614_378" custom="readingOrder {index:0;}">
+                <Coords points="79,1127 921,1127 921,1229 79,1229" /><Baseline points="79,1190 921,1190" />
+                <Baseline points="94,1181 902,1166" />
+                <TextEquiv>
+                    <Unicode>میر سید شریف فرموده انیست که چون لام تعریف در اصل موضوع است از برای</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>میر سید شریف فرموده انیست که چون لام تعریف در اصل موضوع است از برای</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893036980_384" custom="readingOrder {index:9;}">
+            <Coords points="82,1248 931,1248 931,1352 82,1352" />
+            <TextLine id="line_1782893043003_387" custom="readingOrder {index:0;}">
+                <Coords points="87,1247 927,1247 927,1355 87,1355" /><Baseline points="87,1314 927,1314" />
+                <Baseline points="113,1294 904,1290" />
+                <TextEquiv>
+                    <Unicode>حقیقت و ماحیت پس فهمش احتیاج بقرینه مقام ندارد و مع هذا افاده حصر افراد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حقیقت و ماحیت پس فهمش احتیاج بقرینه مقام ندارد و مع هذا افاده حصر افراد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893058233_393" custom="readingOrder {index:10;}">
+            <Coords points="55,1361 928,1361 928,1460 55,1460" />
+            <TextLine id="line_1782893065695_396" custom="readingOrder {index:0;}">
+                <Coords points="57,1357 928,1357 928,1460 57,1460" /><Baseline points="57,1421 928,1421" />
+                <Baseline points="106,1374 915,1404" />
+                <TextEquiv>
+                    <Unicode>میکند کنایت و کنایه ابلقغ از چیزها است و الحمد در اصل حمدت حمدالله بود فعل را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>میکند کنایت و کنایه ابلقغ از چیزها است و الحمد در اصل حمدت حمدالله بود فعل را</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782893081552_403" custom="readingOrder {index:11;}">
+            <Coords points="74,1472 952,1472 952,1580 74,1580" />
+            <TextLine id="line_1782893087426_406" custom="readingOrder {index:0;}">
+                <Coords points="81,1476 953,1476 953,1584 81,1584" /><Baseline points="81,1543 953,1543" />
+                <Baseline points="118,1530 924,1531" />
+                <TextEquiv>
+                    <Unicode>حذف کردند حمدا که مفعول مطلق است بجای این گذاشته شده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حذف کردند حمدا که مفعول مطلق است بجای این گذاشته شده</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:30.983-07:00</Created>
+        <LastChange>2026-06-21T15:56:38.214-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0067_NLAI-5-15801-0067.jpg" imageWidth="1090" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782082598261" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782081639579_1561" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782081639579_1561" custom="readingOrder {index:0;}">
+            <Coords points="962,198 107,198 107,1668 962,1668" />
+            <TextLine id="line_1782081658422_1564" custom="readingOrder {index:0;}">
+                <Coords points="955,216 145,216 145,334 955,334" /><Baseline points="145,289 955,289" />
+                <Baseline points="939,268 155,282" />
+                <TextEquiv>
+                    <Unicode>بر تمام موضوع له باینطریق این وضع و هم چنین صادق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782081666062_1567" custom="readingOrder {index:1;}">
+                <Coords points="131,321 546,321 546,448 131,448" /><Baseline points="131,400 546,400" />
+                <Baseline points="532,393 142,391" />
+                <TextEquiv>
+                    <Unicode>زیرا که باعتبار این وضع تمام موضوع له است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782081675984_1570" custom="readingOrder {index:2;}">
+                <Coords points="125,453 940,453 940,548 125,548" /><Baseline points="125,512 940,512" />
+                <Baseline points="933,520 152,521" />
+                <TextEquiv>
+                    <Unicode>اما ثانی بواسطه انکه تعریف تضمن است بر ان صادق است زیرا که دلاله لفظ است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782081685749_1573" custom="readingOrder {index:3;}">
+                <Coords points="119,563 943,563 943,694 119,694" /><Baseline points="119,644 943,644" />
+                <Baseline points="936,629 127,630" />
+                <TextEquiv>
+                    <Unicode>بر جز موضوع له باینوضع و الله اعلم کالبصر بالنسبیه الی العمی اه زیرا که عمی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782081704530_1576" custom="readingOrder {index:4;}">
+                <Coords points="128,673 949,673 949,815 128,815" /><Baseline points="128,761 949,761" />
+                <Baseline points="937,748 137,754" />
+                <TextEquiv>
+                    <Unicode>موضوعست از برای عدم بصر یعنی عدم مضاف به بصر و اگرچه بصر حارج موضوع له است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782081716732_1579" custom="readingOrder {index:5;}">
+                <Coords points="949,818 147,818 147,930 949,930" /><Baseline points="147,887 949,887" />
+                <Baseline points="930,886 153,879" />
+                <TextEquiv>
+                    <Unicode>اما تعقل عدم ازین حیثیت که مضاف ببصر است بدون تعقل بصر ممتنع است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782081732638_1582" custom="readingOrder {index:6;}">
+                <Coords points="128,930 936,930 936,1039 128,1039" /><Baseline points="128,998 936,998" />
+                <Baseline points="926,1001 135,1003" />
+                <TextEquiv>
+                    <Unicode>قوله و لا شک ان الدلاله الوضعیه اه بدانکه میر سید شریف و جمعی از</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782081744435_1585" custom="readingOrder {index:7;}">
+                <Coords points="123,1061 950,1061 950,1185 123,1185" /><Baseline points="123,1138 950,1138" />
+                <Baseline points="941,1123 129,1129" />
+                <TextEquiv>
+                    <Unicode>علما را عقیده آن است که دلالت تضمن التزام دلالت لفظ است بر جز معنی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782081760153_1588" custom="readingOrder {index:8;}">
+                <Coords points="127,1144 944,1144 944,1295 127,1295" /><Baseline points="127,1238 944,1238" />
+                <Baseline points="936,1254 136,1235" />
+                <TextEquiv>
+                    <Unicode>و خارج معنی موضوع له در ضمن دلالت بر موضوع له خواه از لفظ موضوع له کل مراد باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782081770465_1591" custom="readingOrder {index:9;}">
+                <Coords points="140,1301 956,1301 956,1423 140,1423" /><Baseline points="140,1377 956,1377" />
+                <Baseline points="949,1374 147,1375" />
+                <TextEquiv>
+                    <Unicode>مثل انکه انسانرا بگویند و مجموع حیوان ناطق که موضوع له او است بخواهند و خواه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782081786168_1594" custom="readingOrder {index:10;}">
+                <Coords points="135,1421 961,1421 961,1530 135,1530" /><Baseline points="135,1489 961,1489" />
+                <Baseline points="949,1482 170,1492" />
+                <TextEquiv>
+                    <Unicode>بگویند و حیوان تنها یا قابل علم تنها یا ظن تنها بخواهند اما بنابر اول ظاهر است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782081796995_1597" custom="readingOrder {index:11;}">
+                <Coords points="142,1517 967,1517 967,1665 142,1665" /><Baseline points="142,1609 967,1609" />
+                <Baseline points="945,1613 165,1600" />
+                <TextEquiv>
+                    <Unicode>که فهم هر یک از ناطق و حیوان و قابل علم در ضمن فهم مجموعست و اما بنابر ثانی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بر تمام موضوع له باینطریق این وضع و هم چنین صادق
+زیرا که باعتبار این وضع تمام موضوع له است
+اما ثانی بواسطه انکه تعریف تضمن است بر ان صادق است زیرا که دلاله لفظ است
+بر جز موضوع له باینوضع و الله اعلم کالبصر بالنسبیه الی العمی اه زیرا که عمی
+موضوعست از برای عدم بصر یعنی عدم مضاف به بصر و اگرچه بصر حارج موضوع له است
+اما تعقل عدم ازین حیثیت که مضاف ببصر است بدون تعقل بصر ممتنع است
+قوله و لا شک ان الدلاله الوضعیه اه بدانکه میر سید شریف و جمعی از
+علما را عقیده آن است که دلالت تضمن التزام دلالت لفظ است بر جز معنی
+و خارج معنی موضوع له در ضمن دلالت بر موضوع له خواه از لفظ موضوع له کل مراد باشد
+مثل انکه انسانرا بگویند و مجموع حیوان ناطق که موضوع له او است بخواهند و خواه
+بگویند و حیوان تنها یا قابل علم تنها یا ظن تنها بخواهند اما بنابر اول ظاهر است
+که فهم هر یک از ناطق و حیوان و قابل علم در ضمن فهم مجموعست و اما بنابر ثانی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

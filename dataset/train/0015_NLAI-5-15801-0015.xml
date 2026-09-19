@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-27T18:30:08.925+03:30</Created>
+        <LastChange>2026-07-01T12:30:26.170+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0015_NLAI-5-15801-0015.jpg" imageWidth="1089" imageHeight="1791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782896426185" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782895234903_555" />
+                <RegionRefIndexed index="1" regionRef="region_1782895263819_564" />
+                <RegionRefIndexed index="2" regionRef="region_1782895284126_573" />
+                <RegionRefIndexed index="3" regionRef="region_1782895304805_582" />
+                <RegionRefIndexed index="4" regionRef="region_1782895324685_591" />
+                <RegionRefIndexed index="5" regionRef="region_1782895346107_600" />
+                <RegionRefIndexed index="6" regionRef="region_1782895365381_609" />
+                <RegionRefIndexed index="7" regionRef="region_1782895388377_618" />
+                <RegionRefIndexed index="8" regionRef="region_1782895408609_627" />
+                <RegionRefIndexed index="9" regionRef="region_1782895439454_636" />
+                <RegionRefIndexed index="10" regionRef="region_1782895461196_645" />
+                <RegionRefIndexed index="11" regionRef="region_1782895481826_654" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782895234903_555" custom="readingOrder {index:0;}">
+            <Coords points="146,192 1001,192 1001,339 146,339" />
+            <TextLine id="line_1782895248113_558" custom="readingOrder {index:0;}">
+                <Coords points="146,187 999,187 999,340 146,340" /><Baseline points="146,282 999,282" />
+                <Baseline points="173,262 982,315" />
+                <TextEquiv>
+                    <Unicode>و در ترکی پس میاید که در این لغت که بهترین لغات است هم علمل داشته باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و در ترکی پس میاید که در این لغت که بهترین لغات است هم علمل داشته باشد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782895263819_564" custom="readingOrder {index:1;}">
+            <Coords points="148,342 1009,342 1009,473 148,473" />
+            <TextLine id="line_1782895270693_567" custom="readingOrder {index:0;}">
+                <Coords points="139,344 1010,344 1010,473 139,473" /><Baseline points="139,424 1010,424" />
+                <Baseline points="183,385 981,434" />
+                <TextEquiv>
+                    <Unicode>و دانسته شده که علم بودن لفظ الله طاهر است از اسمای دیگر بنابرین محشی فرموده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>و دانسته شده که علم بودن لفظ الله طاهر است از اسمای دیگر بنابرین محشی فرموده</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782895284126_573" custom="readingOrder {index:2;}">
+            <Coords points="117,443 997,443 997,597 117,597" />
+            <TextLine id="line_1782895289872_576" custom="readingOrder {index:0;}">
+                <Coords points="125,443 1006,443 1006,601 125,601" /><Baseline points="125,541 1006,541" />
+                <Baseline points="169,527 969,545" />
+                <TextEquiv>
+                    <Unicode>که در مذهب اصح علم است و از لفظ اصح چنین فهمیده میشود که چنین نیست مذهب غیر علم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که در مذهب اصح علم است و از لفظ اصح چنین فهمیده میشود که چنین نیست مذهب غیر علم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782895304805_582" custom="readingOrder {index:3;}">
+            <Coords points="142,585 1000,585 1000,710 142,710" />
+            <TextLine id="line_1782895310670_585" custom="readingOrder {index:0;}">
+                <Coords points="140,582 1000,582 1000,711 140,711" /><Baseline points="140,662 1000,662" />
+                <Baseline points="172,645 976,673" />
+                <TextEquiv>
+                    <Unicode>باطل باشد بلکه مذهب علم بهتر است از غیر علم چون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>باطل باشد بلکه مذهب علم بهتر است از غیر علم چون</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782895324685_591" custom="readingOrder {index:4;}">
+            <Coords points="161,691 986,691 986,816 161,816" />
+            <TextLine id="line_1782895330486_594" custom="readingOrder {index:0;}">
+                <Coords points="161,693 989,693 989,820 161,820" /><Baseline points="161,772 989,772" />
+                <Baseline points="180,745 971,784" />
+                <TextEquiv>
+                    <Unicode>نزد علمای ظاهر شده که تعلیق حکم بوصف مشعر است بعلیت به این معنی که هرگاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>نزد علمای ظاهر شده که تعلیق حکم بوصف مشعر است بعلیت به این معنی که هرگاه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782895346107_600" custom="readingOrder {index:5;}">
+            <Coords points="130,790 1026,790 1026,946 130,946" />
+            <TextLine id="line_1782895350956_603" custom="readingOrder {index:0;}">
+                <Coords points="135,796 1030,796 1030,950 135,950" /><Baseline points="135,891 1030,891" />
+                <Baseline points="183,853 984,909" />
+                <TextEquiv>
+                    <Unicode>حکمی را معلق سازند بوصف مثل این که کسی بگوید تعظیم کن اگر عالم را ببینی ظاهرا نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حکمی را معلق سازند بوصف مثل این که کسی بگوید تعظیم کن اگر عالم را ببینی ظاهرا نیست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782895365381_609" custom="readingOrder {index:6;}">
+            <Coords points="145,932 986,932 986,1067 145,1067" />
+            <TextLine id="line_1782895370950_612" custom="readingOrder {index:0;}">
+                <Coords points="148,923 983,923 983,1071 148,1071" /><Baseline points="148,1015 983,1015" />
+                <Baseline points="195,977 965,1037" />
+                <TextEquiv>
+                    <Unicode>که علت تعظیم علم باشد و چون الله موضوع است از برای ذات مستجمع جمیع صفات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که علت تعظیم علم باشد و چون الله موضوع است از برای ذات مستجمع جمیع صفات</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782895388377_618" custom="readingOrder {index:7;}">
+            <Coords points="164,1049 988,1049 988,1191 164,1191" />
+            <TextLine id="line_1782895394695_621" custom="readingOrder {index:0;}">
+                <Coords points="170,1049 999,1049 999,1193 170,1193" /><Baseline points="170,1138 999,1138" />
+                <Baseline points="177,1095 972,1149" />
+                <TextEquiv>
+                    <Unicode>کمال پس دلالت بر مستجمع بودن صفات کمال دارد پس محصول معنی الحمد الله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>کمال پس دلالت بر مستجمع بودن صفات کمال دارد پس محصول معنی الحمد الله</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782895408609_627" custom="readingOrder {index:8;}">
+            <Coords points="148,1174 981,1174 981,1315 148,1315" />
+            <TextLine id="line_1782895415367_630" custom="readingOrder {index:0;}">
+                <Coords points="151,1175 984,1175 984,1325 151,1325" /><Baseline points="151,1268 984,1268" />
+                <Baseline points="159,1226 964,1269" />
+                <TextEquiv>
+                    <Unicode>چنین خواهد بود که حمد از هر کس صادر شود منحصر است در حق ان کس که مستجمع جمیع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چنین خواهد بود که حمد از هر کس صادر شود منحصر است در حق ان کس که مستجمع جمیع</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782895439454_636" custom="readingOrder {index:9;}">
+            <Coords points="121,1302 1011,1302 1011,1421 121,1421" />
+            <TextLine id="line_1782895447355_639" custom="readingOrder {index:0;}">
+                <Coords points="117,1302 1009,1302 1009,1423 117,1423" /><Baseline points="117,1377 1009,1377" />
+                <Baseline points="161,1342 980,1391" />
+                <TextEquiv>
+                    <Unicode>صفات کمال است از این حیثیت که مستجمع صفات کمال است بنابر این که مذکور شد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>صفات کمال است از این حیثیت که مستجمع صفات کمال است بنابر این که مذکور شد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782895461196_645" custom="readingOrder {index:10;}">
+            <Coords points="140,1401 989,1401 989,1538 140,1538" />
+            <TextLine id="line_1782895466919_648" custom="readingOrder {index:0;}">
+                <Coords points="144,1405 997,1405 997,1540 144,1540" /><Baseline points="144,1489 997,1489" />
+                <Baseline points="166,1449 967,1502" />
+                <TextEquiv>
+                    <Unicode>که تعلیق حکم بوصف مشعرات بعلیت پس کویاکقه شده که حمد از برای انذات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که تعلیق حکم بوصف مشعرات بعلیت پس کویاکقه شده که حمد از برای انذات</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782895481826_654" custom="readingOrder {index:11;}">
+            <Coords points="146,1552 970,1552 970,1670 146,1670" />
+            <TextLine id="line_1782895529772_668" custom="readingOrder {index:0;}">
+                <Coords points="145,1551 972,1551 972,1678 145,1678" /><Baseline points="145,1630 972,1630" />
+                <Baseline points="171,1589 957,1623" />
+                <TextEquiv>
+                    <Unicode>بواسطه انکه انذات مستجع جمیع کمالات است پس الحمدالله مثل دعوی باشد با دلیل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بواسطه انکه انذات مستجع جمیع کمالات است پس الحمدالله مثل دعوی باشد با دلیل</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

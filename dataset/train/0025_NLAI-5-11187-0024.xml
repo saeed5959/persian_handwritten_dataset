@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:44.447+03:30</Created>
+        <LastChange>2026-06-21T20:08:12.529+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0025_NLAI-5-11187-0024.jpg" imageWidth="824" imageHeight="1473">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782059892608" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782059214780_867" />
+                <RegionRefIndexed index="1" regionRef="region_1782059310115_878" />
+                <RegionRefIndexed index="2" regionRef="region_1782059439507_889" />
+                <RegionRefIndexed index="3" regionRef="region_1782059540833_900" />
+                <RegionRefIndexed index="4" regionRef="region_1782059662181_911" />
+                <RegionRefIndexed index="5" regionRef="region_1782059751972_924" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782059214780_867" custom="readingOrder {index:0;}">
+            <Coords points="174,390 428,390 428,525 174,525" />
+            <TextLine id="line_1782059225219_870" custom="readingOrder {index:0;}">
+                <Coords points="175,391 428,391 428,465 175,465" /><Baseline points="175,437 428,437" />
+                <TextEquiv>
+                    <Unicode>جمال المر فی الحلم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782059271645_874" custom="readingOrder {index:1;}">
+                <Coords points="177,464 428,464 428,523 177,523" /><Baseline points="177,501 428,501" />
+                <TextEquiv>
+                    <Unicode>زینت مرد بردباری اوست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جمال المر فی الحلم
+زینت مرد بردباری اوست</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782059310115_878" custom="readingOrder {index:1;}">
+            <Coords points="56,525 537,525 537,701 56,701" />
+            <TextLine id="line_1782059316286_881" custom="readingOrder {index:0;}">
+                <Coords points="57,526 535,526 535,619 57,619" /><Baseline points="57,584 535,584" />
+                <TextEquiv>
+                    <Unicode>جنگ با حلم سر نمی گیرد مرد را حلم بهتراست از کنج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782059363673_885" custom="readingOrder {index:1;}">
+                <Coords points="55,618 538,618 538,703 55,703" /><Baseline points="55,671 538,671" />
+                <TextEquiv>
+                    <Unicode>چه جمال است مرد را زان به که بحلم از کسی ز بیند رنج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جنگ با حلم سر نمی گیرد مرد را حلم بهتراست از کنج
+چه جمال است مرد را زان به که بحلم از کسی ز بیند رنج</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782059439507_889" custom="readingOrder {index:2;}">
+            <Coords points="174,702 429,702 429,854 174,854" />
+            <TextLine id="line_1782059446057_892" custom="readingOrder {index:0;}">
+                <Coords points="173,703 430,703 432,781 175,781" /><Baseline points="173,751 432,751" />
+                <TextEquiv>
+                    <Unicode>جل من لایموت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782059476073_896" custom="readingOrder {index:1;}">
+                <Coords points="175,781 429,781 429,851 175,851" /><Baseline points="175,824 429,824" />
+                <TextEquiv>
+                    <Unicode>آن بزرگ است کو نمی میرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جل من لایموت
+آن بزرگ است کو نمی میرد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782059540833_900" custom="readingOrder {index:3;}">
+            <Coords points="55,853 534,853 534,1028 55,1028" />
+            <TextLine id="line_1782059550224_903" custom="readingOrder {index:0;}">
+                <Coords points="55,854 534,854 534,933 55,933" /><Baseline points="55,903 534,903" />
+                <TextEquiv>
+                    <Unicode>چه بزرگی است اینکه آنچه فلک دادت از مرگ تو شود تاراج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782059608976_907" custom="readingOrder {index:1;}">
+                <Coords points="55,933 533,933 533,1027 55,1027" /><Baseline points="55,991 533,991" />
+                <TextEquiv>
+                    <Unicode>جاودان آنکه هست اوست بزرگ هم بزرگان همه باو محتاج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چه بزرگی است اینکه آنچه فلک دادت از مرگ تو شود تاراج
+جاودان آنکه هست اوست بزرگ هم بزرگان همه باو محتاج</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782059662181_911" custom="readingOrder {index:4;}">
+            <Coords points="173,1026 432,1026 432,1169 173,1169" />
+            <TextLine id="line_1782059685610_916" custom="readingOrder {index:0;}">
+                <Coords points="173,1028 431,1028 431,1101 173,1101" /><Baseline points="173,1073 431,1073" />
+                <TextEquiv>
+                    <Unicode>جوده الکلام فی الاختصار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782059717596_920" custom="readingOrder {index:1;}">
+                <Coords points="173,1102 433,1102 432,1171 172,1171" /><Baseline points="172,1145 433,1145" />
+                <TextEquiv>
+                    <Unicode>خوبی سخن در کوتاهی آن است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>جوده الکلام فی الاختصار
+خوبی سخن در کوتاهی آن است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782059751972_924" custom="readingOrder {index:5;}">
+            <Coords points="57,1169 530,1169 530,1329 57,1329" />
+            <TextLine id="line_1782059765676_927" custom="readingOrder {index:0;}">
+                <Coords points="57,1170 532,1170 532,1265 57,1265" /><Baseline points="57,1229 532,1229" />
+                <TextEquiv>
+                    <Unicode>چون سخن راست عیب کلی طول گرچه باشد چو گوهر اندر درج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782059818606_931" custom="readingOrder {index:1;}">
+                <Coords points="59,1267 533,1267 533,1327 59,1327" /><Baseline points="59,1304 533,1304" />
+                <TextEquiv>
+                    <Unicode>جودت آن در اختصار همی مینماید چو اختر اندر برج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>چون سخن راست عیب کلی طول گرچه باشد چو گوهر اندر درج
+جودت آن در اختصار همی مینماید چو اختر اندر برج</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

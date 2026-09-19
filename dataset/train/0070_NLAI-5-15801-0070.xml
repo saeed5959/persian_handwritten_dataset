@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-18T04:29:31.218-07:00</Created>
+        <LastChange>2026-06-22T04:10:17.124-07:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0070_NLAI-5-15801-0070.jpg" imageWidth="1089" imageHeight="1779">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782126617171" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782122067406_1900" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782122067406_1900" custom="readingOrder {index:0;}">
+            <Coords points="80,133 936,133 936,1631 80,1631" />
+            <TextLine id="line_1782122080468_1903" custom="readingOrder {index:0;}">
+                <Coords points="93,158 912,158 912,307 93,307" /><Baseline points="93,250 912,250" />
+                <Baseline points="899,259 109,252" />
+                <TextEquiv>
+                    <Unicode>قوله و للمرکب قسم واحد یعنی بحسب قسمت ثانیه آن نیز چهار قسم است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782122090999_1906" custom="readingOrder {index:1;}">
+                <Coords points="108,304 916,304 916,405 108,405" /><Baseline points="108,367 916,367" />
+                <Baseline points="906,371 118,371" />
+                <TextEquiv>
+                    <Unicode>چنانکه قسمت کرده است بدانکه لفظ مفرد را بر سه معنی دیگر اطلاق میکنند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782122099061_1909" custom="readingOrder {index:2;}">
+                <Coords points="100,417 920,417 920,545 100,545" /><Baseline points="100,496 920,496" />
+                <Baseline points="906,502 111,510" />
+                <TextEquiv>
+                    <Unicode>چنانکه گاه میگویند اینلفظ مفرد است یعنی تثنیه و جمع نیست و گاه میگویند مفرد است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782122111170_1912" custom="readingOrder {index:3;}">
+                <Coords points="97,550 916,550 916,659 97,659" /><Baseline points="97,618 916,618" />
+                <Baseline points="908,619 111,623" />
+                <TextEquiv>
+                    <Unicode>یعنی مضاف و شبیه مضاف نیست و گاه میگویند مفرد است یعنی جمله نیست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782122121123_1915" custom="readingOrder {index:4;}">
+                <Coords points="90,666 909,666 909,774 90,774" /><Baseline points="90,733 909,733" />
+                <Baseline points="899,746 111,729" />
+                <TextEquiv>
+                    <Unicode>اما معنی مشهور نزد منطقیین است که تعریف کرده است قوله گوید</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782122136294_1918" custom="readingOrder {index:5;}">
+                <Coords points="101,778 908,778 908,931 101,931" /><Baseline points="101,873 908,873" />
+                <Baseline points="897,870 112,866" />
+                <TextEquiv>
+                    <Unicode>و عبدالله علما قید علم اشاره شده است بانکه جز لفظ عبدالله دلاله بر جز معنی علمی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782122148887_1921" custom="readingOrder {index:6;}">
+                <Coords points="101,911 917,911 917,1017 101,1017" /><Baseline points="101,977 917,977" />
+                <Baseline points="909,980 117,987" />
+                <TextEquiv>
+                    <Unicode>نمیکند اما بر جز معنی غیر علمی مرکب است قوله کالحیوان الناطق علما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782122159215_1924" custom="readingOrder {index:7;}">
+                <Coords points="92,1042 904,1042 904,1195 92,1195" /><Baseline points="92,1137 904,1137" />
+                <Baseline points="897,1120 108,1111" />
+                <TextEquiv>
+                    <Unicode>در اینجا قید علم اشاره است باینکه از جز حیوان ناطق دلاله قصد نکردن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782122186870_1927" custom="readingOrder {index:8;}">
+                <Coords points="92,1152 910,1152 910,1278 92,1278" /><Baseline points="92,1230 910,1230" />
+                <Baseline points="899,1225 106,1227" />
+                <TextEquiv>
+                    <Unicode>باعتبار معنی علمی است نه باعتبار معنی غیر علمی دیگر بدانکه غرض جمعی که اعتبار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782122195120_1930" custom="readingOrder {index:9;}">
+                <Coords points="933,1291 107,1291 107,1403 933,1403" /><Baseline points="107,1360 933,1360" />
+                <Baseline points="902,1351 119,1362" />
+                <TextEquiv>
+                    <Unicode>کرده اند قصد و اراده را در تعریف مثل و صاحب مطالع این است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782122206120_1933" custom="readingOrder {index:10;}">
+                <Coords points="99,1392 937,1392 937,1511 99,1511" /><Baseline points="99,1466 937,1466" />
+                <Baseline points="906,1472 115,1475" />
+                <TextEquiv>
+                    <Unicode>که بیرون نرود مثل حیوان ناطق در حالت علمیت از مفرد زیرا که در حالت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782122215385_1936" custom="readingOrder {index:11;}">
+                <Coords points="89,1494 924,1494 924,1628 89,1628" /><Baseline points="89,1577 924,1577" />
+                <Baseline points="913,1583 97,1585" />
+                <TextEquiv>
+                    <Unicode>علمیت بر آن صادق است که دلالت میکند جز لفظش بر جز معنی موضوع له</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>قوله و للمرکب قسم واحد یعنی بحسب قسمت ثانیه آن نیز چهار قسم است
+چنانکه قسمت کرده است بدانکه لفظ مفرد را بر سه معنی دیگر اطلاق میکنند
+چنانکه گاه میگویند اینلفظ مفرد است یعنی تثنیه و جمع نیست و گاه میگویند مفرد است
+یعنی مضاف و شبیه مضاف نیست و گاه میگویند مفرد است یعنی جمله نیست
+اما معنی مشهور نزد منطقیین است که تعریف کرده است قوله گوید
+و عبدالله علما قید علم اشاره شده است بانکه جز لفظ عبدالله دلاله بر جز معنی علمی
+نمیکند اما بر جز معنی غیر علمی مرکب است قوله کالحیوان الناطق علما
+در اینجا قید علم اشاره است باینکه از جز حیوان ناطق دلاله قصد نکردن
+باعتبار معنی علمی است نه باعتبار معنی غیر علمی دیگر بدانکه غرض جمعی که اعتبار
+کرده اند قصد و اراده را در تعریف مثل و صاحب مطالع این است
+که بیرون نرود مثل حیوان ناطق در حالت علمیت از مفرد زیرا که در حالت
+علمیت بر آن صادق است که دلالت میکند جز لفظش بر جز معنی موضوع له</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

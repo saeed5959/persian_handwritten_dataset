@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-23T16:17:53.904+04:30</Created>
+        <LastChange>2026-06-23T16:43:09.098+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0139_NLAI-5-15801-0139.jpg" imageWidth="1117" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782216789099" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782215395299_1116" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782215395299_1116" custom="readingOrder {index:0;}">
+            <Coords points="117,1636 1018,1636 1018,165 117,165" />
+            <TextLine id="line_1782215424689_1120" custom="readingOrder {index:0;}">
+                <Coords points="179,171 996,171 996,290 179,290" /><Baseline points="179,245 996,245" />
+                <Baseline points="983,245 185,235" />
+                <TextEquiv>
+                    <Unicode>شجرا و این سلب شییی است از نفس وله بالفعل عند الشیخ اه بدانکه مشهور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782215646973_1126" custom="readingOrder {index:1;}">
+                <Coords points="174,285 994,285 994,415 174,415" /><Baseline points="174,366 994,366" />
+                <Baseline points="987,378 189,346" />
+                <TextEquiv>
+                    <Unicode>در مذهب شیخ آن است که صدق وصف موضوع را بر ذات موضوع بالفعل اعتبار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782215750373_1137" custom="readingOrder {index:2;}">
+                <Coords points="165,415 1014,415 1014,527 165,527" /><Baseline points="165,484 1014,484" />
+                <Baseline points="982,510 188,463" />
+                <TextEquiv>
+                    <Unicode>کرده است در نفس الامر باین معنی که کل انسان حیوان بطریقه شیخ این معنی دارد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782215799422_1143" custom="readingOrder {index:3;}">
+                <Coords points="164,538 1006,538 1006,661 164,661" /><Baseline points="164,614 1006,614" />
+                <Baseline points="970,631 173,593" />
+                <TextEquiv>
+                    <Unicode>که هر چه در نفس الامر انسان بالفعل بر آن صادق است حیوان است لهذا حکم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782216133304_1149" custom="readingOrder {index:4;}">
+                <Coords points="163,664 1001,664 1001,782 163,782" /><Baseline points="163,737 1001,737" />
+                <Baseline points="974,745 171,712" />
+                <TextEquiv>
+                    <Unicode>کرده اند که بنابر مذهب شیخ ممکنتین عکس ندارد و صغری شکل اول نیز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782216250727_1155" custom="readingOrder {index:5;}">
+                <Coords points="157,790 977,790 977,904 157,904" /><Baseline points="157,861 977,861" />
+                <Baseline points="968,869 170,837" />
+                <TextEquiv>
+                    <Unicode>میتواند شد بلکه غیر ممکنه باید که حکم در آن بفعلیت نسبت محمول شده باشد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782216321868_1161" custom="readingOrder {index:6;}">
+                <Coords points="151,913 982,913 982,1034 151,1034" /><Baseline points="151,988 982,988" />
+                <Baseline points="962,996 175,964" />
+                <TextEquiv>
+                    <Unicode>تا حکم در موضوع کبری سرایت بموضوع صغری کند زیرا که حکم بر افراد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782216417516_1167" custom="readingOrder {index:7;}">
+                <Coords points="139,1033 972,1033 972,1151 139,1151" /><Baseline points="139,1106 972,1106" />
+                <Baseline points="958,1118 158,1087" />
+                <TextEquiv>
+                    <Unicode>بالفعل است اما آنچه از کلام شیخ در شفا فهمیده میشود آن است که مراد از بالفعل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782216500923_1179" custom="readingOrder {index:8;}">
+                <Coords points="143,1153 965,1153 965,1271 143,1271" /><Baseline points="143,1226 965,1226" />
+                <Baseline points="957,1240 161,1209" />
+                <TextEquiv>
+                    <Unicode>بالفعل نفس الامری نیست بلکه مراد آن است که عقل آنرا بالفعل فرض</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782216570871_1186" custom="readingOrder {index:9;}">
+                <Coords points="148,1278 981,1278 981,1398 148,1398" /><Baseline points="148,1352 981,1352" />
+                <Baseline points="956,1364 153,1335" />
+                <TextEquiv>
+                    <Unicode>کند اینجزر مثلا کل انسان حیوان بنابرین این معنی دارد که هر چه ممکن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782216673219_1192" custom="readingOrder {index:10;}">
+                <Coords points="144,1401 971,1401 971,1508 144,1508" /><Baseline points="144,1467 971,1467" />
+                <Baseline points="958,1488 150,1442" />
+                <TextEquiv>
+                    <Unicode>است صدق انسان بر آن در نفس الامر و عقلی فرض کند اینجزر را بالفعل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782216760748_1198" custom="readingOrder {index:11;}">
+                <Coords points="138,1511 959,1511 959,1631 138,1631" /><Baseline points="138,1585 959,1585" />
+                <Baseline points="950,1611 150,1562" />
+                <TextEquiv>
+                    <Unicode>انسان حیوان است پس فرقی نیست میان مذهب شیخ و مذهب فارابی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شجرا و این سلب شییی است از نفس وله بالفعل عند الشیخ اه بدانکه مشهور
+در مذهب شیخ آن است که صدق وصف موضوع را بر ذات موضوع بالفعل اعتبار
+کرده است در نفس الامر باین معنی که کل انسان حیوان بطریقه شیخ این معنی دارد
+که هر چه در نفس الامر انسان بالفعل بر آن صادق است حیوان است لهذا حکم
+کرده اند که بنابر مذهب شیخ ممکنتین عکس ندارد و صغری شکل اول نیز
+میتواند شد بلکه غیر ممکنه باید که حکم در آن بفعلیت نسبت محمول شده باشد
+تا حکم در موضوع کبری سرایت بموضوع صغری کند زیرا که حکم بر افراد
+بالفعل است اما آنچه از کلام شیخ در شفا فهمیده میشود آن است که مراد از بالفعل
+بالفعل نفس الامری نیست بلکه مراد آن است که عقل آنرا بالفعل فرض
+کند اینجزر مثلا کل انسان حیوان بنابرین این معنی دارد که هر چه ممکن
+است صدق انسان بر آن در نفس الامر و عقلی فرض کند اینجزر را بالفعل
+انسان حیوان است پس فرقی نیست میان مذهب شیخ و مذهب فارابی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

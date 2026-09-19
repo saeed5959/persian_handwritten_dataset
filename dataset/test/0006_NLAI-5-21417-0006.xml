@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-16T21:33:14.446+03:30</Created>
+        <LastChange>2013-01-01T00:25:07.105+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0006_NLAI-5-21417-0006.jpg" imageWidth="1365" imageHeight="1876">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1356987307151" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1356986161875_560" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1356986161875_560" custom="readingOrder {index:0;}">
+            <Coords points="195,455 912,455 912,1660 195,1660" />
+            <TextLine id="line_1356986171922_563" custom="readingOrder {index:0;}">
+                <Coords points="187,447 916,447 916,524 187,524" /><Baseline points="187,495 916,495" />
+                <Baseline points="199,480 895,496" />
+                <TextEquiv>
+                    <Unicode>الحمد الله رب العالمین و صلوت و السلام علی خیر حلقه محمد و اله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356986268299_569" custom="readingOrder {index:1;}">
+                <Coords points="195,533 924,533 924,642 195,642" /><Baseline points="195,601 924,601" />
+                <Baseline points="203,569 903,585" />
+                <TextEquiv>
+                    <Unicode>اما بعد چنین گوید افقرا ال عباد نظا الدین بن ملا احمد اردبیلی که این</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356986360277_575" custom="readingOrder {index:2;}">
+                <Coords points="199,655 920,655 920,748 199,748" /><Baseline points="199,713 920,713" />
+                <Baseline points="228,699 908,703" />
+                <TextEquiv>
+                    <Unicode>کلمات چند لیست که نوشته میشود و توضیحابیات که در</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356986469383_581" custom="readingOrder {index:3;}">
+                <Coords points="212,756 908,756 908,854 212,854" /><Baseline points="212,817 908,817" />
+                <Baseline points="216,797 895,797" />
+                <TextEquiv>
+                    <Unicode>سیوطی است اعم از آنکه صاحب فواید در شواهد خود ذکر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356986581984_587" custom="readingOrder {index:4;}">
+                <Coords points="203,874 912,874 912,992 203,992" /><Baseline points="203,947 912,947" />
+                <Baseline points="212,927 903,931" />
+                <TextEquiv>
+                    <Unicode>کرده باشد این اپماترایامه کرده باشد تا نسبت جال متعلین نفع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356986691996_593" custom="readingOrder {index:5;}">
+                <Coords points="203,992 903,992 903,1094 203,1094" /><Baseline points="203,1055 903,1055" />
+                <Baseline points="212,1017 895,1029" />
+                <TextEquiv>
+                    <Unicode>بخشد و نیت اول که تحریر میباید از جمله اشعاری ست که در شوا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356986819136_602" custom="readingOrder {index:6;}">
+                <Coords points="216,1111 916,1111 916,1208 216,1208" /><Baseline points="216,1171 916,1171" />
+                <Baseline points="228,1143 899,1176" />
+                <TextEquiv>
+                    <Unicode>هد نیست مثلا لام علی لو و ان کنت عالما باذ ناب لو لم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356986922252_609" custom="readingOrder {index:7;}">
+                <Coords points="207,1229 903,1229 903,1338 207,1338" /><Baseline points="207,1297 903,1297" />
+                <Baseline points="216,1273 875,1286" />
+                <TextEquiv>
+                    <Unicode>تفیتی اوا یله یعنی ملامت کرده میشود برا رزو و اگر میبودم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356987042715_617" custom="readingOrder {index:8;}">
+                <Coords points="207,1347 903,1347 903,1416 207,1416" /><Baseline points="207,1390 903,1390" />
+                <Baseline points="199,1379 891,1375" />
+                <TextEquiv>
+                    <Unicode>عارف بعواقب ار زو و فوت نمیکرد ابتدایی او و یعنی از ابتدا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356987164614_624" custom="readingOrder {index:9;}">
+                <Coords points="207,1436 891,1436 891,1550 207,1550" /><Baseline points="207,1507 891,1507" />
+                <Baseline points="195,1469 879,1489" />
+                <TextEquiv>
+                    <Unicode>مرتکب این فعل نمیشد و شاهد در لفظ لو است که هرچند در</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1356987228668_630" custom="readingOrder {index:10;}">
+                <Coords points="212,1562 899,1562 899,1672 212,1672" /><Baseline points="212,1630 899,1630" />
+                <Baseline points="220,1600 890,1609" />
+                <TextEquiv>
+                    <Unicode>ظاعر شکل حرف است اما در معنی اسم است با عتبار دخول حرف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>الحمد الله رب العالمین و صلوت و السلام علی خیر حلقه محمد و اله
+اما بعد چنین گوید افقرا ال عباد نظا الدین بن ملا احمد اردبیلی که این
+کلمات چند لیست که نوشته میشود و توضیحابیات که در
+سیوطی است اعم از آنکه صاحب فواید در شواهد خود ذکر
+کرده باشد این اپماترایامه کرده باشد تا نسبت جال متعلین نفع
+بخشد و نیت اول که تحریر میباید از جمله اشعاری ست که در شوا
+هد نیست مثلا لام علی لو و ان کنت عالما باذ ناب لو لم
+تفیتی اوا یله یعنی ملامت کرده میشود برا رزو و اگر میبودم
+عارف بعواقب ار زو و فوت نمیکرد ابتدایی او و یعنی از ابتدا
+مرتکب این فعل نمیشد و شاهد در لفظ لو است که هرچند در
+ظاعر شکل حرف است اما در معنی اسم است با عتبار دخول حرف</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

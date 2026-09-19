@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-21T15:08:42.494+03:30</Created>
+        <LastChange>2026-06-21T17:59:26.937+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0009_NLAI-5-11187-0008.jpg" imageWidth="794" imageHeight="1464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782052167015" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782045849434_291" />
+                <RegionRefIndexed index="1" regionRef="region_1782045979288_302" />
+                <RegionRefIndexed index="2" regionRef="region_1782046090704_313" />
+                <RegionRefIndexed index="3" regionRef="region_1782046208588_324" />
+                <RegionRefIndexed index="4" regionRef="region_1782046327723_335" />
+                <RegionRefIndexed index="5" regionRef="region_1782046420496_346" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782045849434_291" custom="readingOrder {index:0;}">
+            <Coords points="178,365 446,365 446,512 178,512" />
+            <TextLine id="line_1782045855185_294" custom="readingOrder {index:0;}">
+                <Coords points="178,365 446,365 446,433 178,433" /><Baseline points="178,407 446,407" />
+                <TextEquiv>
+                    <Unicode>ایمان المریعرف بالیمانه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782045933375_298" custom="readingOrder {index:1;}">
+                <Coords points="176,432 441,432 443,510 177,511" /><Baseline points="176,481 443,481" />
+                <TextEquiv>
+                    <Unicode>ایمان مرد شناخته میشود بقسمهای او</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ایمان المریعرف بالیمانه
+ایمان مرد شناخته میشود بقسمهای او</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782045979288_302" custom="readingOrder {index:1;}">
+            <Coords points="70,513 542,513 542,687 70,687" />
+            <TextLine id="line_1782045984881_305" custom="readingOrder {index:0;}">
+                <Coords points="65,516 544,517 544,611 65,610" /><Baseline points="65,575 544,575" />
+                <TextEquiv>
+                    <Unicode>آنکه ایمانش نبودت معلوم بهربرهان بس است عرفانرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046043339_309" custom="readingOrder {index:1;}">
+                <Coords points="67,608 544,609 544,687 67,686" /><Baseline points="67,657 544,657" />
+                <TextEquiv>
+                    <Unicode>از قسمهای او بگاه سخن محک امتحان ایمان را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>آنکه ایمانش نبودت معلوم بهربرهان بس است عرفانرا
+از قسمهای او بگاه سخن محک امتحان ایمان را</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782046090704_313" custom="readingOrder {index:2;}">
+            <Coords points="172,686 441,686 441,840 172,840" />
+            <TextLine id="line_1782046095735_316" custom="readingOrder {index:0;}">
+                <Coords points="176,687 444,687 440,759 172,759" /><Baseline points="172,732 444,732" />
+                <TextEquiv>
+                    <Unicode>اخوان الزمان جواسیس العیوب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046159175_320" custom="readingOrder {index:1;}">
+                <Coords points="172,758 442,758 442,842 172,842" /><Baseline points="172,810 442,810" />
+                <TextEquiv>
+                    <Unicode>برادران این زمان جاسوسان عیبها باشند</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اخوان الزمان جواسیس العیوب
+برادران این زمان جاسوسان عیبها باشند</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782046208588_324" custom="readingOrder {index:3;}">
+            <Coords points="63,840 538,840 535,1006 60,1006" />
+            <TextLine id="line_1782046215527_327" custom="readingOrder {index:0;}">
+                <Coords points="63,840 539,840 539,921 63,921" /><Baseline points="63,890 539,890" />
+                <TextEquiv>
+                    <Unicode>ایکه هست از برادران زمان تکیه است بر مودت آنها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046269623_331" custom="readingOrder {index:1;}">
+                <Coords points="68,922 537,922 536,1012 67,1012" /><Baseline points="67,978 537,978" />
+                <TextEquiv>
+                    <Unicode>آنچنان دان که جمله جاسوسند بهر نشر عیوب تو همه جا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ایکه هست از برادران زمان تکیه است بر مودت آنها
+آنچنان دان که جمله جاسوسند بهر نشر عیوب تو همه جا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782046327723_335" custom="readingOrder {index:4;}">
+            <Coords points="167,1012 433,1012 433,1166 167,1166" />
+            <TextLine id="line_1782046335363_338" custom="readingOrder {index:0;}">
+                <Coords points="169,1013 435,1013 435,1086 169,1086" /><Baseline points="169,1058 435,1058" />
+                <TextEquiv>
+                    <Unicode>اخوک من واساک فی الشده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046371916_342" custom="readingOrder {index:1;}">
+                <Coords points="169,1085 433,1085 431,1164 167,1164" /><Baseline points="167,1134 433,1134" />
+                <TextEquiv>
+                    <Unicode>برادر تو آن کسی است که مواسات کند ترادر سختی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اخوک من واساک فی الشده
+برادر تو آن کسی است که مواسات کند ترادر سختی</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1782046420496_346" custom="readingOrder {index:5;}">
+            <Coords points="62,1165 537,1165 534,1303 59,1303" />
+            <TextLine id="line_1782046427231_349" custom="readingOrder {index:0;}">
+                <Coords points="62,1166 539,1168 539,1246 64,1244" /><Baseline points="62,1216 539,1216" />
+                <TextEquiv>
+                    <Unicode>برادر نباشد که بود دوستدارت براحت وسرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782046536194_363" custom="readingOrder {index:1;}">
+                <Coords points="63,1243 540,1243 538,1305 61,1305" /><Baseline points="61,1281 540,1281" />
+                <TextEquiv>
+                    <Unicode>آن برادر بود که یا وریت کند اندر مشقت و ضرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>برادر نباشد که بود دوستدارت براحت وسرا
+آن برادر بود که یا وریت کند اندر مشقت و ضرا</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

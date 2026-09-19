@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:21.800+04:30</Created>
+        <LastChange>2026-06-21T18:56:53.544+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="16" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0195_NLAI-5-19596-0195.jpg" imageWidth="1559" imageHeight="2753">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782052013544" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782051343438_1387" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782051343438_1387" custom="readingOrder {index:0;}">
+            <Coords points="1531,409 473,409 473,2524 1531,2524" />
+            <TextLine id="line_1782051353934_1390" custom="readingOrder {index:0;}">
+                <Coords points="1490,554 552,554 552,406 1490,406" /><Baseline points="552,498 1490,498" />
+                <Baseline points="573,506 1482,544" />
+                <TextEquiv>
+                    <Unicode>از آرزوست گشته گرانبار غم دلم آوخ که آرزوی من ارزان نمیرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051357582_1393" custom="readingOrder {index:1;}">
+                <Coords points="1481,704 562,704 562,550 1481,550" /><Baseline points="562,645 1481,645" />
+                <Baseline points="573,630 1470,677" />
+                <TextEquiv>
+                    <Unicode>پی پاره ای نمیکنم از هیچ استخوان تا صد هزار زخم به دندان نمیرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051362648_1396" custom="readingOrder {index:2;}">
+                <Coords points="1488,830 541,830 541,676 1488,676" /><Baseline points="541,771 1488,771" />
+                <Baseline points="552,782 1473,807" />
+                <TextEquiv>
+                    <Unicode>تا صد هزار هار نمیزوید از زمین از کلبنی که بگلستان نمیرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051367448_1399" custom="readingOrder {index:3;}">
+                <Coords points="1480,993 526,993 526,800 1480,800" /><Baseline points="526,920 1480,920" />
+                <Baseline points="548,924 1467,955" />
+                <TextEquiv>
+                    <Unicode>از دست برد جور زمان اهل فضل را این غصه بس که دست بدامان نمیرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051370910_1402" custom="readingOrder {index:4;}">
+                <Coords points="1261,1128 783,1128 783,975 1261,975" /><Baseline points="783,1070 1261,1070" />
+                <Baseline points="828,1074 1232,1087" />
+                <TextEquiv>
+                    <Unicode>حافظ صبور باش که در راه عاشقی</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051373260_1405" custom="readingOrder {index:5;}">
+                <Coords points="1221,1258 799,1258 799,1100 1221,1100" /><Baseline points="799,1198 1221,1198" />
+                <Baseline points="816,1211 1201,1221" />
+                <TextEquiv>
+                    <Unicode>هرکس که جان نداد به جانان نمیرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051377873_1408" custom="readingOrder {index:6;}">
+                <Coords points="1472,1429 515,1429 515,1229 1472,1229" /><Baseline points="515,1353 1472,1353" />
+                <Baseline points="526,1343 1429,1381" />
+                <TextEquiv>
+                    <Unicode>به حسن و خلق و وفا کس به یار ما نرسد تو را در این سخن انکار کار ما نرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051381123_1411" custom="readingOrder {index:7;}">
+                <Coords points="1472,1561 498,1561 498,1386 1472,1386" /><Baseline points="498,1494 1472,1494" />
+                <Baseline points="551,1487 1429,1514" />
+                <TextEquiv>
+                    <Unicode>اگر چه حسن فروشان به جلوه آمده اند کسی به حسن و ملاحت به یار ما نرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051384334_1414" custom="readingOrder {index:8;}">
+                <Coords points="1449,1722 512,1722 512,1535 1449,1535" /><Baseline points="512,1651 1449,1651" />
+                <Baseline points="519,1632 1430,1668" />
+                <TextEquiv>
+                    <Unicode>بحق صحبت دیرین که هیچ مرحم راز به یار یک جهت حق گزار ما نرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051389113_1417" custom="readingOrder {index:9;}">
+                <Coords points="1442,1830 516,1830 516,1658 1442,1658" /><Baseline points="516,1765 1442,1765" />
+                <Baseline points="519,1757 1409,1807" />
+                <TextEquiv>
+                    <Unicode>دریغ قافله عمر آنچنان رفتند که گردشان بهوای دیار ما نرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051392828_1420" custom="readingOrder {index:10;}">
+                <Coords points="1440,1998 498,1998 498,1803 1440,1803" /><Baseline points="498,1924 1440,1924" />
+                <Baseline points="512,1918 1431,1936" />
+                <TextEquiv>
+                    <Unicode>چنان بزی که اگر خاک ره شوی کس را غبار خاطری از رهگذار ما نرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051397585_1423" custom="readingOrder {index:11;}">
+                <Coords points="1442,2132 487,2132 487,1939 1442,1939" /><Baseline points="487,2059 1442,2059" />
+                <Baseline points="505,2057 1428,2089" />
+                <TextEquiv>
+                    <Unicode>هزار نقش برآید ز کلک صنع و یکی به دل پذیری نقش نگار ما نرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051403010_1426" custom="readingOrder {index:12;}">
+                <Coords points="1440,2258 503,2258 503,2092 1440,2092" /><Baseline points="503,2195 1440,2195" />
+                <Baseline points="515,2195 1415,2223" />
+                <TextEquiv>
+                    <Unicode>هزار نقد به بازار کاینات آرند یکی بخ سکه صاحب عیار ما نرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051406352_1429" custom="readingOrder {index:13;}">
+                <Coords points="1429,2410 463,2410 463,2208 1429,2208" /><Baseline points="463,2333 1429,2333" />
+                <Baseline points="498,2325 1417,2367" />
+                <TextEquiv>
+                    <Unicode>دلا ز طعن خسودان مرنج و و فارغ باش که بد به خاطر امیدوار ما نرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782051411309_1432" custom="readingOrder {index:14;}">
+                <Coords points="1445,2563 468,2563 468,2381 1445,2381" /><Baseline points="468,2494 1445,2494" />
+                <Baseline points="497,2450 1400,2504" />
+                <TextEquiv>
+                    <Unicode>بسوخت حافظ و ترسم که شرح قصه او به سمغ پادشه کام گار ما نرسد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>از آرزوست گشته گرانبار غم دلم آوخ که آرزوی من ارزان نمیرسد
+پی پاره ای نمیکنم از هیچ استخوان تا صد هزار زخم به دندان نمیرسد
+تا صد هزار هار نمیزوید از زمین از کلبنی که بگلستان نمیرسد
+از دست برد جور زمان اهل فضل را این غصه بس که دست بدامان نمیرسد
+حافظ صبور باش که در راه عاشقی
+هرکس که جان نداد به جانان نمیرسد
+به حسن و خلق و وفا کس به یار ما نرسد تو را در این سخن انکار کار ما نرسد
+اگر چه حسن فروشان به جلوه آمده اند کسی به حسن و ملاحت به یار ما نرسد
+بحق صحبت دیرین که هیچ مرحم راز به یار یک جهت حق گزار ما نرسد
+دریغ قافله عمر آنچنان رفتند که گردشان بهوای دیار ما نرسد
+چنان بزی که اگر خاک ره شوی کس را غبار خاطری از رهگذار ما نرسد
+هزار نقش برآید ز کلک صنع و یکی به دل پذیری نقش نگار ما نرسد
+هزار نقد به بازار کاینات آرند یکی بخ سکه صاحب عیار ما نرسد
+دلا ز طعن خسودان مرنج و و فارغ باش که بد به خاطر امیدوار ما نرسد
+بسوخت حافظ و ترسم که شرح قصه او به سمغ پادشه کام گار ما نرسد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

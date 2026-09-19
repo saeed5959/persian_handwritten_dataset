@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-19T19:31:22.010+04:30</Created>
+        <LastChange>2026-06-21T21:17:44.764+04:30</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="19" status="IN_PROGRESS" />
+    </Metadata>
+    <Page imageFilename="0198_NLAI-5-19596-0198.jpg" imageWidth="1506" imageHeight="2826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782060464766" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782058864762_1732" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782058864762_1732" custom="readingOrder {index:0;}">
+            <Coords points="84,2626 1104,2626 1104,465 84,465" />
+            <TextLine id="line_1782058875572_1735" custom="readingOrder {index:0;}">
+                <Coords points="1107,580 132,580 132,458 1107,458" /><Baseline points="132,534 1107,534" />
+                <Baseline points="154,548 1090,558" />
+                <TextEquiv>
+                    <Unicode>شور لاله چنان بر فروخت باد بهار که غنچه غرق عرق گشت و گل بجوش آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058880128_1738" custom="readingOrder {index:1;}">
+                <Coords points="1109,711 133,711 133,594 1109,594" /><Baseline points="133,667 1109,667" />
+                <Baseline points="154,678 1085,682" />
+                <TextEquiv>
+                    <Unicode>ز فکر تفرقه بازآی تا شوی مجموع بحکم آن که چو شد اهرمن سروش آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058883311_1741" custom="readingOrder {index:2;}">
+                <Coords points="1107,871 127,871 127,704 1107,704" /><Baseline points="127,808 1107,808" />
+                <Baseline points="153,813 1102,850" />
+                <TextEquiv>
+                    <Unicode>ز مرغ صبح ندانم که سوسن آزاد چه گوش کرد که با ده زبان خموش آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058886330_1744" custom="readingOrder {index:3;}">
+                <Coords points="1108,1022 121,1022 121,862 1108,862" /><Baseline points="121,961 1108,961" />
+                <Baseline points="139,966 1083,976" />
+                <TextEquiv>
+                    <Unicode>بگوش هوش نیوش از من و به عشرت کوش که این سخن سحر از هاتفم به گوش آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058891201_1747" custom="readingOrder {index:4;}">
+                <Coords points="1103,1171 115,1171 115,995 1103,995" /><Baseline points="115,1104 1103,1104" />
+                <Baseline points="147,1108 1086,1138" />
+                <TextEquiv>
+                    <Unicode>چه جای صحبت نامحرم است مجلس انس سر پیاله بپوشان که خرقه پوش آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058894792_1750" custom="readingOrder {index:5;}">
+                <Coords points="1103,1321 132,1321 132,1158 1103,1158" /><Baseline points="132,1259 1103,1259" />
+                <Baseline points="151,1257 1074,1272" />
+                <TextEquiv>
+                    <Unicode>بگویمت سخن خوش بیاد ماده بنوش که راهداز بر ما رفت دمی فروش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058899381_1753" custom="readingOrder {index:6;}">
+                <Coords points="866,1453 445,1453 445,1331 866,1331" /><Baseline points="445,1407 866,1407" />
+                <Baseline points="464,1413 847,1415" />
+                <TextEquiv>
+                    <Unicode>ز خانقاه به میخانه میرود حافظ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058902409_1756" custom="readingOrder {index:7;}">
+                <Coords points="843,1604 445,1604 445,1451 843,1451" /><Baseline points="445,1546 843,1546" />
+                <Baseline points="456,1562 817,1567" />
+                <TextEquiv>
+                    <Unicode>مگر ز مستی زهد ریا به هوش آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058908467_1759" custom="readingOrder {index:8;}">
+                <Coords points="1093,1736 91,1736 91,1573 1093,1573" /><Baseline points="91,1674 1093,1674" />
+                <Baseline points="131,1692 1082,1712" />
+                <TextEquiv>
+                    <Unicode>مژده ایدل که دگر باد صبا بازآمد هدهد خوش خبر از طرف سبا بازآمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058912747_1762" custom="readingOrder {index:9;}">
+                <Coords points="1100,1902 114,1902 114,1736 1100,1736" /><Baseline points="114,1839 1100,1839" />
+                <Baseline points="132,1832 1080,1857" />
+                <TextEquiv>
+                    <Unicode>برکش ایمرغ سحر نغمه داوودی باز که سلیمان گل از باد هوا بازآمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058916372_1765" custom="readingOrder {index:10;}">
+                <Coords points="1087,2043 112,2043 112,1898 1087,1898" /><Baseline points="112,1988 1087,1988" />
+                <Baseline points="135,1995 1082,1998" />
+                <TextEquiv>
+                    <Unicode>لاله بوی می نوشین بشنید از دم صبح داغ دل بود بامید دوا بازآمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058922178_1768" custom="readingOrder {index:11;}">
+                <Coords points="1087,2175 117,2175 117,2043 1087,2043" /><Baseline points="117,2125 1087,2125" />
+                <Baseline points="134,2130 1073,2152" />
+                <TextEquiv>
+                    <Unicode>عارفی کو که کند فهم زبان سوسن تا بپرسد که چرا رفت و چرا بازآمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058926648_1771" custom="readingOrder {index:12;}">
+                <Coords points="1083,2327 96,2327 96,2168 1083,2168" /><Baseline points="96,2267 1083,2267" />
+                <Baseline points="127,2259 1065,2301" />
+                <TextEquiv>
+                    <Unicode>مردمی کرد و کرم لطف خداداد به من کان بت ماه رخ از راه وفا بازآمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058930318_1774" custom="readingOrder {index:13;}">
+                <Coords points="1091,2490 111,2490 111,2321 1091,2321" /><Baseline points="111,2426 1091,2426" />
+                <Baseline points="127,2411 1076,2445" />
+                <TextEquiv>
+                    <Unicode>چشم من در ره این قافله راه بماند تا به گوش دلم آواز درا بازآمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782058940697_1777" custom="readingOrder {index:14;}">
+                <Coords points="1100,2621 98,2621 98,2451 1100,2451" /><Baseline points="98,2556 1100,2556" />
+                <Baseline points="104,2555 1072,2575" />
+                <TextEquiv>
+                    <Unicode>گر چه ما عهد شکستیم وکز حافظ کو لطف او که بصلح از در ما باز آمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شور لاله چنان بر فروخت باد بهار که غنچه غرق عرق گشت و گل بجوش آمد
+ز فکر تفرقه بازآی تا شوی مجموع بحکم آن که چو شد اهرمن سروش آمد
+ز مرغ صبح ندانم که سوسن آزاد چه گوش کرد که با ده زبان خموش آمد
+بگوش هوش نیوش از من و به عشرت کوش که این سخن سحر از هاتفم به گوش آمد
+چه جای صحبت نامحرم است مجلس انس سر پیاله بپوشان که خرقه پوش آمد
+بگویمت سخن خوش بیاد ماده بنوش که راهداز بر ما رفت دمی فروش
+ز خانقاه به میخانه میرود حافظ
+مگر ز مستی زهد ریا به هوش آمد
+مژده ایدل که دگر باد صبا بازآمد هدهد خوش خبر از طرف سبا بازآمد
+برکش ایمرغ سحر نغمه داوودی باز که سلیمان گل از باد هوا بازآمد
+لاله بوی می نوشین بشنید از دم صبح داغ دل بود بامید دوا بازآمد
+عارفی کو که کند فهم زبان سوسن تا بپرسد که چرا رفت و چرا بازآمد
+مردمی کرد و کرم لطف خداداد به من کان بت ماه رخ از راه وفا بازآمد
+چشم من در ره این قافله راه بماند تا به گوش دلم آواز درا بازآمد
+گر چه ما عهد شکستیم وکز حافظ کو لطف او که بصلح از در ما باز آمد</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

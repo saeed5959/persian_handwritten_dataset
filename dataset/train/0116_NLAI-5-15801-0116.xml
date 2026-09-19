@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-24T19:47:16.035+03:30</Created>
+        <LastChange>2026-06-26T15:46:52.401+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0116_NLAI-5-15801-0116.jpg" imageWidth="1091" imageHeight="1793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1782476212413" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1782329979994_477" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1782329979994_477" custom="readingOrder {index:0;}">
+            <Coords points="77,162 998,162 998,1672 77,1672" />
+            <TextLine id="line_1782329985237_480" custom="readingOrder {index:0;}">
+                <Coords points="112,195 956,195 956,308 112,308" /><Baseline points="112,265 956,265" />
+                <Baseline points="121,260 934,267" />
+                <TextEquiv>
+                    <Unicode>که تنفس در وقت قبل ازان وقت یا بعد ازان وقت ضروری باشد نه در هر وقت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329987300_483" custom="readingOrder {index:1;}">
+                <Coords points="132,332 934,332 934,428 132,428" /><Baseline points="132,392 934,392" />
+                <Baseline points="164,380 921,380" />
+                <TextEquiv>
+                    <Unicode>که ماتعیین کرده ایم و در قضایای مرکبه ممکنه خاصه اعم است مطلقا ازان شش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329993566_491" custom="readingOrder {index:2;}">
+                <Coords points="116,439 950,439 950,553 116,553" /><Baseline points="116,510 950,510" />
+                <Baseline points="138,502 934,516" />
+                <TextEquiv>
+                    <Unicode>قضیه دیگر و بعد ازان وجودیه لاضروریه و بعد ازان وجودیه لا دایمه و میانه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329995833_494" custom="readingOrder {index:3;}">
+                <Coords points="108,559 967,559 967,679 108,679" /><Baseline points="108,633 967,633" />
+                <Baseline points="114,629 928,633" />
+                <TextEquiv>
+                    <Unicode>وقتتین و خاصتین عموم من وجه است ماده اجتماع کل منحسف مظلم بالدوام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329997950_497" custom="readingOrder {index:4;}">
+                <Coords points="73,677 971,677 971,790 73,790" /><Baseline points="73,747 971,747" />
+                <Baseline points="164,745 937,760" />
+                <TextEquiv>
+                    <Unicode>یا بالضروره مادام منحسقا لا دایما بواسطه انکه درین ماده محمول در وقت وصف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782329999817_500" custom="readingOrder {index:5;}">
+                <Coords points="97,808 945,808 945,910 97,910" /><Baseline points="97,871 945,871" />
+                <Baseline points="123,856 930,860" />
+                <TextEquiv>
+                    <Unicode>ضروری است زیرا که انحساف در وقت حیلوله ضروری است پس صادق است کل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330002022_503" custom="readingOrder {index:6;}">
+                <Coords points="110,917 954,917 954,1039 110,1039" /><Baseline points="110,993 954,993" />
+                <Baseline points="125,993 930,991" />
+                <TextEquiv>
+                    <Unicode>منحسف مظلم بالضروره وقت الانحساف یا وقتا ما و مادهافتراق ظاهر است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330004074_506" custom="readingOrder {index:7;}">
+                <Coords points="110,1050 958,1050 958,1172 110,1172" /><Baseline points="110,1126 958,1126" />
+                <Baseline points="123,1118 943,1111" />
+                <TextEquiv>
+                    <Unicode>و منتشره اعمست از وقتیه و قضیه ضروریه مطلقه مباین است با هر هفت قضیه مرکبه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330006070_509" custom="readingOrder {index:8;}">
+                <Coords points="108,1166 974,1166 974,1303 108,1303" /><Baseline points="108,1251 974,1251" />
+                <Baseline points="134,1244 945,1235" />
+                <TextEquiv>
+                    <Unicode>و نسبت دایمه با ممکنه خاصه و وجود یه لاضروریه عموم من وجه است و مباین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330008451_512" custom="readingOrder {index:9;}">
+                <Coords points="106,1296 965,1296 965,1421 106,1421" /><Baseline points="106,1374 965,1374" />
+                <Baseline points="114,1366 941,1364" />
+                <TextEquiv>
+                    <Unicode>است با ان پنج قضیه دیگر و بدانستن همینقدر میتوان بیرون آورد نسبت میانه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330010456_515" custom="readingOrder {index:10;}">
+                <Coords points="103,1408 950,1408 950,1545 103,1545" /><Baseline points="103,1493 950,1493" />
+                <Baseline points="125,1493 924,1486" />
+                <TextEquiv>
+                    <Unicode>مفردات دیگر با مرکبات حوله سته عشر ثلاثه منها غیر صحیحه اه ازین</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782330012746_518" custom="readingOrder {index:11;}">
+                <Coords points="99,1528 952,1528 952,1663 99,1663" /><Baseline points="99,1612 952,1612" />
+                <Baseline points="127,1593 941,1600" />
+                <TextEquiv>
+                    <Unicode>جدول اسان میشود ضرب این چهار قید با آن هشت قضیه تامل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>که تنفس در وقت قبل ازان وقت یا بعد ازان وقت ضروری باشد نه در هر وقت
+که ماتعیین کرده ایم و در قضایای مرکبه ممکنه خاصه اعم است مطلقا ازان شش
+قضیه دیگر و بعد ازان وجودیه لاضروریه و بعد ازان وجودیه لا دایمه و میانه
+وقتتین و خاصتین عموم من وجه است ماده اجتماع کل منحسف مظلم بالدوام
+یا بالضروره مادام منحسقا لا دایما بواسطه انکه درین ماده محمول در وقت وصف
+ضروری است زیرا که انحساف در وقت حیلوله ضروری است پس صادق است کل
+منحسف مظلم بالضروره وقت الانحساف یا وقتا ما و مادهافتراق ظاهر است
+و منتشره اعمست از وقتیه و قضیه ضروریه مطلقه مباین است با هر هفت قضیه مرکبه
+و نسبت دایمه با ممکنه خاصه و وجود یه لاضروریه عموم من وجه است و مباین
+است با ان پنج قضیه دیگر و بدانستن همینقدر میتوان بیرون آورد نسبت میانه
+مفردات دیگر با مرکبات حوله سته عشر ثلاثه منها غیر صحیحه اه ازین
+جدول اسان میشود ضرب این چهار قید با آن هشت قضیه تامل</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

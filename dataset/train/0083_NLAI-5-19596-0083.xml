@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2026-06-17T21:56:29.634+03:30</Created>
+        <LastChange>2026-06-19T20:09:24.932+03:30</LastChange>
+    </Metadata>
+    <Page imageFilename="0083_NLAI-5-19596-0083.jpg" imageWidth="1534" imageHeight="2841">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781887165152" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1781886173211_373" />
+                <RegionRefIndexed index="1" regionRef="region_1781886258243_391" />
+                <RegionRefIndexed index="2" regionRef="region_1781886308835_406" />
+                <RegionRefIndexed index="3" regionRef="region_1781886918748_446" />
+                <RegionRefIndexed index="4" regionRef="region_1781886973495_461" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1781886173211_373" custom="readingOrder {index:0;}">
+            <Coords points="486,530 1468,530 1468,801 486,801" />
+            <TextLine id="line_1781886177634_376" custom="readingOrder {index:0;}">
+                <Coords points="493,545 1444,545 1444,656 493,656" /><Baseline points="493,614 1444,614" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886184952_379" custom="readingOrder {index:1;}">
+                <Coords points="510,546 1429,555 1429,605 510,596" /><Baseline points="510,583 1429,583" />
+                <Baseline points="510,591 1429,600" />
+                <TextEquiv>
+                    <Unicode>بر آن چشم سیه صد آفرین باد که در عاشق کشی سحرآفرین است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886213799_385" custom="readingOrder {index:2;}">
+                <Coords points="479,668 1444,668 1444,791 479,791" /><Baseline points="479,744 1444,744" />
+                <Baseline points="778,866 1180,869" />
+                <TextEquiv>
+                    <Unicode>تو پنداری که بدگو رفت و جان برد حسابش با کرام الکاتبین است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بر آن چشم سیه صد آفرین باد که در عاشق کشی سحرآفرین است
+تو پنداری که بدگو رفت و جان برد حسابش با کرام الکاتبین است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781886258243_391" custom="readingOrder {index:1;}">
+            <Coords points="711,799 1221,799 1221,1053 711,1053" />
+            <TextLine id="line_1781886265888_394" custom="readingOrder {index:0;}">
+                <Coords points="718,803 1207,803 1207,929 718,929" /><Baseline points="718,881 1207,881" />
+                <Baseline points="786,1007 1149,1009" />
+                <TextEquiv>
+                    <Unicode>مشو حافظ ز کید زلفش ایمن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886283566_400" custom="readingOrder {index:1;}">
+                <Coords points="728,944 1216,944 1216,1038 728,1038" /><Baseline points="728,1002 1216,1002" />
+                <Baseline points="499,1153 1431,1163" />
+                <TextEquiv>
+                    <Unicode>که دل برد و کنون دربند دین است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مشو حافظ ز کید زلفش ایمن
+که دل برد و کنون دربند دین است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781886308835_406" custom="readingOrder {index:2;}">
+            <Coords points="475,1047 1447,1047 1447,1925 475,1925" />
+            <TextLine id="line_1781886313635_409" custom="readingOrder {index:0;}">
+                <Coords points="490,1068 1435,1068 1435,1228 490,1228" /><Baseline points="490,1167 1435,1167" />
+                <Baseline points="494,1309 1415,1300" />
+                <TextEquiv>
+                    <Unicode>حال دل با تو گفتنم هوس است خبر دل شنفتنم هوس است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886723232_415" custom="readingOrder {index:1;}">
+                <Coords points="484,1242 1442,1242 1442,1365 484,1365" /><Baseline points="484,1318 1442,1318" />
+                <Baseline points="487,1437 1435,1444" />
+                <TextEquiv>
+                    <Unicode>طمع خام بین که قصه فاش از رقیبان نهفتنم هوس است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886790856_422" custom="readingOrder {index:2;}">
+                <Coords points="480,1390 1442,1390 1442,1498 480,1498" /><Baseline points="480,1457 1442,1457" />
+                <Baseline points="486,1589 1439,1596" />
+                <TextEquiv>
+                    <Unicode>شب قدری چنین عزیز شریف با تو تا روز خفتنم هوس است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886824344_428" custom="readingOrder {index:3;}">
+                <Coords points="477,1511 1427,1511 1427,1652 477,1652" /><Baseline points="477,1598 1427,1598" />
+                <Baseline points="482,1710 1425,1724" />
+                <TextEquiv>
+                    <Unicode>وه که دردانه ای چنین نازک در شب تار سفتنم هوس است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886855488_434" custom="readingOrder {index:4;}">
+                <Coords points="482,1671 1429,1671 1429,1778 482,1778" /><Baseline points="482,1737 1429,1737" />
+                <Baseline points="477,1851 1432,1867" />
+                <TextEquiv>
+                    <Unicode>ای صبا امشبم مدد فرمای که سحرگه شکفتنم هوس است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886883448_440" custom="readingOrder {index:5;}">
+                <Coords points="479,1802 1429,1802 1429,1919 479,1919" /><Baseline points="479,1875 1429,1875" />
+                <Baseline points="772,2010 1177,2012" />
+                <TextEquiv>
+                    <Unicode>از برای شرف به نوک مژه خاک راه تو رفتنم هوس است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>حال دل با تو گفتنم هوس است خبر دل شنفتنم هوس است
+طمع خام بین که قصه فاش از رقیبان نهفتنم هوس است
+شب قدری چنین عزیز شریف با تو تا روز خفتنم هوس است
+وه که دردانه ای چنین نازک در شب تار سفتنم هوس است
+ای صبا امشبم مدد فرمای که سحرگه شکفتنم هوس است
+از برای شرف به نوک مژه خاک راه تو رفتنم هوس است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781886918748_446" custom="readingOrder {index:3;}">
+            <Coords points="741,1956 1179,1956 1179,2188 741,2188" />
+            <TextLine id="line_1781886926919_449" custom="readingOrder {index:0;}">
+                <Coords points="762,1970 1191,1970 1191,2071 762,2071" /><Baseline points="762,2033 1191,2033" />
+                <Baseline points="760,2148 1142,2150" />
+                <TextEquiv>
+                    <Unicode>همچو حافظ به رغم مدعیان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781886950680_455" custom="readingOrder {index:1;}">
+                <Coords points="744,2089 1172,2089 1172,2190 744,2190" /><Baseline points="744,2152 1172,2152" />
+                <Baseline points="465,2279 1431,2309" />
+                <TextEquiv>
+                    <Unicode>شعر رندانه گفتنم هوس است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>همچو حافظ به رغم مدعیان
+شعر رندانه گفتنم هوس است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1781886973495_461" custom="readingOrder {index:4;}">
+            <Coords points="455,2190 1450,2190 1450,2639 455,2639" />
+            <TextLine id="line_1781886978951_464" custom="readingOrder {index:0;}">
+                <Coords points="465,2223 1443,2223 1443,2349 465,2349" /><Baseline points="465,2301 1443,2301" />
+                <Baseline points="455,2419 1446,2447" />
+                <TextEquiv>
+                    <Unicode>به دام زلف تو دل مبتلای خویشتن است بکش به غمزه که اینش سزای خویشتن است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887093884_470" custom="readingOrder {index:1;}">
+                <Coords points="458,2365 1448,2365 1448,2494 458,2494" /><Baseline points="458,2445 1448,2445" />
+                <Baseline points="463,2562 1434,2585" />
+                <TextEquiv>
+                    <Unicode>گرت ز دست برآید مراد خاطر ما به دست باش که خیری به جای خویشتن است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1781887131728_476" custom="readingOrder {index:2;}">
+                <Coords points="444,2508 1446,2508 1446,2628 444,2628" /><Baseline points="444,2582 1446,2582" />
+                <TextEquiv>
+                    <Unicode>به جانت ای بت شیرین دهن که همچون شمع شبان تیره مرادم فنای خویشتن است</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>به دام زلف تو دل مبتلای خویشتن است بکش به غمزه که اینش سزای خویشتن است
+گرت ز دست برآید مراد خاطر ما به دست باش که خیری به جای خویشتن است
+به جانت ای بت شیرین دهن که همچون شمع شبان تیره مرادم فنای خویشتن است</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
