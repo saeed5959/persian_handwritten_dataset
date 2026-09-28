@@ -1,4 +1,5 @@
-<h1 align='center'>A Historical Persian Handwritten Dataset and a Posterior-Based Baseline for Word Spotting with Line-Level Supervision</h1>
+<h1 align='center'>HPMD: A Historical Persian Manuscript Dataset for
+Word Spotting with Line-Level Annotation</h1>
 
 <br>
 
@@ -20,7 +21,7 @@ We also propose a baseline that is trained **only with line-level annotations** 
 2. **Recognition** — CRNN (CNN + BiLSTM + CTC), fine-tuned from the pretrained [`all_arabic`](https://zenodo.org/records/7050270) model.
 3. **Posterior search** — the per-line `T × (|charset| + 1)` posterior matrix is kept (no decoding). The query is scored with a local CTC alignment that can start and end at any frame, and the matched frames give the word's horizontal position.
 
-## Dataset
+## Dataset (metadata of dataset is available in dataset.csv file)
 
 | Split | Pages | Lines | Words |
 |---|---|---|---|
