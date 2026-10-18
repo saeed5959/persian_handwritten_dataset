@@ -28,14 +28,14 @@
                 <Coords points="465,635 897,635 897,791 465,791" /><Baseline points="465,732 897,732" />
                 <Baseline points="485,689 887,727" />
                 <TextEquiv>
-                    <Unicode>صبر و آرام تو اند به من مسکین داد</Unicode>
+                    <Unicode>صبر و آرام تواند بمن مسکین داد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782379613052_336" custom="readingOrder {index:1;}">
                 <Coords points="458,796 909,796 909,943 458,943" /><Baseline points="458,887 909,887" />
                 <Baseline points="489,824 871,880" />
                 <TextEquiv>
-                    <Unicode>هم تواند کرمش دامن آن مسکین داد</Unicode>
+                    <Unicode>هم تواند کرمش داد من مسکین داد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782379650544_342" custom="readingOrder {index:2;}">
@@ -49,30 +49,30 @@
                 <Coords points="461,1084 890,1084 890,1215 461,1215" /><Baseline points="461,1165 890,1165" />
                 <Baseline points="477,1128 895,1152" />
                 <TextEquiv>
-                    <Unicode>آنکه آن داد شباهان بگدایان این داد</Unicode>
+                    <Unicode>آنکه آن داد شباهان بکدایان این</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782379750968_356" custom="readingOrder {index:4;}">
                 <Coords points="465,1235 904,1235 904,1353 465,1353" /><Baseline points="465,1308 904,1308" />
                 <Baseline points="485,1268 880,1286" />
                 <TextEquiv>
-                    <Unicode>هرکه پیوست بد وعمر خودش کاهش داد</Unicode>
+                    <Unicode>هرکه پیوست بد و عمر خودش کابین داد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782379797037_362" custom="readingOrder {index:5;}">
                 <Coords points="473,1373 897,1373 897,1477 473,1477" /><Baseline points="473,1437 897,1437" />
                 <Baseline points="478,1419 482,1419 887,1433" />
                 <TextEquiv>
-                    <Unicode>حاصه اکنون که صبا مژده فروردین داد</Unicode>
+                    <Unicode>حاصه اکنون که صبا مژده فروردین</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>صبر و آرام تو اند به من مسکین داد
-هم تواند کرمش دامن آن مسکین داد
+                <Unicode>صبر و آرام تواند بمن مسکین داد
+هم تواند کرمش داد من مسکین داد
 که عنان و دل شیدا بکف شیرین داد
-آنکه آن داد شباهان بگدایان این داد
-هرکه پیوست بد وعمر خودش کاهش داد
-حاصه اکنون که صبا مژده فروردین داد</Unicode>
+آنکه آن داد شباهان بکدایان این
+هرکه پیوست بد و عمر خودش کابین داد
+حاصه اکنون که صبا مژده فروردین</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782380324782_429" custom="readingOrder {index:1;}">
@@ -81,28 +81,28 @@
                 <Coords points="466,1794 891,1794 891,1899 466,1899" /><Baseline points="466,1859 891,1859" />
                 <Baseline points="472,1839 881,1871" />
                 <TextEquiv>
-                    <Unicode>یک نکته از این معنی گفتیم و همین باشد</Unicode>
+                    <Unicode>یک نکته ازینمعنی کفتیم و همین باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782380412527_438" custom="readingOrder {index:1;}">
                 <Coords points="462,1934 885,1934 885,2049 462,2049" /><Baseline points="462,2005 885,2005" />
                 <Baseline points="468,1979 872,2015" />
                 <TextEquiv>
-                    <Unicode>صد ملک سلیمانم در زیر نگین باشد</Unicode>
+                    <Unicode>صد ملک سلیمانم در زیر نکین باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782380437413_444" custom="readingOrder {index:2;}">
                 <Coords points="473,2094 880,2094 880,2180 473,2180" /><Baseline points="473,2147 880,2147" />
                 <Baseline points="479,2125 864,2154" />
                 <TextEquiv>
-                    <Unicode>شاید که چو او بینی خیر تو درین باشد</Unicode>
+                    <Unicode>شاید که چو وا بینی خیر تو درین باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782380480693_450" custom="readingOrder {index:3;}">
                 <Coords points="460,2213 880,2213 880,2322 460,2322" /><Baseline points="460,2281 880,2281" />
                 <Baseline points="472,2245 873,2266" />
                 <TextEquiv>
-                    <Unicode>نقشی که برآورد خود صورتگر چین باشد</Unicode>
+                    <Unicode>نقشش که از خود صورتکر چین باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782380551441_460" custom="readingOrder {index:4;}">
@@ -113,10 +113,10 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>یک نکته از این معنی گفتیم و همین باشد
-صد ملک سلیمانم در زیر نگین باشد
-شاید که چو او بینی خیر تو درین باشد
-نقشی که برآورد خود صورتگر چین باشد
+                <Unicode>یک نکته ازینمعنی کفتیم و همین باشد
+صد ملک سلیمانم در زیر نکین باشد
+شاید که چو وا بینی خیر تو درین باشد
+نقشش که از خود صورتکر چین باشد
 در دایره قسمت اوضاع چنین باشد</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -126,7 +126,7 @@
                 <Coords points="676,411 1149,411 1149,520 676,520" /><Baseline points="676,479 1149,479" />
                 <Baseline points="700,437 1147,467 1138,461" />
                 <TextEquiv>
-                    <Unicode>شعر حافظ را که گیرد وصف احسان شماست</Unicode>
+                    <Unicode>شعر حافظ را که کیرد وصف احسان شما است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782378400600_264" custom="readingOrder {index:1;}">
@@ -137,7 +137,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>شعر حافظ را که گیرد وصف احسان شماست
+                <Unicode>شعر حافظ را که کیرد وصف احسان شما است
 هرکجا بشنیده اند از صدق تحسین کرده اند</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -154,12 +154,12 @@
                 <Coords points="672,1631 1194,1631 1194,1777 672,1777" /><Baseline points="672,1722 1194,1722" />
                 <Baseline points="689,1698 1132,1721" />
                 <TextEquiv>
-                    <Unicode>از فراقت رخ این خواجه قوام الدین داد</Unicode>
+                    <Unicode>از فراقت رخ ایخواجه قوام الدین داد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>در غم و غصه دوران دل حافظ خون شد
-از فراقت رخ این خواجه قوام الدین داد</Unicode>
+از فراقت رخ ایخواجه قوام الدین داد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782378446576_270" custom="readingOrder {index:4;}">
@@ -168,11 +168,11 @@
                 <Coords points="999,665 1416,665 1416,772 999,772" /><Baseline points="999,731 1416,731" />
                 <Baseline points="1008,706 1399,735" />
                 <TextEquiv>
-                    <Unicode>آنکه رخسار ترا رنگ گل و نسرین داد</Unicode>
+                    <Unicode>آنکه رخسار ترا رنک کل و نسرین داد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>آنکه رخسار ترا رنگ گل و نسرین داد</Unicode>
+                <Unicode>آنکه رخسار ترا رنک کل و نسرین داد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782378588774_280" custom="readingOrder {index:5;}">
@@ -181,11 +181,11 @@
                 <Coords points="982,787 1418,787 1418,911 982,911" /><Baseline points="982,864 1418,864" />
                 <Baseline points="1001,835 1399,880" />
                 <TextEquiv>
-                    <Unicode>وانکه گیسوی ترا رسم تطاول آموخت</Unicode>
+                    <Unicode>وانکه کیسوی ترا رسم تطاول آموخت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>وانکه گیسوی ترا رسم تطاول آموخت</Unicode>
+                <Unicode>وانکه کیسوی ترا رسم تطاول آموخت</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782378650163_290" custom="readingOrder {index:6;}">
@@ -194,11 +194,11 @@
                 <Coords points="986,945 1412,945 1412,1067 986,1067" /><Baseline points="986,1021 1412,1021" />
                 <Baseline points="997,1000 1397,1019" />
                 <TextEquiv>
-                    <Unicode>من همان روز ز فرهاد طمع ببردم</Unicode>
+                    <Unicode>من همان روز ز فرهاد طمع ببریدم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>من همان روز ز فرهاد طمع ببردم</Unicode>
+                <Unicode>من همان روز ز فرهاد طمع ببریدم</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782378738431_299" custom="readingOrder {index:7;}">
@@ -207,11 +207,11 @@
                 <Coords points="991,1102 1403,1102 1403,1229 991,1229" /><Baseline points="991,1181 1403,1181" />
                 <Baseline points="1003,1145 1396,1155" />
                 <TextEquiv>
-                    <Unicode>گنج زرگر نبود گنج قناعت باقی است</Unicode>
+                    <Unicode>کنج زرکر نبود کنج قناعت باقی است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>گنج زرگر نبود گنج قناعت باقی است</Unicode>
+                <Unicode>کنج زرکر نبود کنج قناعت باقی است</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782379202558_308" custom="readingOrder {index:8;}">
@@ -220,11 +220,11 @@
                 <Coords points="976,1242 1411,1242 1411,1353 976,1353" /><Baseline points="976,1311 1411,1311" />
                 <Baseline points="999,1270 1392,1305" />
                 <TextEquiv>
-                    <Unicode>خوش عروسیست جهان ارچه بود ارزه صورت لیکن</Unicode>
+                    <Unicode>خوش عروسیست جهان ارزه صورت لیکن</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>خوش عروسیست جهان ارچه بود ارزه صورت لیکن</Unicode>
+                <Unicode>خوش عروسیست جهان ارزه صورت لیکن</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782379271622_318" custom="readingOrder {index:9;}">
@@ -233,11 +233,11 @@
                 <Coords points="970,1367 1421,1367 1421,1495 970,1495" /><Baseline points="970,1446 1421,1446" />
                 <Baseline points="1009,1415 1396,1425" />
                 <TextEquiv>
-                    <Unicode>بعد از این دست من و دامن سربلند</Unicode>
+                    <Unicode>بعد ازین دست من و دامن آنسرو بلند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بعد از این دست من و دامن سربلند</Unicode>
+                <Unicode>بعد ازین دست من و دامن آنسرو بلند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782380048774_390" custom="readingOrder {index:10;}">
@@ -253,40 +253,40 @@
                 <Coords points="981,1934 1406,1934 1406,2051 981,2051" /><Baseline points="981,2007 1406,2007" />
                 <Baseline points="989,1988 1402,1997" />
                 <TextEquiv>
-                    <Unicode>از لعل تو گریانم انگشتری زنهار</Unicode>
+                    <Unicode>از لعل تو کریانم انکشتری زنهار</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782380201469_405" custom="readingOrder {index:2;}">
                 <Coords points="983,2076 1405,2076 1405,2183 983,2183" /><Baseline points="983,2142 1405,2142" />
                 <Baseline points="989,2121 1394,2127" />
                 <TextEquiv>
-                    <Unicode>غمناک نشاید بود از طعن حسود ای دل</Unicode>
+                    <Unicode>غمناک نشاید بود از طعن حسود ایدل</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782380242953_411" custom="readingOrder {index:3;}">
                 <Coords points="970,2203 1410,2203 1410,2340 970,2340" /><Baseline points="970,2288 1410,2288" />
                 <Baseline points="986,2254 1398,2279" />
                 <TextEquiv>
-                    <Unicode>هرکو نکند فهمی زین کلک خیال انگیز</Unicode>
+                    <Unicode>هرکو نکند فهمی زین کلک خیال انکیز</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782380289519_421" custom="readingOrder {index:4;}">
                 <Coords points="979,2355 1407,2355 1407,2472 979,2472" /><Baseline points="979,2428 1407,2428" />
                 <Baseline points="994,2392 1387,2420" />
                 <TextEquiv>
-                    <Unicode>جام می وخون دل هریک به کسی دادند</Unicode>
+                    <Unicode>جام می و خون دل هریک بکسی دادند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>کی شعرترانیکزد خاطر که حزین باشد
-از لعل تو گریانم انگشتری زنهار
-غمناک نشاید بود از طعن حسود ای دل
-هرکو نکند فهمی زین کلک خیال انگیز
-جام می وخون دل هریک به کسی دادند</Unicode>
+از لعل تو کریانم انکشتری زنهار
+غمناک نشاید بود از طعن حسود ایدل
+هرکو نکند فهمی زین کلک خیال انکیز
+جام می و خون دل هریک بکسی دادند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782379990608_380" custom="readingOrder {index:11;}">
             <Coords points="1184,1745 1184,1748 1184,1745" />
-        </TextRegion>
+        <TextEquiv><Unicode /></TextEquiv></TextRegion>
     </Page>
 </PcGts>

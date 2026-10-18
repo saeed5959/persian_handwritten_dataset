@@ -17,14 +17,14 @@
                 <Coords points="143,1164 578,1164 578,1277 143,1277" /><Baseline points="143,1234 578,1234" />
                 <Baseline points="158,1224 572,1230" />
                 <TextEquiv>
-                    <Unicode>یعنی غلام شاهم و سوگند می خورم</Unicode>
+                    <Unicode>یعنی غلام شاهم و سوکند میخورم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781799105442_2059" custom="readingOrder {index:1;}">
                 <Coords points="676,1210 1096,1210 1096,1284 676,1284" /><Baseline points="676,1256 1096,1256" />
                 <Baseline points="683,1239 1074,1239" />
                 <TextEquiv>
-                    <Unicode>جوزا سحر نهاد حمایل برابرم</Unicode>
+                    <Unicode>جورا سحر نهاد حمایل برابرم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781799114793_2065" custom="readingOrder {index:2;}">
@@ -52,7 +52,7 @@
                 <Coords points="660,1448 1096,1448 1096,1573 660,1573" /><Baseline points="660,1526 1096,1526" />
                 <Baseline points="667,1508 1090,1508" />
                 <TextEquiv>
-                    <Unicode>جامی بده که باز به شادی روی شاه</Unicode>
+                    <Unicode>جامی بده که باز بشادی روی شاه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781799169782_2095" custom="readingOrder {index:6;}">
@@ -94,14 +94,14 @@
                 <Coords points="134,1877 574,1877 574,1997 134,1997" /><Baseline points="134,1951 574,1951" />
                 <Baseline points="141,1939 552,1936" />
                 <TextEquiv>
-                    <Unicode>از گفته کمال دلیلی بیاورم</Unicode>
+                    <Unicode>از کفته کمال دلیلی بیاورم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781799220892_2127" custom="readingOrder {index:12;}">
                 <Coords points="134,1996 576,1996 576,2132 134,2132" /><Baseline points="134,2080 576,2080" />
                 <Baseline points="138,2074 569,2079" />
                 <TextEquiv>
-                    <Unicode>کی ترک آبخور کند طبع خوگرم</Unicode>
+                    <Unicode>کی ترک آبخور کند این طبع خوکرم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781799229602_2133" custom="readingOrder {index:13;}">
@@ -122,7 +122,7 @@
                 <Coords points="665,2157 1103,2157 1103,2301 665,2301" /><Baseline points="665,2246 1103,2246" />
                 <Baseline points="667,2219 1090,2216" />
                 <TextEquiv>
-                    <Unicode>گر برکنم دل از تو و بردارم از تو مهر</Unicode>
+                    <Unicode>کر برکنم دل از تو و بردارم از تو مهر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781799255762_2151" custom="readingOrder {index:16;}">
@@ -150,7 +150,7 @@
                 <Coords points="130,2447 581,2447 581,2558 130,2558" /><Baseline points="130,2516 581,2516" />
                 <Baseline points="136,2496 552,2500" />
                 <TextEquiv>
-                    <Unicode>وز شاه راه عمر بدین عهد بگذرم</Unicode>
+                    <Unicode>وز شاه راه عمر بدین عهد بکذرم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781799297582_2175" custom="readingOrder {index:20;}">
@@ -164,32 +164,32 @@
                 <Coords points="665,2580 1105,2580 1105,2692 665,2692" /><Baseline points="665,2649 1105,2649" />
                 <Baseline points="674,2652 1087,2643" />
                 <TextEquiv>
-                    <Unicode>گردون چو کرد نظم ثریا به نام شاه</Unicode>
+                    <Unicode>کردون چو کرد نظم ثریا بنام شاه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>یعنی غلام شاهم و سوگند می خورم
-جوزا سحر نهاد حمایل برابرم
+                <Unicode>یعنی غلام شاهم و سوکند میخورم
+جورا سحر نهاد حمایل برابرم
 کامی که خواستم ز خدا شد میسرم
 ساقی بیا که از مدد بخت کارساز
 پیرانه سر هوای جوانیست در سرم
-جامی بده که باز به شادی روی شاه
+جامی بده که باز بشادی روی شاه
 زاهم بزن بوصف زلال خضر که من
 از جام شاه جرعه کش حوض کوثرم
 مملوک این جنابم و مسکین این درم
 شاها من ار بعرش رسانم سریر فضل
 ور باورت نمیشود از بنده این حدیث
-از گفته کمال دلیلی بیاورم
-کی ترک آبخور کند طبع خوگرم
+از کفته کمال دلیلی بیاورم
+کی ترک آبخور کند این طبع خوکرم
 من جرعه نوش بزم تو بودم هزار سال
 آن مهر بر که افکنم این دل کجا برم
-گر برکنم دل از تو و بردارم از تو مهر
+کر برکنم دل از تو و بردارم از تو مهر
 وز این خجسته فال بر اعدا مظفرم
 منصور بن محمد غازیست حرز من
 عهد الست من همه با عهد شاه بود
-وز شاه راه عمر بدین عهد بگذرم
+وز شاه راه عمر بدین عهد بکذرم
 من خود چرا چنین نکنم از که کمترم
-گردون چو کرد نظم ثریا به نام شاه</Unicode>
+کردون چو کرد نظم ثریا بنام شاه</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

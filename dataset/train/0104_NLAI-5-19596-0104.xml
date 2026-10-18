@@ -21,19 +21,19 @@
                 <Coords points="121,465 571,465 571,618 121,618" /><Baseline points="121,560 571,560" />
                 <Baseline points="132,517 546,544" />
                 <TextEquiv>
-                    <Unicode>کآن کس که پخته شد می چون ارغوان گرفت</Unicode>
+                    <Unicode>کانکس که پخته شد می چون ارغوان کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782569809221_924" custom="readingOrder {index:1;}">
                 <Coords points="616,473 1076,473 1076,608 616,608" /><Baseline points="616,557 1076,557" />
                 <Baseline points="631,527 1067,548" />
                 <TextEquiv>
-                    <Unicode>بر برگ گل بخون شقایق نوشته اند</Unicode>
+                    <Unicode>بر برک کل بخون شقایق نوشته اند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>کآن کس که پخته شد می چون ارغوان گرفت
-بر برگ گل بخون شقایق نوشته اند</Unicode>
+                <Unicode>کانکس که پخته شد می چون ارغوان کرفت
+بر برک کل بخون شقایق نوشته اند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782569908072_937" custom="readingOrder {index:1;}">
@@ -42,19 +42,19 @@
                 <Coords points="392,628 841,628 841,762 392,762" /><Baseline points="392,711 841,711" />
                 <Baseline points="408,713 832,682" />
                 <TextEquiv>
-                    <Unicode>حافظ چو آب لطف ز نظم تو می چکد</Unicode>
+                    <Unicode>حافظ چو آب لطف ز نظم تو میچکد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782569951242_946" custom="readingOrder {index:1;}">
                 <Coords points="396,769 843,769 843,886 396,886" /><Baseline points="396,842 843,842" />
                 <Baseline points="408,819 814,825" />
                 <TextEquiv>
-                    <Unicode>حاسد چگونه نکته تواند بر آن</Unicode>
+                    <Unicode>حاسد چکونه نکته تواند بران</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حافظ چو آب لطف ز نظم تو می چکد
-حاسد چگونه نکته تواند بر آن</Unicode>
+                <Unicode>حافظ چو آب لطف ز نظم تو میچکد
+حاسد چکونه نکته تواند بران</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782570022367_952" custom="readingOrder {index:2;}">
@@ -63,28 +63,28 @@
                 <Coords points="122,902 570,902 570,1034 122,1034" /><Baseline points="122,984 570,984" />
                 <Baseline points="128,969 540,966" />
                 <TextEquiv>
-                    <Unicode>کنج میخانه در خانه ارادت رفت</Unicode>
+                    <Unicode>کنج میکده در خانه ارادت رفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782570038879_955" custom="readingOrder {index:1;}">
                 <Coords points="636,915 1083,915 1083,1037 636,1037" /><Baseline points="636,991 1083,991" />
                 <Baseline points="659,965 1068,975" />
                 <TextEquiv>
-                    <Unicode>هرآن خجسته نظر که بی سعادت رفت</Unicode>
+                    <Unicode>هران خجسته نظر کر بی سعادت رفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782570162827_967" custom="readingOrder {index:2;}">
                 <Coords points="641,1052 1077,1052 1077,1185 641,1185" /><Baseline points="641,1134 1077,1134" />
                 <Baseline points="654,1107 1068,1110" />
                 <TextEquiv>
-                    <Unicode>بر طل نیمه شبی کشف کرد سالک راه</Unicode>
+                    <Unicode>برطل نیمشبی کشف کرد سالک راه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782570305057_973" custom="readingOrder {index:3;}">
                 <Coords points="122,1053 558,1053 558,1173 122,1173" /><Baseline points="122,1127 558,1127" />
                 <Baseline points="129,1095 540,1124" />
                 <TextEquiv>
-                    <Unicode>رموز عشق که در عالم شهادت رفت</Unicode>
+                    <Unicode>زموز عشق که در عالم شهادت رفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782570420000_990" custom="readingOrder {index:4;}">
@@ -98,7 +98,7 @@
                 <Coords points="645,1189 1091,1189 1091,1333 645,1333" /><Baseline points="645,1278 1091,1278" />
                 <Baseline points="665,1261 1071,1264" />
                 <TextEquiv>
-                    <Unicode>بیا و معرفت از من شنوکه در سخنم</Unicode>
+                    <Unicode>بیا و معرفت از من شنو که در سخنم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782570598580_1002" custom="readingOrder {index:6;}">
@@ -112,28 +112,28 @@
                 <Coords points="645,1342 1092,1342 1092,1467 645,1467" /><Baseline points="645,1420 1092,1420" />
                 <Baseline points="660,1389 1082,1396" />
                 <TextEquiv>
-                    <Unicode>محجور ز طالع مولود من به جز رندی</Unicode>
+                    <Unicode>مجو ز طالع مولود من بجز رندی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782570669768_1014" custom="readingOrder {index:8;}">
                 <Coords points="132,1479 569,1479 569,1618 132,1618" /><Baseline points="132,1565 569,1565" />
                 <Baseline points="141,1539 551,1549" />
                 <TextEquiv>
-                    <Unicode>وظیفه می دوشین مگر ز یادت رفت</Unicode>
+                    <Unicode>وظیفه می دوشین مکر ز یادت رفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782570632386_1008" custom="readingOrder {index:9;}">
                 <Coords points="651,1485 1091,1485 1091,1611 651,1611" /><Baseline points="651,1563 1091,1563" />
                 <Baseline points="662,1554 1082,1552" />
                 <TextEquiv>
-                    <Unicode>ز بامداد و به طرز دگر برآمده</Unicode>
+                    <Unicode>ز بامداد و بطرز دکر برآمده</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782570815038_1020" custom="readingOrder {index:10;}">
                 <Coords points="644,1627 1109,1627 1109,1749 644,1749" /><Baseline points="644,1703 1109,1703" />
                 <Baseline points="666,1711 1086,1677" />
                 <TextEquiv>
-                    <Unicode>مگر به معجزه او شد طبیب عیسی دم</Unicode>
+                    <Unicode>مکر به معجزه او شد طبیب عیسی دم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782570867531_1026" custom="readingOrder {index:11;}">
@@ -144,17 +144,17 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>کنج میخانه در خانه ارادت رفت
-هرآن خجسته نظر که بی سعادت رفت
-بر طل نیمه شبی کشف کرد سالک راه
-رموز عشق که در عالم شهادت رفت
+                <Unicode>کنج میکده در خانه ارادت رفت
+هران خجسته نظر کر بی سعادت رفت
+برطل نیمشبی کشف کرد سالک راه
+زموز عشق که در عالم شهادت رفت
 ز فیض روح قدس نکته از سعادت رفت
-بیا و معرفت از من شنوکه در سخنم
+بیا و معرفت از من شنو که در سخنم
 که این معامله با کوکب ولادت رفت
-محجور ز طالع مولود من به جز رندی
-وظیفه می دوشین مگر ز یادت رفت
-ز بامداد و به طرز دگر برآمده
-مگر به معجزه او شد طبیب عیسی دم
+مجو ز طالع مولود من بجز رندی
+وظیفه می دوشین مکر ز یادت رفت
+ز بامداد و بطرز دکر برآمده
+مکر به معجزه او شد طبیب عیسی دم
 چرا که کار من خسته از عیادت رفت</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -164,19 +164,19 @@
                 <Coords points="339,1779 846,1779 846,1902 339,1902" /><Baseline points="339,1855 846,1855" />
                 <Baseline points="348,1846 833,1840" />
                 <TextEquiv>
-                    <Unicode>هر از شکر که حافظ ز راه میکده دوش</Unicode>
+                    <Unicode>هزار شکر که حافظ ز راه میکده دوش</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782571036587_1043" custom="readingOrder {index:1;}">
                 <Coords points="342,1914 849,1914 849,2058 342,2058" /><Baseline points="342,2003 849,2003" />
                 <Baseline points="351,1999 806,1984" />
                 <TextEquiv>
-                    <Unicode>به کنج زاویه و خانه عبادت رفت</Unicode>
+                    <Unicode>بکنج زاویه و خانه عبادت رفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>هر از شکر که حافظ ز راه میکده دوش
-به کنج زاویه و خانه عبادت رفت</Unicode>
+                <Unicode>هزار شکر که حافظ ز راه میکده دوش
+بکنج زاویه و خانه عبادت رفت</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782571077938_1049" custom="readingOrder {index:4;}">
@@ -213,7 +213,7 @@
                 <Coords points="155,2344 587,2344 587,2494 155,2494" /><Baseline points="155,2437 587,2437" />
                 <Baseline points="171,2404 569,2416" />
                 <TextEquiv>
-                    <Unicode>می کنند این دلستانان الغیاث</Unicode>
+                    <Unicode>میکنند این دلستانان الغیاث</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782571277761_1078" custom="readingOrder {index:5;}">
@@ -242,7 +242,7 @@
 درد ما را نیست درمان الغیاث
 دین و دل بردند و قصد جان کنند
 الغیاث از جور خوبان الغیاث
-می کنند این دلستانان الغیاث
+میکنند این دلستانان الغیاث
 در بهای بوسه جانی طلب
 خون ما خوردند این کافردلان
 ای مسلمانان چه درمان الغیاث</Unicode>

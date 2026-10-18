@@ -16,19 +16,19 @@
             <TextLine id="line_1781791372700_144" custom="readingOrder {index:0;}">
                 <Coords points="722,649 1060,649 1060,529 722,529" /><Baseline points="722,603 1060,603" />
                 <TextEquiv>
-                    <Unicode>به آواز گفتند ما بنده ایم</Unicode>
+                    <Unicode>باواز کفتند ما بنده ایم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781791374965_147" custom="readingOrder {index:1;}">
                 <Coords points="353,661 694,661 694,534 353,534" /><Baseline points="353,613 694,613" />
                 <TextEquiv>
-                    <Unicode>به دل مهربان و پرستنده ایم</Unicode>
+                    <Unicode>بدل مهربان و پرستنده ایم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781791377372_150" custom="readingOrder {index:2;}">
                 <Coords points="725,787 1053,787 1053,650 725,650" /><Baseline points="725,735 1053,735" />
                 <TextEquiv>
-                    <Unicode>نگه کن کنون تا چه فرمان دهی</Unicode>
+                    <Unicode>نکه کن کنون تا چه فرمان دهی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781791379476_153" custom="readingOrder {index:3;}">
@@ -40,19 +40,19 @@
             <TextLine id="line_1781791384060_159" custom="readingOrder {index:4;}">
                 <Coords points="351,903 685,903 685,788 351,788" /><Baseline points="351,859 685,859" />
                 <TextEquiv>
-                    <Unicode>نگردد کسی آگه از این سخن</Unicode>
+                    <Unicode>نکردد کسی آکه از این سخن</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781791381756_156" custom="readingOrder {index:5;}">
                 <Coords points="724,908 1042,908 1042,790 724,790" /><Baseline points="724,863 1042,863" />
                 <TextEquiv>
-                    <Unicode>یکی گفت زایشان که ای سر و بن</Unicode>
+                    <Unicode>یکی کفت ز ایشان که ای سرو بن</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781791389549_165" custom="readingOrder {index:6;}">
                 <Coords points="371,1032 690,1032 690,906 371,906" /><Baseline points="371,984 690,984" />
                 <TextEquiv>
-                    <Unicode>خرد زافرینش روای تو باد</Unicode>
+                    <Unicode>خرد ز افرینش روای تو باد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781791386796_162" custom="readingOrder {index:7;}">
@@ -70,13 +70,13 @@
             <TextLine id="line_1781791392164_168" custom="readingOrder {index:9;}">
                 <Coords points="724,1166 1030,1166 1030,1030 724,1030" /><Baseline points="724,1114 1030,1114" />
                 <TextEquiv>
-                    <Unicode>سیه نرگسانت پر از شرم باد</Unicode>
+                    <Unicode>سیه نرکسانت پر از شرم باد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781791400093_174" custom="readingOrder {index:10;}">
                 <Coords points="725,1290 1042,1290 1042,1149 725,1149" /><Baseline points="725,1236 1042,1236" />
                 <TextEquiv>
-                    <Unicode>اگر جادویی باید آموختن</Unicode>
+                    <Unicode>اکر جادویی باید آموختن</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781791403532_177" custom="readingOrder {index:11;}">
@@ -94,19 +94,19 @@
             <TextLine id="line_1781791407254_180" custom="readingOrder {index:13;}">
                 <Coords points="730,1417 1033,1417 1033,1289 730,1289" /><Baseline points="730,1368 1033,1368" />
                 <TextEquiv>
-                    <Unicode>بپریم تا مرغ جادو شویم</Unicode>
+                    <Unicode>به پریم تا مرغ جادو شویم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781791437853_188" custom="readingOrder {index:14;}">
                 <Coords points="727,1543 1068,1543 1068,1419 727,1419" /><Baseline points="727,1496 1068,1496" />
                 <TextEquiv>
-                    <Unicode>مگر شاه را نزد ماه آوریم</Unicode>
+                    <Unicode>مکر شاه را نزد ماه آوریم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781791440851_191" custom="readingOrder {index:15;}">
                 <Coords points="377,1543 675,1543 675,1420 377,1420" /><Baseline points="377,1496 675,1496" />
                 <TextEquiv>
-                    <Unicode>به نزدیک او پایگاه آوریم</Unicode>
+                    <Unicode>بنزدیک تو پایکاه آوریم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781791451067_197" custom="readingOrder {index:16;}">
@@ -122,22 +122,22 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>به آواز گفتند ما بنده ایم
-به دل مهربان و پرستنده ایم
-نگه کن کنون تا چه فرمان دهی
+                <Unicode>باواز کفتند ما بنده ایم
+بدل مهربان و پرستنده ایم
+نکه کن کنون تا چه فرمان دهی
 نیاید ز فرمان تو جز بهی
-نگردد کسی آگه از این سخن
-یکی گفت زایشان که ای سر و بن
-خرد زافرینش روای تو باد
+نکردد کسی آکه از این سخن
+یکی کفت ز ایشان که ای سرو بن
+خرد ز افرینش روای تو باد
 چو ما صد هزاران فدای تو باد
 رخانت همیشه پر آزرم باد
-سیه نرگسانت پر از شرم باد
-اگر جادویی باید آموختن
+سیه نرکسانت پر از شرم باد
+اکر جادویی باید آموختن
 به بند و فسون چشمها دوختن
 بپوییم و در چاره آهو شویم
-بپریم تا مرغ جادو شویم
-مگر شاه را نزد ماه آوریم
-به نزدیک او پایگاه آوریم
+به پریم تا مرغ جادو شویم
+مکر شاه را نزد ماه آوریم
+بنزدیک تو پایکاه آوریم
 رخان معصفر سوی بنده کرد
 لب سرخ رودابه پرخنده کرد</Unicode>
             </TextEquiv>

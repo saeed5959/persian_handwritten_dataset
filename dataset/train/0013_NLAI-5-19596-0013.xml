@@ -46,14 +46,14 @@
                 <Coords points="519,822 946,822 946,924 519,924" /><Baseline points="519,885 946,885" />
                 <Baseline points="521,877 926,880" />
                 <TextEquiv>
-                    <Unicode>نگه کردم صفا و نور مرقد</Unicode>
+                    <Unicode>نکه کردم صفا و نور مرقد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781797567411_1973" custom="readingOrder {index:5;}">
                 <Coords points="1010,822 1434,822 1434,941 1010,941" /><Baseline points="1010,896 1434,896" />
                 <Baseline points="1019,874 1425,874" />
                 <TextEquiv>
-                    <Unicode>بخاک پاک او چون برگذشتم</Unicode>
+                    <Unicode>بخاک پاک او چون برکذشتم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -61,8 +61,8 @@
 بسال باو ذال و صاد و ابجد
 فرید عهد شمس الدین محمد
 بسوی جنت اعلی روان شد
-نگه کردم صفا و نور مرقد
-بخاک پاک او چون برگذشتم</Unicode>
+نکه کردم صفا و نور مرقد
+بخاک پاک او چون برکذشتم</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781797464765_1938" custom="readingOrder {index:1;}">
@@ -78,7 +78,7 @@
                 <Coords points="508,1099 1427,1099 1427,1231 508,1231" /><Baseline points="508,1181 1427,1181" />
                 <Baseline points="519,1147 1405,1158" />
                 <TextEquiv>
-                    <Unicode>ستان صاحب وفا که صفح حال از فروغ نور ایشان جمال گیرد و بضاعت</Unicode>
+                    <Unicode>ستان صاحب وفا که صفحه حال از فروغ نور ایشان جمال کیرد و بضاعت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781797606429_1991" custom="readingOrder {index:2;}">
@@ -106,32 +106,32 @@
                 <Coords points="481,1677 1445,1677 1445,1799 481,1799" /><Baseline points="481,1753 1445,1753" />
                 <Baseline points="505,1745 1431,1745" />
                 <TextEquiv>
-                    <Unicode>و مسرتی بی اندازه کرامت گردانا و عثرات را به فیض شامل و لطف کامل</Unicode>
+                    <Unicode>و مسرتی بی اندازه کرامت کرداناد و عشرات را به فیض شامل و لطف کامل</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781797650263_2015" custom="readingOrder {index:6;}">
                 <Coords points="489,1814 1447,1814 1447,1938 489,1938" /><Baseline points="489,1891 1447,1891" />
                 <Baseline points="505,1859 1421,1870" />
                 <TextEquiv>
-                    <Unicode>در گذراناد و انه علی مایشا قدیر و بالاتب جبر وسلم تسلیما کثیرا</Unicode>
+                    <Unicode>در کذراناد و انه علی مایشا قدیر و با الابت جدبر و سلم تسلیما کثیرا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781797661087_2021" custom="readingOrder {index:7;}">
                 <Coords points="785,1970 1113,1970 1113,2082 785,2082" /><Baseline points="785,2039 1113,2039" />
                 <Baseline points="796,2020 1087,2017" />
                 <TextEquiv>
-                    <Unicode>تمت دیباجه بحول الله</Unicode>
+                    <Unicode>تمت دیباجه بعون الله</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>سوابق حقوق خدمت و لوازم عهد و محبت و ترغیب عزیز با صفا و تحریص
-ستان صاحب وفا که صفح حال از فروغ نور ایشان جمال گیرد و بضاعت
+ستان صاحب وفا که صفحه حال از فروغ نور ایشان جمال کیرد و بضاعت
 افضال بحسن تربیت انسان کمال پذیرد و حامل و باعث ترتیب این کتاب
 و تبوبت این ابواب کشت امید بکرم واهب الوجود آنست که قایل و ناقل را
 و سامع و جامع را در خلال این احوال و اثنای این اشتغال حیاتی تازه
-و مسرتی بی اندازه کرامت گردانا و عثرات را به فیض شامل و لطف کامل
-در گذراناد و انه علی مایشا قدیر و بالاتب جبر وسلم تسلیما کثیرا
-تمت دیباجه بحول الله</Unicode>
+و مسرتی بی اندازه کرامت کرداناد و عشرات را به فیض شامل و لطف کامل
+در کذراناد و انه علی مایشا قدیر و با الابت جدبر و سلم تسلیما کثیرا
+تمت دیباجه بعون الله</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

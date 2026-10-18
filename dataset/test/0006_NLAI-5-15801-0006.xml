@@ -77,11 +77,11 @@
             <TextLine id="line_1782587693810_162" custom="readingOrder {index:0;}">
                 <Coords points="188,881 952,881 952,1005 188,1005" /><Baseline points="188,958 952,958" />
                 <TextEquiv>
-                    <Unicode>جاری گشته امید که طالبان کمال را از ان خطی کامل نصیب شود</Unicode>
+                    <Unicode>جاری کشته امید که طالبان کمالرا از ان خطی کامل نصیب شود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>جاری گشته امید که طالبان کمال را از ان خطی کامل نصیب شود</Unicode>
+                <Unicode>جاری کشته امید که طالبان کمالرا از ان خطی کامل نصیب شود</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782588136801_231" custom="readingOrder {index:6;}">
@@ -103,11 +103,11 @@
                 <Coords points="91,1131 923,1131 923,1241 91,1241" /><Baseline points="91,1199 923,1199" />
                 <Baseline points="123,1190 920,1187" />
                 <TextEquiv>
-                    <Unicode>یعنی هر امر صاحب قدری که ابتدا کرده نشود و در او بسم الله نا تمام دهچز است</Unicode>
+                    <Unicode>یعنی هر امر صاحب قدری که ابتدا کرده نشود و در او بسم الله نا تمام وهچز است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>یعنی هر امر صاحب قدری که ابتدا کرده نشود و در او بسم الله نا تمام دهچز است</Unicode>
+                <Unicode>یعنی هر امر صاحب قدری که ابتدا کرده نشود و در او بسم الله نا تمام وهچز است</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782588349152_249" custom="readingOrder {index:8;}">
@@ -116,11 +116,11 @@
                 <Coords points="91,1251 956,1251 956,1369 91,1369" /><Baseline points="91,1324 956,1324" />
                 <Baseline points="118,1328 920,1318" />
                 <TextEquiv>
-                    <Unicode>و به همین مضمون روایت شده است در حمد چون بحسب ظاهر توهم شافی</Unicode>
+                    <Unicode>و بهمین مضمون روایت شده است در حمد چون بحسب ظاهر توهم شافی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>و به همین مضمون روایت شده است در حمد چون بحسب ظاهر توهم شافی</Unicode>
+                <Unicode>و بهمین مضمون روایت شده است در حمد چون بحسب ظاهر توهم شافی</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782588428657_258" custom="readingOrder {index:9;}">
@@ -129,11 +129,11 @@
                 <Coords points="98,1380 952,1380 952,1488 98,1488" /><Baseline points="98,1447 952,1447" />
                 <Baseline points="104,1411 909,1432" />
                 <TextEquiv>
-                    <Unicode>میشود میانه مقضای این دو حدیث زیرا که اگر بسم الله ابتدا کرده شود و به حمد ابتدا</Unicode>
+                    <Unicode>میشود میانه مقضای این دو حدیث زیرا که اکر بسمله ابتدا کرده شود و بحمد ابتدا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>میشود میانه مقضای این دو حدیث زیرا که اگر بسم الله ابتدا کرده شود و به حمد ابتدا</Unicode>
+                <Unicode>میشود میانه مقضای این دو حدیث زیرا که اکر بسمله ابتدا کرده شود و بحمد ابتدا</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782588584308_267" custom="readingOrder {index:10;}">
@@ -142,11 +142,11 @@
                 <Coords points="89,1503 930,1503 930,1597 89,1597" /><Baseline points="89,1561 930,1561" />
                 <Baseline points="95,1530 911,1535" />
                 <TextEquiv>
-                    <Unicode>نخواهد شد و اگر به حمد ابتدا کرده شود بسم الله نخواهد شد لهذا محتشمی سوال کرده</Unicode>
+                    <Unicode>نخواهد شد و اکر بحمد ابتدا کرده شود بسمله نخواهد شد لهذا محتشمی سوال کرده</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>نخواهد شد و اگر به حمد ابتدا کرده شود بسم الله نخواهد شد لهذا محتشمی سوال کرده</Unicode>
+                <Unicode>نخواهد شد و اکر بحمد ابتدا کرده شود بسمله نخواهد شد لهذا محتشمی سوال کرده</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

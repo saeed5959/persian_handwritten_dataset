@@ -28,21 +28,21 @@
                 <Coords points="135,611 570,611 570,738 135,738" /><Baseline points="135,690 570,690" />
                 <Baseline points="146,675 554,674" />
                 <TextEquiv>
-                    <Unicode>که از تطاول زلفت چه بی قرارانند</Unicode>
+                    <Unicode>که از تطاول زلفت چه سوکوارانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782668089024_2985" custom="readingOrder {index:2;}">
                 <Coords points="137,746 575,746 575,859 137,859" /><Baseline points="137,816 575,816" />
                 <Baseline points="148,806 557,806" />
                 <TextEquiv>
-                    <Unicode>که ساکنان دردوست خاکسارانند</Unicode>
+                    <Unicode>که ساکنان در دوست خاکسارانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782668272612_2993" custom="readingOrder {index:3;}">
                 <Coords points="140,868 586,868 586,992 140,992" /><Baseline points="140,945 586,945" />
                 <Baseline points="157,950 557,943" />
                 <TextEquiv>
-                    <Unicode>که مستحق کرامت گناهکارانند</Unicode>
+                    <Unicode>که مستحق کرامت کناه کارانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782668311787_2999" custom="readingOrder {index:4;}">
@@ -56,24 +56,24 @@
                 <Coords points="138,1171 576,1171 576,1313 138,1313" /><Baseline points="138,1259 576,1259" />
                 <Baseline points="148,1233 562,1248" />
                 <TextEquiv>
-                    <Unicode>مرو به صومعه کآنجا سیاه کارانند</Unicode>
+                    <Unicode>مرو بصومعه کانجا سیاه کارانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782668387893_3011" custom="readingOrder {index:6;}">
                 <Coords points="126,1324 566,1324 566,1465 126,1465" /><Baseline points="126,1411 566,1411" />
                 <Baseline points="134,1391 550,1403" />
                 <TextEquiv>
-                    <Unicode>پیاده می روم و همرهان سوارانند</Unicode>
+                    <Unicode>پیاده میروم و همرهان سوارانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>که از یمین و یسارت چه بیقرارانند
-که از تطاول زلفت چه بی قرارانند
-که ساکنان دردوست خاکسارانند
-که مستحق کرامت گناهکارانند
+که از تطاول زلفت چه سوکوارانند
+که ساکنان در دوست خاکسارانند
+که مستحق کرامت کناه کارانند
 که عندلیب تو درهر چمن هزارانند
-مرو به صومعه کآنجا سیاه کارانند
-پیاده می روم و همرهان سوارانند</Unicode>
+مرو بصومعه کانجا سیاه کارانند
+پیاده میروم و همرهان سوارانند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782668826185_3071" custom="readingOrder {index:1;}">
@@ -82,51 +82,51 @@
                 <Coords points="134,1738 587,1738 587,1868 134,1868" /><Baseline points="134,1819 587,1819" />
                 <Baseline points="143,1805 557,1811" />
                 <TextEquiv>
-                    <Unicode>گره از کار فروبسته ما بگشایند</Unicode>
+                    <Unicode>کره از کار فروبسته ما بکشایند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782668862605_3080" custom="readingOrder {index:1;}">
                 <Coords points="135,1873 570,1873 570,2016 135,2016" /><Baseline points="135,1962 570,1962" />
                 <Baseline points="147,1934 560,1950" />
                 <TextEquiv>
-                    <Unicode>دل قوی دار که از بهر خدا بگشایند</Unicode>
+                    <Unicode>دل قوی دار که از بهر خدا بکشایند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782668897050_3086" custom="readingOrder {index:2;}">
                 <Coords points="135,2018 570,2018 570,2155 135,2155" /><Baseline points="135,2103 570,2103" />
                 <Baseline points="148,2083 566,2105" />
                 <TextEquiv>
-                    <Unicode>هر طرف قافله مشک خطا بگشایند</Unicode>
+                    <Unicode>هر طرف قافله مشک خطا بکشایند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782668952561_3092" custom="readingOrder {index:3;}">
                 <Coords points="139,2161 581,2161 581,2304 139,2304" /><Baseline points="139,2250 581,2250" />
                 <Baseline points="151,2218 556,2236" />
                 <TextEquiv>
-                    <Unicode>که در خانه تزویر و ریا بگشایند</Unicode>
+                    <Unicode>که در خانه تزویر و ریا بکشایند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782668987183_3098" custom="readingOrder {index:4;}">
                 <Coords points="133,2304 573,2304 573,2443 133,2443" /><Baseline points="133,2390 573,2390" />
                 <Baseline points="145,2367 557,2377" />
                 <TextEquiv>
-                    <Unicode>بس در بسته به مفتاح دعا بگشایند</Unicode>
+                    <Unicode>بس در بسته بمفتاح دعا بکشایند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782669018130_3104" custom="readingOrder {index:5;}">
                 <Coords points="133,2449 573,2449 573,2594 133,2594" /><Baseline points="133,2539 573,2539" />
                 <Baseline points="146,2509 564,2535" />
                 <TextEquiv>
-                    <Unicode>تا حریفان همه خون از مژه ها بگشایند</Unicode>
+                    <Unicode>تا حریفان همه خون از مژه ها بکشایند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>گره از کار فروبسته ما بگشایند
-دل قوی دار که از بهر خدا بگشایند
-هر طرف قافله مشک خطا بگشایند
-که در خانه تزویر و ریا بگشایند
-بس در بسته به مفتاح دعا بگشایند
-تا حریفان همه خون از مژه ها بگشایند</Unicode>
+                <Unicode>کره از کار فروبسته ما بکشایند
+دل قوی دار که از بهر خدا بکشایند
+هر طرف قافله مشک خطا بکشایند
+که در خانه تزویر و ریا بکشایند
+بس در بسته بمفتاح دعا بکشایند
+تا حریفان همه خون از مژه ها بکشایند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782668420434_3017" custom="readingOrder {index:2;}">
@@ -135,19 +135,19 @@
                 <Coords points="366,1478 840,1478 840,1599 366,1599" /><Baseline points="366,1553 840,1553" />
                 <Baseline points="372,1543 833,1540" />
                 <TextEquiv>
-                    <Unicode>خلاص حافظ از آن زلف تابدار مباد</Unicode>
+                    <Unicode>خلاص حافظ ازان زلف تابدار مباد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782668461858_3026" custom="readingOrder {index:1;}">
                 <Coords points="369,1606 832,1606 832,1725 369,1725" /><Baseline points="369,1680 832,1680" />
                 <Baseline points="376,1658 812,1666" />
                 <TextEquiv>
-                    <Unicode>که بستگان کمند تو رستگارانند</Unicode>
+                    <Unicode>که بستکان کمند تو رستکارانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>خلاص حافظ از آن زلف تابدار مباد
-که بستگان کمند تو رستگارانند</Unicode>
+                <Unicode>خلاص حافظ ازان زلف تابدار مباد
+که بستکان کمند تو رستکارانند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782667381499_2925" custom="readingOrder {index:3;}">
@@ -156,59 +156,59 @@
                 <Coords points="663,456 1103,456 1103,598 663,598" /><Baseline points="663,544 1103,544" />
                 <Baseline points="685,533 1090,538" />
                 <TextEquiv>
-                    <Unicode>ز زیر زلف دوتا چون گذر کنی بنگر</Unicode>
+                    <Unicode>ز زیر زلف دوتا چون کذر کنی بنکر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782667424794_2934" custom="readingOrder {index:1;}">
                 <Coords points="661,611 1104,611 1104,740 661,740" /><Baseline points="661,691 1104,691" />
                 <Baseline points="670,671 1088,666" />
                 <TextEquiv>
-                    <Unicode>گذار کن چو صبا بر بنفشه زار و ببین</Unicode>
+                    <Unicode>کذار کن چو صبا بر بنفشه زار و به بین</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782667461643_2940" custom="readingOrder {index:2;}">
                 <Coords points="655,753 1100,753 1100,880 655,880" /><Baseline points="655,832 1100,832" />
                 <Baseline points="665,812 1083,808" />
                 <TextEquiv>
-                    <Unicode>رقیب درگذرو پیش از این مکن سخواب</Unicode>
+                    <Unicode>رقیب درکذرد پیش از این مکن سخواب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782667860044_2946" custom="readingOrder {index:3;}">
                 <Coords points="661,886 1101,886 1101,1032 661,1032" /><Baseline points="661,977 1101,977" />
                 <Baseline points="670,950 1088,956" />
                 <TextEquiv>
-                    <Unicode>نصیب ماست بهشت ای خداشناس برو</Unicode>
+                    <Unicode>نصیب ماست بهشت ایخداشناس برو</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782667891207_2952" custom="readingOrder {index:4;}">
                 <Coords points="665,1039 1098,1039 1098,1167 665,1167" /><Baseline points="665,1118 1098,1118" />
                 <Baseline points="673,1095 1088,1113 1084,1118 1092,1111" />
                 <TextEquiv>
-                    <Unicode>نه من بر آن گل عارض غزل سرایم و بس</Unicode>
+                    <Unicode>نه من بران کل عارض غزل سرایم و بس</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782667928848_2958" custom="readingOrder {index:5;}">
                 <Coords points="663,1173 1102,1173 1102,1307 663,1307" /><Baseline points="663,1256 1102,1256" />
                 <Baseline points="676,1247 1096,1249" />
                 <TextEquiv>
-                    <Unicode>برو به میکده و چهره ارغوانی کن</Unicode>
+                    <Unicode>برو بمیکده و چهره ارغوانی کن</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782667968077_2964" custom="readingOrder {index:6;}">
                 <Coords points="659,1311 1101,1311 1101,1451 659,1451" /><Baseline points="659,1398 1101,1398" />
                 <Baseline points="666,1377 1089,1385" />
                 <TextEquiv>
-                    <Unicode>تو دستگیر شو ای خضر پی خجسته که من</Unicode>
+                    <Unicode>تو دستکیر شو ای خضر پی خجسته که من</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ز زیر زلف دوتا چون گذر کنی بنگر
-گذار کن چو صبا بر بنفشه زار و ببین
-رقیب درگذرو پیش از این مکن سخواب
-نصیب ماست بهشت ای خداشناس برو
-نه من بر آن گل عارض غزل سرایم و بس
-برو به میکده و چهره ارغوانی کن
-تو دستگیر شو ای خضر پی خجسته که من</Unicode>
+                <Unicode>ز زیر زلف دوتا چون کذر کنی بنکر
+کذار کن چو صبا بر بنفشه زار و به بین
+رقیب درکذرد پیش از این مکن سخواب
+نصیب ماست بهشت ایخداشناس برو
+نه من بران کل عارض غزل سرایم و بس
+برو بمیکده و چهره ارغوانی کن
+تو دستکیر شو ای خضر پی خجسته که من</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782668551439_3032" custom="readingOrder {index:4;}">
@@ -217,21 +217,21 @@
                 <Coords points="662,1758 1104,1758 1104,1889 662,1889" /><Baseline points="662,1839 1104,1839" />
                 <Baseline points="672,1821 1094,1841" />
                 <TextEquiv>
-                    <Unicode>بود آیا که در میکده ها بگشایند</Unicode>
+                    <Unicode>بود آیا که در میکده ها بکشایند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782668601194_3041" custom="readingOrder {index:1;}">
                 <Coords points="662,1897 1109,1897 1109,2019 662,2019" /><Baseline points="662,1973 1109,1973" />
                 <Baseline points="671,1955 1091,1954" />
                 <TextEquiv>
-                    <Unicode>اگر از بهر دل زاهد خودبین بستند</Unicode>
+                    <Unicode>اکر از بهر دل زاهد خودبین بستند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782668638078_3047" custom="readingOrder {index:2;}">
                 <Coords points="660,2024 1114,2024 1114,2161 660,2161" /><Baseline points="660,2109 1114,2109" />
                 <Baseline points="668,2096 1103,2093" />
                 <TextEquiv>
-                    <Unicode>گر گره گشایی گره از زلف چوزنجیرکفار</Unicode>
+                    <Unicode>کر کشایی کره از زلف چو زنجیر نکار</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782668722562_3053" custom="readingOrder {index:3;}">
@@ -245,7 +245,7 @@
                 <Coords points="657,2315 1106,2315 1106,2443 657,2443" /><Baseline points="657,2394 1106,2394" />
                 <Baseline points="666,2369 1098,2379" />
                 <TextEquiv>
-                    <Unicode>ه صفای دل رندان صبوحی زدگان</Unicode>
+                    <Unicode>بصفای دل رندان صبوحی زدکان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782668788555_3065" custom="readingOrder {index:5;}">
@@ -256,11 +256,11 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بود آیا که در میکده ها بگشایند
-اگر از بهر دل زاهد خودبین بستند
-گر گره گشایی گره از زلف چوزنجیرکفار
+                <Unicode>بود آیا که در میکده ها بکشایند
+اکر از بهر دل زاهد خودبین بستند
+کر کشایی کره از زلف چو زنجیر نکار
 در میخانه ببستند خدایا مپسند
-ه صفای دل رندان صبوحی زدگان
+بصفای دل رندان صبوحی زدکان
 نامه تعزیت دختر رز بنویسید</Unicode>
             </TextEquiv>
         </TextRegion>

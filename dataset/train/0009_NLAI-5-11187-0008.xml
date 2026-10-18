@@ -21,7 +21,7 @@
             <TextLine id="line_1782045855185_294" custom="readingOrder {index:0;}">
                 <Coords points="178,365 446,365 446,433 178,433" /><Baseline points="178,407 446,407" />
                 <TextEquiv>
-                    <Unicode>ایمان المریعرف بالیمانه</Unicode>
+                    <Unicode>ایمان الم یعرف بایمانه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782045933375_298" custom="readingOrder {index:1;}">
@@ -31,7 +31,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ایمان المریعرف بالیمانه
+                <Unicode>ایمان الم یعرف بایمانه
 ایمان مرد شناخته میشود بقسمهای او</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -40,18 +40,18 @@
             <TextLine id="line_1782045984881_305" custom="readingOrder {index:0;}">
                 <Coords points="65,516 544,517 544,611 65,610" /><Baseline points="65,575 544,575" />
                 <TextEquiv>
-                    <Unicode>آنکه ایمانش نبودت معلوم بهربرهان بس است عرفانرا</Unicode>
+                    <Unicode>آنکه ایمانش نبودت معلوم بهر برهان بس است عرفانرا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782046043339_309" custom="readingOrder {index:1;}">
                 <Coords points="67,608 544,609 544,687 67,686" /><Baseline points="67,657 544,657" />
                 <TextEquiv>
-                    <Unicode>از قسمهای او بگاه سخن محک امتحان ایمان را</Unicode>
+                    <Unicode>از قسمهای او بکاه سخن محک امتحان ایمان را</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>آنکه ایمانش نبودت معلوم بهربرهان بس است عرفانرا
-از قسمهای او بگاه سخن محک امتحان ایمان را</Unicode>
+                <Unicode>آنکه ایمانش نبودت معلوم بهر برهان بس است عرفانرا
+از قسمهای او بکاه سخن محک امتحان ایمان را</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782046090704_313" custom="readingOrder {index:2;}">
@@ -59,7 +59,7 @@
             <TextLine id="line_1782046095735_316" custom="readingOrder {index:0;}">
                 <Coords points="176,687 444,687 440,759 172,759" /><Baseline points="172,732 444,732" />
                 <TextEquiv>
-                    <Unicode>اخوان الزمان جواسیس العیوب</Unicode>
+                    <Unicode>اخوان هذا الزمان جواسیس العیوب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782046159175_320" custom="readingOrder {index:1;}">
@@ -69,7 +69,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>اخوان الزمان جواسیس العیوب
+                <Unicode>اخوان هذا الزمان جواسیس العیوب
 برادران این زمان جاسوسان عیبها باشند</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -78,7 +78,7 @@
             <TextLine id="line_1782046215527_327" custom="readingOrder {index:0;}">
                 <Coords points="63,840 539,840 539,921 63,921" /><Baseline points="63,890 539,890" />
                 <TextEquiv>
-                    <Unicode>ایکه هست از برادران زمان تکیه است بر مودت آنها</Unicode>
+                    <Unicode>ایکه هست از برادران زمان تکیه ات بر مودت آنها</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782046269623_331" custom="readingOrder {index:1;}">
@@ -88,7 +88,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ایکه هست از برادران زمان تکیه است بر مودت آنها
+                <Unicode>ایکه هست از برادران زمان تکیه ات بر مودت آنها
 آنچنان دان که جمله جاسوسند بهر نشر عیوب تو همه جا</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -116,7 +116,7 @@
             <TextLine id="line_1782046427231_349" custom="readingOrder {index:0;}">
                 <Coords points="62,1166 539,1168 539,1246 64,1244" /><Baseline points="62,1216 539,1216" />
                 <TextEquiv>
-                    <Unicode>برادر نباشد که بود دوستدارت براحت وسرا</Unicode>
+                    <Unicode>آن برادر نباشدت که بود دوستدارت براحت وسرا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782046536194_363" custom="readingOrder {index:1;}">
@@ -126,7 +126,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>برادر نباشد که بود دوستدارت براحت وسرا
+                <Unicode>آن برادر نباشدت که بود دوستدارت براحت وسرا
 آن برادر بود که یا وریت کند اندر مشقت و ضرا</Unicode>
             </TextEquiv>
         </TextRegion>

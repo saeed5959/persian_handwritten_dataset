@@ -27,12 +27,12 @@
             <TextLine id="line_1782046987329_426" custom="readingOrder {index:1;}">
                 <Coords points="166,456 431,455 432,533 166,534" /><Baseline points="166,504 432,504" />
                 <TextEquiv>
-                    <Unicode>نیکویی کن بد اندیش خود را تا بزرگ ان باشی</Unicode>
+                    <Unicode>نیکویی کن بد اندیش خود را تا بزرک ان باشی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>احسن الی المسی قده
-نیکویی کن بد اندیش خود را تا بزرگ ان باشی</Unicode>
+نیکویی کن بد اندیش خود را تا بزرک ان باشی</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782047037179_430" custom="readingOrder {index:1;}">
@@ -40,18 +40,18 @@
             <TextLine id="line_1782047049758_433" custom="readingOrder {index:0;}">
                 <Coords points="48,534 535,534 536,623 49,623" /><Baseline points="48,589 536,589" />
                 <TextEquiv>
-                    <Unicode>ایکه خواهی که جهان یابی حرمت وعزت بزرگان را</Unicode>
+                    <Unicode>ایکه خواهی که جهان یابی حرمت وعزت بزرکان را</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782047097947_437" custom="readingOrder {index:1;}">
                 <Coords points="51,621 536,621 536,712 51,712" /><Baseline points="51,677 536,677" />
                 <TextEquiv>
-                    <Unicode>آنکه بد کرد باتو نیکی کن در عوض تا شوی بزرگ آن را</Unicode>
+                    <Unicode>آنکه بد کرد با تو نیکی کن در عوض تا شوی بزرک آن را</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ایکه خواهی که جهان یابی حرمت وعزت بزرگان را
-آنکه بد کرد باتو نیکی کن در عوض تا شوی بزرگ آن را</Unicode>
+                <Unicode>ایکه خواهی که جهان یابی حرمت وعزت بزرکان را
+آنکه بد کرد با تو نیکی کن در عوض تا شوی بزرک آن را</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782047152285_441" custom="readingOrder {index:2;}">
@@ -116,7 +116,7 @@
             <TextLine id="line_1782047451356_477" custom="readingOrder {index:0;}">
                 <Coords points="52,1184 540,1184 538,1264 50,1264" /><Baseline points="50,1234 540,1234" />
                 <TextEquiv>
-                    <Unicode>الم و زحمت عبث باشد زهد مومن اگر بود بملا</Unicode>
+                    <Unicode>الم و زحمت عبث باشد زهد مومن اکر بود بملا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782047528378_481" custom="readingOrder {index:1;}">
@@ -126,7 +126,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>الم و زحمت عبث باشد زهد مومن اگر بود بملا
+                <Unicode>الم و زحمت عبث باشد زهد مومن اکر بود بملا
 از ریا چون رسد بزهد زیان به بود زهد کش کنی اخفا</Unicode>
             </TextEquiv>
         </TextRegion>

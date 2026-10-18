@@ -17,7 +17,7 @@
                 <Coords points="340,653 647,653 647,535 340,535" /><Baseline points="340,608 647,608" />
                 <Baseline points="368,595 631,594" />
                 <TextEquiv>
-                    <Unicode>پرستنده و غمگسار منید</Unicode>
+                    <Unicode>پرستنده و غمکسار منید</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781454192296_688" custom="readingOrder {index:1;}">
@@ -31,7 +31,7 @@
                 <Coords points="686,773 1000,773 1000,660 686,660" /><Baseline points="686,730 1000,730" />
                 <Baseline points="700,729 991,729" />
                 <TextEquiv>
-                    <Unicode>بدانید هر پنج و آگه بید</Unicode>
+                    <Unicode>بدانید هر پنج و آکاه بید</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781454200039_697" custom="readingOrder {index:3;}">
@@ -59,7 +59,7 @@
                 <Coords points="340,1034 656,1034 656,915 340,915" /><Baseline points="340,989 656,989" />
                 <Baseline points="358,970 627,974" />
                 <TextEquiv>
-                    <Unicode>به خواب اندر اندیشه زو نگسلم</Unicode>
+                    <Unicode>به خواب اندر اندیشه زو نکسلم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781454208848_706" custom="readingOrder {index:7;}">
@@ -136,17 +136,17 @@
                 <Coords points="682,1645 997,1645 997,1551 682,1551" /><Baseline points="682,1609 997,1609" />
                 <Baseline points="694,1610 1001,1610" />
                 <TextEquiv>
-                    <Unicode>پرستندگانرا شگفت آمد آن</Unicode>
+                    <Unicode>پرستندکانرا شکفت آمد آن</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>پرستنده و غمگسار منید
+                <Unicode>پرستنده و غمکسار منید
 شما یک بیک رازدار منید
-بدانید هر پنج و آگه بید
+بدانید هر پنج و آکاه بید
 همه ساله با بخت همراه بید
 ازو بر شده موج تا آسمان
 که من عاشقی ام چو بحر دمان
-به خواب اندر اندیشه زو نگسلم
+به خواب اندر اندیشه زو نکسلم
 پر از مهر زالست روشن دلم
 شب و روزم اندیشه چهر اوست
 روانم همیشه پر از مهر اوست
@@ -157,7 +157,7 @@
 یکی چاره باید کنون ساختن
 دل و جانم از رنج پرداختن
 که بدکاری آید ز دخت شهان
-پرستندگانرا شگفت آمد آن</Unicode>
+پرستندکانرا شکفت آمد آن</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

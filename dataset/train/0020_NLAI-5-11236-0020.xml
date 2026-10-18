@@ -38,7 +38,7 @@
                 <Coords points="185,779 511,779 511,660 185,660" /><Baseline points="185,734 511,734" />
                 <Baseline points="203,720 484,722" />
                 <TextEquiv>
-                    <Unicode>سرافراز بر دختر میان مهان</Unicode>
+                    <Unicode>سرافراز دختر میان مهان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781458328215_838" custom="readingOrder {index:4;}">
@@ -52,7 +52,7 @@
                 <Coords points="183,889 494,889 494,786 183,786" /><Baseline points="183,850 494,850" />
                 <Baseline points="202,847 479,845" />
                 <TextEquiv>
-                    <Unicode>میان شبستان چو روشن نگین</Unicode>
+                    <Unicode>میان شبستان چو روشن نکین</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781458344582_847" custom="readingOrder {index:6;}">
@@ -73,14 +73,14 @@
                 <Coords points="180,1138 497,1138 497,1036 180,1036" /><Baseline points="180,1099 497,1099" />
                 <Baseline points="203,1090 479,1090" />
                 <TextEquiv>
-                    <Unicode>فرستد همی سوی خاور خدای</Unicode>
+                    <Unicode>فرستد همی بسوی خاور خدای</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781458347719_850" custom="readingOrder {index:9;}">
                 <Coords points="520,1149 836,1149 836,1037 520,1037" /><Baseline points="520,1106 836,1106" />
                 <Baseline points="546,1107 814,1102" />
                 <TextEquiv>
-                    <Unicode>نگار رخ تو ز قنوح رای</Unicode>
+                    <Unicode>نکار رخ تو ز قنوح رای</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781458355647_856" custom="readingOrder {index:10;}">
@@ -94,28 +94,28 @@
                 <Coords points="182,1265 487,1265 487,1167 182,1167" /><Baseline points="182,1228 487,1228" />
                 <Baseline points="191,1232 475,1226" />
                 <TextEquiv>
-                    <Unicode>پدر را به نزد تو آزرم نیست</Unicode>
+                    <Unicode>پدر را بنزد تو ازرم نیست</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781458367064_865" custom="readingOrder {index:12;}">
                 <Coords points="179,1410 482,1410 482,1280 179,1280" /><Baseline points="179,1361 482,1361" />
                 <Baseline points="205,1350 470,1348" />
                 <TextEquiv>
-                    <Unicode>تو خواهی که او را بگیری بر</Unicode>
+                    <Unicode>تو خواهی که او را بکیری ببر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781458364263_862" custom="readingOrder {index:13;}">
                 <Coords points="535,1410 839,1410 839,1280 535,1280" /><Baseline points="535,1361 839,1361" />
                 <Baseline points="543,1351 816,1353" />
                 <TextEquiv>
-                    <Unicode>که آن را که اندازد از بر پدر</Unicode>
+                    <Unicode>که آن را که اندارد از بر پدر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781458373919_871" custom="readingOrder {index:14;}">
                 <Coords points="179,1510 485,1510 485,1414 179,1414" /><Baseline points="179,1474 485,1474" />
                 <Baseline points="192,1475 473,1476" />
                 <TextEquiv>
-                    <Unicode>نشانی شده در میان گروه</Unicode>
+                    <Unicode>نشانی شده در میان کروه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781458370319_868" custom="readingOrder {index:15;}">
@@ -136,28 +136,28 @@
                 <Coords points="529,1636 843,1636 843,1534 529,1534" /><Baseline points="529,1597 843,1597" />
                 <Baseline points="540,1591 804,1603" />
                 <TextEquiv>
-                    <Unicode>کس از مادران پیر هرگز نزاد</Unicode>
+                    <Unicode>کس از مادران پیر هرکز نزاد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>به شکی دل از جای برخواستند
 همه پاسخش را بیاراستند
 که ای افسر بانوان جهان
-سرافراز بر دختر میان مهان
+سرافراز دختر میان مهان
 ستوده ز هندوستان تا بچین
-میان شبستان چو روشن نگین
+میان شبستان چو روشن نکین
 چو رخسار تو تابش پرو نیست
 ببالای تو در چمن سرو نیست
-فرستد همی سوی خاور خدای
-نگار رخ تو ز قنوح رای
+فرستد همی بسوی خاور خدای
+نکار رخ تو ز قنوح رای
 ترا خود بدیده درون شرم نیست
-پدر را به نزد تو آزرم نیست
-تو خواهی که او را بگیری بر
-که آن را که اندازد از بر پدر
-نشانی شده در میان گروه
+پدر را بنزد تو ازرم نیست
+تو خواهی که او را بکیری ببر
+که آن را که اندارد از بر پدر
+نشانی شده در میان کروه
 که پرورده مرغ باشد بکوه
 وزان کس که زاید نباشد نژاد
-کس از مادران پیر هرگز نزاد</Unicode>
+کس از مادران پیر هرکز نزاد</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

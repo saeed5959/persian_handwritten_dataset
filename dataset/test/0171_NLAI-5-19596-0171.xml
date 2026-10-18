@@ -21,14 +21,14 @@
                 <Coords points="437,434 894,434 894,552 437,552" /><Baseline points="437,507 894,507" />
                 <Baseline points="471,478 880,495" />
                 <TextEquiv>
-                    <Unicode>با شیر اندر آمد و با جان به در شود</Unicode>
+                    <Unicode>با شیر اندرون شد و با جان بدر شود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782399558783_2458" custom="readingOrder {index:1;}">
                 <Coords points="436,560 894,560 894,674 436,674" /><Baseline points="436,631 894,631" />
                 <Baseline points="489,618 862,623" />
                 <TextEquiv>
-                    <Unicode>بر هییتی که ابر محیط قمر شود</Unicode>
+                    <Unicode>بر هیاتی که ابر محیط مستمر شود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782399627120_2464" custom="readingOrder {index:2;}">
@@ -42,7 +42,7 @@
                 <Coords points="428,853 888,853 888,941 428,941" /><Baseline points="428,908 888,908" />
                 <Baseline points="440,901 880,899" />
                 <TextEquiv>
-                    <Unicode>بگذار تا که ماه ز عقرب به در شود</Unicode>
+                    <Unicode>بکذار تا که ماه ز عقرب بدر شود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782399741906_2481" custom="readingOrder {index:4;}">
@@ -63,17 +63,17 @@
                 <Coords points="437,1246 895,1246 895,1389 437,1389" /><Baseline points="437,1335 895,1335" />
                 <Baseline points="442,1324 870,1335" />
                 <TextEquiv>
-                    <Unicode>مگذار هان که مدعیان را خبر شود</Unicode>
+                    <Unicode>مکذار هان که مدعیانرا خبر شود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>با شیر اندر آمد و با جان به در شود
-بر هییتی که ابر محیط قمر شود
+                <Unicode>با شیر اندرون شد و با جان بدر شود
+بر هیاتی که ابر محیط مستمر شود
 کشت عراق و فارس به یکبارتر شود
-بگذار تا که ماه ز عقرب به در شود
+بکذار تا که ماه ز عقرب بدر شود
 هرچند سعی بیش نمایی بتر شود
 پای خیال دوست مبادا که سر شود
-مگذار هان که مدعیان را خبر شود</Unicode>
+مکذار هان که مدعیانرا خبر شود</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782400295244_2575" custom="readingOrder {index:1;}">
@@ -82,14 +82,14 @@
                 <Coords points="447,1677 906,1677 906,1807 447,1807" /><Baseline points="447,1758 906,1758" />
                 <Baseline points="462,1724 871,1741" />
                 <TextEquiv>
-                    <Unicode>دگر ز طالع خویشم چه ملتمس باشد</Unicode>
+                    <Unicode>دکر ز خاطر خویشم چه ملتمس باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782400341053_2586" custom="readingOrder {index:1;}">
                 <Coords points="447,1827 894,1827 894,1982 447,1982" /><Baseline points="447,1923 894,1923" />
                 <Baseline points="436,1904 894,1887" />
                 <TextEquiv>
-                    <Unicode>که هر کجا شکرستان بود مگس باشد</Unicode>
+                    <Unicode>که هر کجا شکرستان بود مکس باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782400364163_2592" custom="readingOrder {index:2;}">
@@ -110,7 +110,7 @@
                 <Coords points="441,2256 897,2256 897,2379 441,2379" /><Baseline points="441,2332 897,2332" />
                 <Baseline points="459,2310 870,2315" />
                 <TextEquiv>
-                    <Unicode>کیم به سرو بلند تو دسترس باشد</Unicode>
+                    <Unicode>کیم بسرو بلند تو دست رس باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782400504998_2610" custom="readingOrder {index:5;}">
@@ -121,11 +121,11 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>دگر ز طالع خویشم چه ملتمس باشد
-که هر کجا شکرستان بود مگس باشد
+                <Unicode>دکر ز خاطر خویشم چه ملتمس باشد
+که هر کجا شکرستان بود مکس باشد
 که نیم جان مرا یک کرشمه بس باشد
 مرا بهر دو جهان حاصل آن نفس باشد
-کیم به سرو بلند تو دسترس باشد
+کیم بسرو بلند تو دست رس باشد
 که سیل محنت عشقش ز پیش و پس باشد</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -135,19 +135,19 @@
                 <Coords points="614,1387 1176,1387 1176,1523 614,1523" /><Baseline points="614,1471 1176,1471" />
                 <Baseline points="669,1463 1151,1468" />
                 <TextEquiv>
-                    <Unicode>حافظ سر از لحد برآرد بپای بوس</Unicode>
+                    <Unicode>حافظ سر از لحد بدرآرد بپای بوس</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782399978702_2522" custom="readingOrder {index:1;}">
                 <Coords points="625,1532 1178,1532 1178,1673 625,1673" /><Baseline points="625,1619 1178,1619" />
                 <Baseline points="677,1601 1117,1601" />
                 <TextEquiv>
-                    <Unicode>گر خاک او بپای شما پی پیر شود</Unicode>
+                    <Unicode>کر خاک او بپای شما پی پسر شود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حافظ سر از لحد برآرد بپای بوس
-گر خاک او بپای شما پی پیر شود</Unicode>
+                <Unicode>حافظ سر از لحد بدرآرد بپای بوس
+کر خاک او بپای شما پی پسر شود</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782399096331_2404" custom="readingOrder {index:3;}">
@@ -156,58 +156,58 @@
                 <Coords points="961,435 1425,435 1425,566 961,566" /><Baseline points="961,516 1425,516" />
                 <Baseline points="979,504 1393,485" />
                 <TextEquiv>
-                    <Unicode>عشق تو در درونم و مهر تو در دلم</Unicode>
+                    <Unicode>عشق تو در وجودم و مهر تو در دلم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782399165451_2413" custom="readingOrder {index:1;}">
                 <Coords points="969,566 1417,566 1417,667 969,667" /><Baseline points="969,629 1417,629" />
                 <Baseline points="974,630 1396,621" />
                 <TextEquiv>
-                    <Unicode>دی در میان زلف بدیدم رخ نگار</Unicode>
+                    <Unicode>وی در میان زلف بدیدم رخ نکار</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782399201653_2419" custom="readingOrder {index:2;}">
                 <Coords points="983,690 1425,690 1425,810 983,810" /><Baseline points="983,764 1425,764" />
                 <Baseline points="1001,753 1395,756" />
                 <TextEquiv>
-                    <Unicode>گرزآنکه من سرشک فشانم به زنده رود</Unicode>
+                    <Unicode>کر زانکه من سرشک فشانم برنده رود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782399305028_2426" custom="readingOrder {index:3;}">
                 <Coords points="988,813 1412,813 1412,961 988,961" /><Baseline points="988,905 1412,905" />
                 <Baseline points="996,895 1395,899" />
                 <TextEquiv>
-                    <Unicode>گفتم که ابتدا کنم از بوسه گفت نه</Unicode>
+                    <Unicode>کفتم که ابتدا کنم از بوسه کفت نه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782399328840_2432" custom="readingOrder {index:4;}">
                 <Coords points="975,979 1420,979 1420,1109 975,1109" /><Baseline points="975,1060 1420,1060" />
                 <Baseline points="979,1052 1400,1052" />
                 <TextEquiv>
-                    <Unicode>دردی ست درد عشق که اندر علاج آن</Unicode>
+                    <Unicode>دردیست درد عشق که اندر علاج او</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782399364424_2439" custom="readingOrder {index:5;}">
                 <Coords points="962,1114 1432,1114 1432,1243 962,1243" /><Baseline points="962,1194 1432,1194" />
                 <Baseline points="985,1326 1397,1334" />
                 <TextEquiv>
-                    <Unicode>ای مردمان دیده مگریید بعد از این</Unicode>
+                    <Unicode>ایمردمان دیده مکریید بعد از این</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782399454296_2443" custom="readingOrder {index:6;}">
                 <Coords points="975,1239 1427,1239 1427,1391 975,1391" /><Baseline points="975,1333 1427,1333" />
                 <TextEquiv>
-                    <Unicode>زاهد بیاد لعلش با که می خوری</Unicode>
+                    <Unicode>زاهد بیاد لعلش با که میخوری</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>عشق تو در درونم و مهر تو در دلم
-دی در میان زلف بدیدم رخ نگار
-گرزآنکه من سرشک فشانم به زنده رود
-گفتم که ابتدا کنم از بوسه گفت نه
-دردی ست درد عشق که اندر علاج آن
-ای مردمان دیده مگریید بعد از این
-زاهد بیاد لعلش با که می خوری</Unicode>
+                <Unicode>عشق تو در وجودم و مهر تو در دلم
+وی در میان زلف بدیدم رخ نکار
+کر زانکه من سرشک فشانم برنده رود
+کفتم که ابتدا کنم از بوسه کفت نه
+دردیست درد عشق که اندر علاج او
+ایمردمان دیده مکریید بعد از این
+زاهد بیاد لعلش با که میخوری</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782400026568_2528" custom="readingOrder {index:4;}">
@@ -216,7 +216,7 @@
                 <Coords points="973,1675 1418,1675 1418,1813 973,1813" /><Baseline points="973,1761 1418,1761" />
                 <Baseline points="995,1749 1394,1756" />
                 <TextEquiv>
-                    <Unicode>مرا به وصل تو گر زان که دسترس باشد</Unicode>
+                    <Unicode>مرا بوصل تو کر زانکه دست رس باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782400076514_2537" custom="readingOrder {index:1;}">
@@ -230,29 +230,37 @@
                 <Coords points="982,1955 1408,1955 1408,2098 982,2098" /><Baseline points="982,2044 1408,2044" />
                 <Baseline points="987,2010 1385,2048" />
                 <TextEquiv>
-                    <Unicode>چه حاجت است به شمشیر قتل عاشق را</Unicode>
+                    <Unicode>چه حاجتست بشمشیر قتل عاشق را</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1782400097741_2545" custom="readingOrder {index:2;}">
+                <Coords points="982,2100 1408,2100 1408,2214 982,2214" /><Baseline points="982,2150 1408,2150" />
+                <Baseline points="987,2150 1385,2150" />
+                <TextEquiv>
+                    <Unicode>اکر بهر دو جهان یکنفس زنم با دوست</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782400117069_2549" custom="readingOrder {index:3;}">
-                <Coords points="954,2112 1405,2112 1405,2215 954,2215" /><Baseline points="954,2176 1405,2176" />
-                <Baseline points="996,2174 1404,2168" />
+                <Coords points="954,2215 1405,2215 1405,2350 954,2350" /><Baseline points="954,2280 1405,2280" />
+                <Baseline points="996,2274 1404,2268" />
                 <TextEquiv>
-                    <Unicode>ازین هوس که مرا هست اگر شوم در خاک</Unicode>
+                    <Unicode>ازین هوس که مرا دست بحث کوتاه است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782400255047_2566" custom="readingOrder {index:4;}">
                 <Coords points="978,2370 1427,2370 1427,2513 978,2513" /><Baseline points="978,2459 1427,2459" />
                 <Baseline points="994,2442 1399,2460" />
                 <TextEquiv>
-                    <Unicode>ره خلاص کجا باشد آن غریقی را</Unicode>
+                    <Unicode>ره خلاص کجا باشد آن غریغی را</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>مرا به وصل تو گر زان که دسترس باشد
+                <Unicode>مرا بوصل تو کر زانکه دست رس باشد
 بر آستان تو غوغای عاشقان چه عجب
-چه حاجت است به شمشیر قتل عاشق را
-ازین هوس که مرا هست اگر شوم در خاک
-ره خلاص کجا باشد آن غریقی را</Unicode>
+چه حاجتست بشمشیر قتل عاشق را
+اکر بهر دو جهان یکنفس زنم با دوست
+ازین هوس که مرا دست بحث کوتاه است
+ره خلاص کجا باشد آن غریغی را</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

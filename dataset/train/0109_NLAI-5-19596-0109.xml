@@ -28,7 +28,7 @@
                 <Coords points="509,577 923,577 923,682 509,682" /><Baseline points="509,642 923,642" />
                 <Baseline points="526,621 916,636" />
                 <TextEquiv>
-                    <Unicode>آن حکایت ها که از طوفان کنند</Unicode>
+                    <Unicode>آن حکایتها که از طوفان کنند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782580122193_1983" custom="readingOrder {index:2;}">
@@ -42,14 +42,14 @@
                 <Coords points="503,846 930,846 930,990 503,990" /><Baseline points="503,935 930,935" />
                 <Baseline points="512,903 920,925" />
                 <TextEquiv>
-                    <Unicode>مرگ را بربیدلان آسان کنند</Unicode>
+                    <Unicode>مرک را بر بیدلان آسان کنند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>وز کجا این طلسم بر انسان کنند
-آن حکایت ها که از طوفان کنند
+آن حکایتها که از طوفان کنند
 در وفایت جان و دل قربان کنند
-مرگ را بربیدلان آسان کنند</Unicode>
+مرک را بر بیدلان آسان کنند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782580805587_2071" custom="readingOrder {index:1;}">
@@ -58,7 +58,7 @@
                 <Coords points="492,1275 923,1275 923,1421 492,1421" /><Baseline points="492,1366 923,1366" />
                 <Baseline points="503,1367 915,1358" />
                 <TextEquiv>
-                    <Unicode>آیا بود که گوشه چشمی به ما کنند</Unicode>
+                    <Unicode>آیا بود که کوشه چشمی بما کنند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782580876679_2080" custom="readingOrder {index:1;}">
@@ -72,14 +72,14 @@
                 <Coords points="495,1566 925,1566 925,1689 495,1689" /><Baseline points="495,1642 925,1642" />
                 <Baseline points="503,1628 917,1635" />
                 <TextEquiv>
-                    <Unicode>هر کس حکایتی به تصور چرا کنند</Unicode>
+                    <Unicode>هر کس حکایتی بتصور چرا کنند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782580943515_2092" custom="readingOrder {index:3;}">
                 <Coords points="490,1696 929,1696 929,1838 490,1838" /><Baseline points="490,1784 929,1784" />
                 <Baseline points="499,1763 917,1780" />
                 <TextEquiv>
-                    <Unicode>آن به که کار خود به عنایت رها کنند</Unicode>
+                    <Unicode>آن به که کار خود بعنایت رها کنند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782580987247_2098" custom="readingOrder {index:4;}">
@@ -107,7 +107,7 @@
                 <Coords points="486,2268 921,2268 921,2396 486,2396" /><Baseline points="486,2347 921,2347" />
                 <Baseline points="494,2324 904,2341" />
                 <TextEquiv>
-                    <Unicode>تا آن زمان که پرده برافتد چه ها کنند</Unicode>
+                    <Unicode>تا آن زمان که پرده برافتد چها کنند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782581161522_2122" custom="readingOrder {index:8;}">
@@ -118,14 +118,14 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>آیا بود که گوشه چشمی به ما کنند
+                <Unicode>آیا بود که کوشه چشمی بما کنند
 باشد که از خزانه غیبم دوا کنند
-هر کس حکایتی به تصور چرا کنند
-آن به که کار خود به عنایت رها کنند
+هر کس حکایتی بتصور چرا کنند
+آن به که کار خود بعنایت رها کنند
 اهل نظر معامله با آشنا کنند
 اوقات خود ز بهر تو صرف دعا کنند
 ترسم برادران غیورش قبا کنند
-تا آن زمان که پرده برافتد چه ها کنند
+تا آن زمان که پرده برافتد چها کنند
 صاحبدلان حکایت دل خوش ادا کنند</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -156,7 +156,7 @@
                 <Coords points="1023,442 1445,442 1445,580 1023,580" /><Baseline points="1023,528 1445,528" />
                 <Baseline points="1043,529 1438,529" />
                 <TextEquiv>
-                    <Unicode>مردم چشمم به خون آغشته شد</Unicode>
+                    <Unicode>مردم چشمم بخون آغشته شد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782579759757_1944" custom="readingOrder {index:1;}">
@@ -177,14 +177,14 @@
                 <Coords points="1018,868 1452,868 1452,995 1018,995" /><Baseline points="1018,947 1452,947" />
                 <Baseline points="1028,934 1431,931" />
                 <TextEquiv>
-                    <Unicode>کو نگاهی از دو چشمت تا روان</Unicode>
+                    <Unicode>کو نکاهی از دو چشمت تا روان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>مردم چشمم به خون آغشته شد
+                <Unicode>مردم چشمم بخون آغشته شد
 پیش چشمم کمتر است از قطره
 عید رخسارتو کو تا عاشقان
-کو نگاهی از دو چشمت تا روان</Unicode>
+کو نکاهی از دو چشمت تا روان</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782580394428_2011" custom="readingOrder {index:4;}">
@@ -193,28 +193,28 @@
                 <Coords points="1016,1313 1441,1313 1441,1413 1016,1413" /><Baseline points="1016,1375 1441,1375" />
                 <Baseline points="1020,1369 1434,1365" />
                 <TextEquiv>
-                    <Unicode>آنان که خاک را به نظر کیمیا کنند</Unicode>
+                    <Unicode>آنان که خاک را بنظر کیمیا کنند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782580457068_2020" custom="readingOrder {index:1;}">
                 <Coords points="1017,1416 1442,1416 1442,1554 1017,1554" /><Baseline points="1017,1502 1442,1502" />
                 <Baseline points="1027,1487 1434,1504" />
                 <TextEquiv>
-                    <Unicode>دردم نهفته به ز طبیبان مدعی</Unicode>
+                    <Unicode>در دم نهفته به ز طبیبان مدعی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782580505928_2026" custom="readingOrder {index:2;}">
                 <Coords points="1016,1562 1444,1562 1444,1703 1016,1703" /><Baseline points="1016,1649 1444,1649" />
                 <Baseline points="1022,1628 1435,1643" />
                 <TextEquiv>
-                    <Unicode>معشوقه چون نقاب ز رخ درنمی کشد</Unicode>
+                    <Unicode>معشوقه چون نقاب ز رخ برنمیکشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782580545664_2032" custom="readingOrder {index:3;}">
                 <Coords points="1016,1711 1450,1711 1450,1838 1016,1838" /><Baseline points="1016,1790 1450,1790" />
                 <Baseline points="1021,1765 1434,1780" />
                 <TextEquiv>
-                    <Unicode>چون حسن عافیتست نه به رندی و زاهدی نیست</Unicode>
+                    <Unicode>چون حسن عافیتست نه برندی و زاهدی نیست</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782580610364_2039" custom="readingOrder {index:4;}">
@@ -228,40 +228,40 @@
                 <Coords points="1015,1995 1447,1995 1447,2130 1015,2130" /><Baseline points="1015,2079 1447,2079" />
                 <Baseline points="1021,2056 1437,2065" />
                 <TextEquiv>
-                    <Unicode>بگذر به کوی میکده تا زمره حضور</Unicode>
+                    <Unicode>بکذر کوی میکده تا زمره حضور</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782580693052_2053" custom="readingOrder {index:6;}">
                 <Coords points="1006,2142 1447,2142 1447,2279 1006,2279" /><Baseline points="1006,2227 1447,2227" />
                 <Baseline points="1014,2213 1432,2211" />
                 <TextEquiv>
-                    <Unicode>پیراهنی که آید از او بوی یوسفم</Unicode>
+                    <Unicode>پیراهنی که آید ازو بوی یوسفم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782580727431_2059" custom="readingOrder {index:7;}">
                 <Coords points="1004,2291 1442,2291 1442,2406 1004,2406" /><Baseline points="1004,2362 1442,2362" />
                 <Baseline points="1013,2342 1422,2353" />
                 <TextEquiv>
-                    <Unicode>حالی درون پرده بسی فتنه می رود</Unicode>
+                    <Unicode>حالی درون پرده بسی فتنه میرود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782580764339_2065" custom="readingOrder {index:8;}">
                 <Coords points="1015,2413 1437,2413 1437,2527 1015,2527" /><Baseline points="1015,2484 1437,2484" />
                 <Baseline points="1023,2454 1425,2466" />
                 <TextEquiv>
-                    <Unicode>گر سنگ از این حدیث بنالد عجب مدار</Unicode>
+                    <Unicode>کر سنک از این حدیث بنالد عجب مدار</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>آنان که خاک را به نظر کیمیا کنند
-دردم نهفته به ز طبیبان مدعی
-معشوقه چون نقاب ز رخ درنمی کشد
-چون حسن عافیتست نه به رندی و زاهدی نیست
+                <Unicode>آنان که خاک را بنظر کیمیا کنند
+در دم نهفته به ز طبیبان مدعی
+معشوقه چون نقاب ز رخ برنمیکشد
+چون حسن عافیتست نه برندی و زاهدی نیست
 بی معرفت مباش که در من یزید عشق
-بگذر به کوی میکده تا زمره حضور
-پیراهنی که آید از او بوی یوسفم
-حالی درون پرده بسی فتنه می رود
-گر سنگ از این حدیث بنالد عجب مدار</Unicode>
+بکذر کوی میکده تا زمره حضور
+پیراهنی که آید ازو بوی یوسفم
+حالی درون پرده بسی فتنه میرود
+کر سنک از این حدیث بنالد عجب مدار</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

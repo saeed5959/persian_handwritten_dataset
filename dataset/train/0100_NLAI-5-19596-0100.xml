@@ -21,35 +21,35 @@
                 <Coords points="119,531 1102,531 1102,655 119,655" /><Baseline points="119,608 1102,608" />
                 <Baseline points="162,606 1090,609" />
                 <TextEquiv>
-                    <Unicode>نه من از پرده تقوا به درافتادم و بس پدرم نیز بهشت ابد از دست بهشت</Unicode>
+                    <Unicode>نه من از خانه تقوا بدر افتادم و بس پدر نیز بهشت ابد از دست بهشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781979908302_1235" custom="readingOrder {index:1;}">
                 <Coords points="143,665 1102,665 1102,791 143,791" /><Baseline points="143,743 1102,743" />
                 <Baseline points="167,732 1085,732" />
                 <TextEquiv>
-                    <Unicode>بر عملتکیه مکن که در روز ازل تو چه دانی قلم صنع به نامت چه نوشت</Unicode>
+                    <Unicode>بر عمل تکیه مکن که در روز ازل تو چه دانی قلم صنع بنامت چه نوشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781979910483_1238" custom="readingOrder {index:2;}">
                 <Coords points="133,809 1099,809 1099,927 133,927" /><Baseline points="133,882 1099,882" />
                 <Baseline points="164,853 1075,877" />
                 <TextEquiv>
-                    <Unicode>گر نهادت همه نیکت زهی نیک نهاد ور سرشت همه خوبست زهی نیک سرشت</Unicode>
+                    <Unicode>کر نهادت همه نیکت زهی نیک نهاد ور سرشت همه خوبست زهی خوب سرشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781979912327_1241" custom="readingOrder {index:3;}">
                 <Coords points="128,952 1133,952 1133,1080 128,1080" /><Baseline points="128,1031 1133,1031" />
                 <Baseline points="164,1005 1092,1024" />
                 <TextEquiv>
-                    <Unicode>باغ فردوس لطیف است ولیکن زنهار تا غنیمت شمری سایه بید و لب کشت</Unicode>
+                    <Unicode>باغ فردوس لطیفست ولیکن زنهار تا غنیمت شمری سایه بید و لب کشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>نه من از پرده تقوا به درافتادم و بس پدرم نیز بهشت ابد از دست بهشت
-بر عملتکیه مکن که در روز ازل تو چه دانی قلم صنع به نامت چه نوشت
-گر نهادت همه نیکت زهی نیک نهاد ور سرشت همه خوبست زهی نیک سرشت
-باغ فردوس لطیف است ولیکن زنهار تا غنیمت شمری سایه بید و لب کشت</Unicode>
+                <Unicode>نه من از خانه تقوا بدر افتادم و بس پدر نیز بهشت ابد از دست بهشت
+بر عمل تکیه مکن که در روز ازل تو چه دانی قلم صنع بنامت چه نوشت
+کر نهادت همه نیکت زهی نیک نهاد ور سرشت همه خوبست زهی خوب سرشت
+باغ فردوس لطیفست ولیکن زنهار تا غنیمت شمری سایه بید و لب کشت</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781980204242_1264" custom="readingOrder {index:1;}">
@@ -58,19 +58,19 @@
                 <Coords points="385,1108 867,1108 867,1206 385,1206" /><Baseline points="385,1169 867,1169" />
                 <Baseline points="394,1156 856,1165" />
                 <TextEquiv>
-                    <Unicode>حافظا روز اجل گر به کف آری جامی</Unicode>
+                    <Unicode>حافظا روز ازل کر بکف آری جامی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781980220673_1270" custom="readingOrder {index:1;}">
                 <Coords points="389,1212 860,1212 860,1359 389,1359" /><Baseline points="389,1303 860,1303" />
                 <Baseline points="412,1292 847,1302" />
                 <TextEquiv>
-                    <Unicode>یکسر از کوی خرابات برندت به بهشت</Unicode>
+                    <Unicode>یکسر از کوی خرابات بزندت به بهشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حافظا روز اجل گر به کف آری جامی
-یکسر از کوی خرابات برندت به بهشت</Unicode>
+                <Unicode>حافظا روز ازل کر بکف آری جامی
+یکسر از کوی خرابات بزندت به بهشت</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781980261072_1281" custom="readingOrder {index:2;}">
@@ -79,51 +79,51 @@
                 <Coords points="145,1383 1099,1383 1099,1506 145,1506" /><Baseline points="145,1459 1099,1459" />
                 <Baseline points="155,1432 1083,1462" />
                 <TextEquiv>
-                    <Unicode>برو ای زاهد و دعوت مکنم سوی بهشت که خدا در ازل از اهل بهشتم بسرشت</Unicode>
+                    <Unicode>برو ای زاهد و دعوت نکنم سوی بهشت که خدا از ازل از اهل بهشتم بسرشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781980273874_1287" custom="readingOrder {index:1;}">
                 <Coords points="155,1511 1117,1511 1117,1661 155,1661" /><Baseline points="155,1604 1117,1604" />
                 <Baseline points="194,1586 1076,1604" />
                 <TextEquiv>
-                    <Unicode>یک جو از خرمن هستی نتواند برداشت هر که در کوی فنا در ره حق دانه نکشت</Unicode>
+                    <Unicode>یکجو از خرمن هستی نتواند برداشت هر که در کوی فنا در ره حق دانه نکشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781980276597_1290" custom="readingOrder {index:2;}">
                 <Coords points="132,1664 1107,1664 1107,1800 132,1800" /><Baseline points="132,1748 1107,1748" />
                 <Baseline points="160,1720 1091,1751" />
                 <TextEquiv>
-                    <Unicode>تو و تسبیح و مصلا و ره زهد و صلاح من و میخانه و زنار و ره دیر و کنشت</Unicode>
+                    <Unicode>تو و تسبیح و مصلی و ره زهد و رع من و میخانه و زنار و ره دیر و کنشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781980278744_1293" custom="readingOrder {index:3;}">
                 <Coords points="132,1813 1109,1813 1109,1947 132,1947" /><Baseline points="132,1896 1109,1896" />
                 <Baseline points="160,1870 1088,1875" />
                 <TextEquiv>
-                    <Unicode>منعم از می مکن ای صوفی صافی که حکیم در ازل طینت ما را به می ناب سرشت</Unicode>
+                    <Unicode>منعم از می مکن ای صوفی صافی که حکیم در ازل طینت ما را بمی ناب سرشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781980280889_1296" custom="readingOrder {index:4;}">
                 <Coords points="116,1976 1099,1976 1099,2084 116,2084" /><Baseline points="116,2043 1099,2043" />
                 <Baseline points="150,2022 1086,2043" />
                 <TextEquiv>
-                    <Unicode>صوفی صاف بهشتی نبود زآنکه چو من خرقه در میکده ها در گرو باده نهشت</Unicode>
+                    <Unicode>صوفی صاف بهشتی نبود آنکه چو من خرقه در میکدها در کرو باکه نهشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781980283342_1299" custom="readingOrder {index:5;}">
                 <Coords points="106,2102 1101,2102 1101,2234 106,2234" /><Baseline points="106,2184 1101,2184" />
                 <Baseline points="155,2151 1096,2174" />
                 <TextEquiv>
-                    <Unicode>لذت عیش بهشت و لب جویش نبود هر که او وامن دلدار خو دارد است بهشت</Unicode>
+                    <Unicode>لذت عیش بهشت و لب جویش نبود هر که او دامن دلدار خو داردست بهشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>برو ای زاهد و دعوت مکنم سوی بهشت که خدا در ازل از اهل بهشتم بسرشت
-یک جو از خرمن هستی نتواند برداشت هر که در کوی فنا در ره حق دانه نکشت
-تو و تسبیح و مصلا و ره زهد و صلاح من و میخانه و زنار و ره دیر و کنشت
-منعم از می مکن ای صوفی صافی که حکیم در ازل طینت ما را به می ناب سرشت
-صوفی صاف بهشتی نبود زآنکه چو من خرقه در میکده ها در گرو باده نهشت
-لذت عیش بهشت و لب جویش نبود هر که او وامن دلدار خو دارد است بهشت</Unicode>
+                <Unicode>برو ای زاهد و دعوت نکنم سوی بهشت که خدا از ازل از اهل بهشتم بسرشت
+یکجو از خرمن هستی نتواند برداشت هر که در کوی فنا در ره حق دانه نکشت
+تو و تسبیح و مصلی و ره زهد و رع من و میخانه و زنار و ره دیر و کنشت
+منعم از می مکن ای صوفی صافی که حکیم در ازل طینت ما را بمی ناب سرشت
+صوفی صاف بهشتی نبود آنکه چو من خرقه در میکدها در کرو باکه نهشت
+لذت عیش بهشت و لب جویش نبود هر که او دامن دلدار خو داردست بهشت</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781980619662_1329" custom="readingOrder {index:3;}">
@@ -139,12 +139,12 @@
                 <Coords points="380,2369 887,2369 887,2502 380,2502" /><Baseline points="380,2451 887,2451" />
                 <Baseline points="403,2451 842,2454" />
                 <TextEquiv>
-                    <Unicode>باش فارغ ز غم دوزخ و ایمن ز بهشت</Unicode>
+                    <Unicode>باش فارغ ز غم دوزخ و شادی بهشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>حافظا لطف حق ار با تو عنایت دارد
-باش فارغ ز غم دوزخ و ایمن ز بهشت</Unicode>
+باش فارغ ز غم دوزخ و شادی بهشت</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781980670803_1346" custom="readingOrder {index:4;}">
@@ -153,11 +153,11 @@
                 <Coords points="154,2516 1104,2516 1104,2671 154,2671" /><Baseline points="154,2612 1104,2612" />
                 <Baseline points="173,2585 1092,2616" />
                 <TextEquiv>
-                    <Unicode>همچو جان از برم سرو خرامان می رود منفسر شده ار بند گریزان می رود</Unicode>
+                    <Unicode>همچو جان از برم آن سرو خرامان میرفت منفسر شده از بند کریزان میرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>همچو جان از برم سرو خرامان می رود منفسر شده ار بند گریزان می رود</Unicode>
+                <Unicode>همچو جان از برم آن سرو خرامان میرفت منفسر شده از بند کریزان میرفت</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

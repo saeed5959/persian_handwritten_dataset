@@ -35,19 +35,19 @@
             <TextLine id="line_1782042260696_37" custom="readingOrder {index:1;}">
                 <Coords points="79,1050 550,1050 550,1135 79,1135" /><Baseline points="79,1103 550,1103" />
                 <TextEquiv>
-                    <Unicode>آله الطاهرین الطیبین و بع فهذا کتاب نثر</Unicode>
+                    <Unicode>آله الطاهرین الطیبین و بعد فهذا کتاب نثر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782042347128_41" custom="readingOrder {index:2;}">
                 <Coords points="81,1132 552,1132 552,1225 81,1225" /><Baseline points="81,1190 552,1190" />
                 <TextEquiv>
-                    <Unicode>آلالالی من کلام مولینا و مقتدانا امیرالمومنینو امام</Unicode>
+                    <Unicode>آللالی من کلام مولینا و مقتدانا امیرالمومنین و امام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782042422958_45" custom="readingOrder {index:3;}">
                 <Coords points="82,1227 549,1227 549,1296 82,1296" /><Baseline points="82,1270 549,1270" />
                 <TextEquiv>
-                    <Unicode>المتقین اسدالله الغالب علی ابن ابی طالب</Unicode>
+                    <Unicode>المتقین اسد الله الغالب علی ابن ابی طالب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782042480857_49" custom="readingOrder {index:4;}">
@@ -58,9 +58,9 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>الحمد لله رب العالمین و الصلوه و السلام علی محمد و
-آله الطاهرین الطیبین و بع فهذا کتاب نثر
-آلالالی من کلام مولینا و مقتدانا امیرالمومنینو امام
-المتقین اسدالله الغالب علی ابن ابی طالب
+آله الطاهرین الطیبین و بعد فهذا کتاب نثر
+آللالی من کلام مولینا و مقتدانا امیرالمومنین و امام
+المتقین اسد الله الغالب علی ابن ابی طالب
 صلوات الله و سلامه علیه علی ترتیب الحروف</Unicode>
             </TextEquiv>
         </TextRegion>

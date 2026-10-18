@@ -40,18 +40,18 @@
             <TextLine id="line_1782059316286_881" custom="readingOrder {index:0;}">
                 <Coords points="57,526 535,526 535,619 57,619" /><Baseline points="57,584 535,584" />
                 <TextEquiv>
-                    <Unicode>جنگ با حلم سر نمی گیرد مرد را حلم بهتراست از کنج</Unicode>
+                    <Unicode>جنک با حلم سر نمی کیرد مرد را حلم بهتراست از کنج</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782059363673_885" custom="readingOrder {index:1;}">
                 <Coords points="55,618 538,618 538,703 55,703" /><Baseline points="55,671 538,671" />
                 <TextEquiv>
-                    <Unicode>چه جمال است مرد را زان به که بحلم از کسی ز بیند رنج</Unicode>
+                    <Unicode>چه جمال است مرد را زان به که بحلم از کسی نه بیند رنج</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>جنگ با حلم سر نمی گیرد مرد را حلم بهتراست از کنج
-چه جمال است مرد را زان به که بحلم از کسی ز بیند رنج</Unicode>
+                <Unicode>جنک با حلم سر نمی کیرد مرد را حلم بهتراست از کنج
+چه جمال است مرد را زان به که بحلم از کسی نه بیند رنج</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782059439507_889" custom="readingOrder {index:2;}">
@@ -65,12 +65,12 @@
             <TextLine id="line_1782059476073_896" custom="readingOrder {index:1;}">
                 <Coords points="175,781 429,781 429,851 175,851" /><Baseline points="175,824 429,824" />
                 <TextEquiv>
-                    <Unicode>آن بزرگ است کو نمی میرد</Unicode>
+                    <Unicode>آن بزرک است کو نمی میرد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>جل من لایموت
-آن بزرگ است کو نمی میرد</Unicode>
+آن بزرک است کو نمی میرد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782059540833_900" custom="readingOrder {index:3;}">
@@ -78,18 +78,18 @@
             <TextLine id="line_1782059550224_903" custom="readingOrder {index:0;}">
                 <Coords points="55,854 534,854 534,933 55,933" /><Baseline points="55,903 534,903" />
                 <TextEquiv>
-                    <Unicode>چه بزرگی است اینکه آنچه فلک دادت از مرگ تو شود تاراج</Unicode>
+                    <Unicode>چه بزرکی است اینکه آنچه فلک دادت از مرک تو شود تاراج</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782059608976_907" custom="readingOrder {index:1;}">
                 <Coords points="55,933 533,933 533,1027 55,1027" /><Baseline points="55,991 533,991" />
                 <TextEquiv>
-                    <Unicode>جاودان آنکه هست اوست بزرگ هم بزرگان همه باو محتاج</Unicode>
+                    <Unicode>جاودان آنکه هست اوست بزرک هم بزرکان همه باو محتاج</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>چه بزرگی است اینکه آنچه فلک دادت از مرگ تو شود تاراج
-جاودان آنکه هست اوست بزرگ هم بزرگان همه باو محتاج</Unicode>
+                <Unicode>چه بزرکی است اینکه آنچه فلک دادت از مرک تو شود تاراج
+جاودان آنکه هست اوست بزرک هم بزرکان همه باو محتاج</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782059662181_911" custom="readingOrder {index:4;}">
@@ -116,7 +116,7 @@
             <TextLine id="line_1782059765676_927" custom="readingOrder {index:0;}">
                 <Coords points="57,1170 532,1170 532,1265 57,1265" /><Baseline points="57,1229 532,1229" />
                 <TextEquiv>
-                    <Unicode>چون سخن راست عیب کلی طول گرچه باشد چو گوهر اندر درج</Unicode>
+                    <Unicode>چون سخن راست عیب کلی طول کرچه باشد چو کوهر اندر درج</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782059818606_931" custom="readingOrder {index:1;}">
@@ -126,7 +126,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>چون سخن راست عیب کلی طول گرچه باشد چو گوهر اندر درج
+                <Unicode>چون سخن راست عیب کلی طول کرچه باشد چو کوهر اندر درج
 جودت آن در اختصار همی مینماید چو اختر اندر برج</Unicode>
             </TextEquiv>
         </TextRegion>

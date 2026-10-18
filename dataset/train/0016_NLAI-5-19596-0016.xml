@@ -18,19 +18,19 @@
                 <Coords points="393,510 908,510 908,615 393,615" /><Baseline points="393,575 908,575" />
                 <Baseline points="417,559 898,546" />
                 <TextEquiv>
-                    <Unicode>حافظ بجان حجت رسولت و آل او</Unicode>
+                    <Unicode>حافظ بجان محبت رسولت و آل او</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781859752159_2528" custom="readingOrder {index:1;}">
                 <Coords points="392,631 875,631 875,761 392,761" /><Baseline points="392,712 875,712" />
                 <Baseline points="420,715 867,700" />
                 <TextEquiv>
-                    <Unicode>بر این سخن کواست خداوند اکرم</Unicode>
+                    <Unicode>بر این سخن کواست خداوند اکبرم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حافظ بجان حجت رسولت و آل او
-بر این سخن کواست خداوند اکرم</Unicode>
+                <Unicode>حافظ بجان محبت رسولت و آل او
+بر این سخن کواست خداوند اکبرم</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781859727321_2519" custom="readingOrder {index:1;}">
@@ -53,7 +53,7 @@
                 <Coords points="157,912 589,912 589,1032 157,1032" /><Baseline points="157,986 589,986" />
                 <Baseline points="171,983 582,989" />
                 <TextEquiv>
-                    <Unicode>صاحبقران خسرو و شاه خدایگان</Unicode>
+                    <Unicode>صاحبقران خسرو و شاه خدایکان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781863938968_2568" custom="readingOrder {index:3;}">
@@ -67,14 +67,14 @@
                 <Coords points="164,1038 597,1038 597,1184 164,1184" /><Baseline points="164,1129 597,1129" />
                 <Baseline points="178,1127 593,1124" />
                 <TextEquiv>
-                    <Unicode>دارای دادگستر و دارای یکی نشان</Unicode>
+                    <Unicode>دارای دادکستر و دارای یکی نشان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781863957358_2582" custom="readingOrder {index:5;}">
                 <Coords points="695,1060 1120,1060 1120,1177 695,1177" /><Baseline points="695,1133 1120,1133" />
                 <Baseline points="703,1128 1110,1127" />
                 <TextEquiv>
-                    <Unicode>خورشید ملک پرور و سلطان دادگر</Unicode>
+                    <Unicode>خورشید ملک پرور و سلطان دادکر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781863966548_2588" custom="readingOrder {index:6;}">
@@ -88,7 +88,7 @@
                 <Coords points="692,1198 1129,1198 1129,1356 692,1356" /><Baseline points="692,1296 1129,1296" />
                 <Baseline points="708,1293 1116,1289" />
                 <TextEquiv>
-                    <Unicode>سلطان نشان عرص اقلیم سلطنت</Unicode>
+                    <Unicode>سلطان نشان عرصه اقلیم سلطنت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781863993643_2606" custom="readingOrder {index:8;}">
@@ -102,14 +102,14 @@
                 <Coords points="159,1360 606,1360 606,1493 159,1493" /><Baseline points="159,1442 606,1442" />
                 <Baseline points="172,1429 590,1427" />
                 <TextEquiv>
-                    <Unicode>دارد و همیشه توسن ایام زیر ران</Unicode>
+                    <Unicode>دارد همیشه توسن ایام زیر ران</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781864008287_2612" custom="readingOrder {index:10;}">
                 <Coords points="157,1502 599,1502 599,1620 157,1620" /><Baseline points="157,1575 599,1575" />
                 <Baseline points="176,1566 587,1562" />
                 <TextEquiv>
-                    <Unicode>خاقان کامگار و شهنشاه نوجوان</Unicode>
+                    <Unicode>خاقان کامکار و شهنشاه نوجوان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781864018088_2619" custom="readingOrder {index:11;}">
@@ -130,7 +130,7 @@
                 <Coords points="687,1640 1140,1640 1140,1773 687,1773" /><Baseline points="687,1722 1140,1722" />
                 <Baseline points="709,1714 1123,1703" />
                 <TextEquiv>
-                    <Unicode>ماهی که شد بطلعتش افروخته زمین</Unicode>
+                    <Unicode>ماهی که شد بطبعتش افروخته زمین</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781864053029_2639" custom="readingOrder {index:14;}">
@@ -151,14 +151,14 @@
                 <Coords points="696,1921 1142,1921 1142,2050 696,2050" /><Baseline points="696,2001 1142,2001" />
                 <Baseline points="715,1973 1141,1972" />
                 <TextEquiv>
-                    <Unicode>گر در خیال چرخ فتد عکس تیغ او</Unicode>
+                    <Unicode>کر در خیال چرخ فتد عکس تیغ او</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781864077378_2651" custom="readingOrder {index:17;}">
                 <Coords points="165,1924 597,1924 597,2057 165,2057" /><Baseline points="165,2006 597,2006" />
                 <Baseline points="194,1997 585,2001" />
                 <TextEquiv>
-                    <Unicode>از یکدگر جدا شود اجزای آسمان</Unicode>
+                    <Unicode>از یکدکر جدا شود اجزای آسمان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781864097997_2663" custom="readingOrder {index:18;}">
@@ -207,7 +207,7 @@
                 <Coords points="170,2488 616,2488 616,2620 170,2620" /><Baseline points="170,2570 616,2570" />
                 <Baseline points="174,2543 610,2540" />
                 <TextEquiv>
-                    <Unicode>چون سایه از قفای تو دولت بود دوان</Unicode>
+                    <Unicode>چون سایه از قفای تو دولت بود روان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781864177771_2707" custom="readingOrder {index:25;}">
@@ -220,29 +220,29 @@
             <TextEquiv>
                 <Unicode>شد عرص زمین چو بساط ارم جوان
 از پرتو سعادت شاه جهانیان
-صاحبقران خسرو و شاه خدایگان
+صاحبقران خسرو و شاه خدایکان
 خاقان شرق و غرب که در شرق و غرب اوست
-دارای دادگستر و دارای یکی نشان
-خورشید ملک پرور و سلطان دادگر
+دارای دادکستر و دارای یکی نشان
+خورشید ملک پرور و سلطان دادکر
 بالانشین مسند کیوان لامکان
-سلطان نشان عرص اقلیم سلطنت
+سلطان نشان عرصه اقلیم سلطنت
 اعظم جلال و دین آنکه رفعتش
-دارد و همیشه توسن ایام زیر ران
-خاقان کامگار و شهنشاه نوجوان
+دارد همیشه توسن ایام زیر ران
+خاقان کامکار و شهنشاه نوجوان
 دارای دهر شاه شجاع آفتاب ملک
 شاهی که شد ز همتش افراخته زمان
-ماهی که شد بطلعتش افروخته زمین
+ماهی که شد بطبعتش افروخته زمین
 آنجا که باز همت او سازد آشیان به
 سیمرغ وهم را نبود قوت عروج
-گر در خیال چرخ فتد عکس تیغ او
-از یکدگر جدا شود اجزای آسمان
+کر در خیال چرخ فتد عکس تیغ او
+از یکدکر جدا شود اجزای آسمان
 مهرش روان چو روح بر اعضای انس و جان
 حکمش روان چو باد بر اطراف بحر و بر
 وی طلعت تو جان جهان و جهان جان
 ایصورت تو ملک جهان و جهان ملک
 تاج تو عین افسر دارا و داوران
 تخت نو رشک مسند جمشید و کیقباد
-چون سایه از قفای تو دولت بود دوان
+چون سایه از قفای تو دولت بود روان
 تو آفتاب ملکی و هر جا که میروی</Unicode>
             </TextEquiv>
         </TextRegion>

@@ -24,14 +24,14 @@
                 <Coords points="481,517 930,517 930,625 481,625" /><Baseline points="481,584 930,584" />
                 <Baseline points="495,574 914,574" />
                 <TextEquiv>
-                    <Unicode>کی باشد التفات به صید کبوترم</Unicode>
+                    <Unicode>کی باشد التفات بصید کبوترم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781800171167_2262" custom="readingOrder {index:2;}">
                 <Coords points="1021,634 1439,634 1439,763 1021,763" /><Baseline points="1021,714 1439,714" />
                 <Baseline points="1026,707 1427,713" />
                 <TextEquiv>
-                    <Unicode>ایشاه شیرگیر چه کم گردد ار شود</Unicode>
+                    <Unicode>ایشاه شیرکیر چه کم کردد ار شود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781800163499_2256" custom="readingOrder {index:3;}">
@@ -59,28 +59,28 @@
                 <Coords points="481,916 927,916 927,1065 481,1065" /><Baseline points="481,1008 927,1008" />
                 <Baseline points="491,996 913,998" />
                 <TextEquiv>
-                    <Unicode>گویی که تیغ تست زبان سخنورم</Unicode>
+                    <Unicode>کویی که تیغ تست زبان سخنورم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781800213119_2291" custom="readingOrder {index:7;}">
                 <Coords points="1004,932 1448,932 1448,1059 1004,1059" /><Baseline points="1004,1011 1448,1011" />
                 <Baseline points="1004,995 1432,996" />
                 <TextEquiv>
-                    <Unicode>شعرم ز یمن مدح تو صد ملک دل گرفت</Unicode>
+                    <Unicode>شعرم ز یمن مدح تو صد ملک دل کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781800222179_2297" custom="readingOrder {index:8;}">
                 <Coords points="472,1079 927,1079 927,1198 472,1198" /><Baseline points="472,1153 927,1153" />
                 <Baseline points="479,1142 911,1147" />
                 <TextEquiv>
-                    <Unicode>نه عشق سرو بود نه برگ صنوبرم</Unicode>
+                    <Unicode>نه عشق سرو بود نه برک صنوبرم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781800230285_2303" custom="readingOrder {index:9;}">
                 <Coords points="1011,1080 1437,1080 1437,1192 1011,1192" /><Baseline points="1011,1149 1437,1149" />
                 <Baseline points="1019,1131 1421,1133" />
                 <TextEquiv>
-                    <Unicode>بر گلشنی اگر بگذشتم چو باد صبح</Unicode>
+                    <Unicode>بر کلشنی اکر بکذشتم چو باد صبح</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781800245944_2315" custom="readingOrder {index:10;}">
@@ -115,7 +115,7 @@
                 <Coords points="1016,1488 1451,1488 1451,1616 1016,1616" /><Baseline points="1016,1567 1451,1567" />
                 <Baseline points="1021,1542 1435,1556" />
                 <TextEquiv>
-                    <Unicode>با سیر اختر فلکم داوری بسی ست</Unicode>
+                    <Unicode>با سیر اختر و فلکم داوری بسی ست</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781800272934_2334" custom="readingOrder {index:15;}">
@@ -129,21 +129,21 @@
                 <Coords points="1012,1623 1441,1623 1441,1756 1012,1756" /><Baseline points="1012,1705 1441,1705" />
                 <Baseline points="1023,1693 1442,1698" />
                 <TextEquiv>
-                    <Unicode>شکر خدا که باز درین اوج بارگاه</Unicode>
+                    <Unicode>شکر خدا که باز درین اوج بارکاه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781800288574_2346" custom="readingOrder {index:17;}">
                 <Coords points="475,1651 932,1651 932,1771 475,1771" /><Baseline points="475,1725 932,1725" />
                 <Baseline points="470,1703 923,1712" />
                 <TextEquiv>
-                    <Unicode>طاووس عرش می شنود صیت شهپرم</Unicode>
+                    <Unicode>طاووس عرش میشنود صیت شهپرم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781800305038_2358" custom="readingOrder {index:18;}">
                 <Coords points="475,1787 927,1787 927,1901 475,1901" /><Baseline points="475,1858 927,1858" />
                 <Baseline points="484,1866 911,1862" />
                 <TextEquiv>
-                    <Unicode>گر جز محبت تو بود شغل دیگرم</Unicode>
+                    <Unicode>کر جز محبت تو بود شغل دیکرم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781800315574_2365" custom="readingOrder {index:19;}">
@@ -157,7 +157,7 @@
                 <Coords points="468,1906 920,1906 920,2044 468,2044" /><Baseline points="468,1992 920,1992" />
                 <Baseline points="479,1973 906,1980" />
                 <TextEquiv>
-                    <Unicode>گر لاغرم وگرنه شکار غضنفرم</Unicode>
+                    <Unicode>کر لاغرم وکرنه شکار غضنفرم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781800332434_2377" custom="readingOrder {index:21;}">
@@ -185,7 +185,7 @@
                 <Coords points="468,2198 923,2198 923,2341 468,2341" /><Baseline points="468,2287 923,2287" />
                 <Baseline points="474,2270 920,2277" />
                 <TextEquiv>
-                    <Unicode>تا دیده اش بگزلک غیرت برآورم</Unicode>
+                    <Unicode>تا دیده اش بکزلک غیرت برآورم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781800367224_2401" custom="readingOrder {index:25;}">
@@ -206,7 +206,7 @@
                 <Coords points="1021,2357 1465,2357 1465,2485 1021,2485" /><Baseline points="1021,2436 1465,2436" />
                 <Baseline points="1016,2413 1451,2411" />
                 <TextEquiv>
-                    <Unicode>مقصود از اینمعامله بازارتیزی است</Unicode>
+                    <Unicode>مقصود اینمعامله بازار تیزی ایست</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781800393453_2419" custom="readingOrder {index:28;}">
@@ -225,33 +225,33 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>شاهین صفت چو طعمه چشیدم ز دست شاه
-کی باشد التفات به صید کبوترم
-ایشاه شیرگیر چه کم گردد ار شود
+کی باشد التفات بصید کبوترم
+ایشاه شیرکیر چه کم کردد ار شود
 در سایه تو ملک فراغت میسرم
 بال و پری ندارم این طرفه ترکه نیست
 غیر از هوای منزل سیمرغ در سرم
-گویی که تیغ تست زبان سخنورم
-شعرم ز یمن مدح تو صد ملک دل گرفت
-نه عشق سرو بود نه برگ صنوبرم
-بر گلشنی اگر بگذشتم چو باد صبح
+کویی که تیغ تست زبان سخنورم
+شعرم ز یمن مدح تو صد ملک دل کرفت
+نه عشق سرو بود نه برک صنوبرم
+بر کلشنی اکر بکذشتم چو باد صبح
 بوی تو می شنیدم و بر یاد روی تو
 دادند ساقیان طرب یکدو ساغرم
 مستی بآب یک دو عنب وضع بنده نیست
 من سالخورده پیر خرابات پرورم
-با سیر اختر فلکم داوری بسی ست
+با سیر اختر و فلکم داوری بسی ست
 انصاف شاه باد درین قصه یاورم
-شکر خدا که باز درین اوج بارگاه
-طاووس عرش می شنود صیت شهپرم
-گر جز محبت تو بود شغل دیگرم
+شکر خدا که باز درین اوج بارکاه
+طاووس عرش میشنود صیت شهپرم
+کر جز محبت تو بود شغل دیکرم
 نامم ز کارخانه عشاق محو باد
-گر لاغرم وگرنه شکار غضنفرم
+کر لاغرم وکرنه شکار غضنفرم
 شبل الاسد بصید دلم حمله کرد و من
 ای عاشقان روی تو از ذره بیشتر
 من کی رسم بوصل تو کز ذره کمترم
-تا دیده اش بگزلک غیرت برآورم
+تا دیده اش بکزلک غیرت برآورم
 بنما بمن که منکر حسن رخ تو کیست
 نه جلوه میفروشم و نه عشوه میخرم
-مقصود از اینمعامله بازارتیزی است
+مقصود اینمعامله بازار تیزی ایست
 اکنون فراغت است ز خورشید خاورم
 بر من فتاد سایه خورشید سلطنت</Unicode>
             </TextEquiv>

@@ -21,7 +21,7 @@
             <TextLine id="line_1782062040375_1176" custom="readingOrder {index:0;}">
                 <Coords points="292,281 489,281 489,321 292,321" /><Baseline points="292,306 489,306" />
                 <TextEquiv>
-                    <Unicode>حرم الوفاعلی من لا اصل له</Unicode>
+                    <Unicode>حرم الو فاعلی من لا اصل له</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782062099352_1180" custom="readingOrder {index:1;}">
@@ -31,7 +31,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حرم الوفاعلی من لا اصل له
+                <Unicode>حرم الو فاعلی من لا اصل له
 حرام است وفا برانکس که اصل نباشد او را</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -40,7 +40,7 @@
             <TextLine id="line_1782062308475_1206" custom="readingOrder {index:0;}">
                 <Coords points="222,378 557,378 557,447 222,447" /><Baseline points="222,421 557,421" />
                 <TextEquiv>
-                    <Unicode>حرا آراسته بعهد و وفاست آنکه را اصل هست پاک و صحیح</Unicode>
+                    <Unicode>حرا رآراسته بعهد و وفاست آنکه را اصل هست پاک و صحیح</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782062390968_1210" custom="readingOrder {index:1;}">
@@ -50,7 +50,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حرا آراسته بعهد و وفاست آنکه را اصل هست پاک و صحیح
+                <Unicode>حرا رآراسته بعهد و وفاست آنکه را اصل هست پاک و صحیح
 حال بد اصل از وفا عاری است هست برآن وفا حرام صریح</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -65,12 +65,12 @@
             <TextLine id="line_1782062517978_1221" custom="readingOrder {index:1;}">
                 <Coords points="293,558 488,558 486,608 291,608" /><Baseline points="291,589 488,589" />
                 <TextEquiv>
-                    <Unicode>سوزش اولاد سوزاننده جگرهای والدین است</Unicode>
+                    <Unicode>سوزش اولاد سوزاننده جکرهای والدین است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>حرقه الاولاد محرقه الاکباد
-سوزش اولاد سوزاننده جگرهای والدین است</Unicode>
+سوزش اولاد سوزاننده جکرهای والدین است</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782062741174_1246" custom="readingOrder {index:3;}">
@@ -78,18 +78,18 @@
             <TextLine id="line_1782062752034_1249" custom="readingOrder {index:0;}">
                 <Coords points="225,610 556,611 555,672 224,671" /><Baseline points="224,648 556,648" />
                 <TextEquiv>
-                    <Unicode>حصه از جگر چو فرزند است والدین راز رویشان تفریح</Unicode>
+                    <Unicode>حصه از جکر چو فرزند است والدین راز رویشان تفریح</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782062850057_1256" custom="readingOrder {index:1;}">
                 <Coords points="225,672 557,672 559,731 227,731" /><Baseline points="225,709 559,709" />
                 <TextEquiv>
-                    <Unicode>حرقت و سوزشان مر ایشان را برجگرها چو محرقه است قریح</Unicode>
+                    <Unicode>حرقت و سوزشان مر ایشان را بر جکرها چو محرقه است قریح</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حصه از جگر چو فرزند است والدین راز رویشان تفریح
-حرقت و سوزشان مر ایشان را برجگرها چو محرقه است قریح</Unicode>
+                <Unicode>حصه از جکر چو فرزند است والدین راز رویشان تفریح
+حرقت و سوزشان مر ایشان را بر جکرها چو محرقه است قریح</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782062929925_1261" custom="readingOrder {index:4;}">
@@ -97,7 +97,7 @@
             <TextLine id="line_1782062936535_1264" custom="readingOrder {index:0;}">
                 <Coords points="291,730 488,730 488,784 291,784" /><Baseline points="291,763 488,763" />
                 <TextEquiv>
-                    <Unicode>حلیه الرجال الادب و حیله النسا الذهب</Unicode>
+                    <Unicode>حلیه الرجال الادب و حلیه النسا الذهب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782063010444_1268" custom="readingOrder {index:1;}">
@@ -107,7 +107,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حلیه الرجال الادب و حیله النسا الذهب
+                <Unicode>حلیه الرجال الادب و حلیه النسا الذهب
 زیور مردان ادب است و زیور زنان دهنبست</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -116,7 +116,7 @@
             <TextLine id="line_1782063102765_1275" custom="readingOrder {index:0;}">
                 <Coords points="225,836 561,836 561,902 225,902" /><Baseline points="225,877 561,877" />
                 <TextEquiv>
-                    <Unicode>حلی وزیوری که مردم را است زینت تن بآن همیشه صلاح</Unicode>
+                    <Unicode>حلی و زیوری که مردم را است زینت تن بآن همیشه صلاح</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782063191196_1279" custom="readingOrder {index:1;}">
@@ -126,7 +126,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حلی وزیوری که مردم را است زینت تن بآن همیشه صلاح
+                <Unicode>حلی و زیوری که مردم را است زینت تن بآن همیشه صلاح
 حیله مرد جز ادب نبود لیک زن راز زر علی است صباح</Unicode>
             </TextEquiv>
         </TextRegion>

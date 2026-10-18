@@ -31,37 +31,37 @@
                 <Coords points="136,755 934,755 934,891 136,891" /><Baseline points="136,839 934,839" />
                 <Baseline points="146,820 912,816" />
                 <TextEquiv>
-                    <Unicode>و دلل و کلل و بعبب و لا کجلس و لا کاخصص بی یاعلی</Unicode>
+                    <Unicode>و دلل و کلل و بعبب و لا کجلس و لا کاخصص ابی یا علی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1356989913152_958" custom="readingOrder {index:3;}">
                 <Coords points="125,991 912,991 912,1124 125,1124" /><Baseline points="125,1073 912,1073" />
                 <Baseline points="143,1059 880,1056" />
                 <TextEquiv>
-                    <Unicode>ولا کهیلل و شد فی الل و نحوه فک نتصل قعبل یاعلی</Unicode>
+                    <Unicode>ولا کهیلل و شد فی ابل و نحوه فک نتصل قعبل یا علی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1356990012883_964" custom="readingOrder {index:4;}">
                 <Coords points="161,1224 948,1224 948,1374 161,1374" /><Baseline points="161,1317 948,1317" />
                 <Baseline points="182,1296 934,1278" />
                 <TextEquiv>
-                    <Unicode>وچسی فکاک و او غم دون خدا لذاک نجه تجلی وا شنر</Unicode>
+                    <Unicode>وحپی افکاک و او غم دون حذر لذاک نجه تجلی وا ستتر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1356990119368_971" custom="readingOrder {index:5;}">
                 <Coords points="161,1446 952,1446 952,1629 161,1629" /><Baseline points="161,1559 952,1559" />
                 <Baseline points="157,1536 894,1528" />
                 <TextEquiv>
-                    <Unicode>و با تامین اسدی قد پفضرفی علی تا لتبنن العبر</Unicode>
+                    <Unicode>و با تامین اتدی قد پفضر فیه علی تا لتبنن العبر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>ظا فی طلب فی ظللت استعملا و قرن فی افررن و اقرن نقلا
 اول شلس محرلین فی کلمته اوغم لا ضعف لمثلی
-و دلل و کلل و بعبب و لا کجلس و لا کاخصص بی یاعلی
-ولا کهیلل و شد فی الل و نحوه فک نتصل قعبل یاعلی
-وچسی فکاک و او غم دون خدا لذاک نجه تجلی وا شنر
-و با تامین اسدی قد پفضرفی علی تا لتبنن العبر</Unicode>
+و دلل و کلل و بعبب و لا کجلس و لا کاخصص ابی یا علی
+ولا کهیلل و شد فی ابل و نحوه فک نتصل قعبل یا علی
+وحپی افکاک و او غم دون حذر لذاک نجه تجلی وا ستتر
+و با تامین اتدی قد پفضر فیه علی تا لتبنن العبر</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

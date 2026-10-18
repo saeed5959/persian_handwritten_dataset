@@ -78,7 +78,7 @@
             <TextLine id="line_1782066607873_1607" custom="readingOrder {index:0;}">
                 <Coords points="51,862 527,869 527,953 51,953" /><Baseline points="51,918 527,918" />
                 <TextEquiv>
-                    <Unicode>درد نفس است حرص و زودهمی آدمی را سوی هلاک کشد</Unicode>
+                    <Unicode>درد نفس است حرص و زود همی آدمی را سوی هلاک کشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782066659797_1612" custom="readingOrder {index:1;}">
@@ -88,7 +88,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>درد نفس است حرص و زودهمی آدمی را سوی هلاک کشد
+                <Unicode>درد نفس است حرص و زود همی آدمی را سوی هلاک کشد
 در قناعت علاج آن درد است کان ترا از دم هلاک کشد</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -116,7 +116,7 @@
             <TextLine id="line_1782066888330_1636" custom="readingOrder {index:0;}">
                 <Coords points="44,1181 519,1191 520,1278 43,1269" /><Baseline points="43,1241 520,1241" />
                 <TextEquiv>
-                    <Unicode>واری ارشک بحال مردی کو رزل و عین است یا لبیک و بلیه</Unicode>
+                    <Unicode>داری ار شک بحال مردی کو رزل و عین است یا لبیب و بلید</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782066947976_1641" custom="readingOrder {index:1;}">
@@ -126,7 +126,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>واری ارشک بحال مردی کو رزل و عین است یا لبیک و بلیه
+                <Unicode>داری ار شک بحال مردی کو رزل و عین است یا لبیب و بلید
 در مقابل و فعال او باشد عقل و اصلش چنانکه هست پدید</Unicode>
             </TextEquiv>
         </TextRegion>

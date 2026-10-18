@@ -18,21 +18,21 @@
                 <Coords points="307,261 1213,261 1213,440 307,440" /><Baseline points="307,372 1213,372" />
                 <Baseline points="311,351 1199,344" />
                 <TextEquiv>
-                    <Unicode>کذاک زووجهین حاالفطول من ذی الواولا جمع او فردیعن</Unicode>
+                    <Unicode>کذاک ذووجهین حاالفطول من ذی الواولام جمع او فردیعن</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1356990332309_992" custom="readingOrder {index:1;}">
                 <Coords points="350,494 1131,494 1131,673 350,673" /><Baseline points="350,605 1131,605" />
                 <Baseline points="372,583 1098,583" />
                 <TextEquiv>
-                    <Unicode>و شاع نخویتم فی نوم و نخونیام شذ ود هنمی</Unicode>
+                    <Unicode>و شاع نخویتم فی نوم و نخونیام شذود همنی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1356990415800_998" custom="readingOrder {index:2;}">
                 <Coords points="368,730 1120,730 1120,923 368,923" /><Baseline points="368,850 1120,850" />
                 <Baseline points="375,820 1088,820" />
                 <TextEquiv>
-                    <Unicode>دواللیی قابا فی افعتال ابد لا و شد فی ذاللهر نخوا مکلا</Unicode>
+                    <Unicode>دواللیین قابا فی افتعال ابد لا وشد فی ذاللنهمر نخوا متکلا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1356990538604_1004" custom="readingOrder {index:3;}">
@@ -46,27 +46,27 @@
                 <Coords points="354,1231 1127,1231 1127,1382 354,1382" /><Baseline points="354,1325 1127,1325" />
                 <Baseline points="379,1310 1113,1306" />
                 <TextEquiv>
-                    <Unicode>فااصرا و مضارع من کوعدا اخدف و فی کعده و داس اظرد</Unicode>
+                    <Unicode>فا اصرا و مضارع من کوعدا احذف و فی کعده و داس اظرد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1356990783259_1026" custom="readingOrder {index:5;}">
                 <Coords points="390,1468 1127,1468 1127,1625 390,1625" /><Baseline points="390,1565 1127,1565" />
                 <Baseline points="411,1564 1095,1568" />
                 <TextEquiv>
-                    <Unicode>و حذف همرا فعل تمرد فی مضارع و نتسی مصتف</Unicode>
+                    <Unicode>و حذف همزا فعل اتمرد فی مضارع و نتسی مصتف</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>کذاک زووجهین حاالفطول من ذی الواولا جمع او فردیعن
-و شاع نخویتم فی نوم و نخونیام شذ ود هنمی
-دواللیی قابا فی افعتال ابد لا و شد فی ذاللهر نخوا مکلا
+                <Unicode>کذاک ذووجهین حاالفطول من ذی الواولام جمع او فردیعن
+و شاع نخویتم فی نوم و نخونیام شذود همنی
+دواللیین قابا فی افتعال ابد لا وشد فی ذاللنهمر نخوا متکلا
 طاتا افعال رداثر مطبق فی اذل وازد واو کروا لانفی
-فااصرا و مضارع من کوعدا اخدف و فی کعده و داس اظرد
-و حذف همرا فعل تمرد فی مضارع و نتسی مصتف</Unicode>
+فا اصرا و مضارع من کوعدا احذف و فی کعده و داس اظرد
+و حذف همزا فعل اتمرد فی مضارع و نتسی مصتف</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1356990241595_980" custom="readingOrder {index:1;}">
             <Coords points="336,290" />
-        </TextRegion>
+        <TextEquiv><Unicode /></TextEquiv></TextRegion>
     </Page>
 </PcGts>

@@ -17,28 +17,28 @@
                 <Coords points="744,672 1061,672 1061,535 744,535" /><Baseline points="744,620 1061,620" />
                 <Baseline points="758,608 1049,616" />
                 <TextEquiv>
-                    <Unicode>زدینار ویاقوت و مشک و عبیر</Unicode>
+                    <Unicode>ز دینار ویاقوت و مشک و عبیر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781286382960_38" custom="readingOrder {index:1;}">
                 <Coords points="381,670 709,670 709,545 381,545" /><Baseline points="381,622 709,622" />
                 <Baseline points="395,607 695,613" />
                 <TextEquiv>
-                    <Unicode>زدیبای زر بفت و خسرو حریر</Unicode>
+                    <Unicode>ز دیبای زر بفت و خسرو حریر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781286555152_50" custom="readingOrder {index:2;}">
                 <Coords points="395,783 709,783 709,672 395,672" /><Baseline points="395,741 709,741" />
                 <Baseline points="421,740 687,745" />
                 <TextEquiv>
-                    <Unicode>یکی طوق زرین زبرجد نگار</Unicode>
+                    <Unicode>یکی طوق زرین زبرجد نکار</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781286504071_44" custom="readingOrder {index:3;}">
                 <Coords points="744,779 1069,779 1069,672 744,672" /><Baseline points="744,738 1069,738" />
                 <Baseline points="776,735 1047,735" />
                 <TextEquiv>
-                    <Unicode>یکی تاج پر گوهر شاهوار</Unicode>
+                    <Unicode>یکی تاج پر کوهر شاهوار</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781286631591_56" custom="readingOrder {index:4;}">
@@ -59,21 +59,21 @@
                 <Coords points="751,1054 1069,1054 1069,927 751,927" /><Baseline points="751,1006 1069,1006" />
                 <Baseline points="775,997 1042,996" />
                 <TextEquiv>
-                    <Unicode>چو آمد بدستان سام آگهی</Unicode>
+                    <Unicode>چو آمد بدستان سام آکهی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781286786527_75" custom="readingOrder {index:7;}">
                 <Coords points="393,1054 714,1054 714,932 393,932" /><Baseline points="393,1008 714,1008" />
                 <Baseline points="414,995 692,995" />
                 <TextEquiv>
-                    <Unicode>که زیبا مهی آمد اند مهی</Unicode>
+                    <Unicode>که زیبا مهی آمد اند میهی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781286996535_87" custom="readingOrder {index:8;}">
                 <Coords points="402,1166 709,1166 709,1051 402,1051" /><Baseline points="402,1122 709,1122" />
                 <Baseline points="422,1117 685,1115" />
                 <TextEquiv>
-                    <Unicode>به آیین یکی پایگه ساختش</Unicode>
+                    <Unicode>بآیین یکی پایکه ساختش</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781286943288_81" custom="readingOrder {index:9;}">
@@ -87,7 +87,7 @@
                 <Coords points="396,1287 714,1287 714,1176 396,1176" /><Baseline points="396,1245 714,1245" />
                 <Baseline points="410,1236 705,1240" />
                 <TextEquiv>
-                    <Unicode>گشاده دل بزم ساز آمدند</Unicode>
+                    <Unicode>کشاده دل بزم ساز آمدند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781287046767_93" custom="readingOrder {index:11;}">
@@ -115,21 +115,21 @@
                 <Coords points="399,1548 720,1548 720,1429 399,1429" /><Baseline points="399,1503 720,1503" />
                 <Baseline points="417,1496 698,1495" />
                 <TextEquiv>
-                    <Unicode>نگه کرد مهراب بر پور سام</Unicode>
+                    <Unicode>نکه کرد مهراب بر پور سام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781287281590_117" custom="readingOrder {index:15;}">
                 <Coords points="762,1550 1057,1550 1057,1433 762,1433" /><Baseline points="762,1506 1057,1506" />
                 <Baseline points="768,1503 1039,1505" />
                 <TextEquiv>
-                    <Unicode>گسارنده می می آورد و جام</Unicode>
+                    <Unicode>کسارنده می می آورد و جام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781287455695_139" custom="readingOrder {index:16;}">
                 <Coords points="413,1677 714,1677 714,1556 413,1556" /><Baseline points="413,1631 714,1631" />
                 <Baseline points="428,1620 706,1624" />
                 <TextEquiv>
-                    <Unicode>دلش تیز تر گشت در کار اوی</Unicode>
+                    <Unicode>دلش تیز تر کشت در کار اوی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781287408216_133" custom="readingOrder {index:17;}">
@@ -140,23 +140,23 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>زدینار ویاقوت و مشک و عبیر
-زدیبای زر بفت و خسرو حریر
-یکی طوق زرین زبرجد نگار
-یکی تاج پر گوهر شاهوار
+                <Unicode>ز دینار ویاقوت و مشک و عبیر
+ز دیبای زر بفت و خسرو حریر
+یکی طوق زرین زبرجد نکار
+یکی تاج پر کوهر شاهوار
 سران هر که بودند و کابل سپاه
 بیاورد با خویشتن سوی راه
-چو آمد بدستان سام آگهی
-که زیبا مهی آمد اند مهی
-به آیین یکی پایگه ساختش
+چو آمد بدستان سام آکهی
+که زیبا مهی آمد اند میهی
+بآیین یکی پایکه ساختش
 پذیره شدش زال و بنواختش
-گشاده دل بزم ساز آمدند
+کشاده دل بزم ساز آمدند
 سوی تخت پیروزه بار آمدند
 نشستند بر خوان او فر خان
 یکی پهلوانی نهادند خوان
-نگه کرد مهراب بر پور سام
-گسارنده می می آورد و جام
-دلش تیز تر گشت در کار اوی
+نکه کرد مهراب بر پور سام
+کسارنده می می آورد و جام
+دلش تیز تر کشت در کار اوی
 خوش آمد هماناش دیدار اوی</Unicode>
             </TextEquiv>
         </TextRegion>

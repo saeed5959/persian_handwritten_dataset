@@ -17,7 +17,7 @@
                 <Coords points="294,650 627,650 627,517 294,517" /><Baseline points="294,599 627,599" />
                 <Baseline points="342,584 619,587" />
                 <TextEquiv>
-                    <Unicode>بگشتند و هر سو همی گل چدند</Unicode>
+                    <Unicode>بکشتند و هر سو همی کل چدند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781804920945_38" custom="readingOrder {index:1;}">
@@ -31,14 +31,14 @@
                 <Coords points="686,789 1024,789 1024,628 686,628" /><Baseline points="686,728 1024,728" />
                 <Baseline points="695,704 978,717" />
                 <TextEquiv>
-                    <Unicode>نگه کرد دستان ز تخت بلند</Unicode>
+                    <Unicode>نکه کرد دستان ز تخت بلند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781804927756_47" custom="readingOrder {index:3;}">
                 <Coords points="310,793 634,793 634,643 310,643" /><Baseline points="310,736 634,736" />
                 <Baseline points="327,713 628,711" />
                 <TextEquiv>
-                    <Unicode>بپرسید کاین گل پرستان کی ند</Unicode>
+                    <Unicode>بپرسید کاین کل پرستان کیند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781804932444_53" custom="readingOrder {index:4;}">
@@ -52,7 +52,7 @@
                 <Coords points="676,910 1009,910 1009,777 676,777" /><Baseline points="676,859 1009,859" />
                 <Baseline points="701,837 984,840" />
                 <TextEquiv>
-                    <Unicode>چرا گل چدند از گلستان ما</Unicode>
+                    <Unicode>چرا کل چدند از کلستان ما</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781804938348_59" custom="readingOrder {index:6;}">
@@ -66,7 +66,7 @@
                 <Coords points="663,1028 990,1028 990,901 663,901" /><Baseline points="663,980 990,980" />
                 <Baseline points="691,974 973,977" />
                 <TextEquiv>
-                    <Unicode>چنین گفت گوینده با پهلوان</Unicode>
+                    <Unicode>چنین کفت کوینده با پهلوان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781804943908_65" custom="readingOrder {index:8;}">
@@ -80,14 +80,14 @@
                 <Coords points="673,1157 999,1157 999,1028 673,1028" /><Baseline points="673,1108 999,1108" />
                 <Baseline points="702,1091 983,1098" />
                 <TextEquiv>
-                    <Unicode>پرستندگان را سوی گلستان</Unicode>
+                    <Unicode>پرستندکان را سوی کلستان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781804951285_71" custom="readingOrder {index:10;}">
                 <Coords points="314,1271 640,1271 640,1145 314,1145" /><Baseline points="314,1223 640,1223" />
                 <Baseline points="334,1218 618,1221" />
                 <TextEquiv>
-                    <Unicode>زبس مهر بر جای خود نارمید</Unicode>
+                    <Unicode>ز بس مهر بر جای خود نارمید</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781804946188_68" custom="readingOrder {index:11;}">
@@ -115,7 +115,7 @@
                 <Coords points="675,1542 990,1542 990,1382 675,1382" /><Baseline points="675,1481 990,1481" />
                 <Baseline points="689,1472 970,1474" />
                 <TextEquiv>
-                    <Unicode>چو زانسو پرستندگان دید زال</Unicode>
+                    <Unicode>چو زانسو پرستندکان دید زال</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781804965211_83" custom="readingOrder {index:15;}">
@@ -140,21 +140,21 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بگشتند و هر سو همی گل چدند
+                <Unicode>بکشتند و هر سو همی کل چدند
 سرا پرده را چون برابر شدند
-نگه کرد دستان ز تخت بلند
-بپرسید کاین گل پرستان کی ند
+نکه کرد دستان ز تخت بلند
+بپرسید کاین کل پرستان کیند
 نترسند مانا ز فرمان ما
-چرا گل چدند از گلستان ما
+چرا کل چدند از کلستان ما
 که از کاخ مهراب روشن روان
-چنین گفت گوینده با پهلوان
+چنین کفت کوینده با پهلوان
 فرستد همی ماه کابلستان
-پرستندگان را سوی گلستان
-زبس مهر بر جای خود نارمید
+پرستندکان را سوی کلستان
+ز بس مهر بر جای خود نارمید
 چو بشنید دستان دلش بردمید
 همی رفت دستان ازین سوی آب
 خرامید با بنده پر شتاب
-چو زانسو پرستندگان دید زال
+چو زانسو پرستندکان دید زال
 کمان خواست از ترک و بفراخت یال
 خشیشار دید اندران رودبار
 پیاده همی شد زبهر شکار</Unicode>

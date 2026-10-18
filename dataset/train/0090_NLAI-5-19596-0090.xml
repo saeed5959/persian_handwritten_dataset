@@ -25,35 +25,36 @@
                 <Coords points="118,547 1051,541 1051,591 118,597" /><Baseline points="118,576 1051,576" />
                 <Baseline points="118,592 1051,586" />
                 <TextEquiv>
-                    <Unicode>آن شد که بار منت ملاح بردمی گوهر چو دست داد به دریا چه حاجت است</Unicode>
+                    <Unicode>آن شد که بار منت ملاح بردمی کوهر چو دست داد بدریا چه حاجت است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781892567394_1151" custom="readingOrder {index:2;}">
                 <Coords points="95,667 1056,667 1056,790 95,790" /><Baseline points="95,743 1056,743" />
                 <Baseline points="111,860 1035,877" />
                 <TextEquiv>
-                    <Unicode>ای مدعی برو که مرا با تو کار نیست احباب حاضرند به اعدا چه حاجت است</Unicode>
+                    <Unicode>ای مدعی برو که مرا با تو کار نیست احباب حاضرند به اعدا چه حاجت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781892606469_1157" custom="readingOrder {index:3;}">
                 <Coords points="93,806 1056,806 1056,929 93,929" /><Baseline points="93,882 1056,882" />
                 <Baseline points="116,1010 1060,1021" />
                 <TextEquiv>
-                    <Unicode>محتاج قصه نیست گرت قصد خون ما است چون رخت از آن تو است به یغما چه حاجت است</Unicode>
+                    <Unicode>محتاج جنک نیست کرت قصد خون ماست چون ملک ازان تست بیغما چه حاجت است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781892641002_1163" custom="readingOrder {index:4;}">
                 <Coords points="91,946 1052,946 1052,1077 91,1077" /><Baseline points="91,1027 1052,1027" />
                 <Baseline points="334,1168 823,1168" />
                 <TextEquiv>
-                    <Unicode>ای عاشق گدا چو لب روح بخش یار می داندت وظیفه تقاضا چه حاجت است</Unicode>
+                    <Unicode>ای عاشق کدا چو لب روح بخش یار میداندت وظیفه تقاضا چه حاجت است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>آن شد که بار منت ملاح بردمی گوهر چو دست داد به دریا چه حاجت است
-ای مدعی برو که مرا با تو کار نیست احباب حاضرند به اعدا چه حاجت است
-محتاج قصه نیست گرت قصد خون ما است چون رخت از آن تو است به یغما چه حاجت است
-ای عاشق گدا چو لب روح بخش یار می داندت وظیفه تقاضا چه حاجت است</Unicode>
+                <Unicode>
+آن شد که بار منت ملاح بردمی کوهر چو دست داد بدریا چه حاجت است
+ای مدعی برو که مرا با تو کار نیست احباب حاضرند به اعدا چه حاجت
+محتاج جنک نیست کرت قصد خون ماست چون ملک ازان تست بیغما چه حاجت است
+ای عاشق کدا چو لب روح بخش یار میداندت وظیفه تقاضا چه حاجت است</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781892673137_1169" custom="readingOrder {index:1;}">
@@ -68,19 +69,20 @@
                 <Coords points="302,1123 819,1123 819,1216 302,1216" /><Baseline points="302,1181 819,1181" />
                 <Baseline points="346,1318 773,1318" />
                 <TextEquiv>
-                    <Unicode>حافظ تو ختم کن که هنر خود عیان شود</Unicode>
+                    <Unicode>حافظ تو ختم کن هنر خود عیان شود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781892703583_1181" custom="readingOrder {index:2;}">
                 <Coords points="327,1253 821,1253 821,1361 327,1361" /><Baseline points="327,1320 821,1320" />
                 <Baseline points="107,1450 1058,1455" />
                 <TextEquiv>
-                    <Unicode>با مدعی نزاع و محاکا چه حاجت است</Unicode>
+                    <Unicode>با مدعی نزاع و محابا چه حاجت است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حافظ تو ختم کن که هنر خود عیان شود
-با مدعی نزاع و محاکا چه حاجت است</Unicode>
+                <Unicode>
+حافظ تو ختم کن هنر خود عیان شود
+با مدعی نزاع و محابا چه حاجت است</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781892732470_1187" custom="readingOrder {index:2;}">
@@ -89,74 +91,74 @@
                 <Coords points="77,1393 1058,1393 1058,1512 77,1512" /><Baseline points="77,1467 1058,1467" />
                 <Baseline points="101,1593 1053,1607" />
                 <TextEquiv>
-                    <Unicode>بیا که قصر امل سخت سست بنیادست بیار باده که بنیاد عمر بر بادست</Unicode>
+                    <Unicode>بیا که قصر امل سخت سست بنیاد است بیار باده که بنیاد عمر بر باد است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781892926861_1196" custom="readingOrder {index:1;}">
                 <Coords points="60,1530 1061,1530 1061,1646 60,1646" /><Baseline points="60,1602 1061,1602" />
                 <Baseline points="108,1729 1055,1729" />
                 <TextEquiv>
-                    <Unicode>غلام همت آنم که زیر چرخ کبود ز هر چه رنگ تعلق پذیرد آزادست</Unicode>
+                    <Unicode>غلام همت آنم که زیر چرخ کبود ز هر چه رنک تعلق پذیرد آزاد است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781892954712_1202" custom="readingOrder {index:2;}">
                 <Coords points="76,1658 1066,1658 1066,1790 76,1790" /><Baseline points="76,1740 1066,1740" />
                 <Baseline points="96,1869 1043,1885" />
                 <TextEquiv>
-                    <Unicode>نصیحتی کنمت یاد گیر و در عمل آر که این حدیث ز پیر طریقتم یادست</Unicode>
+                    <Unicode>نصیحتی کنمت یاد کیر و در عمل آر که این حدیث ز پیر طریقتم یاد است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781893056601_1208" custom="readingOrder {index:3;}">
                 <Coords points="67,1798 1059,1798 1059,1945 67,1945" /><Baseline points="67,1889 1059,1889" />
                 <Baseline points="101,2017 1062,2036" />
                 <TextEquiv>
-                    <Unicode>غم جهان مخور و پند من مبر از یاد که این لطیفه عشقم ز ره روی یادست</Unicode>
+                    <Unicode>غم جهان مخور و پند من مبر از یاد که این لطیفه عشقم ز ره روی یاد است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781893142176_1214" custom="readingOrder {index:4;}">
                 <Coords points="69,1969 1066,1969 1066,2088 69,2088" /><Baseline points="69,2043 1066,2043" />
                 <Baseline points="83,2149 1054,2165" />
                 <TextEquiv>
-                    <Unicode>رضا به داده بده وز جبین گره بگشای که بر من و تو در اختیار نگشادست</Unicode>
+                    <Unicode>رضا بداده بده وز جبین کره بکشای که بر من تو در اختیار نکشاد است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781893188733_1220" custom="readingOrder {index:5;}">
                 <Coords points="44,2108 1086,2108 1086,2226 44,2226" /><Baseline points="44,2181 1086,2181" />
                 <Baseline points="117,2301 1047,2309" />
                 <TextEquiv>
-                    <Unicode>چه گویمت که به میخانه دوش مست و خراب سروش عالم غیبم چه مژده ها دادست</Unicode>
+                    <Unicode>چکویمت که بمیخانه دوش مست و خراب سروش عالم غیبم چه مژد ها داد است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781893242865_1226" custom="readingOrder {index:6;}">
                 <Coords points="69,2242 1084,2242 1084,2368 69,2368" /><Baseline points="69,2320 1084,2320" />
                 <Baseline points="107,2441 1060,2449" />
                 <TextEquiv>
-                    <Unicode>که ای بلندنظر شاهباز سدره نشین نشیمن تو نه این کنج محنت آبادست</Unicode>
+                    <Unicode>که ای بلندنظر شاهباز صدره نشین نشیمن تو نه این کنج محنت آباد است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781893269264_1232" custom="readingOrder {index:7;}">
                 <Coords points="59,2382 1082,2382 1082,2500 59,2500" /><Baseline points="59,2455 1082,2455" />
                 <Baseline points="91,2591 1048,2595" />
                 <TextEquiv>
-                    <Unicode>تو را ز کنگره عرش می زنند صفیر ندانمت که در این دامگه چه افتادست</Unicode>
+                    <Unicode>تو را ز کنکره عرش میزنند صفیر ندانمت که درین دامکه چه افتاد است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781893297465_1238" custom="readingOrder {index:8;}">
                 <Coords points="51,2508 1076,2508 1076,2643 51,2643" /><Baseline points="51,2592 1076,2592" />
                 <TextEquiv>
-                    <Unicode>مجو درستی عهد از جهان سست نهاد که این عجوز عروس هزار دامادست</Unicode>
+                    <Unicode>مجو درستی عهد از جهان سست نهاد که این عجوزه عروس هزار داماد است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بیا که قصر امل سخت سست بنیادست بیار باده که بنیاد عمر بر بادست
-غلام همت آنم که زیر چرخ کبود ز هر چه رنگ تعلق پذیرد آزادست
-نصیحتی کنمت یاد گیر و در عمل آر که این حدیث ز پیر طریقتم یادست
-غم جهان مخور و پند من مبر از یاد که این لطیفه عشقم ز ره روی یادست
-رضا به داده بده وز جبین گره بگشای که بر من و تو در اختیار نگشادست
-چه گویمت که به میخانه دوش مست و خراب سروش عالم غیبم چه مژده ها دادست
-که ای بلندنظر شاهباز سدره نشین نشیمن تو نه این کنج محنت آبادست
-تو را ز کنگره عرش می زنند صفیر ندانمت که در این دامگه چه افتادست
-مجو درستی عهد از جهان سست نهاد که این عجوز عروس هزار دامادست</Unicode>
+                <Unicode>بیا که قصر امل سخت سست بنیاد است بیار باده که بنیاد عمر بر باد است
+غلام همت آنم که زیر چرخ کبود ز هر چه رنک تعلق پذیرد آزاد است
+نصیحتی کنمت یاد کیر و در عمل آر که این حدیث ز پیر طریقتم یاد است
+غم جهان مخور و پند من مبر از یاد که این لطیفه عشقم ز ره روی یاد است
+رضا بداده بده وز جبین کره بکشای که بر من تو در اختیار نکشاد است
+چکویمت که بمیخانه دوش مست و خراب سروش عالم غیبم چه مژد ها داد است
+که ای بلندنظر شاهباز صدره نشین نشیمن تو نه این کنج محنت آباد است
+تو را ز کنکره عرش میزنند صفیر ندانمت که درین دامکه چه افتاد است
+مجو درستی عهد از جهان سست نهاد که این عجوزه عروس هزار داماد است</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

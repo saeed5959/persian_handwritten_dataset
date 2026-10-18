@@ -21,18 +21,18 @@
             <TextLine id="line_1782047691012_499" custom="readingOrder {index:0;}">
                 <Coords points="280,284 481,284 481,334 280,334" /><Baseline points="280,315 481,315" />
                 <TextEquiv>
-                    <Unicode>اخفا الشداید من الموه</Unicode>
+                    <Unicode>اخفا الشداید من المروه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782047745078_503" custom="readingOrder {index:1;}">
                 <Coords points="281,333 482,333 482,385 281,385" /><Baseline points="281,365 482,365" />
                 <TextEquiv>
-                    <Unicode>پنهان داشتن شداید ازمردانگی است</Unicode>
+                    <Unicode>پنهان داشتن شداید از مردانکی است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>اخفا الشداید من الموه
-پنهان داشتن شداید ازمردانگی است</Unicode>
+                <Unicode>اخفا الشداید من المروه
+پنهان داشتن شداید از مردانکی است</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782047782970_507" custom="readingOrder {index:1;}">
@@ -65,12 +65,12 @@
             <TextLine id="line_1782047949609_525" custom="readingOrder {index:1;}">
                 <Coords points="287,563 480,565 479,614 287,614" /><Baseline points="287,595 480,595" />
                 <TextEquiv>
-                    <Unicode>ادب بیاموز زعیال خود را تانفع برسانی ایشانرا</Unicode>
+                    <Unicode>ادب بیاموز عیال خود را تا نفع برسانی ایشانرا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>ادب عیالک تنفعهم
-ادب بیاموز زعیال خود را تانفع برسانی ایشانرا</Unicode>
+ادب بیاموز عیال خود را تا نفع برسانی ایشانرا</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782048032195_529" custom="readingOrder {index:3;}">
@@ -103,12 +103,12 @@
             <TextLine id="line_1782048312548_565" custom="readingOrder {index:1;}">
                 <Coords points="289,794 480,794 481,841 290,841" /><Baseline points="289,823 481,823" />
                 <TextEquiv>
-                    <Unicode>طلب راحت نمودن دریاس است</Unicode>
+                    <Unicode>طلب راحت نمودن در یاس است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>استراحه النفس فی الیاس
-طلب راحت نمودن دریاس است</Unicode>
+طلب راحت نمودن در یاس است</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782048360832_569" custom="readingOrder {index:5;}">
@@ -116,18 +116,18 @@
             <TextLine id="line_1782048367019_572" custom="readingOrder {index:0;}">
                 <Coords points="217,840 559,840 559,903 217,903" /><Baseline points="217,879 559,879" />
                 <TextEquiv>
-                    <Unicode>آتش آرزو که شدت ان در تعب دارد بصیف و شتا</Unicode>
+                    <Unicode>آتش آرزو که شدت ان در تعب داردت بصیف و شتا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782048420309_576" custom="readingOrder {index:1;}">
                 <Coords points="216,901 558,901 559,946 217,946" /><Baseline points="216,929 559,929" />
                 <TextEquiv>
-                    <Unicode>آخر از یاس چون شود خاموش یاس تورااحسنت ورخا</Unicode>
+                    <Unicode>آخر از یاس چون شود خاموش یاس بهر تو راحتست ورخا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>آتش آرزو که شدت ان در تعب دارد بصیف و شتا
-آخر از یاس چون شود خاموش یاس تورااحسنت ورخا</Unicode>
+                <Unicode>آتش آرزو که شدت ان در تعب داردت بصیف و شتا
+آخر از یاس چون شود خاموش یاس بهر تو راحتست ورخا</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

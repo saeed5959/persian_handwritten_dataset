@@ -40,18 +40,18 @@
             <TextLine id="line_1782054929336_487" custom="readingOrder {index:0;}">
                 <Coords points="36,546 518,546 518,646 36,646" /><Baseline points="36,608 518,608" />
                 <TextEquiv>
-                    <Unicode>برنگردد چو عمر رفته دگر که گذشته گذشته در هر باب</Unicode>
+                    <Unicode>برنکردد چو عمر رفته دکر که کذشته کذشته در هر باب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782054986109_491" custom="readingOrder {index:1;}">
                 <Coords points="36,644 513,644 513,723 36,723" /><Baseline points="36,693 513,693" />
                 <TextEquiv>
-                    <Unicode>باقی عمر را نمی باشد قیمت آن دگر بحد حساب</Unicode>
+                    <Unicode>باقی عمر را نمی باشد قیمت آن دکر بحد حساب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>برنگردد چو عمر رفته دگر که گذشته گذشته در هر باب
-باقی عمر را نمی باشد قیمت آن دگر بحد حساب</Unicode>
+                <Unicode>برنکردد چو عمر رفته دکر که کذشته کذشته در هر باب
+باقی عمر را نمی باشد قیمت آن دکر بحد حساب</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782055039534_495" custom="readingOrder {index:2;}">
@@ -59,18 +59,18 @@
             <TextLine id="line_1782055049784_498" custom="readingOrder {index:0;}">
                 <Coords points="133,722 413,722 413,785 133,785" /><Baseline points="133,761 413,761" />
                 <TextEquiv>
-                    <Unicode>تدارک فی آخرالعمر مافاتک فی اوله</Unicode>
+                    <Unicode>تدارک فی آخر العمر مافاتک فی اوله</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782055096213_502" custom="readingOrder {index:1;}">
                 <Coords points="133,784 413,784 413,871 133,871" /><Baseline points="133,838 413,838" />
                 <TextEquiv>
-                    <Unicode>تدارک کن در آخرعمرآنچه از تو فوتشده در اول آن</Unicode>
+                    <Unicode>تدارک کن در آخر عمر آنچه از تو فوت شده در اول آن</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>تدارک فی آخرالعمر مافاتک فی اوله
-تدارک کن در آخرعمرآنچه از تو فوتشده در اول آن</Unicode>
+                <Unicode>تدارک فی آخر العمر مافاتک فی اوله
+تدارک کن در آخر عمر آنچه از تو فوت شده در اول آن</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782055248818_506" custom="readingOrder {index:3;}">
@@ -78,7 +78,7 @@
             <TextLine id="line_1782055261460_509" custom="readingOrder {index:0;}">
                 <Coords points="34,867 509,867 509,957 34,957" /><Baseline points="34,923 509,923" />
                 <TextEquiv>
-                    <Unicode>تو که شد نقد عمر تااکنون صرف عصیان بآنچه بدرایت</Unicode>
+                    <Unicode>تو که شد نقد عمر تا اکنون صرف عصیان بآنچه بدرایت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782055357295_513" custom="readingOrder {index:1;}">
@@ -88,7 +88,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>تو که شد نقد عمر تااکنون صرف عصیان بآنچه بدرایت
+                <Unicode>تو که شد نقد عمر تا اکنون صرف عصیان بآنچه بدرایت
 تا بود مهلتی تدارک کن آنچه را فوت کشته تا غایت</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -116,7 +116,7 @@
             <TextLine id="line_1782055655286_535" custom="readingOrder {index:0;}">
                 <Coords points="30,1193 502,1193 502,1279 30,1279" /><Baseline points="30,1246 502,1246" />
                 <TextEquiv>
-                    <Unicode>تابود در نماز کاهل مرد ضعف ایمان ورابودعلت</Unicode>
+                    <Unicode>تابود در نماز کاهل مرد ضعف ایمان ورا بود علت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782055711291_539" custom="readingOrder {index:1;}">
@@ -126,7 +126,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>تابود در نماز کاهل مرد ضعف ایمان ورابودعلت
+                <Unicode>تابود در نماز کاهل مرد ضعف ایمان ورا بود علت
 تقویت چون نمود ایمان را بعبادت فزایدش رغبت</Unicode>
             </TextEquiv>
         </TextRegion>

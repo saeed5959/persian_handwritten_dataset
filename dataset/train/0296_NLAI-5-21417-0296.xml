@@ -17,7 +17,7 @@
                 <Coords points="64,275 959,275 959,465 64,465" /><Baseline points="64,393 959,393" />
                 <Baseline points="75,376 905,390" />
                 <TextEquiv>
-                    <Unicode>و مثل فعل فی ذالاعلالاسم ضاها مضار عا وفیه و سم</Unicode>
+                    <Unicode>و مثل فعل فی ذالا علال اسم ضاها مضارعا وفیه وسم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1356991204569_1094" custom="readingOrder {index:1;}">
@@ -31,7 +31,7 @@
                 <Coords points="118,748 909,748 909,927 118,927" /><Baseline points="118,859 909,859" />
                 <Baseline points="132,837 876,841" />
                 <TextEquiv>
-                    <Unicode>ازل لذالا علال و االتا الزم عوض وحذفها باالمقل بما عرض</Unicode>
+                    <Unicode>ازل لذالا علال و التا الزم عوض وحذفها بالمقل بما عرض</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1356991419007_1107" custom="readingOrder {index:3;}">
@@ -45,23 +45,23 @@
                 <Coords points="128,1228 880,1228 880,1417 128,1417" /><Baseline points="128,1345 880,1345" />
                 <Baseline points="136,1321 859,1306" />
                 <TextEquiv>
-                    <Unicode>نحو مبلیع و میصول و ندر یقصحح ذالواد و فی ذی الماشتهر</Unicode>
+                    <Unicode>نحو مبلیع و مصیول و ندر یقحح ذالواد و فی ذی الماشتهر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1356991774235_1119" custom="readingOrder {index:5;}">
                 <Coords points="132,1503 887,1503 887,1629 132,1629" /><Baseline points="132,1581 887,1581" />
                 <Baseline points="143,1561 869,1571" />
                 <TextEquiv>
-                    <Unicode>وصحح المفعول فی نحو عدا دا علل انلم تحتری الاجودا</Unicode>
+                    <Unicode>وصحح المفعول فی نحو عدا و اعلل انلم تحتری الاجودا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>و مثل فعل فی ذالاعلالاسم ضاها مضار عا وفیه و سم
+                <Unicode>و مثل فعل فی ذالا علال اسم ضاها مضارعا وفیه وسم
 و مفعل صحح کالمفعال و الف الافعال و استفعال
-ازل لذالا علال و االتا الزم عوض وحذفها باالمقل بما عرض
+ازل لذالا علال و التا الزم عوض وحذفها بالمقل بما عرض
 و مالا فعال من الحذف و من نقل فمعون به ایصا قمن
-نحو مبلیع و میصول و ندر یقصحح ذالواد و فی ذی الماشتهر
-وصحح المفعول فی نحو عدا دا علل انلم تحتری الاجودا</Unicode>
+نحو مبلیع و مصیول و ندر یقحح ذالواد و فی ذی الماشتهر
+وصحح المفعول فی نحو عدا و اعلل انلم تحتری الاجودا</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

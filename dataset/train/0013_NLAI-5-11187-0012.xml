@@ -21,7 +21,7 @@
             <TextLine id="line_1782048590305_594" custom="readingOrder {index:0;}">
                 <Coords points="148,406 412,406 410,468 146,468" /><Baseline points="146,444 412,444" />
                 <TextEquiv>
-                    <Unicode>برالوالدین سلف</Unicode>
+                    <Unicode>بر الوالدین سلف</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782048632900_598" custom="readingOrder {index:1;}">
@@ -31,7 +31,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>برالوالدین سلف
+                <Unicode>بر الوالدین سلف
 نیکویی والدین حق سابقه ایشان است</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -40,18 +40,18 @@
             <TextLine id="line_1782048701126_606" custom="readingOrder {index:0;}">
                 <Coords points="33,539 514,539 517,623 36,623" /><Baseline points="33,591 517,591" />
                 <TextEquiv>
-                    <Unicode>باش بربروالدین ثابت کرترا میل جنت است ای شباب</Unicode>
+                    <Unicode>باش بربر والدین ثابت کر ترا میل جنت است ای شباب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782048750097_610" custom="readingOrder {index:1;}">
                 <Coords points="33,624 513,624 513,714 33,714" /><Baseline points="33,680 513,680" />
                 <TextEquiv>
-                    <Unicode>باربرکردن تو چون فرض است حق احسانشان یگاه شباب</Unicode>
+                    <Unicode>باربر کردن تو چون فرض است حق احسانشان بکاه شباب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>باش بربروالدین ثابت کرترا میل جنت است ای شباب
-باربرکردن تو چون فرض است حق احسانشان یگاه شباب</Unicode>
+                <Unicode>باش بربر والدین ثابت کر ترا میل جنت است ای شباب
+باربر کردن تو چون فرض است حق احسانشان بکاه شباب</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782048817703_614" custom="readingOrder {index:2;}">
@@ -91,12 +91,12 @@
             <TextLine id="line_1782049222079_663" custom="readingOrder {index:1;}">
                 <Coords points="33,957 510,957 510,1040 32,1033" /><Baseline points="32,1008 510,1008" />
                 <TextEquiv>
-                    <Unicode>پس بود عمر را بحسن برکت زان مدار هیچ عجب</Unicode>
+                    <Unicode>پس بود عمر را بحسن عمل برکت زان مدار هیچ عجب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>بغی و عصیان چو آدمی راهست پشتکی در فنا و فوت سبب
-پس بود عمر را بحسن برکت زان مدار هیچ عجب</Unicode>
+پس بود عمر را بحسن عمل برکت زان مدار هیچ عجب</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782049295786_669" custom="readingOrder {index:4;}">
@@ -104,18 +104,18 @@
             <TextLine id="line_1782049304848_672" custom="readingOrder {index:0;}">
                 <Coords points="138,1037 401,1042 402,1110 140,1111" /><Baseline points="138,1083 402,1083" />
                 <TextEquiv>
-                    <Unicode>بشرنفسک بالظفر بعد الصبر</Unicode>
+                    <Unicode>بشر نفسک بالظفر بعد الصبر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782049373358_676" custom="readingOrder {index:1;}">
                 <Coords points="139,1109 398,1109 398,1194 139,1194" /><Baseline points="139,1162 398,1162" />
                 <TextEquiv>
-                    <Unicode>مژده نفس خودرا بفیروزی بعداز صبر</Unicode>
+                    <Unicode>مژده نفس خودرا بیفروزی بعد از صبر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بشرنفسک بالظفر بعد الصبر
-مژده نفس خودرا بفیروزی بعداز صبر</Unicode>
+                <Unicode>بشر نفسک بالظفر بعد الصبر
+مژده نفس خودرا بیفروزی بعد از صبر</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782049428095_680" custom="readingOrder {index:5;}">

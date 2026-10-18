@@ -26,7 +26,7 @@
                 <Coords points="629,493 1067,493 1067,648 629,648" /><Baseline points="629,589 1067,589" />
                 <Baseline points="642,579 1047,594" />
                 <TextEquiv>
-                    <Unicode>در دشت روم خیمه زدی وز غریو کوس</Unicode>
+                    <Unicode>ور دشت روم خیمه زدی در غریو کوس</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781904643148_3081" custom="readingOrder {index:2;}">
@@ -47,7 +47,7 @@
                 <Coords points="103,762 540,762 540,894 103,894" /><Baseline points="103,844 540,844" />
                 <Baseline points="125,832 532,854" />
                 <TextEquiv>
-                    <Unicode>از مصر تا بشام و ز چین تا بقیروان</Unicode>
+                    <Unicode>از مصر تا بشام وز چین تا بقیروان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781904673617_3099" custom="readingOrder {index:5;}">
@@ -75,42 +75,42 @@
                 <Coords points="106,1049 542,1049 542,1198 106,1198" /><Baseline points="106,1141 542,1141" />
                 <Baseline points="116,1126 524,1152" />
                 <TextEquiv>
-                    <Unicode>با بندگان سمند سعادت بزیر ران</Unicode>
+                    <Unicode>با بندکان سمند سعادت بزیر ران</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781904710985_3123" custom="readingOrder {index:9;}">
                 <Coords points="622,1062 1065,1062 1065,1195 622,1195" /><Baseline points="622,1144 1065,1144" />
                 <Baseline points="650,1144 1058,1145" />
                 <TextEquiv>
-                    <Unicode>اینک بطرف گلشن و بستان همیروی</Unicode>
+                    <Unicode>اینک بطرف کلشن و بستان همیروی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781904729465_3135" custom="readingOrder {index:10;}">
                 <Coords points="620,1196 1070,1196 1070,1341 620,1341" /><Baseline points="620,1286 1070,1286" />
                 <Baseline points="669,1280 1055,1285" />
                 <TextEquiv>
-                    <Unicode>آن ملهمی که در صف کرو بیان قدس</Unicode>
+                    <Unicode>آن ملهمی که در صف کرد بیان قدس</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781904719278_3129" custom="readingOrder {index:11;}">
                 <Coords points="104,1201 545,1201 545,1348 104,1348" /><Baseline points="104,1292 545,1292" />
                 <Baseline points="126,1268 529,1277" />
                 <TextEquiv>
-                    <Unicode>فیضی رسد بخاطر پاکت زمان زمان</Unicode>
+                    <Unicode>فیضی رسد بخاطر پاکت زمان زبان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781904748423_3147" custom="readingOrder {index:12;}">
                 <Coords points="617,1345 1076,1345 1076,1477 617,1477" /><Baseline points="617,1427 1076,1427" />
                 <Baseline points="647,1407 1050,1412" />
                 <TextEquiv>
-                    <Unicode>ای آشکار پیش دلت آنچه کردگار</Unicode>
+                    <Unicode>ای آشکار پیش دلت آنچه کردکار</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781904740015_3141" custom="readingOrder {index:13;}">
                 <Coords points="95,1351 549,1351 549,1486 95,1486" /><Baseline points="95,1435 549,1435" />
                 <Baseline points="122,1415 526,1428" />
                 <TextEquiv>
-                    <Unicode>دارد همی به پرد غیب اندرون نهان</Unicode>
+                    <Unicode>دارد همی به پرده غیب اندرون نهان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781904764220_3159" custom="readingOrder {index:14;}">
@@ -143,19 +143,19 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>تا دشت هند رفت و بیابان سیستان
-در دشت روم خیمه زدی وز غریو کوس
+ور دشت روم خیمه زدی در غریو کوس
 در قصرهای قیصر و از خانهای خان
 تا قصر زرد ساختی و لرزه اوفتاد
-از مصر تا بشام و ز چین تا بقیروان
+از مصر تا بشام وز چین تا بقیروان
 آن کیست کو بملک کند با تو همسری
 تو شاکری ز خالق و خلق از تو شاکرند
 تو شادمان بدولت و ملک از تو شادمان
-با بندگان سمند سعادت بزیر ران
-اینک بطرف گلشن و بستان همیروی
-آن ملهمی که در صف کرو بیان قدس
-فیضی رسد بخاطر پاکت زمان زمان
-ای آشکار پیش دلت آنچه کردگار
-دارد همی به پرد غیب اندرون نهان
+با بندکان سمند سعادت بزیر ران
+اینک بطرف کلشن و بستان همیروی
+آن ملهمی که در صف کرد بیان قدس
+فیضی رسد بخاطر پاکت زمان زبان
+ای آشکار پیش دلت آنچه کردکار
+دارد همی به پرده غیب اندرون نهان
 داده فلک عنان ارادت بدست تو
 یعنی که من نیم بمراد خودت بران
 خصمت کجا است در ته پای خودت فکن
@@ -168,19 +168,19 @@
                 <Coords points="336,1777 829,1777 829,1929 336,1929" /><Baseline points="336,1871 829,1871" />
                 <Baseline points="372,1864 802,1866" />
                 <TextEquiv>
-                    <Unicode>هم کام من بخدمت تو گشته منتظم</Unicode>
+                    <Unicode>هم کام من بخدمت تو کشته منتظم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781904802792_3183" custom="readingOrder {index:1;}">
                 <Coords points="335,1937 808,1937 808,2047 335,2047" /><Baseline points="335,2005 808,2005" />
                 <Baseline points="348,1985 798,1990" />
                 <TextEquiv>
-                    <Unicode>هم نام من بمدحت تو گشته جاودان</Unicode>
+                    <Unicode>هم نام من بمدحت تو کشته جاودان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>هم کام من بخدمت تو گشته منتظم
-هم نام من بمدحت تو گشته جاودان</Unicode>
+                <Unicode>هم کام من بخدمت تو کشته منتظم
+هم نام من بمدحت تو کشته جاودان</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781904606246_3066" custom="readingOrder {index:2;}">
@@ -189,7 +189,7 @@
                 <Coords points="88,2037 527,2037 527,2188 88,2188" /><Baseline points="88,2131 527,2131" />
                 <Baseline points="101,2132 514,2138" />
                 <TextEquiv>
-                    <Unicode>هزار نکته درین کار هست تاوانی</Unicode>
+                    <Unicode>هزار نکته درین کار هست تا دانی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781904823054_3195" custom="readingOrder {index:1;}">
@@ -217,7 +217,7 @@
                 <Coords points="92,2342 526,2342 526,2478 92,2478" /><Baseline points="92,2426 526,2426" />
                 <Baseline points="97,2419 517,2423" />
                 <TextEquiv>
-                    <Unicode>که دردیی بهنر خویش را بگنجایی</Unicode>
+                    <Unicode>که در دلی بهنر خویش را بکنجایی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781904859914_3219" custom="readingOrder {index:5;}">
@@ -238,18 +238,18 @@
                 <Coords points="611,2502 1065,2502 1065,2629 611,2629" /><Baseline points="611,2581 1065,2581" />
                 <Baseline points="629,2565 1055,2567" />
                 <TextEquiv>
-                    <Unicode>چه کردها که برانگیختی ز هستی ما</Unicode>
+                    <Unicode>چه کردها که برانکیختی ز هستی ما</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>هزار نکته درین کار هست تاوانی
+                <Unicode>هزار نکته درین کار هست تا دانی
 ز دلبری نتوان لاف زد با بیانی
 نجاتمی نتوان دم زد از سلیمانی
 بجز شکر دهنی با بها است خوبی را
-که دردیی بهنر خویش را بگنجایی
+که در دلی بهنر خویش را بکنجایی
 هزار سلطنت دلبری بآن نرسد
 مباد خسته سمندت که تند میرانی
-چه کردها که برانگیختی ز هستی ما</Unicode>
+چه کردها که برانکیختی ز هستی ما</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

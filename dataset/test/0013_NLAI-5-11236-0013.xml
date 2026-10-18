@@ -17,7 +17,7 @@
                 <Coords points="689,651 997,651 997,534 689,534" /><Baseline points="689,607 997,607" />
                 <Baseline points="702,601 983,596" />
                 <TextEquiv>
-                    <Unicode>بدو گفت مهراب کای پادشا</Unicode>
+                    <Unicode>بدو کفت مهراب کای پادشا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290663711_546" custom="readingOrder {index:1;}">
@@ -66,7 +66,7 @@
                 <Coords points="341,1027 674,1027 674,909 341,909" /><Baseline points="341,982 674,982" />
                 <Baseline points="355,972 631,969" />
                 <TextEquiv>
-                    <Unicode>به خان تو اندر مرا جای نیست</Unicode>
+                    <Unicode>بخان تو اندر مرا جای نیست</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290690705_567" custom="readingOrder {index:8;}">
@@ -87,7 +87,7 @@
                 <Coords points="690,1290 1016,1290 1016,1160 690,1160" /><Baseline points="690,1241 1016,1241" />
                 <Baseline points="704,1232 995,1224" />
                 <TextEquiv>
-                    <Unicode>که ما می گساریم و مستان شویم</Unicode>
+                    <Unicode>که ما می کساریم و مستان شویم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290699807_576" custom="readingOrder {index:11;}">
@@ -101,14 +101,14 @@
                 <Coords points="349,1416 655,1416 655,1290 349,1290" /><Baseline points="349,1368 655,1368" />
                 <Baseline points="361,1359 638,1360" />
                 <TextEquiv>
-                    <Unicode>به دیدار تو رای فرخ نهیم</Unicode>
+                    <Unicode>بدیدار تو رای فرخ نهیم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290702623_579" custom="readingOrder {index:13;}">
                 <Coords points="707,1425 1004,1425 1004,1299 707,1299" /><Baseline points="707,1377 1004,1377" />
                 <Baseline points="696,1353 1001,1353" />
                 <TextEquiv>
-                    <Unicode>جزاین هر چه گویی تو پاسخ دهیم</Unicode>
+                    <Unicode>جز این هر چه کویی تو پاسخ دهیم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290711520_588" custom="readingOrder {index:14;}">
@@ -122,7 +122,7 @@
                 <Coords points="704,1543 1010,1543 1010,1417 704,1417" /><Baseline points="704,1495 1010,1495" />
                 <Baseline points="719,1482 992,1482" />
                 <TextEquiv>
-                    <Unicode>چو بشنید مهراب کرد آفرین</Unicode>
+                    <Unicode>چو بشنید مهراب کردآفرین</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290714975_591" custom="readingOrder {index:16;}">
@@ -140,22 +140,22 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بدو گفت مهراب کای پادشا
+                <Unicode>بدو کفت مهراب کای پادشا
 سرافراز و پیروز و فرمان روا
 که آن آرزو بر تو دشوار نیست
 مرا آرزو در زمانه یکیست
 که آیی به شادی سوی خان من
 چو خورشید روشن کنی جان من
 چنین داد پاسخ که این رای نیست
-به خان تو اندر مرا جای نیست
+بخان تو اندر مرا جای نیست
 نباشد بدین سام همداستان
 همان شاه چون بشنود داستان
-که ما می گساریم و مستان شویم
+که ما می کساریم و مستان شویم
 سوی خانه بت پرستان شویم
-به دیدار تو رای فرخ نهیم
-جزاین هر چه گویی تو پاسخ دهیم
+بدیدار تو رای فرخ نهیم
+جز این هر چه کویی تو پاسخ دهیم
 بدل زال را خواند ناپاک دین
-چو بشنید مهراب کرد آفرین
+چو بشنید مهراب کردآفرین
 خرامان برفت از بر تخت اوی
 همی آفرین خواند بر بخت اوی</Unicode>
             </TextEquiv>

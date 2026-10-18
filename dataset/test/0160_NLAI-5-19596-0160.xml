@@ -22,7 +22,7 @@
                 <Coords points="128,919 552,919 552,1051 128,1051" /><Baseline points="128,1001 552,1001" />
                 <Baseline points="155,958 546,987 544,981" />
                 <TextEquiv>
-                    <Unicode>کار ما بازستا سوی لب جام افتاد</Unicode>
+                    <Unicode>کار ما با رخ ساقی و لب جام افتاد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782376681460_52" custom="readingOrder {index:1;}">
@@ -33,7 +33,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>کار ما بازستا سوی لب جام افتاد
+                <Unicode>کار ما با رخ ساقی و لب جام افتاد
 زان میان دلسوخته بدنام افتاد</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -57,46 +57,46 @@
                 <Coords points="122,743 556,743 556,884 122,884" /><Baseline points="122,830 556,830" />
                 <Baseline points="151,805 544,830" />
                 <TextEquiv>
-                    <Unicode>این گدا بین که چه شایسته انجام افتاد</Unicode>
+                    <Unicode>این کدا بین که چه شایسته انجام افتاد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>کانکه شد کشته او نیک سرانجام افتاد
 آه کز چاه برون آمدم و در دام افتاد
-این گدا بین که چه شایسته انجام افتاد</Unicode>
+این کدا بین که چه شایسته انجام افتاد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782376507499_43" custom="readingOrder {index:2;}">
             <Coords points="115,909 556,909 556,1033 115,1033" />
-        </TextRegion>
+        <TextEquiv><Unicode /></TextEquiv></TextRegion>
         <TextRegion id="region_1782377501294_184" custom="readingOrder {index:3;}">
             <Coords points="91,1335 532,1335 532,2599 91,2599" />
             <TextLine id="line_1782377505396_187" custom="readingOrder {index:0;}">
                 <Coords points="111,1357 534,1357 534,1445 111,1445" /><Baseline points="111,1412 534,1412" />
                 <Baseline points="137,1392 523,1414" />
                 <TextEquiv>
-                    <Unicode>صورت نادیده تعریفی به مسکین کرده اند</Unicode>
+                    <Unicode>صورت نادیده تعریفی به شحمین کرده اند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377538169_193" custom="readingOrder {index:1;}">
                 <Coords points="106,1502 523,1502 523,1606 106,1606" /><Baseline points="106,1566 523,1566" />
                 <Baseline points="128,1547 508,1576" />
                 <TextEquiv>
-                    <Unicode>آن حکایتها که از فرهاد رو شیرین</Unicode>
+                    <Unicode>آن حکایتها که از فرهاد و شیرین</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377565433_199" custom="readingOrder {index:2;}">
                 <Coords points="99,1625 530,1625 530,1740 99,1740" /><Baseline points="99,1696 530,1696" />
                 <Baseline points="135,1689 527,1701" />
                 <TextEquiv>
-                    <Unicode>آنچه آن زلف سیاه و خال مشکین گفته اند</Unicode>
+                    <Unicode>آنچه آن زلف سیاه و خال مشکین کفته اند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377599523_205" custom="readingOrder {index:3;}">
                 <Coords points="101,1774 542,1774 542,1907 101,1907" /><Baseline points="101,1856 542,1856" />
                 <Baseline points="133,1828 532,1858" />
                 <TextEquiv>
-                    <Unicode>این کرامت همره شهباز و شاهین کرده اند</Unicode>
+                    <Unicode>این کرامت همره شهباز و شاهین کرده</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377652453_211" custom="readingOrder {index:4;}">
@@ -110,21 +110,21 @@
                 <Coords points="104,2083 532,2083 532,2188 104,2188" /><Baseline points="104,2148 532,2148" />
                 <Baseline points="131,2120 517,2142" />
                 <TextEquiv>
-                    <Unicode>کاین حریفان خدمت جام جهان کرده اند</Unicode>
+                    <Unicode>کاین حریفان خدمت جام جهان بین</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377725003_223" custom="readingOrder {index:6;}">
                 <Coords points="96,2203 525,2203 525,2328 96,2328" /><Baseline points="96,2280 525,2280" />
                 <Baseline points="116,2259 522,2296" />
                 <TextEquiv>
-                    <Unicode>عارفان انجا مقام عقل مسکین کرده اند</Unicode>
+                    <Unicode>عارفان انجا مثام عقل مشکین کرده اند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377771737_229" custom="readingOrder {index:7;}">
                 <Coords points="106,2340 525,2340 525,2460 106,2460" /><Baseline points="106,2414 525,2414" />
                 <Baseline points="135,2399 517,2428" />
                 <TextEquiv>
-                    <Unicode>این تطاول بین که با عشاق مسکین کرده اند</Unicode>
+                    <Unicode>این تطاول بین که با عشاق مسکین</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377805800_235" custom="readingOrder {index:8;}">
@@ -135,14 +135,14 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>صورت نادیده تعریفی به مسکین کرده اند
-آن حکایتها که از فرهاد رو شیرین
-آنچه آن زلف سیاه و خال مشکین گفته اند
-این کرامت همره شهباز و شاهین کرده اند
+                <Unicode>صورت نادیده تعریفی به شحمین کرده اند
+آن حکایتها که از فرهاد و شیرین
+آنچه آن زلف سیاه و خال مشکین کفته اند
+این کرامت همره شهباز و شاهین کرده
 قابل تغییر نبود آنچه تعیین کرده اند
-کاین حریفان خدمت جام جهان کرده اند
-عارفان انجا مقام عقل مسکین کرده اند
-این تطاول بین که با عشاق مسکین کرده اند
+کاین حریفان خدمت جام جهان بین
+عارفان انجا مثام عقل مشکین کرده اند
+این تطاول بین که با عشاق مسکین
 دختر رز را که نقد عقل کابین کرده اند</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -159,36 +159,36 @@
                 <Coords points="650,633 1085,633 1085,762 650,762" /><Baseline points="650,713 1085,713" />
                 <Baseline points="657,676 1072,708" />
                 <TextEquiv>
-                    <Unicode>در خم زلف تو آویخت دل از بهر ذقن</Unicode>
+                    <Unicode>در خم زلف تو اویخت دل از چاه دقن</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782376844781_75" custom="readingOrder {index:2;}">
                 <Coords points="636,774 1095,774 1095,893 636,893" /><Baseline points="636,848 1095,848" />
                 <Baseline points="661,837 1071,847" />
                 <TextEquiv>
-                    <Unicode>هر دمش با من دلسوخته لطفی دگر است</Unicode>
+                    <Unicode>هر دمش با من دلسوخته لطفی دکر است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782376883074_81" custom="readingOrder {index:3;}">
                 <Coords points="652,928 1088,928 1088,1036 652,1036" /><Baseline points="652,995 1088,995" />
                 <Baseline points="668,959 1065,990" />
                 <TextEquiv>
-                    <Unicode>آن شد ای خواجه که در صومعه با من بودی</Unicode>
+                    <Unicode>آن شد ایخواجه که در صومعه بازم بینی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782376927975_87" custom="readingOrder {index:4;}">
                 <Coords points="654,1065 1090,1065 1090,1163 654,1163" /><Baseline points="654,1126 1090,1126" />
                 <Baseline points="657,1116 1062,1137" />
                 <TextEquiv>
-                    <Unicode>صوفیان جمله حریفند و نظر باز ولی</Unicode>
+                    <Unicode>صوفیان کر چه حریفند و نظر باز ولی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>زیر شمشیر غمش رقص کنان باید رفت
-در خم زلف تو آویخت دل از بهر ذقن
-هر دمش با من دلسوخته لطفی دگر است
-آن شد ای خواجه که در صومعه با من بودی
-صوفیان جمله حریفند و نظر باز ولی</Unicode>
+در خم زلف تو اویخت دل از چاه دقن
+هر دمش با من دلسوخته لطفی دکر است
+آن شد ایخواجه که در صومعه بازم بینی
+صوفیان کر چه حریفند و نظر باز ولی</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782377107940_127" custom="readingOrder {index:5;}">
@@ -197,75 +197,75 @@
                 <Coords points="640,1350 1079,1350 1079,1463 640,1463" /><Baseline points="640,1420 1079,1420" />
                 <Baseline points="646,1400 1072,1420" />
                 <TextEquiv>
-                    <Unicode>نسبت رویت اگر با ماه و پروین کرده اند</Unicode>
+                    <Unicode>نسبت رویت اکر با ماه و پروین کرده اند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377205837_136" custom="readingOrder {index:1;}">
                 <Coords points="656,1491 1078,1491 1078,1620 656,1620" /><Baseline points="656,1571 1078,1571" />
                 <Baseline points="673,1561 1058,1569" />
                 <TextEquiv>
-                    <Unicode>شمه ای از داستان عشق شور انگیز ماست</Unicode>
+                    <Unicode>شمه از داستان عشق شور انکیز ماست</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377239105_142" custom="readingOrder {index:2;}">
                 <Coords points="624,1650 1072,1650 1072,1775 624,1775" /><Baseline points="624,1728 1072,1728" />
                 <Baseline points="650,1719 1056,1737" />
                 <TextEquiv>
-                    <Unicode>تیر مژگان دراز و غمزه ی جادوگری</Unicode>
+                    <Unicode>تیر مژکان دراز و غمزه ی جادو نکر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377270227_148" custom="readingOrder {index:3;}">
                 <Coords points="644,1795 1072,1795 1072,1914 644,1914" /><Baseline points="644,1869 1072,1869" />
                 <Baseline points="652,1860 1068,1872" />
                 <TextEquiv>
-                    <Unicode>شهپر زاغ و زغن در خور صید نیست</Unicode>
+                    <Unicode>شهپر زاغ و زغن در خورد صید و قید نیست</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377312397_154" custom="readingOrder {index:4;}">
                 <Coords points="650,1955 1070,1955 1070,2064 650,2064" /><Baseline points="650,2023 1070,2023" />
                 <Baseline points="658,2011 1066,2019" />
                 <TextEquiv>
-                    <Unicode>ساقیا می ده که با حکم قضای تند مست</Unicode>
+                    <Unicode>ساقیا می ده که با حکم قضا تندبیری</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377355358_160" custom="readingOrder {index:5;}">
                 <Coords points="656,2096 1070,2096 1070,2209 656,2209" /><Baseline points="656,2166 1070,2166" />
                 <Baseline points="648,2138 1066,2165" />
                 <TextEquiv>
-                    <Unicode>در سفالین کوزه زندان خوار می گویند</Unicode>
+                    <Unicode>در سفالین کوزه رندان خواری منکرید</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377400376_166" custom="readingOrder {index:6;}">
                 <Coords points="632,2229 1058,2229 1058,2326 632,2326" /><Baseline points="632,2289 1058,2289" />
                 <Baseline points="634,2277 1070,2298 1066,2298" />
                 <TextEquiv>
-                    <Unicode>محنت جان بخش دارد خاک کوی اهل دل</Unicode>
+                    <Unicode>مهنت جان بخش دارد خاک کوی دلبران</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377429759_172" custom="readingOrder {index:7;}">
                 <Coords points="614,2368 1058,2368 1058,2477 614,2477" /><Baseline points="614,2436 1058,2436" />
                 <Baseline points="630,2413 1026,2453" />
                 <TextEquiv>
-                    <Unicode>خاکیان به بهره اند از جرعه کاس الکرام</Unicode>
+                    <Unicode>خاکیان بی بهره اند از جرعه کاس الکرام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782377463336_178" custom="readingOrder {index:8;}">
                 <Coords points="631,2500 1047,2500 1047,2582 631,2582" /><Baseline points="631,2551 1047,2551" />
                 <Baseline points="653,2533 1045,2577 1045,2573" />
                 <TextEquiv>
-                    <Unicode>از خرد می خواه خون دانه اندر بکشد</Unicode>
+                    <Unicode>از خرد بیکانه چون دانه اندر پر کشید</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>نسبت رویت اگر با ماه و پروین کرده اند
-شمه ای از داستان عشق شور انگیز ماست
-تیر مژگان دراز و غمزه ی جادوگری
-شهپر زاغ و زغن در خور صید نیست
-ساقیا می ده که با حکم قضای تند مست
-در سفالین کوزه زندان خوار می گویند
-محنت جان بخش دارد خاک کوی اهل دل
-خاکیان به بهره اند از جرعه کاس الکرام
-از خرد می خواه خون دانه اندر بکشد</Unicode>
+                <Unicode>نسبت رویت اکر با ماه و پروین کرده اند
+شمه از داستان عشق شور انکیز ماست
+تیر مژکان دراز و غمزه ی جادو نکر
+شهپر زاغ و زغن در خورد صید و قید نیست
+ساقیا می ده که با حکم قضا تندبیری
+در سفالین کوزه رندان خواری منکرید
+مهنت جان بخش دارد خاک کوی دلبران
+خاکیان بی بهره اند از جرعه کاس الکرام
+از خرد بیکانه چون دانه اندر پر کشید</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

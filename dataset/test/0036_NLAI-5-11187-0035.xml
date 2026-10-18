@@ -78,18 +78,18 @@
             <TextLine id="line_1782067422008_1689" custom="readingOrder {index:0;}">
                 <Coords points="205,608 540,608 540,676 205,676" /><Baseline points="205,650 540,650" />
                 <TextEquiv>
-                    <Unicode>در محافل گرت بخشم آرند عفو و حلمت بسی بجا باشد</Unicode>
+                    <Unicode>در محافل کرت بخشم آرند عفو و حلمت بسی بجا باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782067492578_1694" custom="readingOrder {index:1;}">
                 <Coords points="205,676 539,676 539,734 205,734" /><Baseline points="205,712 539,712" />
                 <TextEquiv>
-                    <Unicode>داریم از غیظ خوردنت کاراست خوبی عاقبت ترا باشد</Unicode>
+                    <Unicode>دایم از غیظ خوردنت کار است خوبی عاقبت ترا باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>در محافل گرت بخشم آرند عفو و حلمت بسی بجا باشد
-داریم از غیظ خوردنت کاراست خوبی عاقبت ترا باشد</Unicode>
+                <Unicode>در محافل کرت بخشم آرند عفو و حلمت بسی بجا باشد
+دایم از غیظ خوردنت کار است خوبی عاقبت ترا باشد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782067561722_1698" custom="readingOrder {index:4;}">
@@ -103,12 +103,12 @@
             <TextLine id="line_1782067609458_1708" custom="readingOrder {index:1;}">
                 <Coords points="276,789 476,789 476,836 276,836" /><Baseline points="276,818 476,818" />
                 <TextEquiv>
-                    <Unicode>دین مرد ست دوست مر او را</Unicode>
+                    <Unicode>دین مردست دوست مر او را</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>دین المر خدینه
-دین مرد ست دوست مر او را</Unicode>
+دین مردست دوست مر او را</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782067673355_1712" custom="readingOrder {index:5;}">

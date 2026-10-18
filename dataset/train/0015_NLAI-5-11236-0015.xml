@@ -19,7 +19,7 @@
                 <Coords points="334,648 629,648 629,539 334,539" /><Baseline points="334,607 629,607" />
                 <Baseline points="344,593 621,593" />
                 <TextEquiv>
-                    <Unicode>به نزد خردمند رسوا شوم</Unicode>
+                    <Unicode>بنزد خردمند رسوا شوم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781293913808_811" custom="readingOrder {index:1;}">
@@ -33,7 +33,7 @@
                 <Coords points="677,767 988,767 988,648 677,648" /><Baseline points="677,722 988,722" />
                 <Baseline points="692,712 958,713" />
                 <TextEquiv>
-                    <Unicode>از اندیشگان زال شد خسته دل</Unicode>
+                    <Unicode>از اندیشکان زال شد خسته دل</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781293930031_820" custom="readingOrder {index:3;}">
@@ -47,39 +47,39 @@
                 <Coords points="684,894 988,894 988,772 684,772" /><Baseline points="684,848 988,848" />
                 <Baseline points="690,840 970,833" />
                 <TextEquiv>
-                    <Unicode>همی بود پیچان دل از گفتگوی</Unicode>
+                    <Unicode>همی بود پیچان دل از کفتکوی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781293937183_826" custom="readingOrder {index:5;}">
                 <Coords points="337,914 639,914 639,774 337,774" /><Baseline points="337,861 639,861" />
                 <Baseline points="343,842 612,842" />
                 <TextEquiv>
-                    <Unicode>مگر تیره گرددش زین آبروی</Unicode>
+                    <Unicode>مکر تیره کرددش زین آبروی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781293941775_829" custom="readingOrder {index:6;}">
                 <Coords points="693,1018 994,1018 994,898 693,898" /><Baseline points="693,972 994,972" />
                 <Baseline points="706,972 984,971" />
                 <TextEquiv>
-                    <Unicode>همی گشت یکچند بر سر سپهر</Unicode>
+                    <Unicode>همی کشت یکچند بر سر سپهر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781293945135_832" custom="readingOrder {index:7;}">
                 <Coords points="340,1022 627,1022 627,913 340,913" /><Baseline points="340,981 627,981" />
                 <Baseline points="344,969 626,972" />
                 <TextEquiv>
-                    <Unicode>دل زال آکنده یکسر به مهر</Unicode>
+                    <Unicode>دل زال آکنده یکسر بمهر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>به نزد خردمند رسوا شوم
+                <Unicode>بنزد خردمند رسوا شوم
 عروسم نباید که رعنا شوم
-از اندیشگان زال شد خسته دل
+از اندیشکان زال شد خسته دل
 بر این کار بنهاد پیوسته دل
-همی بود پیچان دل از گفتگوی
-مگر تیره گرددش زین آبروی
-همی گشت یکچند بر سر سپهر
-دل زال آکنده یکسر به مهر</Unicode>
+همی بود پیچان دل از کفتکوی
+مکر تیره کرددش زین آبروی
+همی کشت یکچند بر سر سپهر
+دل زال آکنده یکسر بمهر</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781293955191_835" custom="readingOrder {index:1;}">
@@ -88,11 +88,11 @@
                 <Coords points="465,1143 867,1143 867,1045 465,1045" /><Baseline points="465,1106 867,1106" />
                 <Baseline points="483,1101 836,1097" />
                 <TextEquiv>
-                    <Unicode>مایل شدن رودابه بر زال از گفتار پدر مود مهراب</Unicode>
+                    <Unicode>مایل شدن رودابه بر زال از کفتار پدر مود مهراب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>مایل شدن رودابه بر زال از گفتار پدر مود مهراب</Unicode>
+                <Unicode>مایل شدن رودابه بر زال از کفتار پدر مود مهراب</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781293973423_841" custom="readingOrder {index:2;}">
@@ -101,21 +101,21 @@
                 <Coords points="336,1274 632,1274 632,1170 336,1170" /><Baseline points="336,1234 632,1234" />
                 <Baseline points="346,1228 615,1223" />
                 <TextEquiv>
-                    <Unicode>برفت و بیامد از آن بارگاه</Unicode>
+                    <Unicode>برفت و بیامد از آن بارکاه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781293980680_844" custom="readingOrder {index:1;}">
                 <Coords points="675,1284 980,1284 980,1171 675,1171" /><Baseline points="675,1241 980,1241" />
                 <Baseline points="697,1226 972,1226" />
                 <TextEquiv>
-                    <Unicode>چنان بد که مهراب روزی پگاه</Unicode>
+                    <Unicode>چنان بد که مهراب روزی پکاه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781293991167_853" custom="readingOrder {index:2;}">
                 <Coords points="338,1401 638,1401 638,1284 338,1284" /><Baseline points="338,1357 638,1357" />
                 <Baseline points="346,1348 629,1349" />
                 <TextEquiv>
-                    <Unicode>زمردی و کردی و از فر و یال</Unicode>
+                    <Unicode>ز مردی و کردی و از فر و یال</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781293987631_850" custom="readingOrder {index:3;}">
@@ -129,14 +129,14 @@
                 <Coords points="690,1533 997,1533 997,1398 690,1398" /><Baseline points="690,1482 997,1482" />
                 <Baseline points="697,1471 994,1469" />
                 <TextEquiv>
-                    <Unicode>گذر کرد سوی شبستان خویش</Unicode>
+                    <Unicode>کذر کرد سوی شبستان خویش</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781293999344_859" custom="readingOrder {index:5;}">
                 <Coords points="333,1533 652,1533 652,1403 333,1403" /><Baseline points="333,1484 652,1484" />
                 <Baseline points="341,1485 622,1482" />
                 <TextEquiv>
-                    <Unicode>دو خورشید دید اندر ایوان او</Unicode>
+                    <Unicode>دو خورشید دید اندر ایوان خویش</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781294003647_862" custom="readingOrder {index:6;}">
@@ -154,12 +154,12 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>برفت و بیامد از آن بارگاه
-چنان بد که مهراب روزی پگاه
-زمردی و کردی و از فر و یال
+                <Unicode>برفت و بیامد از آن بارکاه
+چنان بد که مهراب روزی پکاه
+ز مردی و کردی و از فر و یال
 ستایش همی کرد با خود ز زال
-گذر کرد سوی شبستان خویش
-دو خورشید دید اندر ایوان او
+کذر کرد سوی شبستان خویش
+دو خورشید دید اندر ایوان خویش
 یکی همچو رودابه خوب چهر
 یکی همچو سین دخت با رای و مهر</Unicode>
             </TextEquiv>

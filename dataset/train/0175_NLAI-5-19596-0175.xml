@@ -21,7 +21,7 @@
                 <Coords points="443,409 893,409 893,539 443,539" /><Baseline points="443,490 893,490" />
                 <Baseline points="464,471 873,481" />
                 <TextEquiv>
-                    <Unicode>گر تو بیداد کنی شرط مروت نبود</Unicode>
+                    <Unicode>کر تو بیداد کنی شرط مروت نبود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782409698359_3305" custom="readingOrder {index:1;}">
@@ -35,7 +35,7 @@
                 <Coords points="437,685 889,685 889,830 437,830" /><Baseline points="437,775 889,775" />
                 <Baseline points="446,729 879,772" />
                 <TextEquiv>
-                    <Unicode>تیره آن دل که در او شمع محبت نبود</Unicode>
+                    <Unicode>تیره آن دل که درو نور محبت نبود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782409733454_3317" custom="readingOrder {index:3;}">
@@ -49,7 +49,7 @@
                 <Coords points="458,989 885,989 885,1109 458,1109" /><Baseline points="458,1063 885,1063" />
                 <Baseline points="464,1036 881,1057" />
                 <TextEquiv>
-                    <Unicode>پیر ما گفت مه در صومعه همت نبود</Unicode>
+                    <Unicode>پیر ما کفت که در صومعه همت نبود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782410051666_3335" custom="readingOrder {index:5;}">
@@ -63,7 +63,7 @@
                 <Coords points="458,1272 889,1272 889,1414 458,1414" /><Baseline points="458,1360 889,1360" />
                 <Baseline points="458,1325 887,1331" />
                 <TextEquiv>
-                    <Unicode>نبود خیر در آن خانه که عصمت نبود</Unicode>
+                    <Unicode>نبود خیر درانخانه عصمت نبود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782410124445_3352" custom="readingOrder {index:7;}">
@@ -74,13 +74,13 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>گر تو بیداد کنی شرط مروت نبود
+                <Unicode>کر تو بیداد کنی شرط مروت نبود
 آنچه در مذهب ارباب طریقت نبود
-تیره آن دل که در او شمع محبت نبود
+تیره آن دل که درو نور محبت نبود
 ورنه با زاغ و زغن سپهر دولت نبود
-پیر ما گفت مه در صومعه همت نبود
+پیر ما کفت که در صومعه همت نبود
 آن مبادا که مددکاری فرصت نبود
-نبود خیر در آن خانه که عصمت نبود
+نبود خیر درانخانه عصمت نبود
 نور در سوختن شمع مروت نبود</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -90,7 +90,7 @@
                 <Coords points="447,1809 889,1809 889,1950 447,1950" /><Baseline points="447,1896 889,1896" />
                 <Baseline points="466,1890 865,1903" />
                 <TextEquiv>
-                    <Unicode>که با وی گفتمی گر مشکلی بود</Unicode>
+                    <Unicode>که باوی کفتمی کر مشکلی بود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782410661071_3441" custom="readingOrder {index:1;}">
@@ -111,22 +111,22 @@
                 <Coords points="463,2254 882,2254 882,2393 463,2393" /><Baseline points="463,2340 882,2340" />
                 <Baseline points="480,2319 868,2336" />
                 <TextEquiv>
-                    <Unicode>به پرسش امید ساحلی بود</Unicode>
+                    <Unicode>بتدبیرش امید ساحلی بود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782410786125_3459" custom="readingOrder {index:4;}">
                 <Coords points="449,2379 902,2379 902,2500 449,2500" /><Baseline points="449,2454 902,2454" />
                 <Baseline points="466,2417 861,2466" />
                 <TextEquiv>
-                    <Unicode>زمن محروم تر کی سایلی بود</Unicode>
+                    <Unicode>زمن محروم ترکی سایلی بود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>که با وی گفتمی گر مشکلی بود
+                <Unicode>که باوی کفتمی کر مشکلی بود
 که استظهار هر اهل دلی بود
 رفیقی کاردانی کاملی بود
-به پرسش امید ساحلی بود
-زمن محروم تر کی سایلی بود</Unicode>
+بتدبیرش امید ساحلی بود
+زمن محروم ترکی سایلی بود</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782410160713_3358" custom="readingOrder {index:2;}">
@@ -135,7 +135,7 @@
                 <Coords points="734,1536 1182,1536 1182,1680 734,1680" /><Baseline points="734,1625 1182,1625" />
                 <Baseline points="730,1607 1177,1617" />
                 <TextEquiv>
-                    <Unicode>حافظا علم وادب ورزکه در مجلس شاه</Unicode>
+                    <Unicode>حافظا علم و ادب ورز که در مجلس شاه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782410272229_3383" custom="readingOrder {index:1;}">
@@ -146,7 +146,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حافظا علم وادب ورزکه در مجلس شاه
+                <Unicode>حافظا علم و ادب ورز که در مجلس شاه
 هر که را نیست ادب لایق صحبت نبود</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -156,7 +156,7 @@
                 <Coords points="975,427 1416,427 1416,524 975,524" /><Baseline points="975,487 1416,487" />
                 <Baseline points="973,488 1394,482" />
                 <TextEquiv>
-                    <Unicode>خستگان را چو طلب باشد و قوت نبود</Unicode>
+                    <Unicode>خستکان را چو طلب باشد و قوت نبود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782409198781_3237" custom="readingOrder {index:1;}">
@@ -169,7 +169,7 @@
                 <Coords points="975,674 1401,674 1401,826 975,826" /><Baseline points="975,768 1401,768" />
                 <Baseline points="984,750 1385,753" />
                 <TextEquiv>
-                    <Unicode>خیره آن دیده که آبش نبرد گریه عشق</Unicode>
+                    <Unicode>خیره آن دیده که آبش نبرد کریه عشق</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782409442931_3247" custom="readingOrder {index:3;}">
@@ -183,39 +183,39 @@
                 <Coords points="969,975 1410,975 1410,1096 969,1096" /><Baseline points="969,1050 1410,1050" />
                 <Baseline points="984,1038 1392,1038" />
                 <TextEquiv>
-                    <Unicode>گر مدد خواستم از پیر مغان عیب مکن</Unicode>
+                    <Unicode>کر من از میکده همت طلبم عیب مکن</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782409483633_3259" custom="readingOrder {index:5;}">
                 <Coords points="982,1105 1420,1105 1420,1261 982,1261" /><Baseline points="982,1202 1420,1202" />
                 <Baseline points="978,1193 1397,1193" />
                 <TextEquiv>
-                    <Unicode>چون چنین نیک زسررشته خود با خبرم</Unicode>
+                    <Unicode>چون چنین نیک ز سررشته خود با خبرم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782409563097_3282" custom="readingOrder {index:6;}">
                 <Coords points="979,1261 1402,1261 1402,1418 979,1418" /><Baseline points="979,1358 1402,1358" />
                 <Baseline points="980,1337 1399,1347" />
                 <TextEquiv>
-                    <Unicode>چون طهارت نبود کعبه و بتخانه یکیست</Unicode>
+                    <Unicode>چون طهارت نبود کعبه و بتخانه یکی است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782409530999_3271" custom="readingOrder {index:7;}">
                 <Coords points="969,1421 1414,1421 1414,1536 969,1536" /><Baseline points="969,1492 1414,1492" />
                 <Baseline points="997,1466 1412,1477" />
                 <TextEquiv>
-                    <Unicode>تا به افسون نکند جادویم چشم تو مدد</Unicode>
+                    <Unicode>تا به افسون نکند جادوی چشم تو مدد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>خستگان را چو طلب باشد و قوت نبود
+                <Unicode>خستکان را چو طلب باشد و قوت نبود
 ما جفا از تو ندیدیم و تو خود نپسندی
-خیره آن دیده که آبش نبرد گریه عشق
+خیره آن دیده که آبش نبرد کریه عشق
 دولت از مرغ همایون طلب و سایه او
-گر مدد خواستم از پیر مغان عیب مکن
-چون چنین نیک زسررشته خود با خبرم
-چون طهارت نبود کعبه و بتخانه یکیست
-تا به افسون نکند جادویم چشم تو مدد</Unicode>
+کر من از میکده همت طلبم عیب مکن
+چون چنین نیک ز سررشته خود با خبرم
+چون طهارت نبود کعبه و بتخانه یکی است
+تا به افسون نکند جادوی چشم تو مدد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782410400769_3391" custom="readingOrder {index:4;}">
@@ -230,7 +230,7 @@
                 <Coords points="987,1952 1397,1952 1397,2081 987,2081" /><Baseline points="987,2032 1397,2032" />
                 <Baseline points="1004,2039 1382,2045" />
                 <TextEquiv>
-                    <Unicode>دلی همدرد و یاری مصلحت بین</Unicode>
+                    <Unicode>دلی همدرد و یار مصلحت بین</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782410500451_3410" custom="readingOrder {index:2;}">
@@ -244,7 +244,7 @@
                 <Coords points="967,2262 1426,2262 1426,2390 967,2390" /><Baseline points="967,2341 1426,2341" />
                 <Baseline points="982,2320 1394,2326" />
                 <TextEquiv>
-                    <Unicode>بگردابی چو می افتادم از غم</Unicode>
+                    <Unicode>بکردابی چو می افتادم از غم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782410597440_3426" custom="readingOrder {index:4;}">
@@ -256,9 +256,9 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>مسلمانان مرا وقتی دلی بود
-دلی همدرد و یاری مصلحت بین
+دلی همدرد و یار مصلحت بین
 من آشفته را در هر بلایی
-بگردابی چو می افتادم از غم
+بکردابی چو می افتادم از غم
 هنر بی عیب حرمان نیست لیکن</Unicode>
             </TextEquiv>
         </TextRegion>

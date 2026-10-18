@@ -21,19 +21,19 @@
                 <Coords points="530,492 942,492 942,619 530,619" /><Baseline points="530,571 942,571" />
                 <Baseline points="540,548 935,572" />
                 <TextEquiv>
-                    <Unicode>چو تو درآمدی ی کار دگر گرفت</Unicode>
+                    <Unicode>چو تو درآمدی پی کار دکر کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782549794282_740" custom="readingOrder {index:1;}">
                 <Coords points="525,628 938,628 938,760 525,760" /><Baseline points="525,710 938,710" />
                 <Baseline points="532,681 929,695" />
                 <TextEquiv>
-                    <Unicode>کوته نظر به بین که سخن مختصر گرفت</Unicode>
+                    <Unicode>کوته نظر به بین که سخن مختصر کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>چو تو درآمدی ی کار دگر گرفت
-کوته نظر به بین که سخن مختصر گرفت</Unicode>
+                <Unicode>چو تو درآمدی پی کار دکر کرفت
+کوته نظر به بین که سخن مختصر کرفت</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782551102279_845" custom="readingOrder {index:1;}">
@@ -42,14 +42,14 @@
                 <Coords points="517,1039 942,1039 942,1184 517,1184" /><Baseline points="517,1129 942,1129" />
                 <Baseline points="524,1105 932,1124" />
                 <TextEquiv>
-                    <Unicode>آری باتفاق جهان میتوان گرفت</Unicode>
+                    <Unicode>آری باتفاق جهان میتوان کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782551199346_854" custom="readingOrder {index:1;}">
                 <Coords points="515,1190 936,1190 936,1322 515,1322" /><Baseline points="515,1272 936,1272" />
                 <Baseline points="522,1236 930,1261" />
                 <TextEquiv>
-                    <Unicode>شکر خدا که سوز دلش بر زبان گرفت</Unicode>
+                    <Unicode>شکر خدا که سوز دلش بر زبان کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782569131500_860" custom="readingOrder {index:2;}">
@@ -63,42 +63,42 @@
                 <Coords points="503,1480 935,1480 935,1601 503,1601" /><Baseline points="503,1555 935,1555" />
                 <Baseline points="511,1526 926,1541" />
                 <TextEquiv>
-                    <Unicode>از غیرت صبا نفسش در دهان گرفت</Unicode>
+                    <Unicode>از غیرت صبا نفسش در دهان کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782569367263_872" custom="readingOrder {index:4;}">
                 <Coords points="501,1608 934,1608 934,1741 501,1741" /><Baseline points="501,1690 934,1690" />
                 <Baseline points="508,1653 921,1678" />
                 <TextEquiv>
-                    <Unicode>خورشید شعله ایست که در آسمان گرفت</Unicode>
+                    <Unicode>خورشید شعله ایست که در آسمان کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782569423981_880" custom="readingOrder {index:5;}">
                 <Coords points="495,1758 924,1758 924,1879 495,1879" /><Baseline points="495,1833 924,1833" />
                 <Baseline points="510,1812 916,1832" />
                 <TextEquiv>
-                    <Unicode>دوران چو نقطه عاقبتم در میان گرفت</Unicode>
+                    <Unicode>دوران چو نقطه عاقبتم در میان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782569504482_886" custom="readingOrder {index:6;}">
                 <Coords points="496,1885 932,1885 932,2027 496,2027" /><Baseline points="496,1973 932,1973" />
                 <Baseline points="502,1929 917,1960" />
                 <TextEquiv>
-                    <Unicode>کآتش ز عکس عارض ساقی در آن گرفت</Unicode>
+                    <Unicode>کآتش ز عکس عارض ساقی در ان کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782569589745_892" custom="readingOrder {index:7;}">
                 <Coords points="493,2033 926,2033 926,2173 493,2173" /><Baseline points="493,2120 926,2120" />
                 <Baseline points="507,2075 916,2119" />
                 <TextEquiv>
-                    <Unicode>زین فتنه ها که دامن آخر زمان گرفت</Unicode>
+                    <Unicode>زین فتنه ها که دامن آخر زمان کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782569635469_898" custom="readingOrder {index:8;}">
                 <Coords points="484,2177 922,2177 922,2325 484,2325" /><Baseline points="484,2269 922,2269" />
                 <Baseline points="492,2230 906,2253" />
                 <TextEquiv>
-                    <Unicode>از غم سبک برآمد و رطل گران گرفت</Unicode>
+                    <Unicode>از غم سبک برآمد و رطل کران کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782569677028_904" custom="readingOrder {index:9;}">
@@ -112,21 +112,21 @@
                 <Coords points="479,2459 906,2459 906,2583 479,2583" /><Baseline points="479,2536 906,2536" />
                 <Baseline points="485,2488 891,2529" />
                 <TextEquiv>
-                    <Unicode>زاهد به جام می زد و از غم کران گرفت</Unicode>
+                    <Unicode>زاهد بجام می زد و از غم کران کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>آری باتفاق جهان میتوان گرفت
-شکر خدا که سوز دلش بر زبان گرفت
+                <Unicode>آری باتفاق جهان میتوان کرفت
+شکر خدا که سوز دلش بر زبان کرفت
 چون پادشه به تیغ زرافشان جهان
-از غیرت صبا نفسش در دهان گرفت
-خورشید شعله ایست که در آسمان گرفت
-دوران چو نقطه عاقبتم در میان گرفت
-کآتش ز عکس عارض ساقی در آن گرفت
-زین فتنه ها که دامن آخر زمان گرفت
-از غم سبک برآمد و رطل گران گرفت
+از غیرت صبا نفسش در دهان کرفت
+خورشید شعله ایست که در آسمان کرفت
+دوران چو نقطه عاقبتم در میان
+کآتش ز عکس عارض ساقی در ان کرفت
+زین فتنه ها که دامن آخر زمان کرفت
+از غم سبک برآمد و رطل کران کرفت
 هر داغ دل که باده چون ارغوان
-زاهد به جام می زد و از غم کران گرفت</Unicode>
+زاهد بجام می زد و از غم کران کرفت</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782549859294_746" custom="readingOrder {index:2;}">
@@ -142,12 +142,12 @@
                 <Coords points="708,905 1175,905 1175,1038 708,1038" /><Baseline points="708,987 1175,987" />
                 <Baseline points="745,983 1159,976" />
                 <TextEquiv>
-                    <Unicode>تعویذ کرد شعر تو را و به زر گرفت</Unicode>
+                    <Unicode>تعویذ کرد شعر تو را و بزر کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>حافظ تو این دعا ز که آموختی که یار
-تعویذ کرد شعر تو را و به زر گرفت</Unicode>
+تعویذ کرد شعر تو را و بزر کرفت</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782549351790_714" custom="readingOrder {index:3;}">
@@ -156,19 +156,19 @@
                 <Coords points="1047,514 1451,514 1451,631 1047,631" /><Baseline points="1047,587 1451,587" />
                 <Baseline points="1053,560 1435,577" />
                 <TextEquiv>
-                    <Unicode>هر سروقد که بر مه و خور حسن می فروخت</Unicode>
+                    <Unicode>هر سرو قد که بر مه خور حسن میفروخت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782549646550_723" custom="readingOrder {index:1;}">
                 <Coords points="1041,643 1459,643 1459,767 1041,767" /><Baseline points="1041,720 1459,720" />
                 <Baseline points="1047,680 1447,710" />
                 <TextEquiv>
-                    <Unicode>زین هفت قصه گنبد افلاک پرصداست</Unicode>
+                    <Unicode>زین هفت قصه کنبد افلاک پرصداست</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>هر سروقد که بر مه و خور حسن می فروخت
-زین هفت قصه گنبد افلاک پرصداست</Unicode>
+                <Unicode>هر سرو قد که بر مه خور حسن میفروخت
+زین هفت قصه کنبد افلاک پرصداست</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782550016889_771" custom="readingOrder {index:4;}">
@@ -177,7 +177,7 @@
                 <Coords points="1027,1054 1442,1054 1442,1188 1027,1188" /><Baseline points="1027,1137 1442,1137" />
                 <Baseline points="1043,1111 1436,1116" />
                 <TextEquiv>
-                    <Unicode>حسنت به اتفاق ملاحت جهان گرفت</Unicode>
+                    <Unicode>حسنت باتفاق ملاحت جهان کرفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782550108753_780" custom="readingOrder {index:1;}">
@@ -191,14 +191,14 @@
                 <Coords points="1021,1342 1453,1342 1453,1477 1021,1477" /><Baseline points="1021,1426 1453,1426" />
                 <Baseline points="1034,1394 1437,1410" />
                 <TextEquiv>
-                    <Unicode>می ده به جام زر که صباح صبوحیان</Unicode>
+                    <Unicode>می ده بجام زر که صباح صبوحیان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782550241893_797" custom="readingOrder {index:3;}">
                 <Coords points="1027,1485 1450,1485 1450,1613 1027,1613" /><Baseline points="1027,1564 1450,1564" />
                 <Baseline points="1034,1534 1436,1541" />
                 <TextEquiv>
-                    <Unicode>می خواست گل که دم زند از رنگ و بوی او</Unicode>
+                    <Unicode>میخواست کل که دم زند از رنک و بوی او</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782550366305_803" custom="readingOrder {index:4;}">
@@ -240,28 +240,28 @@
                 <Coords points="1012,2335 1437,2335 1437,2475 1012,2475" /><Baseline points="1012,2422 1437,2422" />
                 <Baseline points="1023,2389 1425,2415" />
                 <TextEquiv>
-                    <Unicode>چون لاله کج نهاده کلاه طرب</Unicode>
+                    <Unicode>چون لاله کج نهاده کلاه طرب ز کبر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782550921415_839" custom="readingOrder {index:10;}">
                 <Coords points="1005,2481 1447,2481 1447,2583 1005,2583" /><Baseline points="1005,2544 1447,2544" />
                 <Baseline points="1012,2524 1429,2530" />
                 <TextEquiv>
-                    <Unicode>فرصت نگر که فتنه چو در عالم اوفتاد</Unicode>
+                    <Unicode>فرصت نکر که فتنه چو در عالم اوفتاد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حسنت به اتفاق ملاحت جهان گرفت
+                <Unicode>حسنت باتفاق ملاحت جهان کرفت
 افشای راز خلوتیان خواست کرد شمع
-می ده به جام زر که صباح صبوحیان
-می خواست گل که دم زند از رنگ و بوی او
+می ده بجام زر که صباح صبوحیان
+میخواست کل که دم زند از رنک و بوی او
 زین آتش نهفته که در سینه من است
 آسوده بر کنار چو پر کار می شدم
 آن روز شوق ساغر می خرمنم بسوخت
 خواهم شدن بکوی مغان آستین فشان
 می خور که هرکه آخر کار جهان بدید
-چون لاله کج نهاده کلاه طرب
-فرصت نگر که فتنه چو در عالم اوفتاد</Unicode>
+چون لاله کج نهاده کلاه طرب ز کبر
+فرصت نکر که فتنه چو در عالم اوفتاد</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

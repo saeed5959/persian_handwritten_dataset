@@ -24,19 +24,19 @@
                 <Coords points="453,460 904,460 904,602 453,602" /><Baseline points="453,548 904,548" />
                 <Baseline points="476,528 889,543" />
                 <TextEquiv>
-                    <Unicode>آه اگر خرقه پشمین به گرو نستانند</Unicode>
+                    <Unicode>آه اکر خرقه پشمین به کرو نستانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782666169692_2765" custom="readingOrder {index:1;}">
                 <Coords points="467,608 900,608 900,741 467,741" /><Baseline points="467,690 900,690" />
                 <Baseline points="482,663 890,667" />
                 <TextEquiv>
-                    <Unicode>عقل و جان گوهر هستی به نثار افشانند</Unicode>
+                    <Unicode>عقل و جان کوهر هستی به نثار افشانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>آه اگر خرقه پشمین به گرو نستانند
-عقل و جان گوهر هستی به نثار افشانند</Unicode>
+                <Unicode>آه اکر خرقه پشمین به کرو نستانند
+عقل و جان کوهر هستی به نثار افشانند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782666635693_2831" custom="readingOrder {index:1;}">
@@ -52,14 +52,14 @@
                 <Coords points="462,1162 896,1162 896,1295 462,1295" /><Baseline points="462,1244 896,1244" />
                 <Baseline points="468,1218 889,1231" />
                 <TextEquiv>
-                    <Unicode>ز زلف عنبرین جان ها چو بگشایند بفشانند</Unicode>
+                    <Unicode>ز زلف عنبرین جانها چو بفشایند بفشانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782666763050_2846" custom="readingOrder {index:2;}">
                 <Coords points="460,1296 891,1296 891,1436 460,1436" /><Baseline points="460,1383 891,1383" />
                 <Baseline points="467,1358 886,1378" />
                 <TextEquiv>
-                    <Unicode>ز رویم راز پنهانی چو می بینند می خوانند</Unicode>
+                    <Unicode>ز رویم راز پنهانی چو می بینند میخوانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782666799444_2852" custom="readingOrder {index:3;}">
@@ -73,31 +73,31 @@
                 <Coords points="454,1576 903,1576 903,1708 454,1708" /><Baseline points="454,1658 903,1658" />
                 <Baseline points="462,1634 888,1658" />
                 <TextEquiv>
-                    <Unicode>که با این درد اگر دربند درمانند در مانند</Unicode>
+                    <Unicode>که با این درد اکر دربند در مانند درمانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782666883037_2864" custom="readingOrder {index:5;}">
                 <Coords points="457,1715 885,1715 885,1842 457,1842" /><Baseline points="457,1794 885,1794" />
                 <Baseline points="468,1769 882,1802" />
                 <TextEquiv>
-                    <Unicode>رخ از مهر سحرخیزان بگردانند گر دانند</Unicode>
+                    <Unicode>رخ از مهر سحرخیزان بکردانند کردانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782666966168_2873" custom="readingOrder {index:6;}">
                 <Coords points="454,1847 888,1847 888,1993 454,1993" /><Baseline points="454,1938 888,1938" />
                 <Baseline points="460,1907 880,1934" />
                 <TextEquiv>
-                    <Unicode>ز فکر آنان که در تدبیر درمانند در مانند</Unicode>
+                    <Unicode>ز فکر آنان که در تدبیر در مانند درمانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>سمن بویان قرار از دل چو بستیزند بستانند
-ز زلف عنبرین جان ها چو بگشایند بفشانند
-ز رویم راز پنهانی چو می بینند می خوانند
+ز زلف عنبرین جانها چو بفشایند بفشانند
+ز رویم راز پنهانی چو می بینند میخوانند
 نهال شوق در خاطر چو برخیزند بنشانند
-که با این درد اگر دربند درمانند در مانند
-رخ از مهر سحرخیزان بگردانند گر دانند
-ز فکر آنان که در تدبیر درمانند در مانند</Unicode>
+که با این درد اکر دربند در مانند درمانند
+رخ از مهر سحرخیزان بکردانند کردانند
+ز فکر آنان که در تدبیر در مانند درمانند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782667199521_2907" custom="readingOrder {index:2;}">
@@ -113,12 +113,12 @@
                 <Coords points="440,2421 878,2421 878,2535 440,2535" /><Baseline points="440,2492 878,2492" />
                 <Baseline points="452,2477 872,2484" />
                 <TextEquiv>
-                    <Unicode>و گر نه عاشق و معشوق رازدارانند</Unicode>
+                    <Unicode>و کر نه عاشق و معشوق رازدارانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>خراب باده لعل تو هوشیارانند
-و گر نه عاشق و معشوق رازدارانند</Unicode>
+و کر نه عاشق و معشوق رازدارانند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782666048261_2741" custom="readingOrder {index:3;}">
@@ -134,12 +134,12 @@
                 <Coords points="990,628 1415,628 1415,734 990,734" /><Baseline points="990,694 1415,694" />
                 <Baseline points="1000,680 1393,679" />
                 <TextEquiv>
-                    <Unicode>گر به نزهتگه ارواح برد بوی تو باد</Unicode>
+                    <Unicode>کر به نزهتکه ارواح برد بوی تو باد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>مفلسانیم و هوای می و مطرب داریم
-گر به نزهتگه ارواح برد بوی تو باد</Unicode>
+کر به نزهتکه ارواح برد بوی تو باد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782666209266_2771" custom="readingOrder {index:4;}">
@@ -148,19 +148,19 @@
                 <Coords points="685,752 1182,752 1182,878 685,878" /><Baseline points="685,830 1182,830" />
                 <Baseline points="700,807 1161,831" />
                 <TextEquiv>
-                    <Unicode>زاهد ار رندی حافظ نکند فهم چه باک</Unicode>
+                    <Unicode>زاهد از رندی حافظ نکند فهم چباک</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782666270532_2780" custom="readingOrder {index:1;}">
                 <Coords points="683,883 1142,883 1142,1003 683,1003" /><Baseline points="683,957 1142,957" />
                 <Baseline points="689,939 1122,959" />
                 <TextEquiv>
-                    <Unicode>دیو بگریزد از آن قوم که قرآن خوانند</Unicode>
+                    <Unicode>دیو بکریزد ازان قوم که قرآن خوانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>زاهد ار رندی حافظ نکند فهم چه باک
-دیو بگریزد از آن قوم که قرآن خوانند</Unicode>
+                <Unicode>زاهد از رندی حافظ نکند فهم چباک
+دیو بکریزد ازان قوم که قرآن خوانند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782666323573_2786" custom="readingOrder {index:5;}">
@@ -176,35 +176,35 @@
                 <Coords points="980,1175 1422,1175 1422,1305 980,1305" /><Baseline points="980,1256 1422,1256" />
                 <Baseline points="984,1237 1401,1236" />
                 <TextEquiv>
-                    <Unicode>به فتراک جفا دل ها چو بربندند بربندند</Unicode>
+                    <Unicode>بهفتراک جفا دل ها چو بربندند بربندند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782666451533_2801" custom="readingOrder {index:2;}">
                 <Coords points="979,1318 1414,1318 1414,1449 979,1449" /><Baseline points="979,1399 1414,1399" />
                 <Baseline points="986,1376 1396,1378" />
                 <TextEquiv>
-                    <Unicode>ز چشمم لعل رمانی چو می خندند می بارند</Unicode>
+                    <Unicode>ز چشمم لعل رمانی چو میخندند میبارند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782666498408_2807" custom="readingOrder {index:3;}">
                 <Coords points="982,1455 1409,1455 1409,1581 982,1581" /><Baseline points="982,1533 1409,1533" />
                 <Baseline points="989,1505 1396,1514" />
                 <TextEquiv>
-                    <Unicode>به عمری یک نفس با ما چو بنشینند برخیزند</Unicode>
+                    <Unicode>بعمری یکنفس با ما چو بنشینند برخیزند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782666533448_2813" custom="readingOrder {index:4;}">
                 <Coords points="976,1587 1398,1587 1398,1717 976,1717" /><Baseline points="976,1668 1398,1668" />
                 <Baseline points="984,1632 1391,1662" />
                 <TextEquiv>
-                    <Unicode>چو منصور از مراد آنان که بردارند بر دارند</Unicode>
+                    <Unicode>چو منصور را ز مراد آنان که بردارند بردارند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782666569080_2819" custom="readingOrder {index:5;}">
                 <Coords points="975,1724 1399,1724 1399,1853 975,1853" /><Baseline points="975,1804 1399,1804" />
                 <Baseline points="981,1788 1394,1789" />
                 <TextEquiv>
-                    <Unicode>سرشک گوشه گیران را چو دریابند در یابند</Unicode>
+                    <Unicode>سرشک کوشه کیرانرا چو دریابند دریابند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782666600286_2825" custom="readingOrder {index:6;}">
@@ -216,11 +216,11 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>پریرویان غبار غم چو بنشینند بنشانند
-به فتراک جفا دل ها چو بربندند بربندند
-ز چشمم لعل رمانی چو می خندند می بارند
-به عمری یک نفس با ما چو بنشینند برخیزند
-چو منصور از مراد آنان که بردارند بر دارند
-سرشک گوشه گیران را چو دریابند در یابند
+بهفتراک جفا دل ها چو بربندند بربندند
+ز چشمم لعل رمانی چو میخندند میبارند
+بعمری یکنفس با ما چو بنشینند برخیزند
+چو منصور را ز مراد آنان که بردارند بردارند
+سرشک کوشه کیرانرا چو دریابند دریابند
 دوای درد عاشق را کسی کو سهل پندارد</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -229,19 +229,19 @@
             <TextLine id="line_1782667022650_2882" custom="readingOrder {index:0;}">
                 <Coords points="669,2009 1184,2009 1184,2143 669,2143" /><Baseline points="669,2092 1184,2092" />
                 <TextEquiv>
-                    <Unicode>در این حضرت چو مشتاقان به بازار باز آرند</Unicode>
+                    <Unicode>درین حضرت چو مشتاقان ببازار باز آرند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782667082936_2886" custom="readingOrder {index:1;}">
                 <Coords points="671,2150 1153,2150 1153,2290 671,2290" /><Baseline points="671,2237 1153,2237" />
                 <Baseline points="677,2205 1130,2235" />
                 <TextEquiv>
-                    <Unicode>بدین درگاه حافظ را چو می خوانند می رانند</Unicode>
+                    <Unicode>بدین درکاه حافظ را چو میخوانند میرانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>در این حضرت چو مشتاقان به بازار باز آرند
-بدین درگاه حافظ را چو می خوانند می رانند</Unicode>
+                <Unicode>درین حضرت چو مشتاقان ببازار باز آرند
+بدین درکاه حافظ را چو میخوانند میرانند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782667121122_2892" custom="readingOrder {index:7;}">
@@ -250,7 +250,7 @@
                 <Coords points="975,2300 1401,2300 1401,2428 975,2428" /><Baseline points="975,2379 1401,2379" />
                 <Baseline points="986,2360 1391,2371" />
                 <TextEquiv>
-                    <Unicode>غلام نرگس مست تو تاجدارانند</Unicode>
+                    <Unicode>غلام نرکس مست تو تاج دارانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782667166037_2901" custom="readingOrder {index:1;}">
@@ -261,7 +261,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>غلام نرگس مست تو تاجدارانند
+                <Unicode>غلام نرکس مست تو تاج دارانند
 تو را صبا و مرا آب دیده شد غماز</Unicode>
             </TextEquiv>
         </TextRegion>

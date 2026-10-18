@@ -27,12 +27,12 @@
             <TextLine id="line_1782059969439_953" custom="readingOrder {index:1;}">
                 <Coords points="188,435 430,435 431,508 187,506" /><Baseline points="187,480 431,480" />
                 <TextEquiv>
-                    <Unicode>کوشش تنگدست بسیار است</Unicode>
+                    <Unicode>کوشش تنکدست بسیار است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>جهد المقل کثیر
-کوشش تنگدست بسیار است</Unicode>
+کوشش تنکدست بسیار است</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782060037051_959" custom="readingOrder {index:1;}">
@@ -40,7 +40,7 @@
             <TextLine id="line_1782060114027_972" custom="readingOrder {index:0;}">
                 <Coords points="65,506 540,506 540,601 65,601" /><Baseline points="65,565 540,565" />
                 <TextEquiv>
-                    <Unicode>چاره نبود فقیر از جهد وز تکاپویی حصول فرج</Unicode>
+                    <Unicode>چاره نبود فقیر را از جهد وز تکاپویی حصول فرج</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782060167281_976" custom="readingOrder {index:1;}">
@@ -50,7 +50,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>چاره نبود فقیر از جهد وز تکاپویی حصول فرج
+                <Unicode>چاره نبود فقیر را از جهد وز تکاپویی حصول فرج
 جرح سعیش مکن که مفلس را جهد لازم بود بر او چه حرج</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -84,12 +84,12 @@
             <TextLine id="line_1782060494473_1018" custom="readingOrder {index:1;}">
                 <Coords points="65,927 535,930 533,1012 63,1009" /><Baseline points="63,980 535,980" />
                 <TextEquiv>
-                    <Unicode>جنگ خیزد زجاهلان و بود صحبت عاقلان بهم چون گنج</Unicode>
+                    <Unicode>جنک خیزد ز جاهلان و بود صحبت عاقلان بهم چون کنج</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>جنس را چون ز صبحست اثر مرد را با جلیس او می سنج
-جنگ خیزد زجاهلان و بود صحبت عاقلان بهم چون گنج</Unicode>
+جنک خیزد ز جاهلان و بود صحبت عاقلان بهم چون کنج</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782060634701_1035" custom="readingOrder {index:4;}">
@@ -97,18 +97,18 @@
             <TextLine id="line_1782060640311_1038" custom="readingOrder {index:0;}">
                 <Coords points="189,1014 425,1014 425,1086 189,1086" /><Baseline points="189,1059 425,1059" />
                 <TextEquiv>
-                    <Unicode>حسن الخلق عنیمه</Unicode>
+                    <Unicode>حسن الخلق غنیمته</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782060668985_1042" custom="readingOrder {index:1;}">
                 <Coords points="188,1085 425,1087 420,1162 187,1161" /><Baseline points="187,1133 425,1133" />
                 <TextEquiv>
-                    <Unicode>نیکویی غنیمتی باشد</Unicode>
+                    <Unicode>نیکخویی غنیمتی باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حسن الخلق عنیمه
-نیکویی غنیمتی باشد</Unicode>
+                <Unicode>حسن الخلق غنیمته
+نیکخویی غنیمتی باشد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782060708644_1046" custom="readingOrder {index:5;}">
@@ -116,7 +116,7 @@
             <TextLine id="line_1782060763977_1058" custom="readingOrder {index:0;}">
                 <Coords points="58,1164 533,1164 533,1246 58,1246" /><Baseline points="58,1215 533,1215" />
                 <TextEquiv>
-                    <Unicode>حسن خلق از خدا همی دادت باش شاد و شاکربآن صباح و رواح</Unicode>
+                    <Unicode>حسن خلق ار خدا همی دادت باش شاد و شاکربآن صباح و رواح</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782060892690_1062" custom="readingOrder {index:1;}">
@@ -126,7 +126,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>حسن خلق از خدا همی دادت باش شاد و شاکربآن صباح و رواح
+                <Unicode>حسن خلق ار خدا همی دادت باش شاد و شاکربآن صباح و رواح
 حاجتت بر غنیمتی نبود حسن خلقت غنیمتی است مباح</Unicode>
             </TextEquiv>
         </TextRegion>

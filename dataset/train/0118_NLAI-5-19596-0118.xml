@@ -21,7 +21,7 @@
                 <Coords points="125,516 589,516 589,640 125,640" /><Baseline points="125,593 589,593" />
                 <Baseline points="139,568 557,565" />
                 <TextEquiv>
-                    <Unicode>گل آدم بسرشتند و به پیمانه زدند</Unicode>
+                    <Unicode>کل آدم بسرشتند و به پیمانه زدند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782674209476_3775" custom="readingOrder {index:1;}">
@@ -42,7 +42,7 @@
                 <Coords points="128,922 572,922 572,1059 128,1059" /><Baseline points="128,1007 572,1007" />
                 <Baseline points="134,986 556,976" />
                 <TextEquiv>
-                    <Unicode>قرقه فال به نام من دیوانه زدند</Unicode>
+                    <Unicode>قرقه فال بنام من دیوانه زدند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782674389031_3793" custom="readingOrder {index:4;}">
@@ -56,7 +56,7 @@
                 <Coords points="118,1203 563,1203 563,1339 118,1339" /><Baseline points="118,1287 563,1287" />
                 <Baseline points="130,1264 547,1268" />
                 <TextEquiv>
-                    <Unicode>همچو آن خال که بر عارض جانانه زدند</Unicode>
+                    <Unicode>همچو آنخال که بر عارض جانانه زدند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782674490831_3805" custom="readingOrder {index:6;}">
@@ -70,18 +70,18 @@
                 <Coords points="126,1496 566,1496 566,1628 126,1628" /><Baseline points="126,1578 566,1578" />
                 <Baseline points="141,1560 557,1548" />
                 <TextEquiv>
-                    <Unicode>آتش آن است که در خرمن پروانه زدند</Unicode>
+                    <Unicode>آتش آنست که در خرمن پروانه زدند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>گل آدم بسرشتند و به پیمانه زدند
+                <Unicode>کل آدم بسرشتند و به پیمانه زدند
 با من راه نشین باده مستانه زدند
 حوریان رقص کنان ساغر شکرانه زدند
-قرقه فال به نام من دیوانه زدند
+قرقه فال بنام من دیوانه زدند
 چون بدیدند حقیقت ره افسانه زدند
-همچو آن خال که بر عارض جانانه زدند
+همچو آنخال که بر عارض جانانه زدند
 چون ره آدم پندارنیک دانه زدند
-آتش آن است که در خرمن پروانه زدند</Unicode>
+آتش آنست که در خرمن پروانه زدند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782717365393_3876" custom="readingOrder {index:1;}">
@@ -90,43 +90,43 @@
                 <Coords points="116,1890 581,1890 581,2062 116,2062" /><Baseline points="116,1997 581,1997" />
                 <Baseline points="135,1985 566,1996" />
                 <TextEquiv>
-                    <Unicode>تا همه صومعه داران پی کاری گیرند</Unicode>
+                    <Unicode>تا همه صومعه داران پی کاری کیرند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782717413197_3885" custom="readingOrder {index:1;}">
                 <Coords points="134,2069 590,2069 590,2203 134,2203" /><Baseline points="134,2152 590,2152" />
                 <Baseline points="153,2161 573,2148" />
                 <TextEquiv>
-                    <Unicode>بگذارند و خم طره یاری گیرند</Unicode>
+                    <Unicode>بکذارند و خم طره یاری کیرند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782717450521_3891" custom="readingOrder {index:2;}">
                 <Coords points="134,2204 595,2204 595,2345 134,2345" /><Baseline points="134,2291 595,2291" />
                 <Baseline points="152,2275 574,2270" />
                 <TextEquiv>
-                    <Unicode>گر فلکشان بگذارد که قراری گیرند</Unicode>
+                    <Unicode>کر فلکشان بکذارد که قراری کیرند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782717482829_3897" custom="readingOrder {index:3;}">
                 <Coords points="140,2353 592,2353 592,2502 140,2502" /><Baseline points="140,2445 592,2445" />
                 <Baseline points="152,2442 573,2433" />
                 <TextEquiv>
-                    <Unicode>که در این خیل حصاری به سواری گیرند</Unicode>
+                    <Unicode>که در این خیل حصاری بسواری کیرند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782717524801_3903" custom="readingOrder {index:4;}">
                 <Coords points="141,2505 582,2505 582,2635 141,2635" /><Baseline points="141,2586 582,2586" />
                 <Baseline points="158,2569 573,2567" />
                 <TextEquiv>
-                    <Unicode>بلبلان را سزد ار دامن خار می گیرند</Unicode>
+                    <Unicode>بلبلانرا سزد ار دامن خاری کیرند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>تا همه صومعه داران پی کاری گیرند
-بگذارند و خم طره یاری گیرند
-گر فلکشان بگذارد که قراری گیرند
-که در این خیل حصاری به سواری گیرند
-بلبلان را سزد ار دامن خار می گیرند</Unicode>
+                <Unicode>تا همه صومعه داران پی کاری کیرند
+بکذارند و خم طره یاری کیرند
+کر فلکشان بکذارد که قراری کیرند
+که در این خیل حصاری بسواری کیرند
+بلبلانرا سزد ار دامن خاری کیرند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782674741941_3823" custom="readingOrder {index:2;}">
@@ -135,19 +135,19 @@
                 <Coords points="374,1641 907,1641 907,1770 374,1770" /><Baseline points="374,1721 907,1721" />
                 <Baseline points="395,1717 874,1706" />
                 <TextEquiv>
-                    <Unicode>کس حافظ نگشد از رخ اندیشه نقاب</Unicode>
+                    <Unicode>کس حافظ نکشد از رخ اندیشه نقاب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782674813494_3837" custom="readingOrder {index:1;}">
                 <Coords points="370,1786 900,1786 900,1892 370,1892" /><Baseline points="370,1852 900,1852" />
                 <Baseline points="395,1867 865,1847" />
                 <TextEquiv>
-                    <Unicode>تا سر زلف سخن را به قلم شانه زدند</Unicode>
+                    <Unicode>تا سر زلف عروسان سخن شانه زدند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>کس حافظ نگشد از رخ اندیشه نقاب
-تا سر زلف سخن را به قلم شانه زدند</Unicode>
+                <Unicode>کس حافظ نکشد از رخ اندیشه نقاب
+تا سر زلف عروسان سخن شانه زدند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782673841664_3710" custom="readingOrder {index:3;}">
@@ -163,7 +163,7 @@
                 <Coords points="643,623 1104,623 1104,747 643,747" /><Baseline points="643,700 1104,700" />
                 <Baseline points="660,682 1084,690" />
                 <TextEquiv>
-                    <Unicode>ساکنان حرم ستر و عفاف ملکوت</Unicode>
+                    <Unicode>ساکنان حرم ستر عفاف ملکوت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782673907316_3725" custom="readingOrder {index:2;}">
@@ -184,39 +184,39 @@
                 <Coords points="651,1047 1108,1047 1108,1174 651,1174" /><Baseline points="651,1126 1108,1126" />
                 <Baseline points="665,1135 1089,1105" />
                 <TextEquiv>
-                    <Unicode>جنگ هفتاد و دو ملت همه را عذر بنه</Unicode>
+                    <Unicode>جنک هفتاد و دو ملت همه را عذر بنه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782673990803_3743" custom="readingOrder {index:5;}">
                 <Coords points="653,1183 1092,1183 1092,1326 653,1326" /><Baseline points="653,1272 1092,1272" />
                 <Baseline points="666,1257 1081,1250" />
                 <TextEquiv>
-                    <Unicode>نقطه عشق دل گوشه نشینان خون کرد</Unicode>
+                    <Unicode>نقطه عشق دل کوشه نشینان خون کرد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782674045148_3749" custom="readingOrder {index:6;}">
                 <Coords points="648,1338 1100,1338 1100,1470 648,1470" /><Baseline points="648,1420 1100,1420" />
                 <Baseline points="656,1410 1095,1411" />
                 <TextEquiv>
-                    <Unicode>ما به صد خرمن پندار ز ره چون نرویم</Unicode>
+                    <Unicode>ما بصد خرمن پندار ز ره چون نرویم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782674099740_3755" custom="readingOrder {index:7;}">
                 <Coords points="663,1476 1099,1476 1099,1616 663,1616" /><Baseline points="663,1563 1099,1563" />
                 <Baseline points="669,1545 1089,1549" />
                 <TextEquiv>
-                    <Unicode>آتش آن نیست که از شعله بر خندد شمع</Unicode>
+                    <Unicode>آتش آن نیست که بر شعله او خندد شمع</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>دوش دیدم که ملایک در میخانه زدند
-ساکنان حرم ستر و عفاف ملکوت
+ساکنان حرم ستر عفاف ملکوت
 شکر ایزد که میان من و او صلح افتاد
 آسمان بار امانت نتوانست کشید
-جنگ هفتاد و دو ملت همه را عذر بنه
-نقطه عشق دل گوشه نشینان خون کرد
-ما به صد خرمن پندار ز ره چون نرویم
-آتش آن نیست که از شعله بر خندد شمع</Unicode>
+جنک هفتاد و دو ملت همه را عذر بنه
+نقطه عشق دل کوشه نشینان خون کرد
+ما بصد خرمن پندار ز ره چون نرویم
+آتش آن نیست که بر شعله او خندد شمع</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782717065818_3845" custom="readingOrder {index:4;}">
@@ -224,43 +224,43 @@
             <TextLine id="line_1782717084574_3848" custom="readingOrder {index:0;}">
                 <Coords points="658,1921 1096,1921 1096,2049 658,2049" /><Baseline points="658,2000 1096,2000" />
                 <TextEquiv>
-                    <Unicode>نقدها را بود آیا که عیاری گیرند</Unicode>
+                    <Unicode>نقدها را بود آیا که عیاری کیرند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782717110450_3852" custom="readingOrder {index:1;}">
                 <Coords points="667,2056 1114,2056 1114,2204 667,2204" /><Baseline points="667,2148 1114,2148" />
                 <Baseline points="673,2115 1102,2124" />
                 <TextEquiv>
-                    <Unicode>مصلحت دید من آن است که یاران همه کار</Unicode>
+                    <Unicode>مصلحت دید من آنست که یاران همه کار</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782717154949_3858" custom="readingOrder {index:2;}">
                 <Coords points="671,2212 1119,2212 1119,2332 671,2332" /><Baseline points="671,2286 1119,2286" />
                 <Baseline points="681,2271 1097,2271" />
                 <TextEquiv>
-                    <Unicode>خوش گرفتند حریفان سر زلف ساقی</Unicode>
+                    <Unicode>خوش کرفتند حریفان سر زلف ساقی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782717192585_3864" custom="readingOrder {index:3;}">
                 <Coords points="669,2338 1122,2338 1122,2476 669,2476" /><Baseline points="669,2424 1122,2424" />
                 <Baseline points="680,2403 1103,2414" />
                 <TextEquiv>
-                    <Unicode>قوت بازوی پرهیز به خوبان مفروش</Unicode>
+                    <Unicode>قوت بازوی پرویز بخوبان مفروش</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782717230705_3870" custom="readingOrder {index:4;}">
                 <Coords points="659,2481 1116,2481 1116,2622 659,2622" /><Baseline points="659,2568 1116,2568" />
                 <Baseline points="677,2553 1103,2550" />
                 <TextEquiv>
-                    <Unicode>زاغ چون شرم ندارد که نهد پا زگل</Unicode>
+                    <Unicode>زاغ چون شرم ندارد که نهد پا زکل</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>نقدها را بود آیا که عیاری گیرند
-مصلحت دید من آن است که یاران همه کار
-خوش گرفتند حریفان سر زلف ساقی
-قوت بازوی پرهیز به خوبان مفروش
-زاغ چون شرم ندارد که نهد پا زگل</Unicode>
+                <Unicode>نقدها را بود آیا که عیاری کیرند
+مصلحت دید من آنست که یاران همه کار
+خوش کرفتند حریفان سر زلف ساقی
+قوت بازوی پرویز بخوبان مفروش
+زاغ چون شرم ندارد که نهد پا زکل</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

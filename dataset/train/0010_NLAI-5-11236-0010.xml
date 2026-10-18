@@ -17,21 +17,21 @@
                 <Coords points="199,648 519,648 519,532 199,532" /><Baseline points="199,604 519,604" />
                 <Baseline points="218,592 509,599" />
                 <TextEquiv>
-                    <Unicode>دل و دانش و رای او زا سپرد</Unicode>
+                    <Unicode>دل و دانش و رای او را سپرد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781287612311_153" custom="readingOrder {index:1;}">
                 <Coords points="558,648 863,648 863,544 558,544" /><Baseline points="558,608 863,608" />
                 <Baseline points="577,606 849,606" />
                 <TextEquiv>
-                    <Unicode>ازان دانش و رای مهراب گرد</Unicode>
+                    <Unicode>ازان دانش و رای مهراب کرد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781287763487_171" custom="readingOrder {index:2;}">
                 <Coords points="204,778 530,778 530,654 204,654" /><Baseline points="204,731 530,731" />
                 <Baseline points="213,716 509,718" />
                 <TextEquiv>
-                    <Unicode>نگه کرد زال اندران برز و یال</Unicode>
+                    <Unicode>نکه کرد زال اندران برز و یال</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781287711591_165" custom="readingOrder {index:3;}">
@@ -52,14 +52,14 @@
                 <Coords points="556,913 846,913 846,781 556,781" /><Baseline points="556,863 846,863" />
                 <Baseline points="563,848 846,859" />
                 <TextEquiv>
-                    <Unicode>چنین گفت با مهتران زال زر</Unicode>
+                    <Unicode>چنین کفت با مهتران زال زر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781287938207_195" custom="readingOrder {index:6;}">
                 <Coords points="189,1022 517,1022 517,893 189,893" /><Baseline points="189,973 517,973" />
                 <Baseline points="195,957 507,971" />
                 <TextEquiv>
-                    <Unicode>کسی گویی او را هم آورد نیست</Unicode>
+                    <Unicode>کسی کویی او را هم اورد نیست</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781287902519_189" custom="readingOrder {index:7;}">
@@ -73,7 +73,7 @@
                 <Coords points="184,1142 503,1142 503,1033 184,1033" /><Baseline points="184,1101 503,1101" />
                 <Baseline points="200,1088 493,1090" />
                 <TextEquiv>
-                    <Unicode>چنین گفت کای پهلوان جهان</Unicode>
+                    <Unicode>چنین کفت کای پهلوان جهان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781287977752_201" custom="readingOrder {index:9;}">
@@ -115,7 +115,7 @@
                 <Coords points="173,1537 496,1537 496,1392 173,1392" /><Baseline points="173,1482 496,1482" />
                 <Baseline points="191,1461 477,1475" />
                 <TextEquiv>
-                    <Unicode>سرش گشته چون حلقه پای بند</Unicode>
+                    <Unicode>سرش کشته چون حلقه پای بند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781288244768_237" custom="readingOrder {index:15;}">
@@ -129,7 +129,7 @@
                 <Coords points="530,1652 833,1652 833,1524 530,1524" /><Baseline points="530,1603 833,1603" />
                 <Baseline points="542,1599 816,1602" />
                 <TextEquiv>
-                    <Unicode>رخانش چو گلنار و لب ناروان</Unicode>
+                    <Unicode>رخانش چو کلنار و لب ناروان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781288442144_255" custom="readingOrder {index:17;}">
@@ -140,23 +140,23 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>دل و دانش و رای او زا سپرد
-ازان دانش و رای مهراب گرد
-نگه کرد زال اندران برز و یال
+                <Unicode>دل و دانش و رای او را سپرد
+ازان دانش و رای مهراب کرد
+نکه کرد زال اندران برز و یال
 چو مهراب برخاست از خوان زال
 که زیبنده تر زین که بندد کمر
-چنین گفت با مهتران زال زر
-کسی گویی او را هم آورد نیست
+چنین کفت با مهتران زال زر
+کسی کویی او را هم اورد نیست
 بچهر و ببالای او مرد نیست
-چنین گفت کای پهلوان جهان
+چنین کفت کای پهلوان جهان
 یکی نامدار از میان مهان
 که رویش ز خورشید روشن تر است
 پس پرده او یکی دختر است
 برخ چون بهار و ببالا چو ساج
 ز سر تا بپایش بکردار عاج
-سرش گشته چون حلقه پای بند
+سرش کشته چون حلقه پای بند
 بر آن سفت سیمین دو مشکین کمند
-رخانش چو گلنار و لب ناروان
+رخانش چو کلنار و لب ناروان
 ز سیمین برش رسته دو ناردان</Unicode>
             </TextEquiv>
         </TextRegion>

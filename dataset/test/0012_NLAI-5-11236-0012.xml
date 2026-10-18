@@ -17,21 +17,21 @@
                 <Coords points="555,651 843,651 843,523 555,523" /><Baseline points="555,602 843,602" />
                 <Baseline points="565,586 832,582" />
                 <TextEquiv>
-                    <Unicode>شب آمد در اندیشه بنشست زال</Unicode>
+                    <Unicode>شب آمد در اندیشه بنشست زار</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290024047_410" custom="readingOrder {index:1;}">
                 <Coords points="201,651 496,651 496,529 201,529" /><Baseline points="201,605 496,605" />
                 <Baseline points="215,588 487,589" />
                 <TextEquiv>
-                    <Unicode>به نادیده برشد بجان سوگوار</Unicode>
+                    <Unicode>بنادیده برشد بجان سوکوار</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290047055_422" custom="readingOrder {index:2;}">
                 <Coords points="210,759 504,759 504,650 210,650" /><Baseline points="210,718 504,718" />
                 <Baseline points="206,708 489,715" />
                 <TextEquiv>
-                    <Unicode>چو کافور شد روی گیتی سفید</Unicode>
+                    <Unicode>چو کافور شد روی کیتی سفید</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290034271_416" custom="readingOrder {index:3;}">
@@ -45,21 +45,21 @@
                 <Coords points="203,888 506,888 506,770 203,770" /><Baseline points="203,843 506,843" />
                 <Baseline points="209,838 489,834" />
                 <TextEquiv>
-                    <Unicode>برفتند گردان به زرین نیام</Unicode>
+                    <Unicode>برفتند کردان بزرین نیام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290068984_428" custom="readingOrder {index:5;}">
                 <Coords points="555,899 835,899 835,772 555,772" /><Baseline points="555,851 835,851" />
                 <Baseline points="566,837 829,835" />
                 <TextEquiv>
-                    <Unicode>در بار بگشاد دستان سام</Unicode>
+                    <Unicode>در بار بکشاد دستان سام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290110136_448" custom="readingOrder {index:6;}">
                 <Coords points="207,1018 504,1018 504,911 207,911" /><Baseline points="207,977 504,977" />
                 <Baseline points="215,973 492,968" />
                 <TextEquiv>
-                    <Unicode>چو بالای پرمایگان خواستند</Unicode>
+                    <Unicode>چو بالای پرمایکان خواستند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290094064_442" custom="readingOrder {index:7;}">
@@ -87,28 +87,28 @@
                 <Coords points="207,1262 493,1262 493,1148 207,1148" /><Baseline points="207,1219 493,1219" />
                 <Baseline points="215,1211 487,1211" />
                 <TextEquiv>
-                    <Unicode>خروش آمد از در که بگشای راه</Unicode>
+                    <Unicode>خروش آمد از در که بکشای راه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290145425_466" custom="readingOrder {index:11;}">
                 <Coords points="554,1261 837,1261 837,1148 554,1148" /><Baseline points="554,1218 837,1218" />
                 <Baseline points="560,1206 828,1216" />
                 <TextEquiv>
-                    <Unicode>چو آمد بنزدیکی بارگاه</Unicode>
+                    <Unicode>چو آمد بنزدیکی بارکاه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290169569_478" custom="readingOrder {index:12;}">
                 <Coords points="555,1378 835,1378 835,1282 555,1282" /><Baseline points="555,1342 835,1342" />
                 <Baseline points="565,1335 821,1338" />
                 <TextEquiv>
-                    <Unicode>بر پهلوان اندرون رفت گو</Unicode>
+                    <Unicode>بر پهلوان اندرون رفت کو</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290182439_484" custom="readingOrder {index:13;}">
                 <Coords points="206,1372 490,1372 490,1293 206,1293" /><Baseline points="206,1342 490,1342" />
                 <Baseline points="226,1336 490,1341" />
                 <TextEquiv>
-                    <Unicode>به سان درختی پر از بار نو</Unicode>
+                    <Unicode>بسان درختی پر از بار نو</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290192992_490" custom="readingOrder {index:14;}">
@@ -129,7 +129,7 @@
                 <Coords points="199,1630 512,1630 512,1527 199,1527" /><Baseline points="199,1591 512,1591" />
                 <Baseline points="213,1584 490,1585" />
                 <TextEquiv>
-                    <Unicode>ز تخت و ز مهر و ز تیغ و کلاه</Unicode>
+                    <Unicode>ز تخت و زتیغ و ز مهر و کلاه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781290216400_502" custom="readingOrder {index:17;}">
@@ -140,23 +140,23 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>شب آمد در اندیشه بنشست زال
-به نادیده برشد بجان سوگوار
-چو کافور شد روی گیتی سفید
+                <Unicode>شب آمد در اندیشه بنشست زار
+بنادیده برشد بجان سوکوار
+چو کافور شد روی کیتی سفید
 چو زد بر سر کوه بر تیغ شید
-برفتند گردان به زرین نیام
-در بار بگشاد دستان سام
-چو بالای پرمایگان خواستند
+برفتند کردان بزرین نیام
+در بار بکشاد دستان سام
+چو بالای پرمایکان خواستند
 در پهلوانرا بیاراستند
 برون رفت مهراب کابل خدای
 سوی خیمه زال زابل خدای
-خروش آمد از در که بگشای راه
-چو آمد بنزدیکی بارگاه
-بر پهلوان اندرون رفت گو
-به سان درختی پر از بار نو
+خروش آمد از در که بکشای راه
+چو آمد بنزدیکی بارکاه
+بر پهلوان اندرون رفت کو
+بسان درختی پر از بار نو
 دل زال شد شاد و بنواختش
 وزان انجمن سر برافراختش
-ز تخت و ز مهر و ز تیغ و کلاه
+ز تخت و زتیغ و ز مهر و کلاه
 بپرسید کز من چه خواهی بخواه</Unicode>
             </TextEquiv>
         </TextRegion>

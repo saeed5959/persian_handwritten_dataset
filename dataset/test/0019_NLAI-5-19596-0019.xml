@@ -19,7 +19,7 @@
                 <Coords points="462,495 915,495 915,614 462,614" /><Baseline points="462,569 915,569" />
                 <Baseline points="496,562 889,560" />
                 <TextEquiv>
-                    <Unicode>که گنجهاست درین بیسری و سامانی</Unicode>
+                    <Unicode>که کنجهاست درین بیسری و سامانی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781907358427_3331" custom="readingOrder {index:1;}">
@@ -33,14 +33,14 @@
                 <Coords points="985,596 1429,596 1429,750 985,750" /><Baseline points="985,691 1429,691" />
                 <Baseline points="1016,673 1418,682" />
                 <TextEquiv>
-                    <Unicode>بیار باده رنگین که صد حکایت خوش</Unicode>
+                    <Unicode>بیار باکه رنکین که صد حکایت خوش</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781907389849_3345" custom="readingOrder {index:3;}">
                 <Coords points="462,630 913,630 913,744 462,744" /><Baseline points="462,701 913,701" />
                 <Baseline points="496,691 890,691" />
                 <TextEquiv>
-                    <Unicode>بگویم و نکنم رخنه در مسلمانی</Unicode>
+                    <Unicode>بکویم و نکنم رخنه در مسلمانی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781907407947_3357" custom="readingOrder {index:4;}">
@@ -54,14 +54,14 @@
                 <Coords points="990,755 1430,755 1430,903 990,903" /><Baseline points="990,847 1430,847" />
                 <Baseline points="999,835 1423,833" />
                 <TextEquiv>
-                    <Unicode>به هیچ زاهد ظاهر فروش ننشستم</Unicode>
+                    <Unicode>بهیچ زاهد ظاهر فروش ننشستم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781907424780_3369" custom="readingOrder {index:6;}">
                 <Coords points="465,872 918,872 918,1009 465,1009" /><Baseline points="465,957 918,957" />
                 <Baseline points="476,954 902,952" />
                 <TextEquiv>
-                    <Unicode>که تا خدات نگهدار از پریشانی</Unicode>
+                    <Unicode>که تا خدات نکهدار از پریشانی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781907433224_3375" custom="readingOrder {index:7;}">
@@ -75,27 +75,27 @@
                 <Coords points="990,1023 1429,1023 1429,1164 990,1164" /><Baseline points="990,1110 1429,1110" />
                 <Baseline points="1009,1105 1415,1111" />
                 <TextEquiv>
-                    <Unicode>مگیر چشم عنایت زحال حافظ باز</Unicode>
+                    <Unicode>مکیر چشم عنایت زحال حافظ باز</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781907441977_3381" custom="readingOrder {index:9;}">
                 <Coords points="457,1025 910,1025 910,1155 457,1155" /><Baseline points="457,1106 910,1106" />
                 <Baseline points="479,1106 901,1109" />
                 <TextEquiv>
-                    <Unicode>وگرنه حال بگویم بآصف ثانی</Unicode>
+                    <Unicode>وکرنه حال بکویم بآصف ثانی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>که گنجهاست درین بیسری و سامانی
+                <Unicode>که کنجهاست درین بیسری و سامانی
 بهم نشینی رندان سری فرود آور
-بیار باده رنگین که صد حکایت خوش
-بگویم و نکنم رخنه در مسلمانی
+بیار باکه رنکین که صد حکایت خوش
+بکویم و نکنم رخنه در مسلمانی
 که زیر خرقه ز نار داشت پنهانی
-به هیچ زاهد ظاهر فروش ننشستم
-که تا خدات نگهدار از پریشانی
+بهیچ زاهد ظاهر فروش ننشستم
+که تا خدات نکهدار از پریشانی
 بیاد طر دلبند خویش خیری کن
-مگیر چشم عنایت زحال حافظ باز
-وگرنه حال بگویم بآصف ثانی</Unicode>
+مکیر چشم عنایت زحال حافظ باز
+وکرنه حال بکویم بآصف ثانی</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781907328749_3319" custom="readingOrder {index:1;}">
@@ -146,7 +146,7 @@
                 <Coords points="991,1618 1432,1618 1432,1735 991,1735" /><Baseline points="991,1691 1432,1691" />
                 <Baseline points="1002,1678 1412,1675" />
                 <TextEquiv>
-                    <Unicode>زهی حمیده خصالی که گاه فکر و صواب</Unicode>
+                    <Unicode>زهی حمیده خصالی که کاه فکر و صواب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781907522926_3429" custom="readingOrder {index:4;}">
@@ -195,7 +195,7 @@
                 <Coords points="996,2175 1419,2175 1419,2325 996,2325" /><Baseline points="996,2268 1419,2268" />
                 <Baseline points="1004,2255 1424,2263" />
                 <TextEquiv>
-                    <Unicode>درون خلوت کرو بیان عالم قدس</Unicode>
+                    <Unicode>درون خلوت کرد بیان عالم قدس</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781907579646_3465" custom="readingOrder {index:11;}">
@@ -216,7 +216,7 @@
                 <Coords points="980,2319 1431,2319 1431,2476 980,2476" /><Baseline points="980,2416 1431,2416" />
                 <Baseline points="995,2407 1410,2405" />
                 <TextEquiv>
-                    <Unicode>سوابق کرمت را چگونه شرح دهم</Unicode>
+                    <Unicode>سوابق کرمت را چکونه شرح دهم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781907613837_3489" custom="readingOrder {index:14;}">
@@ -230,26 +230,26 @@
                 <Coords points="983,2472 1425,2472 1425,2589 983,2589" /><Baseline points="983,2545 1425,2545" />
                 <Baseline points="1001,2536 1412,2537" />
                 <TextEquiv>
-                    <Unicode>صواعق سخطت را نمیتوانم گفت</Unicode>
+                    <Unicode>صواعق سخطت را نمیتوانم کفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>که میدرخشدش از چهره نور یزدانی
 قوام دولت و دنیا محمدبن علی
 ترا رسد که کنی دعوی سلیمانی
-زهی حمیده خصالی که گاه فکر و صواب
+زهی حمیده خصالی که کاه فکر و صواب
 که همتت نبرد نام عالم فانی
 طراز دولت باقی ترا همی زیبد
 تویی که صورت جسم ترا هیولا نیست
 چو جوهر ملکی در لباس انسانی
 که در ممالک فطرت نه برتر از انی
 کدام مایه ز تعظیم نصب شاید کرد
-درون خلوت کرو بیان عالم قدس
+درون خلوت کرد بیان عالم قدس
 صریر کلک تو باشد سماع روحانی
 تبارک الله ازین کارساز روحانی
-سوابق کرمت را چگونه شرح دهم
+سوابق کرمت را چکونه شرح دهم
 نعوذ بالله از ان فشهای طوفانی
-صواعق سخطت را نمیتوانم گفت</Unicode>
+صواعق سخطت را نمیتوانم کفت</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

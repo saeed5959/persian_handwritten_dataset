@@ -19,7 +19,7 @@
             <TextLine id="line_1781977961121_863" custom="readingOrder {index:0;}">
                 <Coords points="475,565 1425,565 1425,657 475,657" /><Baseline points="475,622 1425,622" />
                 <TextEquiv>
-                    <Unicode>به جز رقیبان اشک دل یارا که کار خیر کنند در زمانه محرمت</Unicode>
+                    <Unicode>بجرعه ز رفیقان شک دل یارا که کار خیر کند در زمانه محترمت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781977967730_866" custom="readingOrder {index:1;}">
@@ -30,7 +30,8 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>به جز رقیبان اشک دل یارا که کار خیر کنند در زمانه محرمت</Unicode>
+                <Unicode>بجرعه ز رفیقان شک دل یارا که کار خیر کند در زمانه محترمت
+</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781978058853_875" custom="readingOrder {index:1;}">
@@ -46,12 +47,12 @@
                 <Coords points="713,803 1212,803 1212,922 713,922" /><Baseline points="713,877 1212,877" />
                 <Baseline points="716,870 1187,875" />
                 <TextEquiv>
-                    <Unicode>که جان حافظ دلخسته زنده شد به دمت</Unicode>
+                    <Unicode>که جان حافظ دلخسته زنده شد بدمت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>همیشه وقت تو ای عیسی صبا خوش باد
-که جان حافظ دلخسته زنده شد به دمت</Unicode>
+که جان حافظ دلخسته زنده شد بدمت</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781978115997_893" custom="readingOrder {index:2;}">
@@ -60,83 +61,83 @@
                 <Coords points="479,942 1408,942 1408,1082 479,1082" /><Baseline points="479,1029 1408,1029" />
                 <Baseline points="492,1031 1375,1029" />
                 <TextEquiv>
-                    <Unicode>ای هدهد صبا به سبا می فرستمت بنگر که از کجا به کجا می فرستمت</Unicode>
+                    <Unicode>ای هدهد صبا بسبا میفرستمت بنکر که از کجا بکجا میفرستمت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781978123957_899" custom="readingOrder {index:1;}">
                 <Coords points="448,1074 1423,1074 1423,1230 448,1230" /><Baseline points="448,1171 1423,1171" />
                 <Baseline points="507,1173 1415,1168" />
                 <TextEquiv>
-                    <Unicode>حیف است طایری چو تو در خاکدان غم زین جا به آشیان وفا می فرستمت</Unicode>
+                    <Unicode>حیف است طایری چو تو در خاکدان دهر زینجا باشیان بقا میفرستمت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781978127489_902" custom="readingOrder {index:2;}">
                 <Coords points="456,1237 1435,1237 1435,1366 456,1366" /><Baseline points="456,1317 1435,1317" />
                 <Baseline points="487,1303 1414,1303" />
                 <TextEquiv>
-                    <Unicode>در راه عشق مرحله قرب و بعد نیست می بینمت عیان و دعا می فرستمت</Unicode>
+                    <Unicode>در راه عشق مرحله قرب و بعد نیست می بینمت عیان و دعا میفرستمت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781978131201_905" custom="readingOrder {index:3;}">
                 <Coords points="468,1381 1447,1381 1447,1513 468,1513" /><Baseline points="468,1463 1447,1463" />
                 <Baseline points="508,1455 1404,1463" />
                 <TextEquiv>
-                    <Unicode>هر صبح و شام قافله ای از دعای خیر در صحبت شمال و صبا می فرستمت</Unicode>
+                    <Unicode>هر صبح و شام قافله از دعای خیر در صحبت شمال و صبا میفرستمت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781978134869_908" custom="readingOrder {index:4;}">
                 <Coords points="456,1529 1423,1529 1423,1637 456,1637" /><Baseline points="456,1596 1423,1596" />
                 <Baseline points="497,1589 1415,1589" />
                 <TextEquiv>
-                    <Unicode>در روی خود تفرج صنع خدای کن کآیینه خدای نما می فرستمت</Unicode>
+                    <Unicode>در روی خود تفرج صنع خدا بکن کآیینه خدای نما می فرستمت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781978138508_911" custom="readingOrder {index:5;}">
                 <Coords points="476,1634 1435,1634 1435,1770 476,1770" /><Baseline points="476,1718 1435,1718" />
                 <Baseline points="493,1716 1430,1717" />
                 <TextEquiv>
-                    <Unicode>تا لشکر غمت نکند ملک دل خراب جان عزیز خود به نوا می فرستمت</Unicode>
+                    <Unicode>تا لشکر غمت نکند ملک دل خراب جان عزیز خود بخدا میفرستمت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781978140981_914" custom="readingOrder {index:6;}">
                 <Coords points="456,1770 1458,1770 1458,1929 456,1929" /><Baseline points="456,1869 1458,1869" />
                 <Baseline points="478,1871 1424,1865" />
                 <TextEquiv>
-                    <Unicode>هر دم غمی فرست مرا بکو ناز کان از برای خدا می فرستمت</Unicode>
+                    <Unicode>هر دم غمی فرست مرا و بکو نباز کان تحفه از برای خدا میفرستمت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781978144026_917" custom="readingOrder {index:7;}">
                 <Coords points="452,1944 1478,1944 1478,2069 452,2069" /><Baseline points="452,2022 1478,2022" />
                 <Baseline points="504,2008 1410,2012" />
                 <TextEquiv>
-                    <Unicode>ای غایب از نظر که شدی همنشین دل می گویمت دعا و ثنا می فرستمت</Unicode>
+                    <Unicode>ایغایب از نظر که شد همنشین دل میکویمت دعا و ثنا می فرستمت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781978146637_920" custom="readingOrder {index:8;}">
                 <Coords points="464,2096 1439,2096 1439,2216 464,2216" /><Baseline points="464,2170 1439,2170" />
                 <Baseline points="498,2154 1427,2146" />
                 <TextEquiv>
-                    <Unicode>تا مطربان ز شوق منت آگهی دهند قول و غزل به ساز و نوا می فرستمت</Unicode>
+                    <Unicode>تا مطربان ز شوق منت آکهی دهند قول و غزل بساز و نوا می فرستمت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781978149353_923" custom="readingOrder {index:9;}">
                 <Coords points="476,2228 1462,2228 1462,2352 476,2352" /><Baseline points="476,2305 1462,2305" />
                 <Baseline points="489,2291 1421,2295" />
                 <TextEquiv>
-                    <Unicode>ساقی بیا که هاتف غیبم به مژده گفت با درد صبر کن که دوا می فرستمت</Unicode>
+                    <Unicode>ساقی بیا که هاتف غیبم بمژده کفت با درد صبر کن که دوا می فرستمت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ای هدهد صبا به سبا می فرستمت بنگر که از کجا به کجا می فرستمت
-حیف است طایری چو تو در خاکدان غم زین جا به آشیان وفا می فرستمت
-در راه عشق مرحله قرب و بعد نیست می بینمت عیان و دعا می فرستمت
-هر صبح و شام قافله ای از دعای خیر در صحبت شمال و صبا می فرستمت
-در روی خود تفرج صنع خدای کن کآیینه خدای نما می فرستمت
-تا لشکر غمت نکند ملک دل خراب جان عزیز خود به نوا می فرستمت
-هر دم غمی فرست مرا بکو ناز کان از برای خدا می فرستمت
-ای غایب از نظر که شدی همنشین دل می گویمت دعا و ثنا می فرستمت
-تا مطربان ز شوق منت آگهی دهند قول و غزل به ساز و نوا می فرستمت
-ساقی بیا که هاتف غیبم به مژده گفت با درد صبر کن که دوا می فرستمت</Unicode>
+                <Unicode>ای هدهد صبا بسبا میفرستمت بنکر که از کجا بکجا میفرستمت
+حیف است طایری چو تو در خاکدان دهر زینجا باشیان بقا میفرستمت
+در راه عشق مرحله قرب و بعد نیست می بینمت عیان و دعا میفرستمت
+هر صبح و شام قافله از دعای خیر در صحبت شمال و صبا میفرستمت
+در روی خود تفرج صنع خدا بکن کآیینه خدای نما می فرستمت
+تا لشکر غمت نکند ملک دل خراب جان عزیز خود بخدا میفرستمت
+هر دم غمی فرست مرا و بکو نباز کان تحفه از برای خدا میفرستمت
+ایغایب از نظر که شد همنشین دل میکویمت دعا و ثنا می فرستمت
+تا مطربان ز شوق منت آکهی دهند قول و غزل بساز و نوا می فرستمت
+ساقی بیا که هاتف غیبم بمژده کفت با درد صبر کن که دوا می فرستمت</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781978477182_960" custom="readingOrder {index:3;}">
@@ -152,12 +153,12 @@
                 <Coords points="760,2512 1207,2512 1207,2618 760,2618" /><Baseline points="760,2578 1207,2578" />
                 <Baseline points="770,2575 1164,2570" />
                 <TextEquiv>
-                    <Unicode>تعجیل کن که اسب و قبا می فرستمت</Unicode>
+                    <Unicode>تعجیل کن که اسب و قبا میفرستمت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>حافظ سرود مجلس ما ذکر خیر توست
-تعجیل کن که اسب و قبا می فرستمت</Unicode>
+تعجیل کن که اسب و قبا میفرستمت</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

@@ -24,19 +24,19 @@
                 <Coords points="374,489 842,489 842,627 374,627" /><Baseline points="374,575 842,575" />
                 <Baseline points="388,572 812,568" />
                 <TextEquiv>
-                    <Unicode>بعد ذکر حق همیگویم در هر صبح و شام</Unicode>
+                    <Unicode>بعد ذکر حق همیکویم در هر صبح و شام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908269435_3924" custom="readingOrder {index:1;}">
                 <Coords points="374,631 828,631 828,732 374,732" /><Baseline points="374,694 828,694" />
                 <Baseline points="387,687 813,679" />
                 <TextEquiv>
-                    <Unicode>کالسلام اینحضرت شاه خراسان السلام</Unicode>
+                    <Unicode>کالسلام ایحضرت شاه خراسان السلام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بعد ذکر حق همیگویم در هر صبح و شام
-کالسلام اینحضرت شاه خراسان السلام</Unicode>
+                <Unicode>بعد ذکر حق همیکویم در هر صبح و شام
+کالسلام ایحضرت شاه خراسان السلام</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781908197640_3866" custom="readingOrder {index:1;}">
@@ -45,7 +45,7 @@
                 <Coords points="624,754 1050,754 1050,905 624,905" /><Baseline points="624,848 1050,848" />
                 <Baseline points="630,846 1043,848" />
                 <TextEquiv>
-                    <Unicode>چون تقی از حال باب خویش آگاه شد</Unicode>
+                    <Unicode>چون تقی از حال باب خویش آکاه شد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908279321_3930" custom="readingOrder {index:1;}">
@@ -70,7 +70,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>چون تقی از حال باب خویش آگاه شد
+                <Unicode>چون تقی از حال باب خویش آکاه شد
 نزد باب خویشش آندم ز چندین راه شد
 بر زبان او ز بعد ذکر الا الله شد
 چون بدید حال پدر با ناله و با آه شد</Unicode>
@@ -89,12 +89,12 @@
                 <Coords points="387,1195 880,1195 880,1298 387,1298" /><Baseline points="387,1259 880,1259" />
                 <Baseline points="420,1261 860,1255" />
                 <TextEquiv>
-                    <Unicode>کالسلام اینحضرت شاه خراسان السلام</Unicode>
+                    <Unicode>کالسلام ایحضرت شاه خراسان السلام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>پیش خود خواندش پدر تا واصل الله شد
-کالسلام اینحضرت شاه خراسان السلام</Unicode>
+کالسلام ایحضرت شاه خراسان السلام</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781908202314_3872" custom="readingOrder {index:3;}">
@@ -103,14 +103,14 @@
                 <Coords points="624,1327 1067,1327 1067,1475 624,1475" /><Baseline points="624,1419 1067,1419" />
                 <Baseline points="636,1418 1058,1408" />
                 <TextEquiv>
-                    <Unicode>چون تقی و عسگری با آرزویت در خیال</Unicode>
+                    <Unicode>چون تقی و عسکری با آرزویت در خیال</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908331087_3966" custom="readingOrder {index:1;}">
                 <Coords points="103,1333 539,1333 539,1468 103,1468" /><Baseline points="103,1417 539,1417" />
                 <Baseline points="124,1418 532,1413" />
                 <TextEquiv>
-                    <Unicode>در خیال روی تو گویند ای مقصود حال</Unicode>
+                    <Unicode>در خیال روی تو کویند ای مقصود حال</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908346878_3978" custom="readingOrder {index:2;}">
@@ -128,8 +128,8 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>چون تقی و عسگری با آرزویت در خیال
-در خیال روی تو گویند ای مقصود حال
+                <Unicode>چون تقی و عسکری با آرزویت در خیال
+در خیال روی تو کویند ای مقصود حال
 در دریای ولایت بحر علم خوبحلال
 شاه سلطان خراسان اختر برج کمال</Unicode>
             </TextEquiv>
@@ -140,7 +140,7 @@
                 <Coords points="390,1627 879,1627 879,1767 390,1767" /><Baseline points="390,1714 879,1714" />
                 <Baseline points="403,1706 853,1701" />
                 <TextEquiv>
-                    <Unicode>دایما گفتیم و میگوییم ما از روی حال</Unicode>
+                    <Unicode>دایما کفتیم و میکوییم ما از روی حال</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908372070_3996" custom="readingOrder {index:1;}">
@@ -151,7 +151,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>دایما گفتیم و میگوییم ما از روی حال
+                <Unicode>دایما کفتیم و میکوییم ما از روی حال
 کالسلام ایحضرت شاه خراسان السلام</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -219,7 +219,7 @@
                 <Coords points="103,2443 541,2443 541,2596 103,2596" /><Baseline points="103,2538 541,2538" />
                 <Baseline points="139,2521 529,2549" />
                 <TextEquiv>
-                    <Unicode>چون تو موسی نسبتی کردی در آن منزل ظهور</Unicode>
+                    <Unicode>چون تو موسی نسبتی کردی در ان منزل ظهور</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908450314_4050" custom="readingOrder {index:1;}">
@@ -230,7 +230,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>چون تو موسی نسبتی کردی در آن منزل ظهور
+                <Unicode>چون تو موسی نسبتی کردی در ان منزل ظهور
 هست این دم کوه طوس از مقدمش چون کوه طور</Unicode>
             </TextEquiv>
         </TextRegion>

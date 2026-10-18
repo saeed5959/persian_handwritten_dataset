@@ -27,12 +27,12 @@
             <TextLine id="line_1782055885350_553" custom="readingOrder {index:1;}">
                 <Coords points="289,337 482,337 482,387 289,387" /><Baseline points="289,368 482,368" />
                 <TextEquiv>
-                    <Unicode>ازدحام دستها ورطعام برکتست</Unicode>
+                    <Unicode>ازدحام دستها در طعام برکتست</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>تزاحم الایدی فی الطعام برکه
-ازدحام دستها ورطعام برکتست</Unicode>
+ازدحام دستها در طعام برکتست</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782055933028_557" custom="readingOrder {index:1;}">
@@ -40,7 +40,7 @@
             <TextLine id="line_1782055940123_560" custom="readingOrder {index:0;}">
                 <Coords points="218,386 557,386 557,451 218,451" /><Baseline points="218,426 557,426" />
                 <TextEquiv>
-                    <Unicode>تو که مهمان شدت زیاد مباش کز طعامت کمست غمگین کندت</Unicode>
+                    <Unicode>تو که مهمان شدت زیاد مباش کز طعامت کمست غمکین کت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782056053804_564" custom="readingOrder {index:1;}">
@@ -50,7 +50,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>تو که مهمان شدت زیاد مباش کز طعامت کمست غمگین کندت
+                <Unicode>تو که مهمان شدت زیاد مباش کز طعامت کمست غمکین کت
 تا تزاحم زکثرت دست است میفزاید بسفره ات برکت</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -103,12 +103,12 @@
             <TextLine id="line_1782056674706_611" custom="readingOrder {index:1;}">
                 <Coords points="291,793 490,793 490,846 291,846" /><Baseline points="291,826 490,826" />
                 <TextEquiv>
-                    <Unicode>گوشه گیری کن بترک گناهان</Unicode>
+                    <Unicode>کوشه کیری کن بترک کناهان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>نظرف بترک الذنوب
-گوشه گیری کن بترک گناهان</Unicode>
+کوشه کیری کن بترک کناهان</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782056725072_615" custom="readingOrder {index:5;}">
@@ -116,18 +116,18 @@
             <TextLine id="line_1782056734275_618" custom="readingOrder {index:0;}">
                 <Coords points="219,842 557,846 557,906 219,906" /><Baseline points="219,882 557,882" />
                 <TextEquiv>
-                    <Unicode>ترس حق گر بدل تراست رحینست این هواهای معصیت لبرت</Unicode>
+                    <Unicode>ترس حق کر بدل تراست رحینست این هواهای معصیت بسرت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782057034499_622" custom="readingOrder {index:1;}">
                 <Coords points="218,906 558,906 558,957 218,955" /><Baseline points="218,938 558,938" />
                 <TextEquiv>
-                    <Unicode>ترک عصیان بگوشه گیری کن از خدا خوف در دلست گرت</Unicode>
+                    <Unicode>ترک عصیان بکوشه کیری کن از خدا خوف در دلست کرت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ترس حق گر بدل تراست رحینست این هواهای معصیت لبرت
-ترک عصیان بگوشه گیری کن از خدا خوف در دلست گرت</Unicode>
+                <Unicode>ترس حق کر بدل تراست رحینست این هواهای معصیت بسرت
+ترک عصیان بکوشه کیری کن از خدا خوف در دلست کرت</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

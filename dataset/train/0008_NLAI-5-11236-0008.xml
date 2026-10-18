@@ -31,7 +31,7 @@
                 <Coords points="207,911 508,911 508,789 207,789" /><Baseline points="207,865 508,865" />
                 <Baseline points="222,851 498,854" />
                 <TextEquiv>
-                    <Unicode>زبردست و با گنج و گسترده کام</Unicode>
+                    <Unicode>زبردست و با کنج و کسترده کام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781248873647_224" custom="readingOrder {index:1;}">
@@ -52,7 +52,7 @@
                 <Coords points="552,1033 849,1033 849,929 552,929" /><Baseline points="552,993 849,993" />
                 <Baseline points="570,981 833,994" />
                 <TextEquiv>
-                    <Unicode>ببالا به کردار آزاده سرو</Unicode>
+                    <Unicode>ببالا بکردار آزاده سرو</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781261371291_32" custom="readingOrder {index:4;}">
@@ -66,21 +66,21 @@
                 <Coords points="204,1134 498,1134 498,1036 204,1036" /><Baseline points="204,1097 498,1097" />
                 <Baseline points="217,1096 493,1098" />
                 <TextEquiv>
-                    <Unicode>دو گفت یلان و کش موبدان</Unicode>
+                    <Unicode>دو کفت یلان و کش موبدان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781261616176_67" custom="readingOrder {index:6;}">
                 <Coords points="199,1270 503,1270 503,1157 199,1157" /><Baseline points="199,1227 503,1227" />
                 <Baseline points="212,1223 487,1223" />
                 <TextEquiv>
-                    <Unicode>زکابل همه بوم بر داشتی</Unicode>
+                    <Unicode>زکابل همه بوم و برداشتی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781261549240_61" custom="readingOrder {index:7;}">
                 <Coords points="548,1282 843,1282 843,1169 548,1169" /><Baseline points="548,1239 843,1239" />
                 <Baseline points="554,1225 829,1235" />
                 <TextEquiv>
-                    <Unicode>زضحاک تازی گهر داشتی</Unicode>
+                    <Unicode>زضحاک تازی کهر داشتی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781261705896_73" custom="readingOrder {index:8;}">
@@ -101,45 +101,45 @@
                 <Coords points="179,1533 492,1533 492,1418 179,1418" /><Baseline points="179,1489 492,1489" />
                 <Baseline points="199,1480 484,1480" />
                 <TextEquiv>
-                    <Unicode>زکابل بیامد بهنگام بام</Unicode>
+                    <Unicode>زکابل بیامد بهنکام بام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781262006447_87" custom="readingOrder {index:11;}">
                 <Coords points="527,1534 830,1534 830,1424 527,1424" /><Baseline points="527,1492 830,1492" />
                 <Baseline points="556,1448 579,1485 828,1485" />
                 <TextEquiv>
-                    <Unicode>چو آگه شد از کار دستان سام</Unicode>
+                    <Unicode>چو آکه شد از کار دستان سام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781262267176_105" custom="readingOrder {index:12;}">
                 <Coords points="187,1653 492,1653 492,1536 187,1536" /><Baseline points="187,1609 492,1609" />
                 <Baseline points="203,1587 479,1605" />
                 <TextEquiv>
-                    <Unicode>غلامان و هرگونه خواسته</Unicode>
+                    <Unicode>غلامان و هرکونه خواسته</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781262190840_99" custom="readingOrder {index:13;}">
                 <Coords points="540,1656 828,1656 828,1539 540,1539" /><Baseline points="540,1612 828,1612" />
                 <Baseline points="554,1607 815,1603" />
                 <TextEquiv>
-                    <Unicode>ابا گنج و اسبان آراسته</Unicode>
+                    <Unicode>ابا کنج و اسبان آراسته</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>زبردست و با گنج و گسترده کام
+                <Unicode>زبردست و با کنج و کسترده کام
 یکی پادشا بود مهراب نام
 برخ چون بهار و برفتن تذرو
-ببالا به کردار آزاده سرو
+ببالا بکردار آزاده سرو
 دل بخردان داشت مغز روان
-دو گفت یلان و کش موبدان
-زکابل همه بوم بر داشتی
-زضحاک تازی گهر داشتی
+دو کفت یلان و کش موبدان
+زکابل همه بوم و برداشتی
+زضحاک تازی کهر داشتی
 همی داد هر سال با سام ساو
 که با وی برزمش نبود ایچ تاو
-زکابل بیامد بهنگام بام
-چو آگه شد از کار دستان سام
-غلامان و هرگونه خواسته
-ابا گنج و اسبان آراسته</Unicode>
+زکابل بیامد بهنکام بام
+چو آکه شد از کار دستان سام
+غلامان و هرکونه خواسته
+ابا کنج و اسبان آراسته</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

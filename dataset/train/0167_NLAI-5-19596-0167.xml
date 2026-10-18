@@ -32,11 +32,11 @@
                 <Coords points="499,401 937,401 937,528 499,528" /><Baseline points="499,480 937,480" />
                 <Baseline points="514,456 918,471" />
                 <TextEquiv>
-                    <Unicode>بعد از این بردر میخانه روم با دف و چنگ</Unicode>
+                    <Unicode>بعد ازین بر در میخانه روم با دف و چنک</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بعد از این بردر میخانه روم با دف و چنگ</Unicode>
+                <Unicode>بعد ازین بر در میخانه روم با دف و چنک</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782392070925_1631" custom="readingOrder {index:1;}">
@@ -97,11 +97,11 @@
                 <Coords points="488,1391 925,1391 925,1524 488,1524" /><Baseline points="488,1473 925,1473" />
                 <Baseline points="507,1459 922,1459" />
                 <TextEquiv>
-                    <Unicode>که خاطرم به هزاران گنه موسوس شد</Unicode>
+                    <Unicode>که خاطرم به هزاران کنه موسوس شد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>که خاطرم به هزاران گنه موسوس شد</Unicode>
+                <Unicode>که خاطرم به هزاران کنه موسوس شد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782392279428_1676" custom="readingOrder {index:6;}">
@@ -110,11 +110,11 @@
                 <Coords points="480,1529 926,1529 926,1659 480,1659" /><Baseline points="480,1610 926,1610" />
                 <Baseline points="499,1592 907,1600" />
                 <TextEquiv>
-                    <Unicode>فدای عارض نسرین و چشم نرگس شد</Unicode>
+                    <Unicode>فدای عارض نسرین و چشم نرکس شد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>فدای عارض نسرین و چشم نرگس شد</Unicode>
+                <Unicode>فدای عارض نسرین و چشم نرکس شد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782392320903_1687" custom="readingOrder {index:7;}">
@@ -123,11 +123,11 @@
                 <Coords points="473,1672 917,1672 917,1782 473,1782" /><Baseline points="473,1740 917,1740" />
                 <Baseline points="505,1736 901,1734" />
                 <TextEquiv>
-                    <Unicode>گدای شهر نگه کن که میر مجلس شد</Unicode>
+                    <Unicode>کدای شهر نکه کن که میر مجلس شد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>گدای شهر نگه کن که میر مجلس شد</Unicode>
+                <Unicode>کدای شهر نکه کن که میر مجلس شد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782392352326_1696" custom="readingOrder {index:8;}">
@@ -162,11 +162,11 @@
                 <Coords points="467,2354 917,2354 917,2495 467,2495" /><Baseline points="467,2441 917,2441" />
                 <Baseline points="485,2423 905,2434" />
                 <TextEquiv>
-                    <Unicode>عالم پیر دگر باره جوان خواهد شد</Unicode>
+                    <Unicode>عالم پیر دکر باره جوان خواهد شد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>عالم پیر دگر باره جوان خواهد شد</Unicode>
+                <Unicode>عالم پیر دکر باره جوان خواهد شد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782390921979_1551" custom="readingOrder {index:11;}">
@@ -196,7 +196,7 @@
                 <Coords points="733,2088 1214,2088 1214,2216 733,2216" /><Baseline points="733,2167 1214,2167" />
                 <Baseline points="753,2164 1191,2171" />
                 <TextEquiv>
-                    <Unicode>ز راه میکده یاران عنان بگردانید</Unicode>
+                    <Unicode>ز راه میکده یاران عنان بکردانید</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782392493476_1723" custom="readingOrder {index:1;}">
@@ -207,7 +207,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ز راه میکده یاران عنان بگردانید
+                <Unicode>ز راه میکده یاران عنان بکردانید
 چرا که حافظ ازین راه رفت مفلس شد</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -230,14 +230,14 @@
                 <Coords points="996,847 1442,847 1442,967 996,967" /><Baseline points="996,921 1442,921" />
                 <Baseline points="1024,912 1432,900 1436,899" />
                 <TextEquiv>
-                    <Unicode>ستاره ای بدرخشید و ماه مجلس شد</Unicode>
+                    <Unicode>ستاره بدرخشید و ماه مجلس شد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782391082907_1577" custom="readingOrder {index:1;}">
                 <Coords points="1012,965 1453,965 1453,1079 1012,1079" /><Baseline points="1012,1036 1453,1036" />
                 <Baseline points="1029,1036 1421,1030" />
                 <TextEquiv>
-                    <Unicode>نگار من که به مکتب نرفت و خط ننوشت</Unicode>
+                    <Unicode>نکار من که به مکتب نرفت و خط ننوشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782391115261_1583" custom="readingOrder {index:2;}">
@@ -251,7 +251,7 @@
                 <Coords points="1012,1241 1435,1241 1435,1378 1012,1378" /><Baseline points="1012,1326 1435,1326" />
                 <Baseline points="1024,1317 1414,1322" />
                 <TextEquiv>
-                    <Unicode>کرشمه تو شرابی به عاشقان بنمود</Unicode>
+                    <Unicode>کرشمه تو شرابی بعاشقان بنمود</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782391162010_1595" custom="readingOrder {index:4;}">
@@ -279,26 +279,26 @@
                 <Coords points="1016,1830 1426,1830 1426,1944 1016,1944" /><Baseline points="1016,1901 1426,1901" />
                 <Baseline points="1015,1878 1423,1894" />
                 <TextEquiv>
-                    <Unicode>چور زر عزیز وجودست نظم من آری</Unicode>
+                    <Unicode>چور زر عزیز وجود است نظم من آری</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782391353025_1621" custom="readingOrder {index:8;}">
                 <Coords points="1024,1949 1430,1949 1430,2067 1024,2067" /><Baseline points="1024,2022 1430,2022" />
                 <Baseline points="1022,2020 1418,2027" />
                 <TextEquiv>
-                    <Unicode>خیال آب خضر بست و جام کنخیزد</Unicode>
+                    <Unicode>خیال آب خضر بست و جام کیخسرو</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ستاره ای بدرخشید و ماه مجلس شد
-نگار من که به مکتب نرفت و خط ننوشت
+                <Unicode>ستاره بدرخشید و ماه مجلس شد
+نکار من که به مکتب نرفت و خط ننوشت
 طرب سرای محبت کنون شود معمور
-کرشمه تو شرابی به عاشقان بنمود
+کرشمه تو شرابی بعاشقان بنمود
 لب از ترشح می پاک کن ز بهر خدای
 ببوی او دل بیمار عاشقان چو صبا
 بصدر مصطبه ام می نشاند اکنون دوست
-چور زر عزیز وجودست نظم من آری
-خیال آب خضر بست و جام کنخیزد</Unicode>
+چور زر عزیز وجود است نظم من آری
+خیال آب خضر بست و جام کیخسرو</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782392519300_1729" custom="readingOrder {index:15;}">

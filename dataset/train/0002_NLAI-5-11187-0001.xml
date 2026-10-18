@@ -18,7 +18,7 @@
             <TextLine id="line_1782042936275_18" custom="readingOrder {index:0;}">
                 <Coords points="204,284 537,284 537,335 204,335" /><Baseline points="204,316 537,316" />
                 <TextEquiv>
-                    <Unicode>المعجم رواه الشیخ الاجل الاعظم ابو علی البطرسی</Unicode>
+                    <Unicode>المعجم رواه الشیخ الاجل الاعظم ابو علی الطبرسی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782043005721_22" custom="readingOrder {index:1;}">
@@ -30,13 +30,13 @@
             <TextLine id="line_1782043047160_26" custom="readingOrder {index:2;}">
                 <Coords points="202,384 541,384 541,436 202,436" /><Baseline points="202,416 541,416" />
                 <TextEquiv>
-                    <Unicode>بروالله مضجعه و قدس الله سره العزیز</Unicode>
+                    <Unicode>بردالله مضجعه و قدس الله سره العزیز</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>المعجم رواه الشیخ الاجل الاعظم ابو علی البطرسی
+                <Unicode>المعجم رواه الشیخ الاجل الاعظم ابو علی الطبرسی
 صاحب مجمع البیان فی تفسیر القرآن
-بروالله مضجعه و قدس الله سره العزیز</Unicode>
+بردالله مضجعه و قدس الله سره العزیز</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782043115919_30" custom="readingOrder {index:1;}">
@@ -70,7 +70,7 @@
             <TextLine id="line_1782043280260_48" custom="readingOrder {index:0;}">
                 <Coords points="200,610 540,610 540,669 200,669" /><Baseline points="200,647 540,647" />
                 <TextEquiv>
-                    <Unicode>شکربیحد خدای را که بود صانع و مبدع وجود و عدم</Unicode>
+                    <Unicode>شکر بیحد خدای را که بود صانع و مبدع وجود و عدم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782043384005_52" custom="readingOrder {index:1;}">
@@ -82,13 +82,13 @@
             <TextLine id="line_1782043453321_56" custom="readingOrder {index:2;}">
                 <Coords points="202,721 542,721 542,780 202,780" /><Baseline points="202,758 542,758" />
                 <TextEquiv>
-                    <Unicode>حی دانا و فرد بی همتا بی نظیرو شریک و بی همدم</Unicode>
+                    <Unicode>حی دانا و فرد بی همتا بی نظیر و شریک و بی همدم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782043546908_66" custom="readingOrder {index:3;}">
                 <Coords points="202,778 538,778 538,836 202,836" /><Baseline points="202,814 538,814" />
                 <TextEquiv>
-                    <Unicode>ناظمی کاین و وکون را امرش بدو حرف انتظام دادبهم</Unicode>
+                    <Unicode>ناظمی کاین و وکون را امرش بدو حرف انتظام داد بهم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782043689471_76" custom="readingOrder {index:4;}">
@@ -100,16 +100,16 @@
             <TextLine id="line_1782043734880_80" custom="readingOrder {index:5;}">
                 <Coords points="202,896 543,896 543,943 202,943" /><Baseline points="202,925 543,925" />
                 <TextEquiv>
-                    <Unicode>رحمت بی نهایت و صلوات باو بر فخر انبیا و امم</Unicode>
+                    <Unicode>رحمت بی نهایت و صلوات باد بر فخر انبیا و امم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>شکربیحد خدای را که بود صانع و مبدع وجود و عدم
+                <Unicode>شکر بیحد خدای را که بود صانع و مبدع وجود و عدم
 رازق جن و انس و وحش و طیور خالق عرش و فرش و لوح و قلم
-حی دانا و فرد بی همتا بی نظیرو شریک و بی همدم
-ناظمی کاین و وکون را امرش بدو حرف انتظام دادبهم
+حی دانا و فرد بی همتا بی نظیر و شریک و بی همدم
+ناظمی کاین و وکون را امرش بدو حرف انتظام داد بهم
 ثانی او نباشد و نبود اول او پدید و آخر هم
-رحمت بی نهایت و صلوات باو بر فخر انبیا و امم</Unicode>
+رحمت بی نهایت و صلوات باد بر فخر انبیا و امم</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

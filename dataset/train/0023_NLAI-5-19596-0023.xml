@@ -145,14 +145,14 @@
                 <Coords points="581,1662 1025,1662 1025,1792 581,1792" /><Baseline points="581,1743 1025,1743" />
                 <Baseline points="597,1736 1012,1738" />
                 <TextEquiv>
-                    <Unicode>راز خود با کس نگفت و سر او را کس ندید</Unicode>
+                    <Unicode>راز خود با کس نکفت و سر او را کس ندید</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>از فراق آن شهنشا عرب میر شهند
 سینه ام پرورده دل در سینه از غم میطپد
 در عنب چون زهر خورد از دست ها روان الرسید
-راز خود با کس نگفت و سر او را کس ندید</Unicode>
+راز خود با کس نکفت و سر او را کس ندید</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781908242903_3906" custom="readingOrder {index:5;}">
@@ -161,7 +161,7 @@
                 <Coords points="822,1814 1340,1814 1340,1943 822,1943" /><Baseline points="822,1894 1340,1894" />
                 <Baseline points="842,1884 1324,1875" />
                 <TextEquiv>
-                    <Unicode>چون که شد در خانه این آواز ازروزن شنید</Unicode>
+                    <Unicode>چون که شد در خانه این آواز از رورل شنید</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908622340_4150" custom="readingOrder {index:1;}">
@@ -172,7 +172,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>چون که شد در خانه این آواز ازروزن شنید
+                <Unicode>چون که شد در خانه این آواز از رورل شنید
 کالسلام ایحضرت شاه خراسان السلام</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -189,7 +189,7 @@
                 <Coords points="571,2107 1035,2107 1035,2245 571,2245" /><Baseline points="571,2193 1035,2193" />
                 <Baseline points="585,2185 1007,2187" />
                 <TextEquiv>
-                    <Unicode>همچون مرغ نیم بسمل اوفتاد اندر زمین</Unicode>
+                    <Unicode>همچو مرغ نیم بسمل اوفتاد اندر زمین</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908652941_4174" custom="readingOrder {index:2;}">
@@ -208,7 +208,7 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>مرغ روحم با هوای تست یا سلطان دین
-همچون مرغ نیم بسمل اوفتاد اندر زمین
+همچو مرغ نیم بسمل اوفتاد اندر زمین
 یکزمان ای شاه من بر حال مسکینان بستن
 خاصه حافظ را که دارد داغ مهرت بر حسین</Unicode>
             </TextEquiv>
@@ -219,7 +219,7 @@
                 <Coords points="831,2410 1349,2410 1349,2523 831,2523" /><Baseline points="831,2480 1349,2480" />
                 <Baseline points="840,2456 1319,2455" />
                 <TextEquiv>
-                    <Unicode>گوید از صدق و صفا هر دم بآواز حزین</Unicode>
+                    <Unicode>کوید از صدق و صفا هر دم بآواز حزین</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908668156_4186" custom="readingOrder {index:1;}">
@@ -230,7 +230,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>گوید از صدق و صفا هر دم بآواز حزین
+                <Unicode>کوید از صدق و صفا هر دم بآواز حزین
 کالسلام ایحضرت شاه خراسان السلام</Unicode>
             </TextEquiv>
         </TextRegion>

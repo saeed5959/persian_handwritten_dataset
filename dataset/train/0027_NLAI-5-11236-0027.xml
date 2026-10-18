@@ -17,21 +17,21 @@
                 <Coords points="310,639 636,639 636,515 310,515" /><Baseline points="310,592 636,592" />
                 <Baseline points="331,586 617,581" />
                 <TextEquiv>
-                    <Unicode>مکن گفت ازین گونه بر شاه یاد</Unicode>
+                    <Unicode>مکن کفت ازین کونه بر شاه یاد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781806364411_252" custom="readingOrder {index:1;}">
                 <Coords points="663,647 996,647 996,515 663,515" /><Baseline points="663,597 996,597" />
                 <Baseline points="672,588 975,588" />
                 <TextEquiv>
-                    <Unicode>سبک بنده دندان به لب برنهاد</Unicode>
+                    <Unicode>سبک بنده دندان بلب برنهاد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781806369220_258" custom="readingOrder {index:2;}">
                 <Coords points="664,786 978,786 978,653 664,653" /><Baseline points="664,735 978,735" />
                 <Baseline points="675,719 966,710" />
                 <TextEquiv>
-                    <Unicode>شه نیمروزاست فرزند سام</Unicode>
+                    <Unicode>شه نیم روز است فرزند سام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781806371684_261" custom="readingOrder {index:3;}">
@@ -52,21 +52,21 @@
                 <Coords points="319,893 622,893 622,781 319,781" /><Baseline points="319,850 622,850" />
                 <Baseline points="338,840 608,840" />
                 <TextEquiv>
-                    <Unicode>زمانه نبیند یکی نامدار</Unicode>
+                    <Unicode>زمانه نبیند چنین نامدار</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781806382332_273" custom="readingOrder {index:6;}">
                 <Coords points="316,1035 622,1035 622,899 316,899" /><Baseline points="316,983 622,983" />
                 <Baseline points="333,972 602,970" />
                 <TextEquiv>
-                    <Unicode>بخندید و گفتش که چونین مگوی</Unicode>
+                    <Unicode>بخندید و کفتش که چونین مکوی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781806379107_270" custom="readingOrder {index:7;}">
                 <Coords points="661,1023 970,1023 970,908 661,908" /><Baseline points="661,979 970,979" />
                 <Baseline points="676,976 963,975" />
                 <TextEquiv>
-                    <Unicode>پرستنده با کودک ماه روی</Unicode>
+                    <Unicode>پرستنده با کودک ماهروی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781806387412_279" custom="readingOrder {index:8;}">
@@ -94,14 +94,14 @@
                 <Coords points="661,1288 975,1288 975,1161 661,1161" /><Baseline points="661,1240 975,1240" />
                 <Baseline points="670,1228 969,1226" />
                 <TextEquiv>
-                    <Unicode>ببالای ساج است و همرنگ عاج</Unicode>
+                    <Unicode>ببالای ساج است و همرنک عاج</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781806396500_288" custom="readingOrder {index:12;}">
                 <Coords points="666,1412 985,1412 985,1281 666,1281" /><Baseline points="666,1362 985,1362" />
                 <Baseline points="669,1359 969,1359" />
                 <TextEquiv>
-                    <Unicode>دو نرگس دژم ابروان پر ز خم</Unicode>
+                    <Unicode>دو نرکس دژم ابروان پر زخم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781806400436_291" custom="readingOrder {index:13;}">
@@ -122,7 +122,7 @@
                 <Coords points="664,1523 987,1523 987,1414 664,1414" /><Baseline points="664,1482 987,1482" />
                 <Baseline points="673,1477 967,1476" />
                 <TextEquiv>
-                    <Unicode>دهانش به تنگی دل مستمند</Unicode>
+                    <Unicode>دهانش به تنکی دل مستمند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781806411484_300" custom="readingOrder {index:16;}">
@@ -140,22 +140,22 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>مکن گفت ازین گونه بر شاه یاد
-سبک بنده دندان به لب برنهاد
-شه نیمروزاست فرزند سام
+                <Unicode>مکن کفت ازین کونه بر شاه یاد
+سبک بنده دندان بلب برنهاد
+شه نیم روز است فرزند سام
 که دستانش خوانند شاهان بنام
 نکرد و فلک بر چنو یک سوار
-زمانه نبیند یکی نامدار
-بخندید و گفتش که چونین مگوی
-پرستنده با کودک ماه روی
+زمانه نبیند چنین نامدار
+بخندید و کفتش که چونین مکوی
+پرستنده با کودک ماهروی
 بیک سر ز شاه تو برتر بپای
 که ماهی است مهراب را در سرای
 یکی ایزدی بر سر از مشک تاج
-ببالای ساج است و همرنگ عاج
-دو نرگس دژم ابروان پر ز خم
+ببالای ساج است و همرنک عاج
+دو نرکس دژم ابروان پر زخم
 ستون دو ابرو چو سیمین قلم
 سر زلف چون حلقه پای بند
-دهانش به تنگی دل مستمند
+دهانش به تنکی دل مستمند
 دو جادوش پر خواب و پرآب روی
 پر از لاله رخسار و پر مشک موی</Unicode>
             </TextEquiv>

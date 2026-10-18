@@ -49,28 +49,28 @@
                 <Coords points="499,763 939,763 939,896 499,896" /><Baseline points="499,845 939,845" />
                 <Baseline points="521,836 924,834" />
                 <TextEquiv>
-                    <Unicode>هزار نقش نگارد و بخط ریحانی</Unicode>
+                    <Unicode>هزار نقش نکارد و بخط ریحانی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908018236_3746" custom="readingOrder {index:5;}">
                 <Coords points="1013,778 1450,778 1450,920 1013,920" /><Baseline points="1013,866 1450,866" />
                 <Baseline points="1025,851 1443,846" />
                 <TextEquiv>
-                    <Unicode>همیشه تا که بهاران صبا بسبز باغ</Unicode>
+                    <Unicode>همیشه تا که بهاران صبا بسبزه باغ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908026169_3752" custom="readingOrder {index:6;}">
                 <Coords points="502,902 931,902 931,1037 502,1037" /><Baseline points="502,986 931,986" />
                 <Baseline points="529,984 902,981" />
                 <TextEquiv>
-                    <Unicode>شکفته باد گل دولتت بآسانی</Unicode>
+                    <Unicode>شکفته باد کل دولتت بآسایی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908039392_3758" custom="readingOrder {index:7;}">
                 <Coords points="1020,930 1462,930 1462,1070 1020,1070" /><Baseline points="1020,1017 1462,1017" />
                 <Baseline points="1040,1000 1446,986" />
                 <TextEquiv>
-                    <Unicode>بباغ ملک زشاخ امل بعمر دراز</Unicode>
+                    <Unicode>بباغ ملک ز شاخ امل بعمر دراز</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908056548_3770" custom="readingOrder {index:8;}">
@@ -91,14 +91,14 @@
                 <Coords points="1011,1347 1448,1347 1448,1458 1011,1458" /><Baseline points="1011,1416 1448,1416" />
                 <Baseline points="1025,1404 1436,1408" />
                 <TextEquiv>
-                    <Unicode>ماه گردون ولایت شمع جمع اصطفا</Unicode>
+                    <Unicode>ماه کردون ولایت شمع جمع اصطفا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908065127_3776" custom="readingOrder {index:11;}">
                 <Coords points="487,1352 925,1352 925,1456 487,1456" /><Baseline points="487,1416 925,1416" />
                 <Baseline points="501,1409 909,1413" />
                 <TextEquiv>
-                    <Unicode>میو ستان حیث بلبل نیکو سرا</Unicode>
+                    <Unicode>میوه ستان حیث بلبل نیکو سرا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -106,14 +106,14 @@
 هزار سال بقا بخشدت مدایح من
 که ذیل عفو بدین ماجرا بپوشانی
 سخن دراز کشیدم ولی امیدم نیست
-هزار نقش نگارد و بخط ریحانی
-همیشه تا که بهاران صبا بسبز باغ
-شکفته باد گل دولتت بآسانی
-بباغ ملک زشاخ امل بعمر دراز
+هزار نقش نکارد و بخط ریحانی
+همیشه تا که بهاران صبا بسبزه باغ
+شکفته باد کل دولتت بآسایی
+بباغ ملک ز شاخ امل بعمر دراز
 ای حریم بار کاتب کعب غر و علا
 نور چشم مصطفی یعنی علی موسی رضا
-ماه گردون ولایت شمع جمع اصطفا
-میو ستان حیث بلبل نیکو سرا</Unicode>
+ماه کردون ولایت شمع جمع اصطفا
+میوه ستان حیث بلبل نیکو سرا</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1781907958852_3704" custom="readingOrder {index:1;}">
@@ -122,7 +122,7 @@
                 <Coords points="727,1488 1236,1488 1236,1611 727,1611" /><Baseline points="727,1564 1236,1564" />
                 <Baseline points="757,1552 1222,1552" />
                 <TextEquiv>
-                    <Unicode>دایما از عنیب می آید بگوشم این ندا</Unicode>
+                    <Unicode>دایما از عنیب می آید بکوشم این ندا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908090128_3794" custom="readingOrder {index:1;}">
@@ -133,7 +133,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>دایما از عنیب می آید بگوشم این ندا
+                <Unicode>دایما از عنیب می آید بکوشم این ندا
 کالسلام ایحضرت شاه خراسان سلام</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -143,21 +143,21 @@
                 <Coords points="1011,1771 1451,1771 1451,1898 1011,1898" /><Baseline points="1011,1850 1451,1850" />
                 <Baseline points="1020,1844 1431,1844" />
                 <TextEquiv>
-                    <Unicode>جد تو سلطان گونین است یعنی مصطفی</Unicode>
+                    <Unicode>جد تو سلطان کونین است یعنی مصطفی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908097497_3800" custom="readingOrder {index:1;}">
                 <Coords points="487,1773 915,1773 915,1903 487,1903" /><Baseline points="487,1854 915,1854" />
                 <Baseline points="502,1854 904,1856" />
                 <TextEquiv>
-                    <Unicode>جد تو فاطمه ام امام مجتبا</Unicode>
+                    <Unicode>جده تو فاطمه ام امام مجتبا</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908120922_3818" custom="readingOrder {index:2;}">
                 <Coords points="1011,1899 1441,1899 1441,2034 1011,2034" /><Baseline points="1011,1983 1441,1983" />
                 <Baseline points="1030,1979 1423,1969" />
                 <TextEquiv>
-                    <Unicode>جد دیگر حیدر صفدرعلی مرتضی</Unicode>
+                    <Unicode>جد دیکر حیدر صفدر علی مرتضی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908113376_3812" custom="readingOrder {index:3;}">
@@ -168,9 +168,9 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>جد تو سلطان گونین است یعنی مصطفی
-جد تو فاطمه ام امام مجتبا
-جد دیگر حیدر صفدرعلی مرتضی
+                <Unicode>جد تو سلطان کونین است یعنی مصطفی
+جده تو فاطمه ام امام مجتبا
+جد دیکر حیدر صفدر علی مرتضی
 هم غریب و هم شهیدی چون حسین کربلا</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -180,7 +180,7 @@
                 <Coords points="735,2070 1232,2070 1232,2181 735,2181" /><Baseline points="735,2139 1232,2139" />
                 <Baseline points="754,2124 1217,2125" />
                 <TextEquiv>
-                    <Unicode>از محبت هر زمان گوییم و باشد درد</Unicode>
+                    <Unicode>از محبت هر زمان کوییم و باشد ورد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908138264_3830" custom="readingOrder {index:1;}">
@@ -191,7 +191,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>از محبت هر زمان گوییم و باشد درد
+                <Unicode>از محبت هر زمان کوییم و باشد ورد
 کالسلام ایحضرت شاه خراسان السلام</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -208,14 +208,14 @@
                 <Coords points="1011,2344 1451,2344 1451,2469 1011,2469" /><Baseline points="1011,2422 1451,2422" />
                 <Baseline points="1025,2412 1424,2412" />
                 <TextEquiv>
-                    <Unicode>نور چشم زین عبادی و باقریا امام</Unicode>
+                    <Unicode>نور چشم زین عبادی و باقر یا امام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908164892_3848" custom="readingOrder {index:2;}">
                 <Coords points="482,2462 923,2462 923,2585 482,2585" /><Baseline points="482,2538 923,2538" />
                 <Baseline points="487,2521 908,2525" />
                 <TextEquiv>
-                    <Unicode>گشته خورشید فلک بر درکهت اثیه غلام</Unicode>
+                    <Unicode>کشته خورشید فلک بر درکهت اثیه غلام</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1781908173899_3854" custom="readingOrder {index:3;}">
@@ -227,8 +227,8 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>جعفر صادق که داده دین و دنیا را نظام
-نور چشم زین عبادی و باقریا امام
-گشته خورشید فلک بر درکهت اثیه غلام
+نور چشم زین عبادی و باقر یا امام
+کشته خورشید فلک بر درکهت اثیه غلام
 باب تو موسی کاظم آن شفیع خاص عام</Unicode>
             </TextEquiv>
         </TextRegion>

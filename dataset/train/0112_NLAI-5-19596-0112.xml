@@ -21,43 +21,43 @@
                 <Coords points="124,448 563,448 563,593 124,593" /><Baseline points="124,538 563,538" />
                 <Baseline points="143,521 544,524" />
                 <TextEquiv>
-                    <Unicode>این سالکان نگر که چه با پیر می کنند</Unicode>
+                    <Unicode>این سالکان نکر که چه با پیر میکنند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782643928082_2580" custom="readingOrder {index:1;}">
                 <Coords points="128,600 556,600 556,714 128,714" /><Baseline points="128,671 556,671" />
                 <Baseline points="150,654 537,654" />
                 <TextEquiv>
-                    <Unicode>خوبان در این معامله تقصیر می کنند</Unicode>
+                    <Unicode>خوبان درینمعامله تقصیر میکنند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782643969722_2586" custom="readingOrder {index:2;}">
                 <Coords points="124,719 566,719 566,865 124,865" /><Baseline points="124,810 566,810" />
                 <Baseline points="134,796 546,795" />
                 <TextEquiv>
-                    <Unicode>تا خود درون پرده چه تدبیر می کنند</Unicode>
+                    <Unicode>تا خود درون پرده چه تدبیر میکنند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782644005489_2592" custom="readingOrder {index:3;}">
                 <Coords points="124,871 558,871 558,1005 124,1005" /><Baseline points="124,954 558,954" />
                 <Baseline points="137,942 546,942" />
                 <TextEquiv>
-                    <Unicode>قوم دگر حواله به تقدیر می کنند</Unicode>
+                    <Unicode>قوم دکر حواله بتقدیر میکنند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782644044597_2598" custom="readingOrder {index:4;}">
                 <Coords points="124,1010 582,1010 582,1141 124,1141" /><Baseline points="124,1091 582,1091" />
                 <Baseline points="132,1060 548,1091" />
                 <TextEquiv>
-                    <Unicode>ک این کارخانه ایست که تغییر می کنند</Unicode>
+                    <Unicode>کین کارخانه ایست که تغییر می کنند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>این سالکان نگر که چه با پیر می کنند
-خوبان در این معامله تقصیر می کنند
-تا خود درون پرده چه تدبیر می کنند
-قوم دگر حواله به تقدیر می کنند
-ک این کارخانه ایست که تغییر می کنند</Unicode>
+                <Unicode>این سالکان نکر که چه با پیر میکنند
+خوبان درینمعامله تقصیر میکنند
+تا خود درون پرده چه تدبیر میکنند
+قوم دکر حواله بتقدیر میکنند
+کین کارخانه ایست که تغییر می کنند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782665564109_2672" custom="readingOrder {index:1;}">
@@ -66,49 +66,49 @@
                 <Coords points="119,1431 573,1431 573,1591 119,1591" /><Baseline points="119,1530 573,1530" />
                 <Baseline points="128,1494 563,1517" />
                 <TextEquiv>
-                    <Unicode>من چنینم که نمودم دگر ایشان دانند</Unicode>
+                    <Unicode>من چنینم که نمودم دکر ایشان دانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782665625008_2682" custom="readingOrder {index:1;}">
                 <Coords points="133,1599 557,1599 557,1717 133,1717" /><Baseline points="133,1672 557,1672" />
                 <Baseline points="140,1639 551,1653" />
                 <TextEquiv>
-                    <Unicode>عشق داند که در این دایره سرگردان اند</Unicode>
+                    <Unicode>عشق داند که در این دایره سرکردانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782665673940_2688" custom="readingOrder {index:2;}">
                 <Coords points="132,1723 576,1723 576,1854 132,1854" /><Baseline points="132,1804 576,1804" />
                 <Baseline points="144,1789 554,1797" />
                 <TextEquiv>
-                    <Unicode>که درین آینه صاحب نظران حیران اند</Unicode>
+                    <Unicode>که درین آینه صاحب نظران حیرانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782665730224_2694" custom="readingOrder {index:3;}">
                 <Coords points="137,1861 568,1861 568,2002 137,2002" /><Baseline points="137,1948 568,1948" />
                 <Baseline points="144,1913 548,1944" />
                 <TextEquiv>
-                    <Unicode>بعد از این خرقه صوفی به جوی نستانند</Unicode>
+                    <Unicode>بعد ازین خرقه صوفی بجوی نستانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782665853020_2709" custom="readingOrder {index:4;}">
                 <Coords points="138,2008 574,2008 574,2157 138,2157" /><Baseline points="138,2100 574,2100" />
                 <Baseline points="146,2065 566,2094" />
                 <TextEquiv>
-                    <Unicode>ما همه بنده و این قوم خداوندان اند</Unicode>
+                    <Unicode>ما همه بنده و این قوم خداوندانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782665887732_2715" custom="readingOrder {index:5;}">
                 <Coords points="133,2175 571,2175 571,2299 133,2299" /><Baseline points="133,2252 571,2252" />
                 <Baseline points="145,2233 562,2234" />
                 <TextEquiv>
-                    <Unicode>عشق بازان چنین مستحق هجران اند</Unicode>
+                    <Unicode>عشقبازان چنین مستحق هجرانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782665946282_2721" custom="readingOrder {index:6;}">
                 <Coords points="133,2307 577,2307 577,2432 133,2432" /><Baseline points="133,2384 577,2384" />
                 <Baseline points="143,2357 558,2376" />
                 <TextEquiv>
-                    <Unicode>ماه و خورشید هم این آینه می گردانند</Unicode>
+                    <Unicode>ماه و خورشید هم این آینه میکردانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782665994405_2727" custom="readingOrder {index:7;}">
@@ -119,13 +119,13 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>من چنینم که نمودم دگر ایشان دانند
-عشق داند که در این دایره سرگردان اند
-که درین آینه صاحب نظران حیران اند
-بعد از این خرقه صوفی به جوی نستانند
-ما همه بنده و این قوم خداوندان اند
-عشق بازان چنین مستحق هجران اند
-ماه و خورشید هم این آینه می گردانند
+                <Unicode>من چنینم که نمودم دکر ایشان دانند
+عشق داند که در این دایره سرکردانند
+که درین آینه صاحب نظران حیرانند
+بعد ازین خرقه صوفی بجوی نستانند
+ما همه بنده و این قوم خداوندانند
+عشقبازان چنین مستحق هجرانند
+ماه و خورشید هم این آینه میکردانند
 ورنه مستوری و مستی همه کس نتوانند</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -142,12 +142,12 @@
                 <Coords points="378,1287 833,1287 833,1428 378,1428" /><Baseline points="378,1374 833,1374" />
                 <Baseline points="390,1355 820,1370" />
                 <TextEquiv>
-                    <Unicode>چون نیک بنگری همه تزویر می کنند</Unicode>
+                    <Unicode>چون نیک بنکری همه تزویر میکنند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>می خور که شیخ و حافظ و مفتی و محتسب
-چون نیک بنگری همه تزویر می کنند</Unicode>
+چون نیک بنکری همه تزویر میکنند</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782643366903_2538" custom="readingOrder {index:3;}">
@@ -156,7 +156,7 @@
                 <Coords points="642,463 1081,463 1081,576 642,576" /><Baseline points="642,533 1081,533" />
                 <Baseline points="655,520 1074,513" />
                 <TextEquiv>
-                    <Unicode>تشویش وقت پیر مغان می دهند باز</Unicode>
+                    <Unicode>تشویش وقت پیر مغان میدهند باز</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782643414618_2547" custom="readingOrder {index:1;}">
@@ -184,15 +184,15 @@
                 <Coords points="644,1025 1091,1025 1091,1143 644,1143" /><Baseline points="644,1098 1091,1098" />
                 <Baseline points="656,1070 1078,1090" />
                 <TextEquiv>
-                    <Unicode>فی الجمله اعتماد مکن بر ثبات دهر</Unicode>
+                    <Unicode>فی لجمله اعتماد مکن بر ثبات دهر</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>تشویش وقت پیر مغان می دهند باز
+                <Unicode>تشویش وقت پیر مغان میدهند باز
 صد ملک دل به نیم نظر می توان خرید
 ما از برون در شده مغرور صد فریب
 قومی به جد و جهد نهادند وصل دوست
-فی الجمله اعتماد مکن بر ثبات دهر</Unicode>
+فی لجمله اعتماد مکن بر ثبات دهر</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782644204741_2620" custom="readingOrder {index:4;}">
@@ -201,14 +201,14 @@
                 <Coords points="650,1464 1095,1464 1095,1586 650,1586" /><Baseline points="650,1540 1095,1540" />
                 <Baseline points="664,1527 1083,1527" />
                 <TextEquiv>
-                    <Unicode>در نظربازی ما بی خبران حیران اند</Unicode>
+                    <Unicode>در نظربازی ما بیخبران حیرانند</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782644374561_2629" custom="readingOrder {index:1;}">
                 <Coords points="652,1610 1095,1610 1095,1716 652,1716" /><Baseline points="652,1676 1095,1676" />
                 <Baseline points="662,1661 1085,1675" />
                 <TextEquiv>
-                    <Unicode>عاقلان نقطه پرگار وجودند ولی</Unicode>
+                    <Unicode>عاقلان نقطه پرکار وجودند ولی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782644412980_2635" custom="readingOrder {index:2;}">
@@ -222,7 +222,7 @@
                 <Coords points="651,1874 1105,1874 1105,2001 651,2001" /><Baseline points="651,1953 1105,1953" />
                 <Baseline points="667,1939 1094,1939" />
                 <TextEquiv>
-                    <Unicode>گر شوند آگه از اندیشه ما مغ بچگان</Unicode>
+                    <Unicode>کر شوند آکه از اندیشه ما مغبچکان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782644530892_2647" custom="readingOrder {index:4;}">
@@ -236,32 +236,32 @@
                 <Coords points="658,2158 1112,2158 1112,2302 658,2302" /><Baseline points="658,2247 1112,2247" />
                 <Baseline points="670,2216 1095,2246" />
                 <TextEquiv>
-                    <Unicode>لاف عشق و گله از یار زهی لاف دروغ</Unicode>
+                    <Unicode>لاف عشق و کله از یار زهی لاف دروغ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782665340781_2660" custom="readingOrder {index:6;}">
                 <Coords points="661,2311 1108,2311 1108,2451 661,2451" /><Baseline points="661,2398 1108,2398" />
                 <Baseline points="678,2381 1093,2381" />
                 <TextEquiv>
-                    <Unicode>جلوه گاه رخ او دیده ما تنها نیست</Unicode>
+                    <Unicode>جلوه کاه رخ او دیده ما تنها نیست</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782665520477_2666" custom="readingOrder {index:7;}">
                 <Coords points="664,2459 1114,2459 1114,2584 664,2584" /><Baseline points="664,2536 1114,2536" />
                 <Baseline points="676,2525 1097,2525" />
                 <TextEquiv>
-                    <Unicode>مگرم چشم سیاه تو بیاموزد کار</Unicode>
+                    <Unicode>مکرم چشم سیاه تو بیاموزد کار</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>در نظربازی ما بی خبران حیران اند
-عاقلان نقطه پرگار وجودند ولی
+                <Unicode>در نظربازی ما بیخبران حیرانند
+عاقلان نقطه پرکار وجودند ولی
 وصف رخساره خورشید ز خفاش مپرس
-گر شوند آگه از اندیشه ما مغ بچگان
+کر شوند آکه از اندیشه ما مغبچکان
 عهد ما با لب شیرین دهنان بست خدا
-لاف عشق و گله از یار زهی لاف دروغ
-جلوه گاه رخ او دیده ما تنها نیست
-مگرم چشم سیاه تو بیاموزد کار</Unicode>
+لاف عشق و کله از یار زهی لاف دروغ
+جلوه کاه رخ او دیده ما تنها نیست
+مکرم چشم سیاه تو بیاموزد کار</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

@@ -27,12 +27,12 @@
             <TextLine id="line_1782049800032_721" custom="readingOrder {index:1;}">
                 <Coords points="294,337 475,337 475,382 294,382" /><Baseline points="294,365 475,365" />
                 <TextEquiv>
-                    <Unicode>شکم مرد دشمن است اورا</Unicode>
+                    <Unicode>شکم مرد دشمن است او را</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>بطن المر عدوه
-شکم مرد دشمن است اورا</Unicode>
+شکم مرد دشمن است او را</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782049835799_725" custom="readingOrder {index:1;}">
@@ -46,12 +46,12 @@
             <TextLine id="line_1782049943311_734" custom="readingOrder {index:1;}">
                 <Coords points="213,452 554,452 554,506 213,506" /><Baseline points="213,485 554,485" />
                 <TextEquiv>
-                    <Unicode>پس بود دشمن تو و ان را بندگی تو بدترین عیوب</Unicode>
+                    <Unicode>پس بود دشمن تو و آن را بندکی تو بدترین عیوب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>بشکم کرد جدت ادم را کید شیطان بمعصیت منسوب
-پس بود دشمن تو و ان را بندگی تو بدترین عیوب</Unicode>
+پس بود دشمن تو و آن را بندکی تو بدترین عیوب</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782049995086_738" custom="readingOrder {index:2;}">
@@ -59,18 +59,18 @@
             <TextLine id="line_1782050004007_741" custom="readingOrder {index:0;}">
                 <Coords points="293,507 475,507 475,564 293,564" /><Baseline points="293,542 475,542" />
                 <TextEquiv>
-                    <Unicode>باکرلقد</Unicode>
+                    <Unicode>باکر تسعد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782050038916_745" custom="readingOrder {index:1;}">
                 <Coords points="293,565 476,565 475,612 294,612" /><Baseline points="293,594 476,594" />
                 <TextEquiv>
-                    <Unicode>صبحگاهان برخیز تا سعادت یابی</Unicode>
+                    <Unicode>صبحکاهان برخیز تا سعادت یابی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>باکرلقد
-صبحگاهان برخیز تا سعادت یابی</Unicode>
+                <Unicode>باکر تسعد
+صبحکاهان برخیز تا سعادت یابی</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782050337485_749" custom="readingOrder {index:3;}">
@@ -78,18 +78,18 @@
             <TextLine id="line_1782050383768_755" custom="readingOrder {index:0;}">
                 <Coords points="215,613 547,613 547,679 215,679" /><Baseline points="215,654 547,654" />
                 <TextEquiv>
-                    <Unicode>بسعادت اگر ترامیل است بی تامل پی عبادت شب</Unicode>
+                    <Unicode>بسعادت اکر ترا میل است بی تامل پی عبادت شب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782050451153_759" custom="readingOrder {index:1;}">
                 <Coords points="215,678 548,678 548,738 215,738" /><Baseline points="215,715 548,715" />
                 <TextEquiv>
-                    <Unicode>برقع ازرخ چنان فروهل و خیز که مکر برتو نیش زدعقرب</Unicode>
+                    <Unicode>برقع از رخ چنان فرو هل و خیز که مکر برتو نیش زد عقرب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بسعادت اگر ترامیل است بی تامل پی عبادت شب
-برقع ازرخ چنان فروهل و خیز که مکر برتو نیش زدعقرب</Unicode>
+                <Unicode>بسعادت اکر ترا میل است بی تامل پی عبادت شب
+برقع از رخ چنان فرو هل و خیز که مکر برتو نیش زد عقرب</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782050563489_763" custom="readingOrder {index:4;}">
@@ -97,18 +97,18 @@
             <TextLine id="line_1782050570834_766" custom="readingOrder {index:0;}">
                 <Coords points="294,736 476,736 475,790 294,789" /><Baseline points="294,769 476,769" />
                 <TextEquiv>
-                    <Unicode>بشاشه المعطی عطیه ثانتیه</Unicode>
+                    <Unicode>بشاشه المعطی عطیه ثانیه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782050680265_770" custom="readingOrder {index:1;}">
                 <Coords points="294,790 479,790 479,843 294,839" /><Baseline points="294,823 479,823" />
                 <TextEquiv>
-                    <Unicode>گشاده رویی عطا کننده عطای دوباره است</Unicode>
+                    <Unicode>کشاده رویی عطا کننده عطای دوباره است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بشاشه المعطی عطیه ثانتیه
-گشاده رویی عطا کننده عطای دوباره است</Unicode>
+                <Unicode>بشاشه المعطی عطیه ثانیه
+کشاده رویی عطا کننده عطای دوباره است</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782050790615_779" custom="readingOrder {index:5;}">
@@ -116,7 +116,7 @@
             <TextLine id="line_1782050807656_782" custom="readingOrder {index:0;}">
                 <Coords points="215,838 549,838 549,901 215,901" /><Baseline points="215,877 549,877" />
                 <TextEquiv>
-                    <Unicode>بارخ منبسط ثواب زجود باشد و هست از انقباض خراب</Unicode>
+                    <Unicode>با رخ منبسط ثواب زجود باشد و هست از انقباض خراب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782050868502_786" custom="readingOrder {index:1;}">
@@ -126,7 +126,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بارخ منبسط ثواب زجود باشد و هست از انقباض خراب
+                <Unicode>با رخ منبسط ثواب زجود باشد و هست از انقباض خراب
 با سخاوت بشاشت معطی است بهر سایل عطا دوباره حساب</Unicode>
             </TextEquiv>
         </TextRegion>

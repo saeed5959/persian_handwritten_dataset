@@ -27,11 +27,11 @@
                 <Coords points="460,393 897,393 897,513 460,513" /><Baseline points="460,467 897,467" />
                 <Baseline points="484,448 891,472" />
                 <TextEquiv>
-                    <Unicode>غریب را دل سرگشته با وطن باشد</Unicode>
+                    <Unicode>غریب را دل سرکشته با وطن باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>غریب را دل سرگشته با وطن باشد</Unicode>
+                <Unicode>غریب را دل سرکشته با وطن باشد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782383532849_730" custom="readingOrder {index:1;}">
@@ -60,7 +60,7 @@
                 <Coords points="457,1094 905,1094 905,1223 457,1223" /><Baseline points="457,1174 905,1174" />
                 <Baseline points="478,1170 896,1183" />
                 <TextEquiv>
-                    <Unicode>ناگهان سربره آرم چه حکایت باشد</Unicode>
+                    <Unicode>ناکهان سربره آرم چه حکایت باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782384024840_815" custom="readingOrder {index:2;}">
@@ -74,14 +74,14 @@
                 <Coords points="467,1376 913,1376 913,1518 467,1518" /><Baseline points="467,1464 913,1464" />
                 <Baseline points="489,1412 886,1455" />
                 <TextEquiv>
-                    <Unicode>ورنه مستوری ما تا به چه غایت باشد</Unicode>
+                    <Unicode>ورنه مستوری ما تا بچه غایت باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782384124196_839" custom="readingOrder {index:4;}">
                 <Coords points="466,938 919,938 919,1057 466,1057" /><Baseline points="466,1012 919,1012" />
                 <Baseline points="476,1607 883,1610" />
                 <TextEquiv>
-                    <Unicode>پیر ما هر چه کند عین ولایت باشد</Unicode>
+                    <Unicode>پر ما هر چه کند عین ولایت باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782384159608_845" custom="readingOrder {index:5;}">
@@ -93,10 +93,10 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>حالیا اینقدرم عقل کفایت باشد
-ناگهان سربره آرم چه حکایت باشد
+ناکهان سربره آرم چه حکایت باشد
 عشق کاریست که موقوف هدایت باشد
-ورنه مستوری ما تا به چه غایت باشد
-پیر ما هر چه کند عین ولایت باشد
+ورنه مستوری ما تا بچه غایت باشد
+پر ما هر چه کند عین ولایت باشد
 ناترا خود زمیان با که عنایت باشد</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -145,19 +145,19 @@
                 <Coords points="704,666 1194,666 1194,792 704,792" /><Baseline points="704,744 1194,744" />
                 <Baseline points="741,731 1187,743" />
                 <TextEquiv>
-                    <Unicode>بسان سوسن اگر ده زبان شود حافظ</Unicode>
+                    <Unicode>بسان سوسن اکر ده زبان شود حافظ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782383599697_751" custom="readingOrder {index:1;}">
                 <Coords points="701,813 1209,813 1209,950 701,950" /><Baseline points="701,898 1209,898" />
                 <Baseline points="729,866 1161,870" />
                 <TextEquiv>
-                    <Unicode>چو غنچه پیش تو آتش مهر بردهن باشد</Unicode>
+                    <Unicode>چو غنچه پیش تو آتش مهر بر دهن باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بسان سوسن اگر ده زبان شود حافظ
-چو غنچه پیش تو آتش مهر بردهن باشد</Unicode>
+                <Unicode>بسان سوسن اکر ده زبان شود حافظ
+چو غنچه پیش تو آتش مهر بر دهن باشد</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782384255012_857" custom="readingOrder {index:7;}">
@@ -166,7 +166,7 @@
                 <Coords points="744,1817 1222,1817 1222,1916 744,1916" /><Baseline points="744,1878 1222,1878" />
                 <Baseline points="766,1873 1220,1875" />
                 <TextEquiv>
-                    <Unicode>دوش از این غصه نخفتم که حکیمی می گفت</Unicode>
+                    <Unicode>دوش از این غصه نخفتم که حکیمی میکفت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782384317940_866" custom="readingOrder {index:1;}">
@@ -177,7 +177,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>دوش از این غصه نخفتم که حکیمی می گفت
+                <Unicode>دوش از این غصه نخفتم که حکیمی میکفت
 حافظ ار مست بود جای شکایت باشد</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -187,7 +187,7 @@
                 <Coords points="976,400 1433,400 1433,512 976,512" /><Baseline points="976,469 1433,469" />
                 <Baseline points="1006,442 1409,477" />
                 <TextEquiv>
-                    <Unicode>هوای کوی تو را از سر نمیردو مارا</Unicode>
+                    <Unicode>هوای کوی تو را از سر نمیرود ما را</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782383380329_715" custom="readingOrder {index:1;}">
@@ -198,7 +198,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>هوای کوی تو را از سر نمیردو مارا
+                <Unicode>هوای کوی تو را از سر نمیرود ما را
 بیان شوق چه حاجت که شرح آتش دل</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -208,28 +208,28 @@
                 <Coords points="974,977 1422,977 1422,1085 974,1085" /><Baseline points="974,1044 1422,1044" />
                 <Baseline points="1003,1019 1408,1017" />
                 <TextEquiv>
-                    <Unicode>من وانکار شراب این چه حکایت باشد</Unicode>
+                    <Unicode>من و انکار شراب این چه حکایت باشد</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782383674226_766" custom="readingOrder {index:1;}">
                 <Coords points="979,1093 1426,1093 1426,1219 979,1219" /><Baseline points="979,1171 1426,1171" />
                 <Baseline points="1016,1150 1410,1160" />
                 <TextEquiv>
-                    <Unicode>من که شبها ره تقوی زده ام باد دف وچنگ</Unicode>
+                    <Unicode>من که شبها ره تقوی زده ام باد دف وچنک</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782383753671_772" custom="readingOrder {index:2;}">
                 <Coords points="977,1228 1428,1228 1428,1346 977,1346" /><Baseline points="977,1301 1428,1301" />
                 <Baseline points="1007,1303 1407,1306" />
                 <TextEquiv>
-                    <Unicode>زاهد از راه برندی نبرد معذوراست</Unicode>
+                    <Unicode>زاهد از راه برندی نبرد معذور است</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782383798343_778" custom="readingOrder {index:3;}">
                 <Coords points="980,1376 1425,1376 1425,1488 980,1488" /><Baseline points="980,1445 1425,1445" />
                 <Baseline points="998,1454 1404,1455" />
                 <TextEquiv>
-                    <Unicode>تا به غایت ره میخانه نمی دانستم</Unicode>
+                    <Unicode>تا به غایت ره میخانه نمیدانستم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782383868019_788" custom="readingOrder {index:4;}">
@@ -247,10 +247,10 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>من وانکار شراب این چه حکایت باشد
-من که شبها ره تقوی زده ام باد دف وچنگ
-زاهد از راه برندی نبرد معذوراست
-تا به غایت ره میخانه نمی دانستم
+                <Unicode>من و انکار شراب این چه حکایت باشد
+من که شبها ره تقوی زده ام باد دف وچنک
+زاهد از راه برندی نبرد معذور است
+تا به غایت ره میخانه نمیدانستم
 بنده پیر مغانم که زجهلم برهاند
 زاهد و عجب و نماز و من و مستی ونیاز</Unicode>
             </TextEquiv>
@@ -268,20 +268,20 @@
                 <Coords points="990,2231 1433,2231 1433,2340 990,2340" /><Baseline points="990,2299 1433,2299" />
                 <Baseline points="992,2286 1405,2305" />
                 <TextEquiv>
-                    <Unicode>من چو از حاک لحد لاله صفت برخیزم</Unicode>
+                    <Unicode>من چو از خاک لحد لاله صفت برخیزم</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782384537201_887" custom="readingOrder {index:2;}">
                 <Coords points="992,2365 1436,2365 1436,2474 992,2474" /><Baseline points="992,2433 1436,2433" />
                 <Baseline points="994,2416 1411,2423" />
                 <TextEquiv>
-                    <Unicode>تا کی ای گوهر یک دانه روا خواهی داشت</Unicode>
+                    <Unicode>تا کی ای کوهر یک دانه روا خواهی داشت</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>هرکه را با خط سبزت سر سودا باشد
-من چو از حاک لحد لاله صفت برخیزم
-تا کی ای گوهر یک دانه روا خواهی داشت</Unicode>
+من چو از خاک لحد لاله صفت برخیزم
+تا کی ای کوهر یک دانه روا خواهی داشت</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

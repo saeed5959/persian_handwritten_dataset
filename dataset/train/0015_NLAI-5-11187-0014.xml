@@ -21,7 +21,7 @@
             <TextLine id="line_1782053255603_315" custom="readingOrder {index:0;}">
                 <Coords points="145,398 428,398 428,479 145,479" /><Baseline points="145,448 428,448" />
                 <TextEquiv>
-                    <Unicode>بکره الخمیس و البسیت برکه</Unicode>
+                    <Unicode>بکره الخمیس و السبت برکه</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782053311433_319" custom="readingOrder {index:1;}">
@@ -31,7 +31,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بکره الخمیس و البسیت برکه
+                <Unicode>بکره الخمیس و السبت برکه
 بامداد پنجشنبه و شنبه برکت است</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -40,7 +40,7 @@
             <TextLine id="line_1782053498637_341" custom="readingOrder {index:0;}">
                 <Coords points="29,540 507,553 509,645 28,632" /><Baseline points="28,605 509,605" />
                 <TextEquiv>
-                    <Unicode>بهر تحصیل رزق اگر چه بود اول روز سعی کردن خوب</Unicode>
+                    <Unicode>بهر تحصیل رزق اکر چه بود اول روز سعی کردن خوب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782053598820_351" custom="readingOrder {index:1;}">
@@ -50,7 +50,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بهر تحصیل رزق اگر چه بود اول روز سعی کردن خوب
+                <Unicode>بهر تحصیل رزق اکر چه بود اول روز سعی کردن خوب
 بکره پنج شنبه و شنبه برکت را ولی بود منسوب</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -59,18 +59,18 @@
             <TextLine id="line_1782053679666_358" custom="readingOrder {index:0;}">
                 <Coords points="137,715 407,722 404,797 139,795" /><Baseline points="137,766 407,766" />
                 <TextEquiv>
-                    <Unicode>بع الدنیا بالاخره ترنج</Unicode>
+                    <Unicode>بع الدنیا بالاخره تربح</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782053730951_363" custom="readingOrder {index:1;}">
                 <Coords points="137,793 401,797 397,874 133,874" /><Baseline points="133,843 401,843" />
                 <TextEquiv>
-                    <Unicode>بفروش دنیا را بآخرت تا شود بیابانی</Unicode>
+                    <Unicode>بفروش دنیا را بآخرت تا شود بیابی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بع الدنیا بالاخره ترنج
-بفروش دنیا را بآخرت تا شود بیابانی</Unicode>
+                <Unicode>بع الدنیا بالاخره تربح
+بفروش دنیا را بآخرت تا شود بیابی</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782053880455_386" custom="readingOrder {index:3;}">
@@ -78,18 +78,18 @@
             <TextLine id="line_1782053902080_390" custom="readingOrder {index:0;}">
                 <Coords points="20,868 498,882 496,970 21,962" /><Baseline points="20,931 498,931" />
                 <TextEquiv>
-                    <Unicode>بیع دنیا به آخرت جاهل گرچه از نقد ونسیه داند عیب</Unicode>
+                    <Unicode>بیع دنیا بآخرت جاهل کرچه از نقد و نسیه داند عیب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782054023855_394" custom="readingOrder {index:1;}">
                 <Coords points="21,960 496,971 493,1058 17,1038" /><Baseline points="17,1021 496,1021" />
                 <TextEquiv>
-                    <Unicode>بگذر از بهر باقی از فانی تا بیابی تو سود و بشک و ریب</Unicode>
+                    <Unicode>بکذر از بهر باقی از فانی تا بیابی تو سود و بیشک و ریب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بیع دنیا به آخرت جاهل گرچه از نقد ونسیه داند عیب
-بگذر از بهر باقی از فانی تا بیابی تو سود و بشک و ریب</Unicode>
+                <Unicode>بیع دنیا بآخرت جاهل کرچه از نقد و نسیه داند عیب
+بکذر از بهر باقی از فانی تا بیابی تو سود و بیشک و ریب</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782054145740_401" custom="readingOrder {index:4;}">
@@ -97,7 +97,7 @@
             <TextLine id="line_1782054153927_404" custom="readingOrder {index:0;}">
                 <Coords points="129,1045 394,1055 395,1126 129,1125" /><Baseline points="129,1095 395,1095" />
                 <TextEquiv>
-                    <Unicode>بلا النسان من اللسان</Unicode>
+                    <Unicode>بلا الانسان من اللسان</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782054219679_408" custom="readingOrder {index:1;}">
@@ -107,7 +107,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بلا النسان من اللسان
+                <Unicode>بلا الانسان من اللسان
 بلای آدمی زاد از زبان است</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -116,18 +116,18 @@
             <TextLine id="line_1782054413896_437" custom="readingOrder {index:0;}">
                 <Coords points="13,1188 493,1208 494,1290 14,1276" /><Baseline points="13,1251 494,1251" />
                 <TextEquiv>
-                    <Unicode>بی سبب هر بلا که مردم را میرسد زان بمال و جان سبب آن</Unicode>
+                    <Unicode>بی سبب هر بلا که مردم را میرسد زان بمال و جان آسیب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782054508164_441" custom="readingOrder {index:1;}">
                 <Coords points="14,1276 491,1289 492,1364 14,1364" /><Baseline points="14,1331 492,1331" />
                 <TextEquiv>
-                    <Unicode>پیش و پس را چو بنگری بینی کز فلک آورد زبانش بشیب</Unicode>
+                    <Unicode>پیش و پس را چو بنکری بینی کز فلک آورد زبانش بشیب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>بی سبب هر بلا که مردم را میرسد زان بمال و جان سبب آن
-پیش و پس را چو بنگری بینی کز فلک آورد زبانش بشیب</Unicode>
+                <Unicode>بی سبب هر بلا که مردم را میرسد زان بمال و جان آسیب
+پیش و پس را چو بنکری بینی کز فلک آورد زبانش بشیب</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

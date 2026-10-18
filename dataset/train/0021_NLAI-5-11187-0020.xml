@@ -21,18 +21,18 @@
             <TextLine id="line_1782058206459_744" custom="readingOrder {index:0;}">
                 <Coords points="180,412 453,412 453,470 180,470" /><Baseline points="180,448 453,448" />
                 <TextEquiv>
-                    <Unicode>مثلث مهلکات بخل و عجب و هوی</Unicode>
+                    <Unicode>ثلث مهلکات بخل و عجب و هوی</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782058242039_748" custom="readingOrder {index:1;}">
                 <Coords points="181,467 454,470 454,546 181,543" /><Baseline points="181,516 454,516" />
                 <TextEquiv>
-                    <Unicode>سه چیز کشنده کانند بخل و خود بینی و هوای النفس</Unicode>
+                    <Unicode>سه چیز کشنده کانند بخل و خود بینی و هوای نفس</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>مثلث مهلکات بخل و عجب و هوی
-سه چیز کشنده کانند بخل و خود بینی و هوای النفس</Unicode>
+                <Unicode>ثلث مهلکات بخل و عجب و هوی
+سه چیز کشنده کانند بخل و خود بینی و هوای نفس</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782058291103_752" custom="readingOrder {index:1;}">
@@ -40,7 +40,7 @@
             <TextLine id="line_1782058327048_759" custom="readingOrder {index:0;}">
                 <Coords points="72,546 551,546 551,637 72,637" /><Baseline points="72,602 551,602" />
                 <TextEquiv>
-                    <Unicode>ثمر عافیت خوری چو بود اجتنابت زمهلکات ثلاث</Unicode>
+                    <Unicode>ثمر عافیت خوری چو بود اجتنابت ز مهلکات ثلاث</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782058387238_763" custom="readingOrder {index:1;}">
@@ -50,7 +50,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ثمر عافیت خوری چو بود اجتنابت زمهلکات ثلاث
+                <Unicode>ثمر عافیت خوری چو بود اجتنابت ز مهلکات ثلاث
 ثلاث آن هوی و ثانی عجب اولش بخل از این صفات ثلاث</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -59,18 +59,18 @@
             <TextLine id="line_1782058457543_770" custom="readingOrder {index:0;}">
                 <Coords points="178,717 448,717 448,799 178,799" /><Baseline points="178,768 448,768" />
                 <TextEquiv>
-                    <Unicode>ثلمه الحرص لا یسدها الاالتراب</Unicode>
+                    <Unicode>ثلمه الحرص لا یسدها الا التراب</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782058593956_779" custom="readingOrder {index:1;}">
                 <Coords points="178,797 446,797 446,875 178,875" /><Baseline points="178,845 446,845" />
                 <TextEquiv>
-                    <Unicode>رخنه حرص را هیچ پر نمیکند مگر خاک</Unicode>
+                    <Unicode>رخنه حرص را هیچ پر نمیکند مکر خاک</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ثلمه الحرص لا یسدها الاالتراب
-رخنه حرص را هیچ پر نمیکند مگر خاک</Unicode>
+                <Unicode>ثلمه الحرص لا یسدها الا التراب
+رخنه حرص را هیچ پر نمیکند مکر خاک</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782058637740_783" custom="readingOrder {index:3;}">
@@ -84,12 +84,12 @@
             <TextLine id="line_1782058698007_790" custom="readingOrder {index:1;}">
                 <Coords points="68,959 545,960 543,1043 66,1042" /><Baseline points="66,1011 545,1011" />
                 <TextEquiv>
-                    <Unicode>بقیه دیده حرص زمال نشود پر زخاک خبیث</Unicode>
+                    <Unicode>بقیه دیده حرص زمال نشود پر مکر زخاک خبیث</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>ثلمه حرص آدمی را پر کی کند جیفه جهان حیثیت
-بقیه دیده حرص زمال نشود پر زخاک خبیث</Unicode>
+بقیه دیده حرص زمال نشود پر مکر زخاک خبیث</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1782058775639_798" custom="readingOrder {index:4;}">
@@ -116,18 +116,18 @@
             <TextLine id="line_1782058878054_812" custom="readingOrder {index:0;}">
                 <Coords points="65,1194 544,1194 542,1284 63,1284" /><Baseline points="63,1250 544,1250" />
                 <TextEquiv>
-                    <Unicode>ثوب اگر از سلامتت ببراست نیست حاجت ترالباس و اثاث</Unicode>
+                    <Unicode>ثوب اکر از سلامتت ببراست نیست حاجت ترا لباس و اثاث</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1782058972268_827" custom="readingOrder {index:1;}">
                 <Coords points="64,1283 540,1283 540,1350 64,1350" /><Baseline points="64,1325 540,1325" />
                 <TextEquiv>
-                    <Unicode>ثافی این لباس نیست دگر نشود کهنهماندت میراث</Unicode>
+                    <Unicode>ثانی این لباس نیست دکر نشود کهنه ماندت میراث</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ثوب اگر از سلامتت ببراست نیست حاجت ترالباس و اثاث
-ثافی این لباس نیست دگر نشود کهنهماندت میراث</Unicode>
+                <Unicode>ثوب اکر از سلامتت ببراست نیست حاجت ترا لباس و اثاث
+ثانی این لباس نیست دکر نشود کهنه ماندت میراث</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>
