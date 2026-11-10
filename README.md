@@ -4,6 +4,7 @@ Word Spotting with Line-Level Annotation</h1>
 <br>
 
 <div align='center'>
+    <a href='https://arxiv.org/abs/2609.34490'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
     <a href='#license'><img src='https://img.shields.io/badge/Data%20License-CC%20BY--NC%204.0-green'></a>
 </div>
 
